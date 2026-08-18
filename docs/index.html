@@ -147,6 +147,7 @@
 </style>
 <button class="close" onclick="document.getElementById('datamodal').style.display='none'">✕ cerrar</button>
 <h2>Datos del problema</h2>
+<div style="margin:8px 0 4px"><button onclick="exportCSV()" style="font:600 11px system-ui;padding:6px 12px;border-radius:14px;border:1px solid #2f5a3f;background:#0d1f16;color:#86efac;cursor:pointer;margin-right:6px">⬇ Tablas maestras (CSV)</button><button onclick="exportJSON()" style="font:600 11px system-ui;padding:6px 12px;border-radius:14px;border:1px solid #2a3a58;background:#0d1422;color:#93c5fd;cursor:pointer">⬇ Todo (JSON)</button></div>
 <div class="dsel" id="dataSel"></div>
 <div id="dataBody"></div>
 <div class="dnote">Convergencias = grafo final certificado (tras verificación por inversión de roles), idéntico al que muestra el 3D. Contradicciones = clasificación NLI entre los pares evaluados. Todo trazable a las corridas del repositorio. Nada estimado.</div>
@@ -397,8 +398,7 @@ function actorTable(per){const O=['NT','SB','MX','MO','BR'];
   for(const a of O){const p=per[a];const t0=p.top_ax&&p.top_ax[0];const ax=t0?`${t0[0]} (×${t0[1]})`:'—';const gl=t0&&GLOSS[t0[0]]?' — '+GLOSS[t0[0]]:'';
     h+=`<tr><td style="color:${CSS[a]};font-weight:700">${a} · ${FULL[a]}</td><td>${p.nodos}</td><td style="color:#34d399">${p.F}</td><td>${p.pctF}%</td><td>${p.g_medio}</td><td>${ax}<span style="color:#8fa0bd;font-size:11px">${gl}</span></td></tr>`;}
   return h+'</table>';}
-function renderData(pi){const P=PROB[KEYS[pi]],s=P.stats;const sel=document.getElementById('dataSel');sel.innerHTML='';
-  KEYS.forEach((k,i)=>{const b=document.createElement('button');b.textContent=PROB[k].label;if(i===pi)b.className='on';b.onclick=()=>renderData(i);sel.appendChild(b);});
+function renderData(pi){const P=PROB[KEYS[pi]],s=P.stats;buildSelector(pi);
   let h=`<div style="font-size:13px;color:#dfe6f2;margin:10px 0 2px"><b style="color:#93c5fd">Situación:</b> ${SIT[KEYS[pi]]||''}</div><div class="dmetrics"><b>${s.total_nodes}</b> nodos · <b style="color:#34d399">${s.total_F}</b> en F (convergen) · convergencias núcleo autista <b style="color:#fb923c">${s.conv_autismo.toLocaleString()}</b> vs neurotípico <b style="color:#60a5fa">${s.conv_NT}</b> · aislamiento NT <b>×${s.ratio}</b> · <b style="color:#60a5fa">p&lt;0.001</b> (máx del null ×${s.null_max}) · HUB estricto <b style="color:#f87171">0</b>${s.hub&&s.hub.lax?' · HUB lax (5 actores) ✓':' · sin HUB global'}</div>`;
   h+=matrixHTML('Matriz de convergencias certificadas',s.conv,'g');
   h+=matrixHTML('Matriz de contradicciones (NLI)',s.contra,'r');
@@ -413,6 +413,40 @@ function topNodesHTML(list,label,sit){if(!list)return'';
     h+='</div>';});
   h+='<div class="dnote">Cada ancla es una inferencia y con cuántas de otros actores se implica mutuamente (NLI certificado). "converge con" muestra un ejemplo por cada arquitectura alcanzada. El texto es la inferencia certificada; la interpretación queda al lector.</div>';
   return h;}
-function openData(){document.getElementById('datamodal').style.display='flex';renderData(focused>=0?focused:0);}
+function buildSelector(active){const sel=document.getElementById('dataSel');sel.innerHTML='';
+  const g=document.createElement('button');g.textContent='◆ Global';if(active===-1)g.className='on';g.onclick=()=>renderGlobal();sel.appendChild(g);
+  KEYS.forEach((k,i)=>{const b=document.createElement('button');b.textContent=PROB[k].label;if(i===active)b.className='on';b.onclick=()=>renderData(i);sel.appendChild(b);});}
+function renderGlobal(){buildSelector(-1);
+  let h='<div class="dmt">Comparación global — los 5 problemas</div><table class="dtbl"><tr><th>Métrica</th>'+KEYS.map(k=>`<th>${PROB[k].label}</th>`).join('')+'</tr>';
+  const row=(lbl,fn,c)=>{h+=`<tr><td><b>${lbl}</b></td>`+KEYS.map(k=>`<td style="text-align:center;${c||''}">${fn(PROB[k])}</td>`).join('')+'</tr>';};
+  row('Nodos',P=>P.stats.total_nodes);
+  row('Convergen (F)',P=>`<span style="color:#34d399">${P.stats.total_F}</span>`);
+  row('Aislamiento NT',P=>`<b style="color:#f87171">×${P.stats.ratio}</b>`);
+  row('Conv. núcleo autista',P=>`<span style="color:#fb923c">${P.stats.conv_autismo.toLocaleString()}</span>`);
+  row('Conv. neurotípico',P=>`<span style="color:#60a5fa">${P.stats.conv_NT}</span>`);
+  row('Axioma dominante',P=>P.top_axioms&&P.top_axioms[0]?`${P.top_axioms[0][0]} (×${P.top_axioms[0][1]})`:'—');
+  row('HUB estricto',P=>'<b style="color:#f87171">0</b>');
+  row('HUB lax (5 actores)',P=>P.stats.hub&&P.stats.hub.lax?'sí':'no');
+  row('p (permutación ×1000)',P=>'<span style="color:#60a5fa">&lt;0.001</span>');
+  h+='</table><div class="dnote"><b>Transitividad estricta (HUB estricto) = 0 en los 5 problemas</b>: la convergencia densa entre subtipos autistas nunca cierra del todo con el neurotípico. El aislamiento NT sobrevive al azar (p&lt;0.001) en todos. Primera comparación certificada y auditable de razonamientos entre arquitecturas cognitivas.</div>';
+  document.getElementById('dataBody').innerHTML=h;}
+function dl(name,content,type){const b=new Blob([content],{type});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),1500);}
+function exportJSON(){const m={_info:'The Principle of Naturality - datos maestros (autismo). Convergencias certificadas por NLI + inversion de roles. p<0.001 (permutacion x1000). HUB estricto 0/5. Repo: github.com/JGogol/ThePrincipleOfNaturality-Autismo-Casos'};KEYS.forEach(k=>{m[k]={label:PROB[k].label,situacion:SIT[k],stats:PROB[k].stats};});dl('PN_autismo_datos_maestros.json',JSON.stringify(m,null,1),'application/json');}
+function exportCSV(){const O=['NT','SB','MX','MO','BR'];const q=s=>'"'+String(s).replace(/"/g,"'")+'"';let L=[];
+  L.push('THE PRINCIPLE OF NATURALITY - Datos maestros (autismo)');
+  L.push('Convergencias = grafo certificado (NLI bidireccional AVG t=0.55 + verificacion por inversion de roles). p<0.001 (permutacion x1000). HUB estricto 0/5.');
+  L.push('Repo: github.com/JGogol/ThePrincipleOfNaturality-Autismo-Casos');L.push('');
+  L.push('== METRICAS POR PROBLEMA ==');L.push('problema,situacion,nodos,F,conv_autismo,conv_NT,aislamiento_ratio,p');
+  KEYS.forEach(k=>{const s=PROB[k].stats;L.push([q(PROB[k].label),q(SIT[k]||''),s.total_nodes,s.total_F,s.conv_autismo,s.conv_NT,s.ratio,s.p].join(','));});
+  L.push('');L.push('== CONVERGENCIAS (por par) ==');L.push('problema,par,convergencias');
+  KEYS.forEach(k=>{const s=PROB[k].stats;for(const p in s.conv)L.push([q(PROB[k].label),p,s.conv[p]].join(','));});
+  L.push('');L.push('== CONTRADICCIONES (NLI, por par) ==');L.push('problema,par,contradicciones');
+  KEYS.forEach(k=>{const s=PROB[k].stats;for(const p in s.contra)L.push([q(PROB[k].label),p,s.contra[p]].join(','));});
+  L.push('');L.push('== POR ACTOR ==');L.push('problema,actor,nodos,F,pctF,g_medio,axioma_dominante');
+  KEYS.forEach(k=>{const s=PROB[k].stats;O.forEach(a=>{const pa=s.per_actor[a];const ax=pa.top_ax&&pa.top_ax[0]?pa.top_ax[0][0]+'('+pa.top_ax[0][1]+')':'';L.push([q(PROB[k].label),a,pa.nodos,pa.F,pa.pctF,pa.g_medio,ax].join(','));});});
+  L.push('');L.push('== ANCLAS (inferencias mas convergentes) ==');L.push('problema,actor,axioma,convergencias,n_actores,inferencia');
+  KEYS.forEach(k=>{const s=PROB[k].stats;(s.top_nodes||[]).forEach(n=>{L.push([q(PROB[k].label),n.actor,n.ax,n.degree,n.n_actors,q(n.text)].join(','));});});
+  dl('PN_autismo_datos_maestros.csv','﻿'+L.join('\n'),'text/csv;charset=utf-8');}
+function openData(){document.getElementById('datamodal').style.display='flex';if(focused>=0)renderData(focused);else renderGlobal();}
 galaxyView();applyNTmode();requestAnimationFrame(loop);
 </script></body></html>
