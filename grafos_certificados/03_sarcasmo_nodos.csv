@@ -1,0 +1,752 @@
+node_id,actor,actor_full,premise_id,converge_F,g_entailment_max,nivel,texto
+BroadlyAffectedAutism_0_0,BR,Broadly affected autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing."
+BroadlyAffectedAutism_1_1,BR,Broadly affected autism,A17,1,0.9979,1,BroadlyAffectedAutism processes the sarcastic statement as literal meaning
+BroadlyAffectedAutism_2_9,BR,Broadly affected autism,A17,1,0.996,2,BroadlyAffectedAutism requires additional steps to detect sarcasm intended
+BroadlyAffectedAutism_2_10,BR,Broadly affected autism,A18,1,0.9976,2,BroadlyAffectedAutism fails to retrieve applicable pragmatic rule entry
+BroadlyAffectedAutism_3_51,BR,Broadly affected autism,A18,1,0.9915,3,BroadlyAffectedAutism cannot match statement to social context
+BroadlyAffectedAutism_4_93,BR,Broadly affected autism,A17,1,0.9978,4,BroadlyAffectedAutism responds to the statement as literally true
+BroadlyAffectedAutism_5_219,BR,Broadly affected autism,A20,1,0.9917,5,BroadlyAffectedAutism generates unanticipated prediction error from peer reaction
+BroadlyAffectedAutism_5_221,BR,Broadly affected autism,A18,1,0.9977,5,BroadlyAffectedAutism does not revise its pragmatic rule database automatically
+BroadlyAffectedAutism_5_222,BR,Broadly affected autism,A22,1,0.9924,5,BroadlyAffectedAutism will misapply literal interpretation to future sarcasm
+BroadlyAffectedAutism_4_94,BR,Broadly affected autism,A18,1,0.9974,4,BroadlyAffectedAutism cannot apply implicit social norm here
+BroadlyAffectedAutism_5_216,BR,Broadly affected autism,A16,0,0.9952,5,BroadlyAffectedAutism may react to the remark after delay
+BroadlyAffectedAutism_4_95,BR,Broadly affected autism,A20,1,0.9973,4,BroadlyAffectedAutism registers disproportionate prediction error signal
+BroadlyAffectedAutism_3_52,BR,Broadly affected autism,A23,1,0.9973,3,BroadlyAffectedAutism responds based only on literal content
+BroadlyAffectedAutism_4_99,BR,Broadly affected autism,A17,1,0.9969,4,BroadlyAffectedAutism produces a reply mismatched to sarcastic intent
+BroadlyAffectedAutism_5_212,BR,Broadly affected autism,A24,1,0.9939,5,BroadlyAffectedAutism receives no causally proximate corrective feedback
+BroadlyAffectedAutism_5_213,BR,Broadly affected autism,A21,1,0.9984,5,BroadlyAffectedAutism risks encoding the mismatch as failure
+BroadlyAffectedAutism_5_214,BR,Broadly affected autism,A16,1,0.9969,5,BroadlyAffectedAutism registers the social mismatch only after delay
+BroadlyAffectedAutism_4_100,BR,Broadly affected autism,A18,1,0.99,4,BroadlyAffectedAutism cannot apply the unspoken pragmatic norm
+BroadlyAffectedAutism_4_101,BR,Broadly affected autism,A24,1,0.9971,4,BroadlyAffectedAutism's literal response pattern remains unchanged without corrective feedback
+BroadlyAffectedAutism_2_11,BR,Broadly affected autism,A23,1,0.9979,2,BroadlyAffectedAutism does not detect the unspoken sarcastic intent
+BroadlyAffectedAutism_3_33,BR,Broadly affected autism,A17,1,0.9982,3,BroadlyAffectedAutism responds based on the literal statement content
+BroadlyAffectedAutism_4_60,BR,Broadly affected autism,A17,1,0.9985,4,BroadlyAffectedAutism's reply mismatches the speaker's intended meaning
+BroadlyAffectedAutism_5_132,BR,Broadly affected autism,A20,1,0.9856,5,BroadlyAffectedAutism registers unanticipated social prediction error
+BroadlyAffectedAutism_5_133,BR,Broadly affected autism,A18,1,0.9942,5,BroadlyAffectedAutism cannot infer the mismatch without explicit correction
+BroadlyAffectedAutism_5_134,BR,Broadly affected autism,A24,1,0.9961,5,BroadlyAffectedAutism fails to update without observable specific feedback
+BroadlyAffectedAutism_5_135,BR,Broadly affected autism,A16,1,0.9962,5,BroadlyAffectedAutism's recognition of the mismatch is delayed
+BroadlyAffectedAutism_4_61,BR,Broadly affected autism,A18,1,0.9983,4,BroadlyAffectedAutism cannot apply the implicit sarcasm convention
+BroadlyAffectedAutism_5_164,BR,Broadly affected autism,A18,1,0.9977,5,BroadlyAffectedAutism requires explicit retrieval of a sarcasm rule entry
+BroadlyAffectedAutism_4_62,BR,Broadly affected autism,A16,1,0.9955,4,BroadlyAffectedAutism shows no immediate reaction to the hidden intent
+BroadlyAffectedAutism_5_143,BR,Broadly affected autism,A16,0,0.9794,5,BroadlyAffectedAutism may generate a delayed emotional response later
+BroadlyAffectedAutism_5_144,BR,Broadly affected autism,A18,1,0.9952,5,BroadlyAffectedAutism requires explicit retrieval to later detect the sarcasm
+BroadlyAffectedAutism_3_35,BR,Broadly affected autism,A23,1,0.9977,3,BroadlyAffectedAutism fails to apply the unspoken social convention
+BroadlyAffectedAutism_4_90,BR,Broadly affected autism,A17,1,0.9982,4,BroadlyAffectedAutism treats the sarcastic statement as factually true
+BroadlyAffectedAutism_5_192,BR,Broadly affected autism,A8,1,0.9974,5,BroadlyAffectedAutism encodes the sarcastic statement as semantic fact
+BroadlyAffectedAutism_5_193,BR,Broadly affected autism,A24,1,0.9942,5,BroadlyAffectedAutism will not revise this belief without explicit feedback
+BroadlyAffectedAutism_5_195,BR,Broadly affected autism,A18,1,0.9916,5,BroadlyAffectedAutism lacks a stored rule flagging this exchange
+BroadlyAffectedAutism_4_91,BR,Broadly affected autism,A18,1,0.9914,4,BroadlyAffectedAutism finds no matching explicit rule entry
+BroadlyAffectedAutism_3_36,BR,Broadly affected autism,A15,1,0.9968,3,BroadlyAffectedAutism treats the remark as literal behavioral data only
+BroadlyAffectedAutism_4_73,BR,Broadly affected autism,A17,1,0.998,4,BroadlyAffectedAutism misinterprets the classmate's intended meaning
+BroadlyAffectedAutism_5_153,BR,Broadly affected autism,A17,1,0.9964,5,BroadlyAffectedAutism requires extra inferential steps to reinterpret statement
+BroadlyAffectedAutism_5_154,BR,Broadly affected autism,A18,1,0.9935,5,BroadlyAffectedAutism cannot apply pragmatic rule without explicit retrieval
+BroadlyAffectedAutism_4_74,BR,Broadly affected autism,A18,1,0.9924,4,BroadlyAffectedAutism requires explicit rule retrieval to detect intent
+BroadlyAffectedAutism_5_160,BR,Broadly affected autism,A18,1,0.9612,5,BroadlyAffectedAutism searches stored database for matching social rule
+BroadlyAffectedAutism_5_161,BR,Broadly affected autism,A17,0,0.9549,5,BroadlyAffectedAutism applies additional inferential steps before responding
+BroadlyAffectedAutism_5_162,BR,Broadly affected autism,A23,1,0.9887,5,BroadlyAffectedAutism fails to detect intent without explicit matching rule
+BroadlyAffectedAutism_4_75,BR,Broadly affected autism,A23,1,0.9972,4,BroadlyAffectedAutism fails to detect the implied social expectation
+BroadlyAffectedAutism_5_137,BR,Broadly affected autism,A23,1,0.996,5,BroadlyAffectedAutism does not adjust behavior to the unspoken expectation
+BroadlyAffectedAutism_5_138,BR,Broadly affected autism,A15,1,0.9963,5,BroadlyAffectedAutism requires further inferential analysis of the remark
+BroadlyAffectedAutism_4_76,BR,Broadly affected autism,A15,0,0.9931,4,BroadlyAffectedAutism requires additional inference to interpret the behavior
+BroadlyAffectedAutism_5_118,BR,Broadly affected autism,A18,1,0.9977,5,BroadlyAffectedAutism searches explicit stored rules for sarcasm cases
+BroadlyAffectedAutism_5_119,BR,Broadly affected autism,A23,1,0.9984,5,BroadlyAffectedAutism cannot reliably apply the unspoken sarcastic norm
+BroadlyAffectedAutism_5_120,BR,Broadly affected autism,A7,1,0.9967,5,BroadlyAffectedAutism processes the socially complex remark more slowly
+BroadlyAffectedAutism_1_2,BR,Broadly affected autism,A18,1,0.9981,1,BroadlyAffectedAutism searches explicit rules to interpret the remark
+BroadlyAffectedAutism_2_12,BR,Broadly affected autism,A17,1,0.9984,2,BroadlyAffectedAutism initially decodes the remark literally
+BroadlyAffectedAutism_3_23,BR,Broadly affected autism,A17,1,0.9976,3,BroadlyAffectedAutism misinterprets the sarcastic remark as sincere
+BroadlyAffectedAutism_4_69,BR,Broadly affected autism,A22,1,0.9981,4,BroadlyAffectedAutism does not generalize this correction to future sarcasm
+BroadlyAffectedAutism_5_150,BR,Broadly affected autism,A17,1,0.9969,5,BroadlyAffectedAutism will again decode future sarcasm literally
+BroadlyAffectedAutism_5_151,BR,Broadly affected autism,A22,1,0.9964,5,BroadlyAffectedAutism requires explicit re-instruction for each new sarcastic instance
+BroadlyAffectedAutism_4_70,BR,Broadly affected autism,A24,1,0.9944,4,BroadlyAffectedAutism requires explicit corrective feedback to revise the interpretation
+BroadlyAffectedAutism_5_146,BR,Broadly affected autism,A24,1,0.9976,5,BroadlyAffectedAutism retains sincere interpretation absent specific feedback
+BroadlyAffectedAutism_5_149,BR,Broadly affected autism,A21,1,0.9939,5,BroadlyAffectedAutism learns the correction only if shame-free
+BroadlyAffectedAutism_4_71,BR,Broadly affected autism,A18,1,0.9976,4,BroadlyAffectedAutism responds using the literal-statement rule entry
+BroadlyAffectedAutism_5_125,BR,Broadly affected autism,A20,0,0.9922,5,Classmates' unexpected reaction generates disproportionate prediction error
+BroadlyAffectedAutism_5_126,BR,Broadly affected autism,A18,1,0.997,5,BroadlyAffectedAutism fails to detect the pragmatic rule violation
+BroadlyAffectedAutism_4_72,BR,Broadly affected autism,A15,1,0.9948,4,BroadlyAffectedAutism cannot infer the speaker's true intent automatically
+BroadlyAffectedAutism_5_111,BR,Broadly affected autism,A18,1,0.9817,5,BroadlyAffectedAutism searches stored pragmatic rules to reinterpret remark
+BroadlyAffectedAutism_5_113,BR,Broadly affected autism,A16,1,0.9969,5,BroadlyAffectedAutism may recognize sarcasm only after significant delay
+BroadlyAffectedAutism_2_13,BR,Broadly affected autism,A18,1,0.99,2,BroadlyAffectedAutism attempts conscious retrieval of matching pragmatic entry
+BroadlyAffectedAutism_3_31,BR,Broadly affected autism,A18,1,0.9943,3,BroadlyAffectedAutism requires conscious matching before applying meaning
+BroadlyAffectedAutism_4_67,BR,Broadly affected autism,A18,1,0.9973,4,BroadlyAffectedAutism fails to find a matching stored pragmatic entry
+BroadlyAffectedAutism_5_191,BR,Broadly affected autism,A18,1,0.9937,5,BroadlyAffectedAutism treats the remark as pragmatically unresolved
+BroadlyAffectedAutism_1_3,BR,Broadly affected autism,A7,1,0.9972,1,BroadlyAffectedAutism processes the social exchange with reduced speed
+BroadlyAffectedAutism_2_16,BR,Broadly affected autism,A17,1,0.997,2,BroadlyAffectedAutism requires extra inferential steps to detect irony
+BroadlyAffectedAutism_2_18,BR,Broadly affected autism,A7,1,0.9968,2,BroadlyAffectedAutism falls behind the real-time conversational pace
+BroadlyAffectedAutism_3_46,BR,Broadly affected autism,A17,1,0.9981,3,BroadlyAffectedAutism processes the sarcastic remark literally at first
+BroadlyAffectedAutism_4_86,BR,Broadly affected autism,A18,1,0.9957,4,BroadlyAffectedAutism must consciously retrieve pragmatic rules for sarcasm
+BroadlyAffectedAutism_5_157,BR,Broadly affected autism,A18,1,0.9954,5,BroadlyAffectedAutism searches stored rule entries for a match
+BroadlyAffectedAutism_5_158,BR,Broadly affected autism,A7,0,0.9933,5,BroadlyAffectedAutism experiences further delay in responding
+BroadlyAffectedAutism_5_159,BR,Broadly affected autism,A24,1,0.9944,5,BroadlyAffectedAutism cannot update sarcasm rule without explicit feedback
+BroadlyAffectedAutism_3_47,BR,Broadly affected autism,A18,1,0.9925,3,BroadlyAffectedAutism must retrieve an explicit pragmatic rule to interpret it
+BroadlyAffectedAutism_4_87,BR,Broadly affected autism,A17,1,0.9972,4,BroadlyAffectedAutism defaults to literal meaning without retrieval
+BroadlyAffectedAutism_5_173,BR,Broadly affected autism,A24,1,0.9977,5,BroadlyAffectedAutism cannot correct the misunderstanding without explicit feedback
+BroadlyAffectedAutism_4_88,BR,Broadly affected autism,A18,1,0.9943,4,BroadlyAffectedAutism consciously searches stored pragmatic rule entries
+BroadlyAffectedAutism_5_180,BR,Broadly affected autism,A18,0,0.9888,5,BroadlyAffectedAutism attempts to match retrieved rule to context
+BroadlyAffectedAutism_5_182,BR,Broadly affected autism,A16,1,0.9964,5,BroadlyAffectedAutism's response lags behind the ongoing conversation
+BroadlyAffectedAutism_4_89,BR,Broadly affected autism,A16,1,0.9974,4,BroadlyAffectedAutism produces its interpretation after the exchange ends
+BroadlyAffectedAutism_5_203,BR,Broadly affected autism,A24,0,0.9949,5,BroadlyAffectedAutism cannot use the belated feedback to update behavior
+BroadlyAffectedAutism_5_204,BR,Broadly affected autism,A22,1,0.9981,5,BroadlyAffectedAutism will not automatically apply this rule to new sarcasm instances
+BroadlyAffectedAutism_3_48,BR,Broadly affected autism,A7,1,0.99,3,BroadlyAffectedAutism misses subsequent conversational turns while processing
+BroadlyAffectedAutism_4_78,BR,Broadly affected autism,A18,1,0.9977,4,BroadlyAffectedAutism cannot retrieve a matching pragmatic rule
+BroadlyAffectedAutism_4_79,BR,Broadly affected autism,A7,1,0.9931,4,BroadlyAffectedAutism continues lagging behind the ongoing exchange
+BroadlyAffectedAutism_4_80,BR,Broadly affected autism,A20,1,0.9965,4,BroadlyAffectedAutism registers the conversational shift as disproportionate error
+BroadlyAffectedAutism_5_128,BR,Broadly affected autism,A17,1,0.9974,5,BroadlyAffectedAutism cannot decode the sarcasm automatically
+BroadlyAffectedAutism_5_130,BR,Broadly affected autism,A21,1,0.9978,5,BroadlyAffectedAutism blocks learning if error implies shame
+BroadlyAffectedAutism_3_49,BR,Broadly affected autism,A16,1,0.9978,3,BroadlyAffectedAutism generates its social response after the exchange ends
+BroadlyAffectedAutism_4_102,BR,Broadly affected autism,A24,1,0.9969,4,BroadlyAffectedAutism cannot receive temporally proximate corrective feedback
+BroadlyAffectedAutism_4_103,BR,Broadly affected autism,A18,1,0.9923,4,BroadlyAffectedAutism cannot update its pragmatic rule entry
+BroadlyAffectedAutism_4_104,BR,Broadly affected autism,A16,1,0.9933,4,BroadlyAffectedAutism's emotional response arrives after the trigger
+BroadlyAffectedAutism_1_4,BR,Broadly affected autism,A15,0,0.991,1,BroadlyAffectedAutism treats the classmate's tone as behavioral data
+BroadlyAffectedAutism_2_6,BR,Broadly affected autism,A15,0,0.9863,2,BroadlyAffectedAutism requires inferential analysis to interpret the tone
+BroadlyAffectedAutism_3_20,BR,Broadly affected autism,A18,1,0.9704,3,BroadlyAffectedAutism searches stored pragmatic rules for matching pattern
+BroadlyAffectedAutism_4_96,BR,Broadly affected autism,A17,1,0.9981,4,BroadlyAffectedAutism defaults to the literal meaning of the statement
+BroadlyAffectedAutism_5_198,BR,Broadly affected autism,A18,1,0.996,5,BroadlyAffectedAutism cannot map sarcasm to stored pragmatic rules
+BroadlyAffectedAutism_4_97,BR,Broadly affected autism,A18,1,0.995,4,BroadlyAffectedAutism cannot resolve sarcasm without an explicit matching rule
+BroadlyAffectedAutism_3_21,BR,Broadly affected autism,A7,1,0.9976,3,BroadlyAffectedAutism processes the sarcastic exchange at reduced speed
+BroadlyAffectedAutism_4_53,BR,Broadly affected autism,A17,1,0.9957,4,BroadlyAffectedAutism fails to decode sarcasm before conversation advances
+BroadlyAffectedAutism_5_109,BR,Broadly affected autism,A18,1,0.993,5,BroadlyAffectedAutism cannot retrieve pragmatic rule in time
+BroadlyAffectedAutism_4_54,BR,Broadly affected autism,A7,1,0.9975,4,BroadlyAffectedAutism falls behind the group conversation pace
+BroadlyAffectedAutism_5_139,BR,Broadly affected autism,A16,0,0.9977,5,BroadlyAffectedAutism responds to the sarcasm after conversation has moved on
+BroadlyAffectedAutism_5_140,BR,Broadly affected autism,A5,1,0.994,5,BroadlyAffectedAutism fails to integrate missed segments into overall conversation meaning
+BroadlyAffectedAutism_5_142,BR,Broadly affected autism,A24,1,0.996,5,BroadlyAffectedAutism cannot learn the sarcasm cue from delayed feedback
+BroadlyAffectedAutism_4_56,BR,Broadly affected autism,A24,1,0.9959,4,BroadlyAffectedAutism gains no updated rule from delayed cues
+BroadlyAffectedAutism_5_185,BR,Broadly affected autism,A18,1,0.9913,5,BroadlyAffectedAutism cannot add sarcasm to explicit rule database
+BroadlyAffectedAutism_2_7,BR,Broadly affected autism,A18,1,0.9931,2,BroadlyAffectedAutism must consciously retrieve a stored pragmatic rule
+BroadlyAffectedAutism_3_27,BR,Broadly affected autism,A7,1,0.9979,3,BroadlyAffectedAutism responds slower to the sarcastic remark
+BroadlyAffectedAutism_4_63,BR,Broadly affected autism,A16,1,0.9977,4,BroadlyAffectedAutism responds after the conversation topic changes
+BroadlyAffectedAutism_5_121,BR,Broadly affected autism,A20,1,0.9978,5,BroadlyAffectedAutism experiences prediction error from the topic shift
+BroadlyAffectedAutism_5_122,BR,Broadly affected autism,A18,1,0.9978,5,BroadlyAffectedAutism's delayed response mismatches the new conversational context
+BroadlyAffectedAutism_5_123,BR,Broadly affected autism,A22,1,0.9969,5,BroadlyAffectedAutism cannot re-anchor its reply to the new topic
+BroadlyAffectedAutism_4_64,BR,Broadly affected autism,A7,1,0.9975,4,BroadlyAffectedAutism falls behind the ongoing group exchange
+BroadlyAffectedAutism_5_209,BR,Broadly affected autism,A6,0,0.9929,5,BroadlyAffectedAutism experiences processing overload from the rapid exchange
+BroadlyAffectedAutism_5_210,BR,Broadly affected autism,A20,1,0.9828,5,BroadlyAffectedAutism registers the missed shift as unanticipated change
+BroadlyAffectedAutism_5_211,BR,Broadly affected autism,A18,1,0.9798,5,BroadlyAffectedAutism must retrieve new pragmatic rules for subsequent remarks
+BroadlyAffectedAutism_4_65,BR,Broadly affected autism,A18,1,0.997,4,BroadlyAffectedAutism's retrieved rule no longer matches the context
+BroadlyAffectedAutism_5_168,BR,Broadly affected autism,A22,1,0.9979,5,BroadlyAffectedAutism cannot generalize the rule to this context
+BroadlyAffectedAutism_5_170,BR,Broadly affected autism,A18,1,0.9897,5,BroadlyAffectedAutism requires new explicit rule for this context
+BroadlyAffectedAutism_3_28,BR,Broadly affected autism,A18,1,0.9976,3,BroadlyAffectedAutism searches its database for a matching rule
+BroadlyAffectedAutism_4_105,BR,Broadly affected autism,A18,1,0.9969,4,BroadlyAffectedAutism finds no stored rule for sarcasm
+BroadlyAffectedAutism_4_107,BR,Broadly affected autism,A23,1,0.9971,4,BroadlyAffectedAutism fails to detect the implicit meaning
+BroadlyAffectedAutism_3_29,BR,Broadly affected autism,A16,0,0.996,3,BroadlyAffectedAutism delays its emotional reaction to the remark
+BroadlyAffectedAutism_4_57,BR,Broadly affected autism,A16,1,0.998,4,BroadlyAffectedAutism's emotional response emerges after the conversation moves on
+BroadlyAffectedAutism_5_115,BR,Broadly affected autism,A24,1,0.9916,5,BroadlyAffectedAutism cannot use this delayed response as learning feedback
+BroadlyAffectedAutism_5_116,BR,Broadly affected autism,A20,1,0.9981,5,BroadlyAffectedAutism experiences disproportionate disruption from the topic shift
+BroadlyAffectedAutism_5_117,BR,Broadly affected autism,A18,0,0.9946,5,BroadlyAffectedAutism misapplies the retrieved rule to the new topic
+BroadlyAffectedAutism_4_58,BR,Broadly affected autism,A16,1,0.9937,4,BroadlyAffectedAutism's reaction becomes decoupled from the triggering exchange
+BroadlyAffectedAutism_5_174,BR,Broadly affected autism,A24,1,0.9848,5,BroadlyAffectedAutism cannot use the reaction as learning feedback
+BroadlyAffectedAutism_5_175,BR,Broadly affected autism,A22,1,0.9976,5,BroadlyAffectedAutism fails to generalize the sarcasm rule later
+BroadlyAffectedAutism_5_176,BR,Broadly affected autism,A8,1,0.9965,5,BroadlyAffectedAutism retains the exchange poorly as episodic memory
+BroadlyAffectedAutism_4_59,BR,Broadly affected autism,A15,1,0.9966,4,BroadlyAffectedAutism cannot align its response with ongoing group dynamics
+BroadlyAffectedAutism_5_177,BR,Broadly affected autism,A20,1,0.9903,5,BroadlyAffectedAutism generates disproportionate prediction error from the mismatch
+BroadlyAffectedAutism_5_179,BR,Broadly affected autism,A18,1,0.9953,5,BroadlyAffectedAutism requires explicit rule retrieval to rejoin conversation
+BroadlyAffectedAutism_2_8,BR,Broadly affected autism,A16,1,0.998,2,BroadlyAffectedAutism's recognition of the sarcasm is delayed
+BroadlyAffectedAutism_3_41,BR,Broadly affected autism,A16,1,0.9982,3,BroadlyAffectedAutism responds after the conversational moment has passed
+BroadlyAffectedAutism_4_81,BR,Broadly affected autism,A24,1,0.9914,4,BroadlyAffectedAutism cannot use this feedback to update learning
+BroadlyAffectedAutism_5_201,BR,Broadly affected autism,A22,1,0.9975,5,BroadlyAffectedAutism cannot generalize this sarcasm instance elsewhere
+BroadlyAffectedAutism_4_82,BR,Broadly affected autism,A20,1,0.9983,4,BroadlyAffectedAutism experiences disproportionate prediction error from the shift
+BroadlyAffectedAutism_5_205,BR,Broadly affected autism,A1,0,0.9928,5,BroadlyAffectedAutism risks cognitive processing going offline
+BroadlyAffectedAutism_5_206,BR,Broadly affected autism,A18,1,0.9896,5,BroadlyAffectedAutism searches explicit rules for this situation
+BroadlyAffectedAutism_5_207,BR,Broadly affected autism,A21,1,0.9902,5,BroadlyAffectedAutism treats the mismatch as a social failure
+BroadlyAffectedAutism_5_208,BR,Broadly affected autism,A19,0,0.8921,5,BroadlyAffectedAutism cannot allocate resources to other tasks
+MixedASDwithDelay_0_0,MX,Mixed ASD with developmental delay,,1,0.9942,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing."
+MixedASDwithDelay_1_1,MX,Mixed ASD with developmental delay,A17,1,0.9979,1,MixedASDwithDelay decodes the sarcasm as literal statement
+MixedASDwithDelay_2_5,MX,Mixed ASD with developmental delay,A17,1,0.997,2,MixedASDwithDelay requires extra inference to detect irony
+MixedASDwithDelay_3_16,MX,Mixed ASD with developmental delay,A18,1,0.9961,3,MixedASDwithDelay searches explicit rules for sarcasm cues
+MixedASDwithDelay_4_51,MX,Mixed ASD with developmental delay,A18,1,0.9953,4,MixedASDwithDelay attempts conscious retrieval of matching rule entry
+MixedASDwithDelay_4_52,MX,Mixed ASD with developmental delay,A23,1,0.9974,4,MixedASDwithDelay fails to locate an explicit sarcasm rule
+MixedASDwithDelay_4_53,MX,Mixed ASD with developmental delay,A7,1,0.9972,4,MixedASDwithDelay processes the social exchange at reduced speed
+MixedASDwithDelay_5_95,MX,Mixed ASD with developmental delay,A6,0,0.995,5,Continued rapid conversational shifts increase processing overload
+MixedASDwithDelay_6_171,MX,Mixed ASD with developmental delay,A1,0,0.992,6,MixedASDwithDelay goes offline for social processing
+MixedASDwithDelay_6_172,MX,Mixed ASD with developmental delay,A20,1,0.9978,6,MixedASDwithDelay generates disproportionate prediction error signals
+MixedASDwithDelay_6_173,MX,Mixed ASD with developmental delay,A6,0,0.985,6,MixedASDwithDelay fails to adapt learning rate accordingly
+MixedASDwithDelay_3_17,MX,Mixed ASD with developmental delay,A17,1,0.995,3,MixedASDwithDelay maintains literal interpretation until inference completes
+MixedASDwithDelay_4_41,MX,Mixed ASD with developmental delay,A17,1,0.9972,4,MixedASDwithDelay responds to the literal statement content
+MixedASDwithDelay_5_88,MX,Mixed ASD with developmental delay,A18,1,0.9981,5,MixedASDwithDelay's literal reply misapplies unstated social expectations
+MixedASDwithDelay_6_165,MX,Mixed ASD with developmental delay,A24,1,0.996,6,MixedASDwithDelay's response remains unrevised absent immediate specific feedback
+MixedASDwithDelay_6_167,MX,Mixed ASD with developmental delay,A21,1,0.9945,6,MixedASDwithDelay treats any shaming correction as a threat signal
+MixedASDwithDelay_5_89,MX,Mixed ASD with developmental delay,A20,1,0.9837,5,MixedASDwithDelay cannot anticipate the group's unexpected reaction
+MixedASDwithDelay_6_202,MX,Mixed ASD with developmental delay,A18,1,0.9943,6,MixedASDwithDelay must consciously retrieve a stored social rule to interpret the reaction
+MixedASDwithDelay_6_203,MX,Mixed ASD with developmental delay,A7,1,0.9967,6,MixedASDwithDelay processes the socially complex reaction at reduced speed
+MixedASDwithDelay_4_42,MX,Mixed ASD with developmental delay,A18,1,0.9943,4,MixedASDwithDelay attempts explicit retrieval of a pragmatic rule
+MixedASDwithDelay_5_87,MX,Mixed ASD with developmental delay,A22,1,0.9922,5,MixedASDwithDelay cannot apply prior rule to this new context
+MixedASDwithDelay_6_180,MX,Mixed ASD with developmental delay,A22,1,0.9972,6,MixedASDwithDelay requires explicit instruction to re-anchor rule
+MixedASDwithDelay_6_181,MX,Mixed ASD with developmental delay,A18,1,0.9968,6,MixedASDwithDelay fails to match any stored pragmatic entry
+MixedASDwithDelay_2_6,MX,Mixed ASD with developmental delay,A18,1,0.996,2,MixedASDwithDelay cannot retrieve an implicit social rule here
+MixedASDwithDelay_3_24,MX,Mixed ASD with developmental delay,A18,1,0.9897,3,MixedASDwithDelay applies no social rule to this exchange
+MixedASDwithDelay_4_75,MX,Mixed ASD with developmental delay,A17,1,0.9978,4,MixedASDwithDelay responds to the remark as literal fact
+MixedASDwithDelay_5_155,MX,Mixed ASD with developmental delay,A22,1,0.9983,5,MixedASDwithDelay cannot generalize this literal reading to future sarcasm
+MixedASDwithDelay_4_76,MX,Mixed ASD with developmental delay,A18,1,0.9981,4,MixedASDwithDelay produces a response mismatched to group expectation
+MixedASDwithDelay_5_161,MX,Mixed ASD with developmental delay,A21,1,0.9967,5,"MixedASDwithDelay treats the mismatch as moral failure, blocking learning"
+MixedASDwithDelay_3_25,MX,Mixed ASD with developmental delay,A23,1,0.9974,3,MixedASDwithDelay responds based only on the literal statement
+MixedASDwithDelay_4_63,MX,Mixed ASD with developmental delay,A17,1,0.9972,4,MixedASDwithDelay produces a reply mismatched to the sarcastic intent
+MixedASDwithDelay_5_135,MX,Mixed ASD with developmental delay,A24,1,0.9952,5,MixedASDwithDelay cannot learn from vague social feedback here
+MixedASDwithDelay_6_220,MX,Mixed ASD with developmental delay,A18,1,0.9968,6,MixedASDwithDelay's sarcasm-decoding rule remains unupdated
+MixedASDwithDelay_6_222,MX,Mixed ASD with developmental delay,A21,1,0.993,6,"MixedASDwithDelay treats unclear correction as threat, not learning"
+MixedASDwithDelay_6_223,MX,Mixed ASD with developmental delay,A24,0,0.9852,6,MixedASDwithDelay requires explicit corrective feedback to update behavior
+MixedASDwithDelay_5_136,MX,Mixed ASD with developmental delay,A23,1,0.997,5,MixedASDwithDelay fails to detect the implicit norm violation
+MixedASDwithDelay_5_137,MX,Mixed ASD with developmental delay,A18,1,0.9909,5,MixedASDwelayDelay requires explicit correction to apply a new rule
+MixedASDwithDelay_4_64,MX,Mixed ASD with developmental delay,A18,1,0.9973,4,MixedASDwithDelay fails to register the violated social expectation
+MixedASDwithDelay_5_150,MX,Mixed ASD with developmental delay,A18,1,0.9983,5,MixedASDwithDelay does not update its pragmatic rule database
+MixedASDwithDelay_5_151,MX,Mixed ASD with developmental delay,A24,1,0.9939,5,MixedASDwithDelay receives no learning signal from this exchange
+MixedASDwithDelay_5_153,MX,Mixed ASD with developmental delay,A22,1,0.9975,5,MixedASDwithDelay cannot re-anchor sarcasm cues to future contexts
+MixedASDwithDelay_4_65,MX,Mixed ASD with developmental delay,A23,1,0.9967,4,MixedASDwithDelay treats the literal statement as the explicit rule to follow
+MixedASDwithDelay_5_115,MX,Mixed ASD with developmental delay,A23,1,0.9964,5,MixedASDwithDelay executes behavior matching the literal meaning
+MixedASDwithDelay_6_217,MX,Mixed ASD with developmental delay,A17,1,0.9984,6,MixedASDwithDelay produces a response mismatched to speaker intent
+MixedASDwithDelay_5_116,MX,Mixed ASD with developmental delay,A22,1,0.9981,5,MixedASDwithDelay will not apply this rule to new sarcastic contexts
+MixedASDwithDelay_6_226,MX,Mixed ASD with developmental delay,A18,1,0.9874,6,MixedASDwithDelay's sarcasm database entry remains unupdated across contexts
+MixedASDwithDelay_5_117,MX,Mixed ASD with developmental delay,A24,1,0.9973,5,MixedASDwithDelay needs explicit corrective feedback to revise this rule
+MixedASDwithDelay_3_26,MX,Mixed ASD with developmental delay,A24,1,0.9966,3,MixedASDwithDelay will not revise interpretation without explicit feedback
+MixedASDwithDelay_4_60,MX,Mixed ASD with developmental delay,A8,1,0.9976,4,MixedASDwithDelay stores the literal interpretation as semantic fact
+MixedASDwithDelay_5_101,MX,Mixed ASD with developmental delay,A8,1,0.9935,5,MixedASDwithDelay retains this literal fact with high fidelity
+MixedASDwithDelay_6_229,MX,Mixed ASD with developmental delay,A22,1,0.9936,6,MixedASDwithDelay will not generalize this literal fact across contexts
+MixedASDwithDelay_6_230,MX,Mixed ASD with developmental delay,A10,1,0.9939,6,MixedASDwithDelay requires explicit visual cues to retrieve this fact later
+MixedASDwithDelay_6_231,MX,Mixed ASD with developmental delay,A18,1,0.9955,6,MixedASDwithDelay treats the literal fact as a fixed database entry
+MixedASDwithDelay_5_102,MX,Mixed ASD with developmental delay,A22,1,0.9963,5,MixedASDwithDelay will not apply this interpretation to new contexts
+MixedASDwithDelay_6_198,MX,Mixed ASD with developmental delay,A22,1,0.9972,6,MixedASDwithDelay requires explicit instruction to re-anchor sarcasm cues
+MixedASDwithDelay_6_199,MX,Mixed ASD with developmental delay,A17,1,0.9969,6,MixedASDwithDelay will decode future sarcasm literally again
+MixedASDwithDelay_6_200,MX,Mixed ASD with developmental delay,A18,1,0.9962,6,MixedASDwithDelay treats each sarcastic instance as unrelated database entry
+MixedASDwithDelay_5_103,MX,Mixed ASD with developmental delay,A17,1,0.9953,5,MixedASDwithDelay defaults to literal decoding in future sarcasm instances
+MixedASDwithDelay_6_190,MX,Mixed ASD with developmental delay,A22,1,0.9979,6,MixedASDwithDelay fails to generalize this rule to novel sarcasm contexts
+MixedASDwithDelay_6_191,MX,Mixed ASD with developmental delay,A18,1,0.9899,6,MixedASDwithDelay stores literal decoding as explicit database entry
+MixedASDwithDelay_6_192,MX,Mixed ASD with developmental delay,A23,0,0.992,6,MixedASDwithDelay applies this literal rule whenever explicitly retrieved
+MixedASDwithDelay_6_193,MX,Mixed ASD with developmental delay,A8,1,0.9968,6,MixedASDwithDelay retains this literal fact independent of social context
+MixedASDwithDelay_4_61,MX,Mixed ASD with developmental delay,A24,1,0.995,4,MixedASDwithDelay requires observable specific feedback to update
+MixedASDwithDelay_5_147,MX,Mixed ASD with developmental delay,A24,1,0.9973,5,MixedASDwithDelay retains literal interpretation absent explicit correction
+MixedASDwithDelay_5_148,MX,Mixed ASD with developmental delay,A21,1,0.9962,5,MixedASDwithDelay blocks learning if correction implies moral failure
+MixedASDwithDelay_5_149,MX,Mixed ASD with developmental delay,A18,1,0.9935,5,MixedASDwithDelay cannot update pragmatic rule without conscious retrieval
+MixedASDwithDelay_4_62,MX,Mixed ASD with developmental delay,A22,1,0.9962,4,MixedASDwithDelay will not generalize correction to other sarcastic remarks
+MixedASDwithDelay_5_124,MX,Mixed ASD with developmental delay,A22,1,0.9975,5,MixedASDwithDelay treats each new sarcastic remark as unrelated context
+MixedASDwithDelay_6_204,MX,Mixed ASD with developmental delay,A22,1,0.9962,6,MixedASDwithDelay requires explicit re-instruction for each sarcastic instance
+MixedASDwithDelay_6_205,MX,Mixed ASD with developmental delay,A18,1,0.9956,6,MixedASDwithDelay must consciously retrieve the sarcasm rule again
+MixedASDwithDelay_6_206,MX,Mixed ASD with developmental delay,A17,0,0.9975,6,MixedASDwithDelay decodes each new sarcastic remark literally
+MixedASDwithDelay_2_7,MX,Mixed ASD with developmental delay,A23,1,0.993,2,MixedASDwithDelay responds based on the stated words only
+MixedASDwithDelay_3_27,MX,Mixed ASD with developmental delay,A17,1,0.9983,3,MixedASDwithDelay produces a response mismatched to intended meaning
+MixedASDwithDelay_4_58,MX,Mixed ASD with developmental delay,A24,1,0.9975,4,MixedASDwithDelay fails to update interpretation without immediate specific feedback
+MixedASDwithDelay_5_144,MX,Mixed ASD with developmental delay,A22,1,0.998,5,MixedASDwithDelay will not generalize this correction to new contexts
+MixedASDwithDelay_5_145,MX,Mixed ASD with developmental delay,A18,1,0.9922,5,MixedASDwithDelay continues applying literal decoding as default rule
+MixedASDwithDelay_4_59,MX,Mixed ASD with developmental delay,A22,1,0.998,4,MixedASDwithDelay will not generalize sarcasm recognition to new contexts
+MixedASDwithDelay_5_105,MX,Mixed ASD with developmental delay,A22,1,0.995,5,MixedASDwithDelay requires explicit instruction for each new sarcastic context
+MixedASDwithDelay_6_187,MX,Mixed ASD with developmental delay,A18,1,0.9913,6,MixedASDwithDelay stores sarcasm rules as explicit database entries
+MixedASDwithDelay_6_189,MX,Mixed ASD with developmental delay,A24,1,0.9967,6,MixedASDwithDelay updates sarcasm recognition only with specific proximate feedback
+MixedASDwithDelay_5_106,MX,Mixed ASD with developmental delay,A22,0,0.9946,5,MixedASDwithDelay misinterprets sarcasm again in future unrelated conversations
+MixedASDwithDelay_6_195,MX,Mixed ASD with developmental delay,A24,1,0.9977,6,MixedASDwithDelay requires specific feedback to update sarcasm interpretation
+MixedASDwithDelay_6_196,MX,Mixed ASD with developmental delay,A21,0,0.992,6,MixedASDwithDelay treats repeated correction as social failure
+MixedASDwithDelay_6_197,MX,Mixed ASD with developmental delay,A22,1,0.9892,6,MixedASDwithDelay needs explicit re-anchoring for each new context
+MixedASDwithDelay_5_107,MX,Mixed ASD with developmental delay,A18,1,0.9978,5,MixedASDwithDelay treats sarcasm detection as an unstored database entry
+MixedASDwithDelay_6_209,MX,Mixed ASD with developmental delay,A24,1,0.9979,6,MixedASDwithDelay needs specific proximate feedback to store rule
+MixedASDwithDelay_5_108,MX,Mixed ASD with developmental delay,A23,1,0.993,5,MixedASDwithDelay follows only explicitly stated rules about sarcasm
+MixedASDwithDelay_6_215,MX,Mixed ASD with developmental delay,A22,1,0.998,6,MixedASDwithDelay needs explicit re-instruction for each new context
+MixedASDwithDelay_1_2,MX,Mixed ASD with developmental delay,A18,1,0.9934,1,MixedASDwithDelay must consciously retrieve a matching social rule
+MixedASDwithDelay_2_9,MX,Mixed ASD with developmental delay,A18,0,0.9961,2,MixedASDwithDelay searches stored entries for a sarcasm-handling rule
+MixedASDwithDelay_3_31,MX,Mixed ASD with developmental delay,A17,1,0.9981,3,MixedASDwithDelay defaults to literal interpretation of statement
+MixedASDwithDelay_4_66,MX,Mixed ASD with developmental delay,A17,1,0.9982,4,MixedASDwithDelay interprets the sarcastic statement as factually true
+MixedASDwithDelay_5_132,MX,Mixed ASD with developmental delay,A17,1,0.9956,5,MixedASDwithDelay forms a factually incorrect belief from the statement
+MixedASDwithDelay_5_133,MX,Mixed ASD with developmental delay,A24,0,0.9946,5,MixedASDwithDelay lacks feedback signaling the interpretation error
+MixedASDwithDelay_5_134,MX,Mixed ASD with developmental delay,A8,1,0.9953,5,MixedASDwithDelay stores the false statement as semantic fact
+MixedASDwithDelay_4_68,MX,Mixed ASD with developmental delay,A24,1,0.9976,4,MixedASDwithDelay cannot correct the misinterpretation without explicit feedback
+MixedASDwithDelay_5_141,MX,Mixed ASD with developmental delay,A18,1,0.9981,5,MixedASDwithDelay's rule database gains no sarcasm entry
+MixedASDwithDelay_5_143,MX,Mixed ASD with developmental delay,A17,1,0.9968,5,MixedASDwithDelay continues responding to sarcasm as literal statement
+MixedASDwithDelay_3_32,MX,Mixed ASD with developmental delay,A23,1,0.9984,3,MixedASDwithDelay cannot reliably apply unspoken sarcasm convention
+MixedASDwithDelay_4_71,MX,Mixed ASD with developmental delay,A24,1,0.9961,4,MixedASDwithDelay cannot update meaning without explicit corrective feedback
+MixedASDwithDelay_5_157,MX,Mixed ASD with developmental delay,A17,1,0.9981,5,MixedASDwithDelay retains the literal interpretation of the statement
+MixedASDwithDelay_5_158,MX,Mixed ASD with developmental delay,A24,1,0.9926,5,MixedASDwithDelay treats vague feedback as non-informative for meaning
+MixedASDwithDelay_2_11,MX,Mixed ASD with developmental delay,A7,1,0.998,2,MixedASDwithDelay processes the sarcastic remark more slowly
+MixedASDwithDelay_3_18,MX,Mixed ASD with developmental delay,A17,1,0.9984,3,MixedASDwithDelay initially interprets the remark literally
+MixedASDwithDelay_4_39,MX,Mixed ASD with developmental delay,A17,1,0.9974,4,MixedASDwithDelay does not automatically detect sarcastic intent
+MixedASDwithDelay_4_40,MX,Mixed ASD with developmental delay,A18,1,0.9923,4,MixedASDwithDelay must consciously retrieve a pragmatic rule to reinterpret
+MixedASDwithDelay_5_82,MX,Mixed ASD with developmental delay,A7,0,0.3222,5,MixedASDwithDelay's reinterpretation is delayed due to slowed processing
+MixedASDwithDelay_6_174,MX,Mixed ASD with developmental delay,A17,1,0.9966,6,MixedASDwithDelay continues acting on the literal meaning
+MixedASDwithDelay_6_176,MX,Mixed ASD with developmental delay,A24,1,0.9959,6,MixedASDwithDelay receives no temporally proximate corrective feedback
+MixedASDwithDelay_5_83,MX,Mixed ASD with developmental delay,A22,0,0.9814,5,MixedASDwithDelay may fail to apply the rule to this context
+MixedASDwithDelay_6_169,MX,Mixed ASD with developmental delay,A22,1,0.9851,6,MixedASDwithDelay cannot generalize the pragmatic rule without new instruction
+MixedASDwithDelay_3_19,MX,Mixed ASD with developmental delay,A24,1,0.9959,3,MixedASDwithDelay misses the temporally proximate social context
+MixedASDwithDelay_4_37,MX,Mixed ASD with developmental delay,A24,1,0.9916,4,MixedASDwithDelay fails to receive learnable feedback signal
+MixedASDwithDelay_5_96,MX,Mixed ASD with developmental delay,A24,1,0.9954,5,MixedASDwithDelay's sarcasm interpretation does not update
+MixedASDwithDelay_6_212,MX,Mixed ASD with developmental delay,A18,1,0.9967,6,MixedASDwithDelay must re-retrieve explicit rule for future sarcasm
+MixedASDwithDelay_5_97,MX,Mixed ASD with developmental delay,A18,1,0.9979,5,MixedASDwithDelay's pragmatic rule database remains unrevised
+MixedASDwithDelay_5_98,MX,Mixed ASD with developmental delay,A17,1,0.9888,5,MixedASDwithDelay continues defaulting to literal interpretation
+MixedASDwithDelay_6_185,MX,Mixed ASD with developmental delay,A18,1,0.9975,6,MixedASDwithDelay fails to retrieve the sarcasm-detection social rule
+MixedASDwithDelay_3_20,MX,Mixed ASD with developmental delay,A18,1,0.9975,3,MixedASDwithDelay lags behind the ongoing group conversation
+MixedASDwithDelay_4_47,MX,Mixed ASD with developmental delay,A24,1,0.9962,4,MixedASDwithDelay cannot use the now-delayed social feedback
+MixedASDwithDelay_5_113,MX,Mixed ASD with developmental delay,A8,1,0.9943,5,MixedASDwithDelay poorly encodes this socially embedded episode
+MixedASDwithDelay_6_177,MX,Mixed ASD with developmental delay,A10,0,0.9958,6,MixedASDwithDelay cannot reliably retrieve this episode later without visual cues
+MixedASDwithDelay_6_178,MX,Mixed ASD with developmental delay,A8,1,0.9977,6,MixedASDwithDelay retains only fragmented facts from this interaction
+MixedASDwithDelay_6_179,MX,Mixed ASD with developmental delay,A22,1,0.9977,6,MixedASDwithDelay cannot generalize this sarcasm instance to new contexts
+MixedASDwithDelay_5_114,MX,Mixed ASD with developmental delay,A18,1,0.9946,5,MixedASDwithDelay cannot add this sarcasm rule to memory
+MixedASDwithDelay_6_232,MX,Mixed ASD with developmental delay,A18,1,0.9964,6,MixedASDwithDelay lacks a stored rule entry for sarcasm
+MixedASDwithDelay_6_234,MX,Mixed ASD with developmental delay,A20,0,0.9891,6,MixedASDwithDelay will generate high prediction error at future sarcasm
+MixedASDwithDelay_4_48,MX,Mixed ASD with developmental delay,A20,1,0.9978,4,MixedASDwithDelay registers the conversation shift as prediction error
+MixedASDwithDelay_5_99,MX,Mixed ASD with developmental delay,A20,0,0.9961,5,MixedASDwithDelay generates a disproportionate disruption signal
+MixedASDwithDelay_1_3,MX,Mixed ASD with developmental delay,A23,1,0.9976,1,MixedASDwithDelay fails to detect the unspoken sarcastic intent
+MixedASDwithDelay_2_13,MX,Mixed ASD with developmental delay,A18,1,0.9977,2,MixedASDwithDelay cannot retrieve a matching pragmatic rule
+MixedASDwithDelay_3_34,MX,Mixed ASD with developmental delay,A18,1,0.9972,3,MixedASDwithDelay cannot infer the classmate's intended meaning
+MixedASDwithDelay_4_72,MX,Mixed ASD with developmental delay,A17,1,0.9977,4,MixedASDwithDelay defaults to the sarcastic statement's literal meaning
+MixedASDwithDelay_5_139,MX,Mixed ASD with developmental delay,A18,1,0.9982,5,MixedASDwithDelay responds without matching the intended social meaning
+MixedASDwithDelay_6_237,MX,Mixed ASD with developmental delay,A21,1,0.9976,6,"MixedASDwithDelay may treat the mismatch as failure, blocking learning"
+MixedASDwithDelay_4_73,MX,Mixed ASD with developmental delay,A23,1,0.9981,4,MixedASDwithDelay cannot apply the unspoken social expectation
+MixedASDwithDelay_5_128,MX,Mixed ASD with developmental delay,A23,1,0.9881,5,MixedASDwithDelay defaults to explicit stated rules instead
+MixedASDwithDelay_3_35,MX,Mixed ASD with developmental delay,A23,1,0.9934,3,MixedASDwithDelay applies only explicit stated rules here
+MixedASDwithDelay_2_14,MX,Mixed ASD with developmental delay,A23,1,0.9971,2,MixedASDwithDelay treats the literal statement as the actual message
+MixedASDwithDelay_3_21,MX,Mixed ASD with developmental delay,A17,1,0.9941,3,MixedASDwithDelay does not perform additional inferential decoding
+MixedASDwithDelay_3_23,MX,Mixed ASD with developmental delay,A17,1,0.9979,3,MixedASDwithDelay formulates a response based on literal content
+MixedASDwithDelay_4_44,MX,Mixed ASD with developmental delay,A17,1,0.998,4,MixedASDwithDelay's response mismatches the classmate's intended meaning
+MixedASDwithDelay_4_45,MX,Mixed ASD with developmental delay,A18,1,0.9902,4,MixedASDwithDelay cannot retrieve a social rule flagging the mismatch
+MixedASDwithDelay_5_129,MX,Mixed ASD with developmental delay,A18,1,0.9954,5,MixedASDwithDelay proceeds without conscious matching to social norms
+MixedASDwithDelay_5_130,MX,Mixed ASD with developmental delay,A23,1,0.9955,5,MixedASDwithDelay's response will violate unspoken social expectations
+MixedASDwithDelay_6_228,MX,Mixed ASD with developmental delay,A22,1,0.9961,6,MixedASDwithDelay will repeat literal responses in future sarcasm contexts
+MixedASDwithDelay_5_131,MX,Mixed ASD with developmental delay,A24,0,0.9726,5,MixedASDwithDelay requires explicit corrective feedback to detect the mismatch
+MixedASDwithDelay_4_46,MX,Mixed ASD with developmental delay,A24,1,0.9969,4,MixedASDwithDelay lacks immediate feedback to correct the misunderstanding
+MixedASDwithDelay_5_109,MX,Mixed ASD with developmental delay,A24,1,0.9964,5,MixedASDwithDelay's misunderstanding remains uncorrected without updating
+MixedASDwithDelay_5_110,MX,Mixed ASD with developmental delay,A18,1,0.9948,5,MixedASDwithDelay fails to add sarcasm rule to database
+ModerateAutism_0_0,MO,Moderate autism,,0,0.9845,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains."
+ModerateAutism_1_1,MO,Moderate autism,A17,1,0.9977,1,ModerateAutism processes the sarcastic utterance literally by default
+ModerateAutism_2_4,MO,Moderate autism,A17,1,0.9975,2,ModerateAutism misinterprets the sarcastic statement as truthful
+ModerateAutism_3_14,MO,Moderate autism,A18,1,0.9972,3,ModerateAutism cannot infer the classmate's actual intended meaning
+ModerateAutism_4_50,MO,Moderate autism,A23,1,0.9968,4,ModerateAutism fails to detect the unspoken social expectation
+ModerateAutism_5_99,MO,Moderate autism,A18,1,0.9914,5,ModerateAutism cannot retrieve a matching explicit social rule
+ModerateAutism_5_100,MO,Moderate autism,A23,1,0.9951,5,ModerateAutism continues responding to the literal statement
+ModerateAutism_4_51,MO,Moderate autism,A24,1,0.9977,4,ModerateAutism requires explicit feedback to reinterpret the sarcasm
+ModerateAutism_5_92,MO,Moderate autism,A24,1,0.9977,5,ModerateAutism retains literal meaning absent proximate corrective feedback
+ModerateAutism_6_220,MO,Moderate autism,A22,1,0.9983,6,ModerateAutism cannot generalize this literal meaning to future sarcasm
+ModerateAutism_6_221,MO,Moderate autism,A8,1,0.9968,6,ModerateAutism retains the literal statement as a stable fact
+ModerateAutism_6_222,MO,Moderate autism,A18,1,0.9975,6,ModerateAutism cannot access sarcasm as a social norm entry
+ModerateAutism_5_93,MO,Moderate autism,A18,1,0.9931,5,ModerateAutism stores sarcasm correction as explicit rule entry
+ModerateAutism_6_210,MO,Moderate autism,A22,0,0.9789,6,ModerateAutism cannot generalize this rule to new speakers
+ModerateAutism_6_212,MO,Moderate autism,A23,1,0.9922,6,ModerateAutism reliably applies this explicit sarcasm rule going forward
+ModerateAutism_5_94,MO,Moderate autism,A22,1,0.9982,5,ModerateAutism cannot generalize this correction to new sarcastic contexts
+ModerateAutism_6_214,MO,Moderate autism,A17,1,0.9966,6,ModerateAutism again processes future sarcastic remarks literally
+ModerateAutism_6_215,MO,Moderate autism,A18,1,0.9894,6,ModerateAutism must store each sarcasm instance as separate rule entry
+ModerateAutism_5_95,MO,Moderate autism,A23,1,0.9921,5,ModerateAutism applies the rule only when explicitly matched again
+ModerateAutism_3_15,MO,Moderate autism,A23,1,0.9978,3,ModerateAutism responds based on the literal false content
+ModerateAutism_4_52,MO,Moderate autism,A18,1,0.997,4,ModerateAutism cannot detect the pragmatic mismatch itself
+ModerateAutism_4_53,MO,Moderate autism,A24,0,0.986,4,ModerateAutism requires explicit feedback to correct the response
+ModerateAutism_5_107,MO,Moderate autism,A21,1,0.9967,5,ModerateAutism blocks learning if feedback implies moral fault
+ModerateAutism_4_54,MO,Moderate autism,A22,0,0.9653,4,ModerateAutism will repeat the error in similar contexts
+ModerateAutism_5_159,MO,Moderate autism,A22,1,0.9961,5,ModerateAutism cannot generalize the correction without explicit instruction
+ModerateAutism_3_16,MO,Moderate autism,A17,1,0.9939,3,ModerateAutism does not flag the statement as ironic
+ModerateAutism_4_55,MO,Moderate autism,A17,1,0.9982,4,ModerateAutism responds based on the statement's literal meaning
+ModerateAutism_5_118,MO,Moderate autism,A18,1,0.9956,5,ModerateAutism does not recognize the response as socially mismatched
+ModerateAutism_5_120,MO,Moderate autism,A22,1,0.9975,5,ModerateAutism will not generalize this response to future sarcasm
+ModerateAutism_4_56,MO,Moderate autism,A18,1,0.9975,4,ModerateAutism does not retrieve a sarcasm-detection social rule
+ModerateAutism_5_121,MO,Moderate autism,A18,1,0.9933,5,ModerateAutism cannot apply a social rule to this exchange
+ModerateAutism_5_123,MO,Moderate autism,A24,1,0.9921,5,ModerateAutism receives no feedback signal to update sarcasm processing
+ModerateAutism_4_57,MO,Moderate autism,A23,1,0.9977,4,ModerateAutism fails to apply the group's implicit conversational norm
+ModerateAutism_5_103,MO,Moderate autism,A23,1,0.9966,5,ModerateAutism accepts the sarcastic statement as the group's actual meaning
+ModerateAutism_5_104,MO,Moderate autism,A22,1,0.9935,5,ModerateAutism does not generalize prior norms to this conversation
+ModerateAutism_2_5,MO,Moderate autism,A18,1,0.9916,2,ModerateAutism must consciously retrieve a matching pragmatic rule
+ModerateAutism_3_20,MO,Moderate autism,A22,1,0.9968,3,ModerateAutism cannot generalize a prior sarcasm rule here
+ModerateAutism_4_61,MO,Moderate autism,A22,1,0.9967,4,ModerateAutism requires explicit new instruction to reinterpret sarcasm
+ModerateAutism_5_114,MO,Moderate autism,A24,1,0.9963,5,ModerateAutism requires observable specific feedback to learn sarcasm meaning
+ModerateAutism_6_217,MO,Moderate autism,A21,1,0.9939,6,ModerateAutism requires feedback framed without moral judgment to learn
+ModerateAutism_6_218,MO,Moderate autism,A17,1,0.9982,6,ModerateAutism continues interpreting the utterance literally until feedback arrives
+ModerateAutism_5_115,MO,Moderate autism,A23,1,0.9973,5,ModerateAutism awaits an explicit stated rule about sarcasm
+ModerateAutism_5_116,MO,Moderate autism,A17,1,0.9971,5,ModerateAutism retains the literal interpretation absent new instruction
+ModerateAutism_5_117,MO,Moderate autism,A18,1,0.9973,5,ModerateAutism cannot update its pragmatic rule database autonomously
+ModerateAutism_4_64,MO,Moderate autism,A18,1,0.9973,4,ModerateAutism finds no matching entry in its pragmatic database
+ModerateAutism_5_203,MO,Moderate autism,A23,1,0.9963,5,ModerateAutism treats the unspoken irony as undetected
+ModerateAutism_3_22,MO,Moderate autism,A23,1,0.9955,3,ModerateAutism cannot reliably detect this implicit convention
+ModerateAutism_4_69,MO,Moderate autism,A23,1,0.9981,4,ModerateAutism cannot apply this unspoken social convention
+ModerateAutism_5_179,MO,Moderate autism,A18,1,0.9966,5,ModerateAutism lacks a stored rule for this exchange
+ModerateAutism_5_180,MO,Moderate autism,A20,0,0.9916,5,ModerateAutism generates a prediction error from the mismatched response
+ModerateAutism_4_70,MO,Moderate autism,A22,1,0.9966,4,ModerateAutism requires explicit instruction to reinterpret this utterance
+ModerateAutism_5_126,MO,Moderate autism,A23,1,0.9861,5,ModerateAutism applies the rule once explicitly stated
+ModerateAutism_5_127,MO,Moderate autism,A24,1,0.9976,5,ModerateAutism needs immediate specific feedback to update
+ModerateAutism_1_2,MO,Moderate autism,A18,1,0.9977,1,ModerateAutism must retrieve an explicit rule for sarcasm
+ModerateAutism_2_11,MO,Moderate autism,A18,1,0.9925,2,ModerateAutism searches stored social rules for a matching entry
+ModerateAutism_3_36,MO,Moderate autism,A18,1,0.9974,3,ModerateAutism finds no explicit entry for sarcasm
+ModerateAutism_4_88,MO,Moderate autism,A18,1,0.9948,4,ModerateAutism cannot apply automatic contextual inference to the utterance
+ModerateAutism_5_172,MO,Moderate autism,A17,1,0.9978,5,ModerateAutism interprets the utterance as literally true
+ModerateAutism_3_37,MO,Moderate autism,A17,1,0.9977,3,ModerateAutism defaults to literal interpretation of the utterance
+ModerateAutism_3_38,MO,Moderate autism,A23,1,0.9965,3,ModerateAutism cannot reliably infer the unspoken meaning
+ModerateAutism_4_85,MO,Moderate autism,A18,1,0.9715,4,ModerateAutism cannot apply an unmatched pragmatic rule
+ModerateAutism_5_209,MO,Moderate autism,A24,1,0.986,5,ModerateAutism requires explicit feedback to learn this exchange
+ModerateAutism_4_86,MO,Moderate autism,A24,1,0.9925,4,ModerateAutism requires explicit feedback to learn the meaning
+ModerateAutism_5_187,MO,Moderate autism,A24,1,0.9834,5,ModerateAutism needs observable specific feedback tied to the utterance
+ModerateAutism_2_12,MO,Moderate autism,A22,1,0.9897,2,ModerateAutism cannot apply the rule if context differs from prior learning
+ModerateAutism_3_27,MO,Moderate autism,A22,1,0.9972,3,ModerateAutism requires explicit instruction to re-anchor the rule
+ModerateAutism_4_67,MO,Moderate autism,A24,1,0.9972,4,ModerateAutism needs specific feedback to update sarcasm rule
+ModerateAutism_5_162,MO,Moderate autism,A24,1,0.9907,5,ModerateAutism cannot update the rule without observable feedback
+ModerateAutism_5_164,MO,Moderate autism,A18,1,0.9953,5,ModerateAutism's stored pragmatic rule for sarcasm stays unchanged
+ModerateAutism_2_13,MO,Moderate autism,A23,1,0.9964,2,ModerateAutism fails to interpret sarcasm without an explicit stored rule
+ModerateAutism_3_24,MO,Moderate autism,A18,1,0.9956,3,ModerateAutism cannot infer the speaker's intended social meaning
+ModerateAutism_4_44,MO,Moderate autism,A18,1,0.9953,4,ModerateAutism attempts conscious retrieval of a stored social rule
+ModerateAutism_4_45,MO,Moderate autism,A23,1,0.9983,4,ModerateAutism cannot apply the unspoken sarcastic convention
+ModerateAutism_5_110,MO,Moderate autism,A23,1,0.9976,5,ModerateAutism does not detect the implicit sarcastic expectation
+ModerateAutism_1_3,MO,Moderate autism,A23,1,0.9979,1,ModerateAutism fails to detect the unspoken ironic intent
+ModerateAutism_2_7,MO,Moderate autism,A17,1,0.9979,2,ModerateAutism interprets the sarcastic statement as literally true
+ModerateAutism_3_29,MO,Moderate autism,A17,1,0.9975,3,ModerateAutism stores the literal statement as factual content
+ModerateAutism_4_58,MO,Moderate autism,A8,1,0.9976,4,ModerateAutism retains the literal claim as semantic fact
+ModerateAutism_5_143,MO,Moderate autism,A8,1,0.9961,5,ModerateAutism loses the episodic context of the sarcasm
+ModerateAutism_5_144,MO,Moderate autism,A22,1,0.9875,5,ModerateAutism applies the stored fact in unrelated contexts
+ModerateAutism_5_145,MO,Moderate autism,A17,1,0.996,5,ModerateAutism treats the literal meaning as reliable knowledge
+ModerateAutism_4_59,MO,Moderate autism,A24,1,0.988,4,ModerateAutism cannot correct belief without explicit corrective feedback
+ModerateAutism_5_130,MO,Moderate autism,A22,1,0.998,5,ModerateAutism will not generalize the correction to new contexts
+ModerateAutism_5_131,MO,Moderate autism,A19,1,0.9934,5,ModerateAutism continues acting on the uncorrected belief
+ModerateAutism_4_60,MO,Moderate autism,A22,1,0.9933,4,ModerateAutism will not revise belief across different contexts
+ModerateAutism_5_168,MO,Moderate autism,A22,1,0.992,5,ModerateAutism applies the literal belief in new unrelated contexts
+ModerateAutism_5_169,MO,Moderate autism,A22,1,0.9818,5,ModerateAutism requires explicit instruction to revise the stored belief
+ModerateAutism_5_171,MO,Moderate autism,A8,1,0.9968,5,ModerateAutism retains the literal fact independent of social context
+ModerateAutism_3_30,MO,Moderate autism,A8,1,0.9943,3,ModerateAutism retains the false fact in semantic memory
+ModerateAutism_4_46,MO,Moderate autism,A8,1,0.9948,4,ModerateAutism recalls the false fact as accurate later
+ModerateAutism_5_146,MO,Moderate autism,A24,1,0.9962,5,ModerateAutism will not revise the false fact without explicit feedback
+ModerateAutism_5_147,MO,Moderate autism,A22,0,0.9947,5,ModerateAutism applies the false fact to unrelated new contexts
+ModerateAutism_5_148,MO,Moderate autism,A18,1,0.9938,5,ModerateAutism retrieves the false fact during future social matching
+ModerateAutism_4_47,MO,Moderate autism,A22,1,0.9954,4,ModerateAutism cannot revise the fact without explicit new instruction
+ModerateAutism_5_139,MO,Moderate autism,A22,1,0.9945,5,ModerateAutism continues applying the false fact across contexts
+ModerateAutism_5_142,MO,Moderate autism,A18,1,0.9938,5,ModerateAutism does not spontaneously question the retained false fact
+ModerateAutism_4_48,MO,Moderate autism,A24,1,0.9943,4,ModerateAutism requires specific corrective feedback to update the fact
+ModerateAutism_5_132,MO,Moderate autism,A24,1,0.9955,5,ModerateAutism retains false fact absent observable causal feedback
+ModerateAutism_5_133,MO,Moderate autism,A22,1,0.9956,5,ModerateAutism fails to generalize correction to other sarcastic remarks
+ModerateAutism_5_134,MO,Moderate autism,A21,1,0.996,5,ModerateAutism blocks correction if framed as personal failure
+ModerateAutism_5_135,MO,Moderate autism,A18,1,0.994,5,ModerateAutism requires explicit database entry for this sarcasm instance
+ModerateAutism_3_31,MO,Moderate autism,A18,1,0.9967,3,ModerateAutism cannot retrieve a stored sarcasm-detection rule
+ModerateAutism_4_75,MO,Moderate autism,A18,1,0.9943,4,ModerateAutism cannot consciously match this exchange to a rule
+ModerateAutism_5_193,MO,Moderate autism,A23,1,0.9923,5,ModerateAutism does not apply any implicit social norm here
+ModerateAutism_5_194,MO,Moderate autism,A18,1,0.9907,5,ModerateAutism leaves the exchange without a matched response
+ModerateAutism_4_76,MO,Moderate autism,A22,1,0.998,4,ModerateAutism will not generalize sarcasm detection to new contexts
+ModerateAutism_5_136,MO,Moderate autism,A22,1,0.9969,5,ModerateAutism requires explicit instruction to re-anchor sarcasm detection
+ModerateAutism_6_227,MO,Moderate autism,A24,1,0.9967,6,ModerateAutism needs immediate specific feedback on sarcasm misreads
+ModerateAutism_6_229,MO,Moderate autism,A22,1,0.998,6,ModerateAutism will not apply this rule to differently framed sarcasm
+ModerateAutism_5_137,MO,Moderate autism,A18,1,0.9967,5,ModerateAutism must consciously retrieve a sarcasm rule each time
+ModerateAutism_4_77,MO,Moderate autism,A23,1,0.9976,4,ModerateAutism responds only to the explicit stated words
+ModerateAutism_5_157,MO,Moderate autism,A18,1,0.9958,5,ModerateAutism cannot match this exchange to a stored social rule
+ModerateAutism_5_158,MO,Moderate autism,A23,1,0.9946,5,ModerateAutism treats the literal statement as the operative rule
+ModerateAutism_2_8,MO,Moderate autism,A18,1,0.9957,2,ModerateAutism cannot retrieve a matching pragmatic rule automatically
+ModerateAutism_3_34,MO,Moderate autism,A18,1,0.9965,3,ModerateAutism cannot generate a contextually appropriate social response
+ModerateAutism_4_72,MO,Moderate autism,A20,1,0.987,4,The mismatched response generates a disproportionate prediction error
+ModerateAutism_5_204,MO,Moderate autism,A20,1,0.9946,5,ModerateAutism experiences disruption unrelated to the sarcasm's actual significance
+ModerateAutism_5_205,MO,Moderate autism,A21,0,0.9817,5,ModerateAutism enters threat response if error framed as failure
+ModerateAutism_5_206,MO,Moderate autism,A24,0,0.9796,5,ModerateAutism cannot update its social rules without specific feedback
+ModerateAutism_4_73,MO,Moderate autism,A24,1,0.9854,4,Correcting the response requires immediate explicit feedback
+ModerateAutism_5_198,MO,Moderate autism,A22,1,0.9929,5,ModerateAutism cannot generalize the corrected rule to new contexts
+ModerateAutism_5_199,MO,Moderate autism,A18,0,0.9623,5,ModerateAutism stores the correction as an explicit new rule
+ModerateAutism_4_74,MO,Moderate autism,A22,1,0.994,4,The social miscue will not generalize to future contexts
+ModerateAutism_5_183,MO,Moderate autism,A18,1,0.9965,5,ModerateAutism must re-retrieve the pragmatic rule each occurrence
+ModerateAutism_3_35,MO,Moderate autism,A23,1,0.9942,3,ModerateAutism defaults to the explicit literal meaning stated
+ModerateAutism_4_79,MO,Moderate autism,A18,1,0.9956,4,ModerateAutism cannot match the utterance to a stored norm
+ModerateAutism_5_149,MO,Moderate autism,A22,1,0.9979,5,ModerateAutism cannot generalize this norm to future sarcastic exchanges
+ModerateAutism_5_150,MO,Moderate autism,A24,1,0.9967,5,ModerateAutism requires explicit corrective feedback to update the norm
+ModerateAutism_2_9,MO,Moderate autism,A23,1,0.9969,2,ModerateAutism responds based on the statement's explicit surface meaning
+ModerateAutism_3_17,MO,Moderate autism,A17,1,0.9985,3,ModerateAutism produces a reply mismatched to speaker's intent
+ModerateAutism_4_39,MO,Moderate autism,A23,1,0.997,4,ModerateAutism does not detect classmate's unspoken expectation mismatch
+ModerateAutism_5_97,MO,Moderate autism,A18,1,0.9976,5,ModerateAutism does not retrieve a pragmatic rule entry
+ModerateAutism_5_98,MO,Moderate autism,A22,1,0.9942,5,ModerateAutism does not re-anchor to this social context
+ModerateAutism_4_40,MO,Moderate autism,A24,1,0.996,4,ModerateAutism receives no immediate observable feedback about mismatch
+ModerateAutism_5_175,MO,Moderate autism,A24,1,0.9968,5,ModerateAutism fails to update its sarcasm-response rule
+ModerateAutism_5_176,MO,Moderate autism,A18,1,0.9879,5,ModerateAutism does not store this pragmatic exception
+ModerateAutism_5_177,MO,Moderate autism,A22,0,0.993,5,ModerateAutism will repeat the mismatch in similar contexts
+ModerateAutism_4_41,MO,Moderate autism,A18,1,0.9973,4,ModerateAutism lacks stored database entry for this sarcasm instance
+ModerateAutism_5_166,MO,Moderate autism,A22,1,0.9861,5,ModerateAutism requires explicit instruction to encode this instance
+ModerateAutism_5_167,MO,Moderate autism,A24,1,0.9971,5,ModerateAutism needs specific feedback to update its rules
+ModerateAutism_4_42,MO,Moderate autism,A22,1,0.9971,4,ModerateAutism cannot generalize this reply error to future sarcasm
+ModerateAutism_5_111,MO,Moderate autism,A22,1,0.9952,5,ModerateAutism repeats the same literal-response error again
+ModerateAutism_5_112,MO,Moderate autism,A18,1,0.9937,5,ModerateAutism lacks a stored rule for sarcasm detection
+ModerateAutism_6_233,MO,Moderate autism,A18,1,0.9967,6,ModerateAutism cannot retrieve a matching pragmatic rule for irony
+ModerateAutism_6_234,MO,Moderate autism,A22,0,0.9934,6,ModerateAutism will misinterpret future sarcasm without explicit instruction
+ModerateAutism_6_235,MO,Moderate autism,A23,1,0.997,6,"ModerateAutism relies only on explicit rules, not implicit sarcasm cues"
+ModerateAutism_3_19,MO,Moderate autism,A24,1,0.9947,3,ModerateAutism will not update without explicit corrective feedback
+ModerateAutism_4_81,MO,Moderate autism,A22,1,0.9972,4,ModerateAutism will misread sarcasm again in new contexts
+ModerateAutism_5_192,MO,Moderate autism,A23,1,0.9973,5,ModerateAutism applies literal interpretation unless rule is stated explicitly
+ModerateAutism_4_83,MO,Moderate autism,A24,1,0.9939,4,ModerateAutism requires observable specific feedback to revise interpretation
+NeurotypicalCognition_0_0,NT,Neurotypical,,0,0.5768,0,"A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts."
+NeurotypicalCognition_1_1,NT,Neurotypical,N17,1,0.9937,1,NeurotypicalCognition decodes the sarcasm without additional inferential steps
+NeurotypicalCognition_2_14,NT,Neurotypical,N6,1,0.9834,2,NeurotypicalCognition integrates the sarcasm into the conversation's global meaning
+NeurotypicalCognition_3_27,NT,Neurotypical,N8,0,0.9662,3,NeurotypicalCognition encodes the exchange as a contextual narrative
+NeurotypicalCognition_4_63,NT,Neurotypical,N10,0,0.954,4,NeurotypicalCognition can retrieve the exchange using varied cues
+NeurotypicalCognition_5_121,NT,Neurotypical,N23,1,0.993,5,NeurotypicalCognition uses the retrieved exchange for future social inference
+NeurotypicalCognition_5_122,NT,Neurotypical,N9,0,0.8757,5,NeurotypicalCognition retrieves the exchange regardless of memory modality
+NeurotypicalCognition_6_257,NT,Neurotypical,N24,0,0.9876,6,NeurotypicalCognition uses the retrieved exchange as feedback
+NeurotypicalCognition_4_65,NT,Neurotypical,N8,0,0.9949,4,NeurotypicalCognition retains the exchange as semantic knowledge
+NeurotypicalCognition_5_109,NT,Neurotypical,N10,1,0.9925,5,NeurotypicalCognition can retrieve the exchange without visual cues
+NeurotypicalCognition_6_180,NT,Neurotypical,N22,0,0.9833,6,NeurotypicalCognition generalizes the sarcasm-decoding rule to new contexts
+NeurotypicalCognition_6_181,NT,Neurotypical,N23,1,0.9884,6,NeurotypicalCognition computes implicit social expectations from the exchange
+NeurotypicalCognition_6_182,NT,Neurotypical,N9,0,0.9795,6,NeurotypicalCognition retrieves the exchange equally well via verbal cues
+NeurotypicalCognition_5_110,NT,Neurotypical,N18,1,0.9886,5,NeurotypicalCognition refines social norm expectations from the exchange
+NeurotypicalCognition_6_172,NT,Neurotypical,N23,0,0.9952,6,NeurotypicalCognition computes updated behavioral expectations without explicit statement
+NeurotypicalCognition_3_29,NT,Neurotypical,N22,1,0.9973,3,NeurotypicalCognition transfers this sarcasm interpretation to future contexts
+NeurotypicalCognition_1_2,NT,Neurotypical,N18,0,0.9853,1,NeurotypicalCognition detects norm relevance of the sarcastic remark automatically
+NeurotypicalCognition_2_10,NT,Neurotypical,N23,0,0.9885,2,NeurotypicalCognition computes the implicit social expectation behind the remark
+NeurotypicalCognition_3_20,NT,Neurotypical,N17,1,0.9832,3,NeurotypicalCognition decodes the sarcastic remark's intended meaning automatically
+NeurotypicalCognition_3_21,NT,Neurotypical,N18,1,0.9857,3,NeurotypicalCognition checks the remark against acquired social norms
+NeurotypicalCognition_4_55,NT,Neurotypical,N18,0,0.9752,4,NeurotypicalCognition detects whether the remark violates norms
+NeurotypicalCognition_3_22,NT,Neurotypical,N4,0,0.9851,3,NeurotypicalCognition integrates the remark's meaning with ongoing conversational context
+NeurotypicalCognition_2_11,NT,Neurotypical,N4,1,0.9905,2,NeurotypicalCognition integrates the sarcasm with ongoing social context
+NeurotypicalCognition_3_24,NT,Neurotypical,N23,0,0.9951,3,NeurotypicalCognition infers the speaker's implicit social intent
+NeurotypicalCognition_4_53,NT,Neurotypical,N18,0,0.9813,4,NeurotypicalCognition checks the remark against social norms automatically
+NeurotypicalCognition_5_92,NT,Neurotypical,N18,1,0.9735,5,NeurotypicalCognition detects no social norm violation occurred
+NeurotypicalCognition_6_166,NT,Neurotypical,N19,0,0.9821,6,NeurotypicalCognition proceeds with the conversation without disruption
+NeurotypicalCognition_5_93,NT,Neurotypical,N23,0,0.9831,5,NeurotypicalCognition computes the implicit behavioral expectation involved
+NeurotypicalCognition_6_147,NT,Neurotypical,N23,1,0.9942,6,NeurotypicalCognition resolves the social expectation without explicit statement
+NeurotypicalCognition_3_25,NT,Neurotypical,N6,1,0.9958,3,NeurotypicalCognition interprets the remark using surrounding context
+NeurotypicalCognition_4_58,NT,Neurotypical,N6,0,0.9767,4,NeurotypicalCognition derives the intended meaning from global context
+NeurotypicalCognition_5_103,NT,Neurotypical,N15,0,0.9834,5,NeurotypicalCognition automatically mirrors the emotional tone conveyed
+NeurotypicalCognition_6_160,NT,Neurotypical,N18,0,0.9487,6,NeurotypicalCognition detects whether the sarcasm violates social norms
+NeurotypicalCognition_4_59,NT,Neurotypical,N18,1,0.9884,4,NeurotypicalCognition registers the remark as consistent with social norms
+NeurotypicalCognition_5_94,NT,Neurotypical,N20,0,0.4818,5,NeurotypicalCognition generates minimal prediction error from the remark
+NeurotypicalCognition_6_167,NT,Neurotypical,N20,0,0.9886,6,NeurotypicalCognition resolves the discrepancy through rapid contextual updating
+NeurotypicalCognition_6_169,NT,Neurotypical,N4,0,0.9652,6,NeurotypicalCognition continues integrating the conversation without disruption
+NeurotypicalCognition_5_96,NT,Neurotypical,N18,1,0.959,5,NeurotypicalCognition continues social participation without correction needed
+NeurotypicalCognition_6_151,NT,Neurotypical,N11,1,0.9932,6,NeurotypicalCognition redirects attention to next social signal
+NeurotypicalCognition_7_262,NT,Neurotypical,N4,0,0.9764,7,NeurotypicalCognition integrates new verbal and social information simultaneously
+NeurotypicalCognition_7_263,NT,Neurotypical,N3,0,0.7936,7,NeurotypicalCognition binds the new social signal into a unified percept
+NeurotypicalCognition_7_264,NT,Neurotypical,N15,0,0.9737,7,NeurotypicalCognition automatically mirrors the next speaker's emotion
+NeurotypicalCognition_7_265,NT,Neurotypical,N18,0,0.9294,7,NeurotypicalCognition continues monitoring for norm violations automatically
+NeurotypicalCognition_6_152,NT,Neurotypical,N12,0,0.984,6,NeurotypicalCognition sustains behavior aligned with peer affiliation
+NeurotypicalCognition_6_153,NT,Neurotypical,N18,0,0.9903,6,NeurotypicalCognition reinforces acquired norm through continued participation
+NeurotypicalCognition_5_97,NT,Neurotypical,N22,1,0.9896,5,NeurotypicalCognition generalizes this norm to future sarcastic remarks
+NeurotypicalCognition_6_142,NT,Neurotypical,N22,0,0.9802,6,NeurotypicalCognition applies this norm across differing conversational contexts
+NeurotypicalCognition_7_207,NT,Neurotypical,N22,1,0.9955,7,NeurotypicalCognition recognizes future sarcasm without explicit re-anchoring
+NeurotypicalCognition_6_144,NT,Neurotypical,N18,0,0.9811,6,NeurotypicalCognition detects future sarcasm violations through social feedback automatically
+NeurotypicalCognition_7_254,NT,Neurotypical,N18,0,0.9946,7,NeurotypicalCognition updates social expectations for future sarcasm norms
+NeurotypicalCognition_7_255,NT,Neurotypical,N22,0,0.4901,7,NeurotypicalCognition transfers this norm across new social contexts
+NeurotypicalCognition_2_12,NT,Neurotypical,N15,1,0.9706,2,NeurotypicalCognition mirrors the emotional tone of the sarcastic remark
+NeurotypicalCognition_3_40,NT,Neurotypical,N14,0,0.9933,3,NeurotypicalCognition labels the identified emotional tone explicitly
+NeurotypicalCognition_3_41,NT,Neurotypical,N16,0,0.9189,3,NeurotypicalCognition generates its emotional response with minimal delay
+NeurotypicalCognition_4_89,NT,Neurotypical,N14,0,0.9917,4,NeurotypicalCognition labels its emotional reaction as communicable information
+NeurotypicalCognition_5_149,NT,Neurotypical,N18,1,0.9939,5,NeurotypicalCognition's expressed reaction becomes subject to social feedback
+NeurotypicalCognition_6_250,NT,Neurotypical,N18,1,0.9891,6,NeurotypicalCognition detects whether its reaction violated social norms
+NeurotypicalCognition_5_150,NT,Neurotypical,N24,0,0.9862,5,NeurotypicalCognition monitors social cues to interpret resulting feedback
+NeurotypicalCognition_6_246,NT,Neurotypical,N24,1,0.9827,6,NeurotypicalCognition supplements vague feedback through self-monitoring
+NeurotypicalCognition_6_249,NT,Neurotypical,N17,1,0.9946,6,NeurotypicalCognition confirms the sarcastic remark's intended meaning
+NeurotypicalCognition_1_3,NT,Neurotypical,N23,1,0.991,1,NeurotypicalCognition computes implicit social meaning of the sarcasm
+NeurotypicalCognition_2_6,NT,Neurotypical,N16,0,0.7972,2,NeurotypicalCognition generates an emotional response synchronously with the remark
+NeurotypicalCognition_3_32,NT,Neurotypical,N12,0,0.9859,3,NeurotypicalCognition anticipates social consequences of its reaction
+NeurotypicalCognition_4_69,NT,Neurotypical,N12,0,0.9362,4,NeurotypicalCognition regulates its reaction based on anticipated approval
+NeurotypicalCognition_5_130,NT,Neurotypical,N18,0,0.9888,5,NeurotypicalCognition aligns its response with acquired social norms
+NeurotypicalCognition_6_200,NT,Neurotypical,N22,1,0.9954,6,NeurotypicalCognition transfers this norm alignment to future sarcasm instances
+NeurotypicalCognition_5_131,NT,Neurotypical,N23,1,0.9912,5,NeurotypicalCognition infers the expected reaction without explicit statement
+NeurotypicalCognition_6_242,NT,Neurotypical,N23,1,0.985,6,NeurotypicalCognition selects a socially appropriate response
+NeurotypicalCognition_6_243,NT,Neurotypical,N12,0,0.9943,6,NeurotypicalCognition adjusts its reply to gain peer approval
+NeurotypicalCognition_6_244,NT,Neurotypical,N17,1,0.9882,6,NeurotypicalCognition responds in kind to the sarcastic remark
+NeurotypicalCognition_4_70,NT,Neurotypical,N23,0,0.9878,4,NeurotypicalCognition computes the socially expected response
+NeurotypicalCognition_5_114,NT,Neurotypical,N12,0,0.9895,5,NeurotypicalCognition enacts the socially expected response
+NeurotypicalCognition_6_176,NT,Neurotypical,N24,1,0.9856,6,NeurotypicalCognition integrates social feedback following the enacted response
+NeurotypicalCognition_6_177,NT,Neurotypical,N22,0,0.9679,6,NeurotypicalCognition generalizes this response pattern to future similar exchanges
+NeurotypicalCognition_5_115,NT,Neurotypical,N24,0,0.5851,5,NeurotypicalCognition monitors social feedback to confirm alignment
+NeurotypicalCognition_6_205,NT,Neurotypical,N21,0,0.9868,6,NeurotypicalCognition treats mismatched feedback as correctable information
+NeurotypicalCognition_6_206,NT,Neurotypical,N7,0,0.9754,6,NeurotypicalCognition adjusts future updating based on feedback volatility
+NeurotypicalCognition_5_116,NT,Neurotypical,N18,0,0.8449,5,NeurotypicalCognition expects automatic detection of norm violations
+NeurotypicalCognition_6_220,NT,Neurotypical,N21,0,0.8929,6,NeurotypicalCognition treats any detected violation as correctable information
+NeurotypicalCognition_4_71,NT,Neurotypical,N18,0,0.9762,4,NeurotypicalCognition calibrates its reply to match social norms
+NeurotypicalCognition_5_111,NT,Neurotypical,N18,0,0.9725,5,NeurotypicalCognition expects automatic social feedback on its reply
+NeurotypicalCognition_6_175,NT,Neurotypical,N21,0,0.9525,6,NeurotypicalCognition treats resulting feedback as correction information
+NeurotypicalCognition_5_112,NT,Neurotypical,N24,0,0.9698,5,NeurotypicalCognition monitors peer reactions to refine its response
+NeurotypicalCognition_6_201,NT,Neurotypical,N24,0,0.9499,6,NeurotypicalCognition integrates peer feedback to adjust its response
+NeurotypicalCognition_6_203,NT,Neurotypical,N21,0,0.9667,6,NeurotypicalCognition treats reaction mismatches as correction cues
+NeurotypicalCognition_5_113,NT,Neurotypical,N21,0,0.9859,5,NeurotypicalCognition treats any misfire as correctable social information
+NeurotypicalCognition_6_186,NT,Neurotypical,N21,0,0.2659,6,NeurotypicalCognition corrects the misfire without system shutdown
+NeurotypicalCognition_6_187,NT,Neurotypical,N22,0,0.9885,6,NeurotypicalCognition generalizes this correction to future conversations
+NeurotypicalCognition_2_7,NT,Neurotypical,N15,0,0.4569,2,NeurotypicalCognition automatically mirrors the classmate's affective tone
+NeurotypicalCognition_2_8,NT,Neurotypical,N14,1,0.9942,2,NeurotypicalCognition labels its own emotional reaction to the sarcasm
+NeurotypicalCognition_3_34,NT,Neurotypical,N12,0,0.9919,3,NeurotypicalCognition regulates its response based on anticipated social consequences
+NeurotypicalCognition_4_72,NT,Neurotypical,N12,1,0.994,4,NeurotypicalCognition produces a socially calibrated response
+NeurotypicalCognition_5_117,NT,Neurotypical,N18,0,0.9888,5,NeurotypicalCognition receives social feedback confirming norm compliance
+NeurotypicalCognition_6_195,NT,Neurotypical,N18,0,0.9582,6,NeurotypicalCognition reinforces the acquired social norm
+NeurotypicalCognition_5_118,NT,Neurotypical,N24,0,0.2623,5,NeurotypicalCognition monitors classmate reactions to calibrate future responses
+NeurotypicalCognition_6_225,NT,Neurotypical,N24,1,0.9611,6,NeurotypicalCognition supplements ambiguous classmate feedback with social inference
+NeurotypicalCognition_6_226,NT,Neurotypical,N23,0,0.9372,6,NeurotypicalCognition updates its implicit social norm model
+NeurotypicalCognition_6_227,NT,Neurotypical,N18,0,0.9897,6,NeurotypicalCognition detects norm violations through classmate feedback
+NeurotypicalCognition_6_228,NT,Neurotypical,N21,0,0.9384,6,NeurotypicalCognition treats mismatched reactions as correctable error
+NeurotypicalCognition_5_119,NT,Neurotypical,N12,0,0.9821,5,NeurotypicalCognition anticipates continued peer approval from this response
+NeurotypicalCognition_6_229,NT,Neurotypical,N12,0,0.9769,6,NeurotypicalCognition reinforces the response as socially rewarded behavior
+NeurotypicalCognition_6_230,NT,Neurotypical,N18,0,0.9726,6,NeurotypicalCognition treats the approval as confirmation of norm compliance
+NeurotypicalCognition_4_73,NT,Neurotypical,N18,0,0.9876,4,NeurotypicalCognition monitors social feedback for norm violations
+NeurotypicalCognition_5_127,NT,Neurotypical,N21,0,0.9831,5,NeurotypicalCognition experiences mild discomfort motivating correction if erring
+NeurotypicalCognition_5_128,NT,Neurotypical,N23,0,0.991,5,NeurotypicalCognition infers implicit expectations from the social feedback
+NeurotypicalCognition_6_213,NT,Neurotypical,N22,1,0.984,6,NeurotypicalCognition generalizes the inferred expectation across contexts
+NeurotypicalCognition_6_214,NT,Neurotypical,N21,0,0.6611,6,NeurotypicalCognition treats any norm mismatch as correctable information
+NeurotypicalCognition_6_215,NT,Neurotypical,N18,0,0.9568,6,NeurotypicalCognition updates its social norm model automatically
+NeurotypicalCognition_4_74,NT,Neurotypical,N21,0,0.9893,4,NeurotypicalCognition treats resulting error as corrective information
+NeurotypicalCognition_5_135,NT,Neurotypical,N21,0,0.4066,5,NeurotypicalCognition corrects response without system shutdown
+NeurotypicalCognition_5_136,NT,Neurotypical,N22,0,0.9467,5,NeurotypicalCognition generalizes the corrected response across future contexts
+NeurotypicalCognition_6_239,NT,Neurotypical,N22,1,0.9937,6,NeurotypicalCognition applies the sarcasm-response rule without re-anchoring
+NeurotypicalCognition_5_137,NT,Neurotypical,N18,0,0.9799,5,NeurotypicalCognition updates norm expectations from the social feedback
+NeurotypicalCognition_6_261,NT,Neurotypical,N23,1,0.9954,6,NeurotypicalCognition computes revised social expectations without explicit statement
+NeurotypicalCognition_3_35,NT,Neurotypical,N15,1,0.8708,3,NeurotypicalCognition mirrors the classmate's underlying emotional tone
+NeurotypicalCognition_1_4,NT,Neurotypical,N15,0,0.9426,1,NeurotypicalCognition automatically mirrors classmates' emotional reactions to the sarcasm
+NeurotypicalCognition_2_17,NT,Neurotypical,N14,0,0.9921,2,NeurotypicalCognition labels its mirrored emotional state explicitly
+NeurotypicalCognition_3_46,NT,Neurotypical,N14,0,0.9966,3,NeurotypicalCognition can communicate its labeled emotional state
+NeurotypicalCognition_4_98,NT,Neurotypical,N12,0,0.9867,4,NeurotypicalCognition regulates its behavior via anticipated peer reactions
+NeurotypicalCognition_5_162,NT,Neurotypical,N12,1,0.9939,5,NeurotypicalCognition suppresses reactions likely to draw peer disapproval
+NeurotypicalCognition_4_99,NT,Neurotypical,N18,0,0.977,4,NeurotypicalCognition receives automatic social feedback on the expressed emotion
+NeurotypicalCognition_5_155,NT,Neurotypical,N24,1,0.984,5,NeurotypicalCognition integrates the feedback through self-monitoring and inference
+NeurotypicalCognition_5_156,NT,Neurotypical,N18,0,0.9817,5,NeurotypicalCognition detects any norm violation from the feedback
+NeurotypicalCognition_5_157,NT,Neurotypical,N21,0,0.9763,5,NeurotypicalCognition uses feedback to motivate behavioral correction
+NeurotypicalCognition_2_19,NT,Neurotypical,N18,1,0.9932,2,NeurotypicalCognition registers the sarcasm as a normal social exchange
+NeurotypicalCognition_3_43,NT,Neurotypical,N18,1,0.9902,3,NeurotypicalCognition continues participating without flagging a norm violation
+NeurotypicalCognition_4_87,NT,Neurotypical,N11,0,0.9925,4,NeurotypicalCognition remains attentive to further social signals
+NeurotypicalCognition_5_132,NT,Neurotypical,N11,0,0.9923,5,NeurotypicalCognition flexibly redirects focus toward new social cues
+NeurotypicalCognition_6_210,NT,Neurotypical,N4,0,0.9836,6,NeurotypicalCognition integrates new verbal and social cues simultaneously
+NeurotypicalCognition_6_211,NT,Neurotypical,N6,0,0.9802,6,NeurotypicalCognition extracts updated context meaning automatically
+NeurotypicalCognition_6_212,NT,Neurotypical,N23,1,0.9736,6,NeurotypicalCognition computes implicit expectations for the new exchange
+NeurotypicalCognition_5_134,NT,Neurotypical,N23,1,0.9901,5,NeurotypicalCognition infers unspoken behavioral expectations from ongoing interaction
+NeurotypicalCognition_6_237,NT,Neurotypical,N23,0,0.9687,6,NeurotypicalCognition adjusts behavior to match inferred social expectations
+NeurotypicalCognition_3_44,NT,Neurotypical,N22,1,0.9924,3,NeurotypicalCognition applies this sarcasm-decoding pattern to future exchanges
+NeurotypicalCognition_4_75,NT,Neurotypical,N22,0,0.9835,4,NeurotypicalCognition transfers sarcasm-decoding to novel conversational contexts
+NeurotypicalCognition_5_123,NT,Neurotypical,N22,1,0.9959,5,NeurotypicalCognition decodes sarcasm without explicit re-anchoring in new settings
+NeurotypicalCognition_6_192,NT,Neurotypical,N6,1,0.9923,6,NeurotypicalCognition extracts the intended meaning from context automatically
+NeurotypicalCognition_6_193,NT,Neurotypical,N16,1,0.9885,6,NeurotypicalCognition responds to the sarcasm with minimal delay
+NeurotypicalCognition_5_124,NT,Neurotypical,N17,1,0.9941,5,NeurotypicalCognition decodes future indirect speech without extra inferential steps
+NeurotypicalCognition_6_189,NT,Neurotypical,N4,0,0.9632,6,NeurotypicalCognition integrates the sarcasm smoothly into ongoing conversation
+NeurotypicalCognition_5_125,NT,Neurotypical,N18,0,0.9722,5,NeurotypicalCognition detects norm violations in new sarcastic exchanges automatically
+NeurotypicalCognition_6_224,NT,Neurotypical,N23,0,0.9942,6,NeurotypicalCognition infers the appropriate social response without explicit rules
+NeurotypicalCognition_4_77,NT,Neurotypical,N18,1,0.9883,4,NeurotypicalCognition flags atypical sarcasm use as a norm violation
+NeurotypicalCognition_5_138,NT,Neurotypical,N20,0,0.9767,5,NeurotypicalCognition generates a prediction error from the violation
+NeurotypicalCognition_5_139,NT,Neurotypical,N20,0,0.4008,5,NeurotypicalCognition rapidly updates its social context model
+NeurotypicalCognition_6_216,NT,Neurotypical,N20,0,0.9931,6,NeurotypicalCognition resolves the prediction error from the atypical sarcasm
+NeurotypicalCognition_6_217,NT,Neurotypical,N22,0,0.9755,6,NeurotypicalCognition generalizes the updated norm across future contexts
+NeurotypicalCognition_6_218,NT,Neurotypical,N7,0,0.1134,6,NeurotypicalCognition consolidates the updated model as volatility decreases
+NeurotypicalCognition_5_140,NT,Neurotypical,N21,0,0.9859,5,NeurotypicalCognition experiences mild discomfort motivating social correction
+NeurotypicalCognition_5_141,NT,Neurotypical,N18,0,0.9804,5,NeurotypicalCognition relies on social feedback to confirm the violation
+SocialBehavioralAutism_0_0,SB,Social/Behavioral autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing."
+SocialBehavioralAutism_1_1,SB,Social/Behavioral autism,A17,1,0.9977,1,SocialBehavioralAutism processes the sarcastic statement literally by default
+SocialBehavioralAutism_2_5,SB,Social/Behavioral autism,A17,1,0.9959,2,SocialBehavioralAutism requires extra inferential steps to detect sarcasm
+SocialBehavioralAutism_3_30,SB,Social/Behavioral autism,A17,1,0.9974,3,SocialBehavioralAutism first registers the literal meaning as true
+SocialBehavioralAutism_4_65,SB,Social/Behavioral autism,A18,1,0.9948,4,SocialBehavioralAutism must consciously retrieve pragmatic rules for sarcasm
+SocialBehavioralAutism_5_128,SB,Social/Behavioral autism,A18,0,0.9918,5,SocialBehavioralAutism searches stored rules for matching sarcasm entry
+SocialBehavioralAutism_5_129,SB,Social/Behavioral autism,A16,1,0.998,5,SocialBehavioralAutism's recognition of the sarcasm is delayed
+SocialBehavioralAutism_2_6,SB,Social/Behavioral autism,A18,1,0.9931,2,SocialBehavioralAutism must consciously retrieve a stored pragmatic rule
+SocialBehavioralAutism_3_19,SB,Social/Behavioral autism,A18,1,0.9913,3,SocialBehavioralAutism requires effortful conscious matching to interpret sarcasm
+SocialBehavioralAutism_4_41,SB,Social/Behavioral autism,A16,1,0.9974,4,SocialBehavioralAutism responds to the sarcasm after a delay
+SocialBehavioralAutism_5_85,SB,Social/Behavioral autism,A16,1,0.9982,5,SocialBehavioralAutism's reply arrives after the conversational moment passes
+SocialBehavioralAutism_6_224,SB,Social/Behavioral autism,A8,1,0.9977,6,SocialBehavioralAutism retains few episodic details of this exchange
+SocialBehavioralAutism_6_225,SB,Social/Behavioral autism,A22,1,0.9977,6,SocialBehavioralAutism cannot automatically apply this decoding to new sarcasm
+SocialBehavioralAutism_6_226,SB,Social/Behavioral autism,A16,1,0.9951,6,SocialBehavioralAutism's social response is decoupled from real-time exchange
+SocialBehavioralAutism_5_86,SB,Social/Behavioral autism,A22,1,0.9977,5,SocialBehavioralAutism cannot apply this sarcasm interpretation to new contexts automatically
+SocialBehavioralAutism_6_218,SB,Social/Behavioral autism,A18,1,0.9965,6,SocialBehavioralAutism must re-retrieve the pragmatic rule each new instance
+SocialBehavioralAutism_6_219,SB,Social/Behavioral autism,A23,1,0.997,6,SocialBehavioralAutism relies on explicit rules rather than inferred conventions
+SocialBehavioralAutism_5_87,SB,Social/Behavioral autism,A11,0,0.9915,5,SocialBehavioralAutism depletes effortful attention resources during this exchange
+SocialBehavioralAutism_4_42,SB,Social/Behavioral autism,A18,1,0.9964,4,SocialBehavioralAutism fails to interpret sarcasm without a stored rule
+SocialBehavioralAutism_5_77,SB,Social/Behavioral autism,A17,1,0.9979,5,SocialBehavioralAutism accepts the sarcastic statement as literally true
+SocialBehavioralAutism_6_221,SB,Social/Behavioral autism,A16,1,0.9969,6,SocialBehavioralAutism recognizes the mismatch only after a delay
+SocialBehavioralAutism_6_223,SB,Social/Behavioral autism,A24,1,0.9977,6,SocialBehavioralAutism retains the literal interpretation without corrective feedback
+SocialBehavioralAutism_5_79,SB,Social/Behavioral autism,A22,1,0.9972,5,SocialBehavioralAutism will misinterpret sarcasm in future differing contexts
+SocialBehavioralAutism_6_195,SB,Social/Behavioral autism,A22,1,0.998,6,SocialBehavioralAutism requires explicit re-instruction for each new context
+SocialBehavioralAutism_6_196,SB,Social/Behavioral autism,A18,1,0.9932,6,SocialBehavioralAutism stores each sarcasm instance as separate rule entry
+SocialBehavioralAutism_6_197,SB,Social/Behavioral autism,A21,1,0.9976,6,SocialBehavioralAutism blocks learning if misinterpretation is framed as failure
+SocialBehavioralAutism_5_80,SB,Social/Behavioral autism,A18,1,0.9966,5,SocialBehavioralAutism requires explicit instruction to reinterpret the remark
+SocialBehavioralAutism_6_183,SB,Social/Behavioral autism,A17,1,0.9981,6,SocialBehavioralAutism retains the literal meaning of the remark
+SocialBehavioralAutism_6_184,SB,Social/Behavioral autism,A18,1,0.9983,6,SocialBehavioralAutism does not update its pragmatic rule database
+SocialBehavioralAutism_4_43,SB,Social/Behavioral autism,A11,0,0.9497,4,SocialBehavioralAutism expends significant effortful control sustaining this analysis
+SocialBehavioralAutism_5_107,SB,Social/Behavioral autism,A11,0,0.9697,5,SocialBehavioralAutism cannot sustain this effortful attention indefinitely
+SocialBehavioralAutism_5_109,SB,Social/Behavioral autism,A18,0,0.9963,5,SocialBehavioralAutism applies the matched rule to respond
+SocialBehavioralAutism_3_20,SB,Social/Behavioral autism,A22,1,0.9897,3,SocialBehavioralAutism fails if sarcasm context differs from prior instruction
+SocialBehavioralAutism_4_47,SB,Social/Behavioral autism,A22,1,0.9976,4,SocialBehavioralAutism cannot generalize the sarcasm rule further
+SocialBehavioralAutism_5_138,SB,Social/Behavioral autism,A22,1,0.9975,5,SocialBehavioralAutism requires explicit re-instruction for this sarcasm context
+SocialBehavioralAutism_5_139,SB,Social/Behavioral autism,A18,1,0.9937,5,SocialBehavioralAutism treats sarcasm as an incomplete database entry
+SocialBehavioralAutism_5_140,SB,Social/Behavioral autism,A24,1,0.9963,5,SocialBehavioralAutism needs specific proximate feedback to update the rule
+SocialBehavioralAutism_4_48,SB,Social/Behavioral autism,A21,1,0.9978,4,SocialBehavioralAutism learning halts if failure framed as shame
+SocialBehavioralAutism_5_152,SB,Social/Behavioral autism,A21,1,0.993,5,SocialBehavioralAutism activates threat response instead of learning
+SocialBehavioralAutism_5_154,SB,Social/Behavioral autism,A24,1,0.9909,5,SocialBehavioralAutism's feedback fails to update its behavior
+SocialBehavioralAutism_4_49,SB,Social/Behavioral autism,A24,1,0.9976,4,SocialBehavioralAutism requires immediate explicit feedback to update rule
+SocialBehavioralAutism_5_142,SB,Social/Behavioral autism,A24,1,0.9954,5,SocialBehavioralAutism fails to update the sarcasm rule now
+SocialBehavioralAutism_5_144,SB,Social/Behavioral autism,A21,1,0.9941,5,SocialBehavioralAutism blocks learning if correction implies shame
+SocialBehavioralAutism_4_50,SB,Social/Behavioral autism,A17,1,0.9976,4,SocialBehavioralAutism interprets the sarcastic statement as sincere
+SocialBehavioralAutism_5_89,SB,Social/Behavioral autism,A18,1,0.9982,5,SocialBehavioralAutism's reply mismatches the group's intended social meaning
+SocialBehavioralAutism_5_90,SB,Social/Behavioral autism,A24,1,0.9961,5,SocialBehavioralAutism cannot update without explicit corrective feedback
+SocialBehavioralAutism_5_91,SB,Social/Behavioral autism,A16,1,0.9962,5,SocialBehavioralAutism's emotional reaction surfaces well after the exchange
+SocialBehavioralAutism_5_92,SB,Social/Behavioral autism,A8,0,0.9943,5,SocialBehavioralAutism encodes this social exchange weakly in memory
+SocialBehavioralAutism_6_211,SB,Social/Behavioral autism,A10,1,0.9961,6,SocialBehavioralAutism cannot retrieve this exchange without visual cues
+SocialBehavioralAutism_6_213,SB,Social/Behavioral autism,A8,1,0.9936,6,"SocialBehavioralAutism retains the underlying fact, not the social narrative"
+SocialBehavioralAutism_2_7,SB,Social/Behavioral autism,A23,1,0.9976,2,SocialBehavioralAutism fails to detect the unspoken sarcastic intent
+SocialBehavioralAutism_3_22,SB,Social/Behavioral autism,A17,1,0.9966,3,SocialBehavioralAutism accepts the literal meaning as true
+SocialBehavioralAutism_4_58,SB,Social/Behavioral autism,A17,1,0.9981,4,SocialBehavioralAutism responds according to the literal statement
+SocialBehavioralAutism_5_100,SB,Social/Behavioral autism,A18,1,0.9981,5,SocialBehavioralAutism produces a response mismatched with unspoken expectations
+SocialBehavioralAutism_6_207,SB,Social/Behavioral autism,A24,1,0.9942,6,SocialBehavioralAutism cannot register the mismatch without explicit feedback
+SocialBehavioralAutism_6_208,SB,Social/Behavioral autism,A18,1,0.9966,6,SocialBehavioralAutism lacks a stored rule for this exchange
+SocialBehavioralAutism_5_101,SB,Social/Behavioral autism,A24,1,0.9952,5,SocialBehavioralAutism cannot learn from indirect peer feedback
+SocialBehavioralAutism_5_102,SB,Social/Behavioral autism,A16,0,0.9914,5,SocialBehavioralAutism's emotional reaction to the mismatch is delayed
+SocialBehavioralAutism_4_59,SB,Social/Behavioral autism,A18,1,0.998,4,SocialBehavioralAutism produces a socially mismatched response
+SocialBehavioralAutism_5_162,SB,Social/Behavioral autism,A18,1,0.9854,5,SocialBehavioralAutism cannot self-correct without explicit rule retrieval
+SocialBehavioralAutism_5_163,SB,Social/Behavioral autism,A21,1,0.9961,5,SocialBehavioralAutism blocks learning if mismatch framed as shameful
+SocialBehavioralAutism_5_164,SB,Social/Behavioral autism,A16,1,0.996,5,SocialBehavioralAutism registers the social error only after delay
+SocialBehavioralAutism_4_60,SB,Social/Behavioral autism,A24,1,0.9964,4,SocialBehavioralAutism retains the false belief absent explicit correction
+SocialBehavioralAutism_5_155,SB,Social/Behavioral autism,A8,1,0.9944,5,SocialBehavioralAutism encodes the false belief as stable semantic fact
+SocialBehavioralAutism_5_156,SB,Social/Behavioral autism,A22,1,0.9982,5,SocialBehavioralAutism fails to generalize correction to future sarcasm instances
+SocialBehavioralAutism_3_25,SB,Social/Behavioral autism,A23,1,0.9984,3,SocialBehavioralAutism cannot reliably apply the unspoken sarcasm norm
+SocialBehavioralAutism_4_55,SB,Social/Behavioral autism,A24,1,0.9977,4,SocialBehavioralAutism cannot update the misinterpretation without explicit feedback
+SocialBehavioralAutism_5_151,SB,Social/Behavioral autism,A18,1,0.9973,5,SocialBehavioralAutism requires explicit correction to revise the rule
+SocialBehavioralAutism_4_56,SB,Social/Behavioral autism,A18,1,0.9956,4,SocialBehavioralAutism requires explicit instruction to encode this sarcasm rule
+SocialBehavioralAutism_5_96,SB,Social/Behavioral autism,A22,1,0.9967,5,SocialBehavioralAutism will not generalize this rule to new contexts
+SocialBehavioralAutism_5_97,SB,Social/Behavioral autism,A18,1,0.9924,5,SocialBehavioralAutism stores sarcasm interpretation only as explicit rule
+SocialBehavioralAutism_5_98,SB,Social/Behavioral autism,A24,1,0.9979,5,SocialBehavioralAutism needs immediate specific feedback to encode rule
+SocialBehavioralAutism_6_206,SB,Social/Behavioral autism,A18,1,0.994,6,SocialBehavioralAutism stores sarcasm interpretation as explicit database entry
+SocialBehavioralAutism_4_57,SB,Social/Behavioral autism,A22,1,0.998,4,SocialBehavioralAutism will not generalize sarcasm detection to new contexts
+SocialBehavioralAutism_1_2,SB,Social/Behavioral autism,A18,1,0.9972,1,SocialBehavioralAutism requires explicit rule retrieval to detect sarcasm
+SocialBehavioralAutism_1_3,SB,Social/Behavioral autism,A15,0,0.9915,1,SocialBehavioralAutism treats classmate's tone as data needing inference
+SocialBehavioralAutism_2_8,SB,Social/Behavioral autism,A17,1,0.9981,2,SocialBehavioralAutism first interprets the sarcasm literally
+SocialBehavioralAutism_3_32,SB,Social/Behavioral autism,A17,1,0.9961,3,SocialBehavioralAutism derives the statement's opposite meaning inaccurately
+SocialBehavioralAutism_4_67,SB,Social/Behavioral autism,A17,1,0.9978,4,SocialBehavioralAutism responds based on the inaccurate literal meaning
+SocialBehavioralAutism_5_131,SB,Social/Behavioral autism,A18,1,0.9978,5,SocialBehavioralAutism's response mismatches the group's social expectations
+SocialBehavioralAutism_5_132,SB,Social/Behavioral autism,A22,1,0.9945,5,SocialBehavioralAutism repeats the literal-response error in new contexts
+SocialBehavioralAutism_5_133,SB,Social/Behavioral autism,A24,1,0.9886,5,SocialBehavioralAutism needs immediate specific feedback to correct the error
+SocialBehavioralAutism_5_134,SB,Social/Behavioral autism,A21,1,0.9967,5,Feedback framed as shame blocks SocialBehavioralAutism from learning the error
+SocialBehavioralAutism_4_68,SB,Social/Behavioral autism,A18,1,0.9949,4,SocialBehavioralAutism cannot retrieve a matching rule for sarcasm
+SocialBehavioralAutism_5_177,SB,Social/Behavioral autism,A18,1,0.9978,5,SocialBehavioralAutism flags the sarcasm as an unmatched database entry
+SocialBehavioralAutism_5_178,SB,Social/Behavioral autism,A21,1,0.9911,5,SocialBehavioralAutism risks a threat response if the error is shamed
+SocialBehavioralAutism_4_69,SB,Social/Behavioral autism,A22,1,0.9968,4,SocialBehavioralAutism fails to generalize prior sarcasm exposure here
+SocialBehavioralAutism_5_174,SB,Social/Behavioral autism,A23,1,0.9969,5,SocialBehavioralAutism misses the unspoken sarcastic expectation entirely
+SocialBehavioralAutism_3_33,SB,Social/Behavioral autism,A17,1,0.9962,3,SocialBehavioralAutism requires additional inferential steps to reinterpret
+SocialBehavioralAutism_4_52,SB,Social/Behavioral autism,A18,1,0.9977,4,SocialBehavioralAutism consults stored explicit rules for sarcasm
+SocialBehavioralAutism_5_116,SB,Social/Behavioral autism,A18,1,0.9953,5,SocialBehavioralAutism applies retrieved rule via conscious matching process
+SocialBehavioralAutism_5_118,SB,Social/Behavioral autism,A16,1,0.9922,5,SocialBehavioralAutism delays response until inference completes
+SocialBehavioralAutism_4_53,SB,Social/Behavioral autism,A22,1,0.9934,4,SocialBehavioralAutism cannot generalize this interpretation to new contexts
+SocialBehavioralAutism_5_127,SB,Social/Behavioral autism,A23,1,0.9969,5,SocialBehavioralAutism misses sarcasm cues in unstated new contexts
+SocialBehavioralAutism_2_10,SB,Social/Behavioral autism,A16,1,0.9962,2,SocialBehavioralAutism's interpretive response lags behind the utterance
+SocialBehavioralAutism_3_17,SB,Social/Behavioral autism,A16,1,0.9978,3,SocialBehavioralAutism's reaction arrives after conversation has moved on
+SocialBehavioralAutism_4_35,SB,Social/Behavioral autism,A16,0,0.9931,4,SocialBehavioralAutism responds to a topic already abandoned
+SocialBehavioralAutism_5_81,SB,Social/Behavioral autism,A24,1,0.9923,5,SocialBehavioralAutism receives feedback too delayed to update responding
+SocialBehavioralAutism_5_82,SB,Social/Behavioral autism,A23,1,0.9973,5,SocialBehavioralAutism fails to detect the resulting social mismatch
+SocialBehavioralAutism_5_83,SB,Social/Behavioral autism,A15,1,0.9918,5,SocialBehavioralAutism must now infer classmates' confused reactions
+SocialBehavioralAutism_5_84,SB,Social/Behavioral autism,A18,0,0.9859,5,SocialBehavioralAutism cannot retrieve a rule for this mismatch
+SocialBehavioralAutism_4_36,SB,Social/Behavioral autism,A20,1,0.9977,4,SocialBehavioralAutism registers the conversational shift as prediction error
+SocialBehavioralAutism_5_73,SB,Social/Behavioral autism,A20,0,0.9933,5,SocialBehavioralAutism generates disruption disproportionate to the sarcasm's significance
+SocialBehavioralAutism_6_200,SB,Social/Behavioral autism,A19,1,0.9962,6,SocialBehavioralAutism's ongoing conversational routine becomes disrupted
+SocialBehavioralAutism_6_201,SB,Social/Behavioral autism,A18,1,0.994,6,SocialBehavioralAutism must consciously retrieve a stored social rule
+SocialBehavioralAutism_5_74,SB,Social/Behavioral autism,A18,1,0.9949,5,SocialBehavioralAutism searches explicit rule database for matching response
+SocialBehavioralAutism_5_75,SB,Social/Behavioral autism,A22,1,0.9932,5,SocialBehavioralAutism cannot generalize prior conversational shifts to this instance
+SocialBehavioralAutism_6_186,SB,Social/Behavioral autism,A20,1,0.9981,6,SocialBehavioralAutism registers disproportionate disruption from this conversational shift
+SocialBehavioralAutism_6_187,SB,Social/Behavioral autism,A22,1,0.9886,6,SocialBehavioralAutism requires explicit instruction to re-anchor this context
+SocialBehavioralAutism_5_76,SB,Social/Behavioral autism,A17,1,0.9967,5,SocialBehavioralAutism still processes the sarcastic statement literally
+SocialBehavioralAutism_4_37,SB,Social/Behavioral autism,A18,0,0.7583,4,SocialBehavioralAutism searches stored rules for a delayed reply
+SocialBehavioralAutism_3_18,SB,Social/Behavioral autism,A24,1,0.9945,3,SocialBehavioralAutism cannot use the delayed cue to update meaning
+SocialBehavioralAutism_4_38,SB,Social/Behavioral autism,A17,1,0.9929,4,SocialBehavioralAutism retains the literal meaning as final
+SocialBehavioralAutism_5_103,SB,Social/Behavioral autism,A17,1,0.998,5,SocialBehavioralAutism misidentifies classmate's true communicative intent
+SocialBehavioralAutism_6_215,SB,Social/Behavioral autism,A18,1,0.9948,6,SocialBehavioralAutism cannot match this exchange to stored rules
+SocialBehavioralAutism_6_216,SB,Social/Behavioral autism,A22,1,0.9955,6,SocialBehavioralAutism fails to generalize this exchange to future ones
+SocialBehavioralAutism_4_39,SB,Social/Behavioral autism,A18,1,0.9977,4,SocialBehavioralAutism cannot retrieve a matching pragmatic rule
+SocialBehavioralAutism_5_111,SB,Social/Behavioral autism,A23,1,0.9974,5,SocialBehavioralAutism fails to detect the implicit intended meaning
+SocialBehavioralAutism_6_199,SB,Social/Behavioral autism,A23,1,0.9968,6,SocialBehavioralAutism responds only to the explicit stated words
+SocialBehavioralAutism_1_4,SB,Social/Behavioral autism,A16,1,0.9973,1,SocialBehavioralAutism's recognition of the sarcasm may occur later
+SocialBehavioralAutism_2_12,SB,Social/Behavioral autism,A16,1,0.9979,2,SocialBehavioralAutism produces a delayed reaction to the remark
+SocialBehavioralAutism_3_26,SB,Social/Behavioral autism,A16,1,0.998,3,SocialBehavioralAutism's reaction arrives after the topic changes
+SocialBehavioralAutism_4_61,SB,Social/Behavioral autism,A24,1,0.9878,4,SocialBehavioralAutism cannot receive temporally proximate feedback on the remark
+SocialBehavioralAutism_5_122,SB,Social/Behavioral autism,A24,1,0.9908,5,SocialBehavioralAutism fails to update its behavior from the remark
+SocialBehavioralAutism_5_123,SB,Social/Behavioral autism,A18,1,0.9981,5,SocialBehavioralAutism does not add sarcasm to its rule database
+SocialBehavioralAutism_4_62,SB,Social/Behavioral autism,A18,1,0.9919,4,SocialBehavioralAutism applies a stored social rule to the wrong context
+SocialBehavioralAutism_5_113,SB,Social/Behavioral autism,A24,1,0.9918,5,SocialBehavioralAutism fails to update the stored rule
+SocialBehavioralAutism_5_114,SB,Social/Behavioral autism,A21,1,0.992,5,SocialBehavioralAutism treats the mismatch as a social threat
+SocialBehavioralAutism_5_115,SB,Social/Behavioral autism,A22,1,0.9951,5,SocialBehavioralAutism cannot re-anchor the rule to this context
+SocialBehavioralAutism_4_63,SB,Social/Behavioral autism,A22,1,0.9971,4,SocialBehavioralAutism's response fails to fit the now-changed context
+SocialBehavioralAutism_5_145,SB,Social/Behavioral autism,A20,1,0.9978,5,SocialBehavioralAutism generates a disproportionate prediction error signal
+SocialBehavioralAutism_5_146,SB,Social/Behavioral autism,A24,1,0.9973,5,SocialBehavioralAutism receives feedback that is not temporally proximate
+SocialBehavioralAutism_5_147,SB,Social/Behavioral autism,A21,1,0.9984,5,SocialBehavioralAutism risks the mismatch being framed as failure
+SocialBehavioralAutism_3_27,SB,Social/Behavioral autism,A20,1,0.9983,3,SocialBehavioralAutism registers disproportionate prediction error from the shift
+SocialBehavioralAutism_4_70,SB,Social/Behavioral autism,A22,1,0.9946,4,SocialBehavioralAutism cannot generalize sarcasm interpretation without explicit instruction
+SocialBehavioralAutism_4_71,SB,Social/Behavioral autism,A19,1,0.995,4,SocialBehavioralAutism diverts cognitive resources away from ongoing conversation
+SocialBehavioralAutism_5_165,SB,Social/Behavioral autism,A11,1,0.9965,5,SocialBehavioralAutism fails to sustain attention on the conversation
+SocialBehavioralAutism_5_166,SB,Social/Behavioral autism,A5,1,0.9975,5,SocialBehavioralAutism processes the remark in isolation from context
+SocialBehavioralAutism_5_167,SB,Social/Behavioral autism,A18,1,0.9952,5,SocialBehavioralAutism cannot simultaneously retrieve applicable social rules
+SocialBehavioralAutism_4_72,SB,Social/Behavioral autism,A18,1,0.9981,4,SocialBehavioralAutism attempts explicit rule retrieval to interpret remark
+SocialBehavioralAutism_5_119,SB,Social/Behavioral autism,A17,1,0.9979,5,SocialBehavioralAutism defaults to literal interpretation of remark
+SocialBehavioralAutism_6_192,SB,Social/Behavioral autism,A17,1,0.9971,6,SocialBehavioralAutism misses the intended non-literal meaning
+SocialBehavioralAutism_6_194,SB,Social/Behavioral autism,A23,1,0.9972,6,SocialBehavioralAutism fails to detect the unspoken social intent
+SocialBehavioralAutism_5_120,SB,Social/Behavioral autism,A18,1,0.9959,5,SocialBehavioralAutism finds no explicit database entry for sarcasm
+SocialBehavioralAutism_3_28,SB,Social/Behavioral autism,A18,0,0.9925,3,SocialBehavioralAutism must consciously retrieve a stored response rule
+SocialBehavioralAutism_4_44,SB,Social/Behavioral autism,A18,1,0.9976,4,SocialBehavioralAutism searches its rule database for a match
+SocialBehavioralAutism_5_179,SB,Social/Behavioral autism,A23,1,0.9972,5,SocialBehavioralAutism finds no reliable match for implicit sarcasm
+SocialBehavioralAutism_5_180,SB,Social/Behavioral autism,A17,1,0.9964,5,SocialBehavioralAutism requires additional inferential steps to decode remark
+SocialBehavioralAutism_5_182,SB,Social/Behavioral autism,A18,1,0.9927,5,SocialBehavioralAutism relies on conscious retrieval rather than intuition
+SocialBehavioralAutism_4_45,SB,Social/Behavioral autism,A22,1,0.9979,4,SocialBehavioralAutism fails to generalize rule to this new context
+SocialBehavioralAutism_5_95,SB,Social/Behavioral autism,A21,0,0.9907,5,SocialBehavioralAutism treats the misinterpretation as a personal failure

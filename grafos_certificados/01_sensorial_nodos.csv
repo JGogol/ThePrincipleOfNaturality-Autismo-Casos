@@ -1,0 +1,756 @@
+node_id,actor,actor_full,premise_id,converge_F,g_entailment_max,nivel,texto
+BroadlyAffectedAutism_0_0,BR,Broadly affected autism,,0,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing."
+BroadlyAffectedAutism_1_1,BR,Broadly affected autism,A1,1,0.9947,1,BroadlyAffectedAutism goes offline from excessive sensory input
+BroadlyAffectedAutism_2_5,BR,Broadly affected autism,A1,1,0.9967,2,BroadlyAffectedAutism cannot engage in learning or social interaction
+BroadlyAffectedAutism_3_22,BR,Broadly affected autism,A1,1,0.9962,3,BroadlyAffectedAutism remains unavailable for instruction until regulation restored
+BroadlyAffectedAutism_4_82,BR,Broadly affected autism,A24,1,0.9957,4,BroadlyAffectedAutism cannot register any feedback given now
+BroadlyAffectedAutism_4_83,BR,Broadly affected autism,A19,1,0.9982,4,BroadlyAffectedAutism cannot reallocate resources to classroom tasks
+BroadlyAffectedAutism_5_232,BR,Broadly affected autism,A1,1,0.994,5,BroadlyAffectedAutism misses instructional content delivered now
+BroadlyAffectedAutism_5_233,BR,Broadly affected autism,A8,1,0.9959,5,BroadlyAffectedAutism fails to encode this classroom episode
+BroadlyAffectedAutism_5_234,BR,Broadly affected autism,A10,1,0.9908,5,BroadlyAffectedAutism cannot later retrieve this event without cues
+BroadlyAffectedAutism_3_23,BR,Broadly affected autism,A1,1,0.9967,3,BroadlyAffectedAutism cannot acquire new information in this state
+BroadlyAffectedAutism_3_24,BR,Broadly affected autism,A1,1,0.9962,3,BroadlyAffectedAutism cannot respond to classroom social exchanges now
+BroadlyAffectedAutism_4_89,BR,Broadly affected autism,A24,1,0.9962,4,BroadlyAffectedAutism misses causally-linked feedback from this exchange
+BroadlyAffectedAutism_5_200,BR,Broadly affected autism,A24,1,0.9972,5,BroadlyAffectedAutism does not update behavior from this exchange
+BroadlyAffectedAutism_5_201,BR,Broadly affected autism,A8,1,0.9847,5,BroadlyAffectedAutism fails to encode this exchange as episodic memory
+BroadlyAffectedAutism_5_202,BR,Broadly affected autism,A10,1,0.9937,5,BroadlyAffectedAutism cannot later recall this exchange without visual cues
+BroadlyAffectedAutism_4_90,BR,Broadly affected autism,A16,1,0.9904,4,BroadlyAffectedAutism's emotional response to this exchange occurs later
+BroadlyAffectedAutism_5_190,BR,Broadly affected autism,A24,0,0.9963,5,BroadlyAffectedAutism cannot link delayed reaction to triggering event
+BroadlyAffectedAutism_5_191,BR,Broadly affected autism,A14,1,0.9962,5,BroadlyAffectedAutism cannot label the emotion when it surfaces
+BroadlyAffectedAutism_5_192,BR,Broadly affected autism,A16,1,0.9942,5,BroadlyAffectedAutism's delayed reaction appears disconnected from classroom context
+BroadlyAffectedAutism_4_91,BR,Broadly affected autism,A18,1,0.9955,4,BroadlyAffectedAutism fails to retrieve applicable pragmatic rules now
+BroadlyAffectedAutism_2_6,BR,Broadly affected autism,A1,1,0.9971,2,BroadlyAffectedAutism remains offline until sensory regulation restored
+BroadlyAffectedAutism_3_19,BR,Broadly affected autism,A1,1,0.9977,3,BroadlyAffectedAutism cannot engage in classroom learning tasks
+BroadlyAffectedAutism_4_71,BR,Broadly affected autism,A1,1,0.998,4,BroadlyAffectedAutism cannot engage in social interaction now
+BroadlyAffectedAutism_5_179,BR,Broadly affected autism,A14,1,0.9953,5,BroadlyAffectedAutism experiences unlabeled physiological arousal currently
+BroadlyAffectedAutism_5_180,BR,Broadly affected autism,A24,1,0.9928,5,BroadlyAffectedAutism receives no actionable feedback during this interval
+BroadlyAffectedAutism_4_72,BR,Broadly affected autism,A24,1,0.9859,4,BroadlyAffectedAutism receives no feedback to update behavior
+BroadlyAffectedAutism_5_209,BR,Broadly affected autism,A24,1,0.9932,5,BroadlyAffectedAutism's behavior remains unchanged for future sensory events
+BroadlyAffectedAutism_5_210,BR,Broadly affected autism,A19,1,0.9957,5,BroadlyAffectedAutism continues relying on pre-existing classroom routines
+BroadlyAffectedAutism_5_211,BR,Broadly affected autism,A6,1,0.9909,5,BroadlyAffectedAutism fails to adapt learning to the new lighting
+BroadlyAffectedAutism_3_20,BR,Broadly affected autism,A1,1,0.993,3,BroadlyAffectedAutism cannot process teacher's spoken instructions
+BroadlyAffectedAutism_4_65,BR,Broadly affected autism,A23,1,0.9955,4,BroadlyAffectedAutism cannot apply teacher's implicit expectations
+BroadlyAffectedAutism_5_170,BR,Broadly affected autism,A18,0,0.9891,5,BroadlyAffectedAutism requires conscious retrieval to match social rules
+BroadlyAffectedAutism_5_171,BR,Broadly affected autism,A24,1,0.9966,5,BroadlyAffectedAutism's behavior fails to update without explicit feedback
+BroadlyAffectedAutism_4_66,BR,Broadly affected autism,A24,0,0.9793,4,BroadlyAffectedAutism receives no actionable feedback from instructions
+BroadlyAffectedAutism_5_166,BR,Broadly affected autism,A24,1,0.9916,5,BroadlyAffectedAutism does not update behavior from the instructions
+BroadlyAffectedAutism_5_167,BR,Broadly affected autism,A1,1,0.9964,5,BroadlyAffectedAutism remains unable to engage until regulation restored
+BroadlyAffectedAutism_5_168,BR,Broadly affected autism,A19,1,0.9921,5,BroadlyAffectedAutism defaults to previously established classroom routine
+BroadlyAffectedAutism_4_67,BR,Broadly affected autism,A20,1,0.9896,4,BroadlyAffectedAutism registers unanticipated disruption to routine
+BroadlyAffectedAutism_3_21,BR,Broadly affected autism,A1,1,0.9963,3,BroadlyAffectedAutism cannot initiate social interaction with peers
+BroadlyAffectedAutism_4_78,BR,Broadly affected autism,A15,1,0.9977,4,BroadlyAffectedAutism cannot infer peers' behavioral cues now
+BroadlyAffectedAutism_5_163,BR,Broadly affected autism,A23,1,0.9966,5,BroadlyAffectedAutism fails to detect unspoken peer expectations
+BroadlyAffectedAutism_5_164,BR,Broadly affected autism,A16,1,0.9959,5,BroadlyAffectedAutism will emotionally respond only after delay
+BroadlyAffectedAutism_5_165,BR,Broadly affected autism,A15,1,0.9918,5,BroadlyAffectedAutism shows no automatic empathic mirroring now
+BroadlyAffectedAutism_2_8,BR,Broadly affected autism,A20,1,0.998,2,BroadlyAffectedAutism registers disproportionate prediction error from the change
+BroadlyAffectedAutism_3_29,BR,Broadly affected autism,A20,1,0.9977,3,BroadlyAffectedAutism experiences disruption disproportionate to the actual change
+BroadlyAffectedAutism_4_93,BR,Broadly affected autism,A19,1,0.9969,4,BroadlyAffectedAutism cannot reallocate cognitive resources to other tasks
+BroadlyAffectedAutism_5_175,BR,Broadly affected autism,A1,1,0.9968,5,BroadlyAffectedAutism remains unavailable for learning and social engagement
+BroadlyAffectedAutism_5_176,BR,Broadly affected autism,A19,1,0.9966,5,BroadlyAffectedAutism cannot allocate resources to routine tasks
+BroadlyAffectedAutism_4_94,BR,Broadly affected autism,A21,1,0.9909,4,BroadlyAffectedAutism cannot process this disruption as neutral information
+BroadlyAffectedAutism_5_246,BR,Broadly affected autism,A21,1,0.9871,5,BroadlyAffectedAutism activates a threat response to the change
+BroadlyAffectedAutism_5_247,BR,Broadly affected autism,A16,1,0.998,5,BroadlyAffectedAutism delays its emotional response to the change
+BroadlyAffectedAutism_5_248,BR,Broadly affected autism,A20,1,0.9965,5,BroadlyAffectedAutism treats the light change as high-priority error
+BroadlyAffectedAutism_3_31,BR,Broadly affected autism,A19,1,0.9838,3,BroadlyAffectedAutism cannot allocate resources without the prior routine
+BroadlyAffectedAutism_4_101,BR,Broadly affected autism,A1,1,0.9977,4,BroadlyAffectedAutism remains unable to engage in learning
+BroadlyAffectedAutism_5_238,BR,Broadly affected autism,A6,0,0.9937,5,BroadlyAffectedAutism experiences overload rather than adaptive updating
+BroadlyAffectedAutism_3_32,BR,Broadly affected autism,A6,1,0.994,3,BroadlyAffectedAutism cannot flexibly update to the altered environment
+BroadlyAffectedAutism_4_109,BR,Broadly affected autism,A6,0,0.9967,4,BroadlyAffectedAutism experiences processing overload from the classroom change
+BroadlyAffectedAutism_4_110,BR,Broadly affected autism,A19,1,0.9978,4,BroadlyAffectedAutism loses the routine that freed cognitive resources
+BroadlyAffectedAutism_5_196,BR,Broadly affected autism,A19,0,0.9745,5,BroadlyAffectedAutism must allocate resources to re-derive structure
+BroadlyAffectedAutism_5_199,BR,Broadly affected autism,A7,1,0.9974,5,BroadlyAffectedAutism processes classroom information more slowly now
+BroadlyAffectedAutism_4_111,BR,Broadly affected autism,A22,1,0.9983,4,BroadlyAffectedAutism cannot generalize prior classroom rules to new lighting
+BroadlyAffectedAutism_4_112,BR,Broadly affected autism,A1,1,0.9945,4,BroadlyAffectedAutism remains unavailable for learning under the new lights
+BroadlyAffectedAutism_1_2,BR,Broadly affected autism,A2,1,0.9952,1,BroadlyAffectedAutism cannot automatically filter buzzing and brightness
+BroadlyAffectedAutism_2_12,BR,Broadly affected autism,A1,1,0.9933,2,BroadlyAffectedAutism's sensory regulation threshold is exceeded
+BroadlyAffectedAutism_3_25,BR,Broadly affected autism,A1,1,0.9982,3,BroadlyAffectedAutism's cognitive processing becomes unavailable
+BroadlyAffectedAutism_4_59,BR,Broadly affected autism,A1,1,0.9973,4,BroadlyAffectedAutism's learning becomes unavailable
+BroadlyAffectedAutism_3_26,BR,Broadly affected autism,A1,1,0.9979,3,BroadlyAffectedAutism's social engagement becomes unavailable
+BroadlyAffectedAutism_4_108,BR,Broadly affected autism,A16,0,0.9926,4,BroadlyAffectedAutism's response to this event will be delayed
+BroadlyAffectedAutism_3_27,BR,Broadly affected autism,A14,1,0.9977,3,BroadlyAffectedAutism experiences arousal without naming the emotion
+BroadlyAffectedAutism_4_69,BR,Broadly affected autism,A16,1,0.9971,4,BroadlyAffectedAutism's emotional response will surface only later
+BroadlyAffectedAutism_5_151,BR,Broadly affected autism,A16,0,0.4423,5,"BroadlyAffectedAutism's reaction may attach to a later, unrelated event"
+BroadlyAffectedAutism_5_152,BR,Broadly affected autism,A24,1,0.9972,5,BroadlyAffectedAutism cannot link feedback to the original trigger
+BroadlyAffectedAutism_5_153,BR,Broadly affected autism,A21,0,0.99,5,BroadlyAffectedAutism risks the delayed reaction being framed as failure
+BroadlyAffectedAutism_4_70,BR,Broadly affected autism,A14,0,0.9514,4,BroadlyAffectedAutism cannot report what internal state it is in
+BroadlyAffectedAutism_5_208,BR,Broadly affected autism,A15,0,0.9899,5,BroadlyAffectedAutism cannot signal its distress to others
+BroadlyAffectedAutism_3_28,BR,Broadly affected autism,A16,1,0.9956,3,BroadlyAffectedAutism's emotional response is delayed beyond the trigger
+BroadlyAffectedAutism_4_62,BR,Broadly affected autism,A14,1,0.9976,4,BroadlyAffectedAutism cannot label the emerging emotional state
+BroadlyAffectedAutism_5_154,BR,Broadly affected autism,A14,0,0.9413,5,BroadlyAffectedAutism's physiological arousal remains unidentified internally
+BroadlyAffectedAutism_4_63,BR,Broadly affected autism,A16,1,0.9915,4,BroadlyAffectedAutism's reaction surfaces after the classroom event ends
+BroadlyAffectedAutism_5_157,BR,Broadly affected autism,A24,1,0.9919,5,BroadlyAffectedAutism's reaction cannot be causally linked to the trigger
+BroadlyAffectedAutism_5_159,BR,Broadly affected autism,A16,1,0.9952,5,BroadlyAffectedAutism's emotional processing remains offset from real-time events
+BroadlyAffectedAutism_2_13,BR,Broadly affected autism,A1,1,0.9978,2,BroadlyAffectedAutism goes offline for learning and social engagement
+BroadlyAffectedAutism_3_52,BR,Broadly affected autism,A1,1,0.9976,3,BroadlyAffectedAutism cannot process classroom instruction right now
+BroadlyAffectedAutism_4_146,BR,Broadly affected autism,A6,1,0.998,4,BroadlyAffectedAutism experiences processing overload from the environmental change
+BroadlyAffectedAutism_4_147,BR,Broadly affected autism,A24,1,0.9952,4,BroadlyAffectedAutism receives no usable feedback during instructional disruption
+BroadlyAffectedAutism_4_148,BR,Broadly affected autism,A19,1,0.9876,4,BroadlyAffectedAutism cannot allocate resources to the disrupted routine
+BroadlyAffectedAutism_2_14,BR,Broadly affected autism,A2,1,0.9977,2,BroadlyAffectedAutism weights buzzing equally with instructional content
+BroadlyAffectedAutism_3_39,BR,Broadly affected autism,A1,1,0.9958,3,BroadlyAffectedAutism risks going offline for learning
+BroadlyAffectedAutism_4_136,BR,Broadly affected autism,A1,1,0.9963,4,BroadlyAffectedAutism suspends cognitive processing until regulation restored
+BroadlyAffectedAutism_5_241,BR,Broadly affected autism,A21,1,0.9911,5,BroadlyAffectedAutism cannot process error as learning now
+BroadlyAffectedAutism_4_137,BR,Broadly affected autism,A1,1,0.9978,4,BroadlyAffectedAutism cannot engage socially during this state
+BroadlyAffectedAutism_4_138,BR,Broadly affected autism,A1,1,0.9979,4,BroadlyAffectedAutism halts learning until sensory regulation returns
+BroadlyAffectedAutism_5_231,BR,Broadly affected autism,A20,1,0.9977,5,BroadlyAffectedAutism's disruption remains disproportionate to the lighting change
+BroadlyAffectedAutism_3_40,BR,Broadly affected autism,A7,1,0.998,3,BroadlyAffectedAutism processes instructional content more slowly
+BroadlyAffectedAutism_4_103,BR,Broadly affected autism,A6,1,0.9948,4,BroadlyAffectedAutism fails to integrate the changed lesson content
+BroadlyAffectedAutism_5_245,BR,Broadly affected autism,A8,1,0.9976,5,BroadlyAffectedAutism retains no reliable episodic memory of this lesson
+BroadlyAffectedAutism_4_104,BR,Broadly affected autism,A7,1,0.9964,4,BroadlyAffectedAutism falls further behind on socially complex content
+BroadlyAffectedAutism_2_15,BR,Broadly affected autism,A3,1,0.9977,2,BroadlyAffectedAutism experiences cross-modal interference from light and sound
+BroadlyAffectedAutism_3_38,BR,Broadly affected autism,A6,1,0.9983,3,BroadlyAffectedAutism experiences processing overload from the change
+BroadlyAffectedAutism_1_3,BR,Broadly affected autism,A20,1,0.9978,1,BroadlyAffectedAutism generates disproportionate prediction error from light change
+BroadlyAffectedAutism_2_9,BR,Broadly affected autism,A1,1,0.9979,2,BroadlyAffectedAutism loses access to learning and social engagement
+BroadlyAffectedAutism_3_42,BR,Broadly affected autism,A24,1,0.9962,3,BroadlyAffectedAutism cannot integrate teacher feedback delivered now
+BroadlyAffectedAutism_4_140,BR,Broadly affected autism,A21,1,0.9951,4,BroadlyAffectedAutism cannot process this event as learning information
+BroadlyAffectedAutism_3_43,BR,Broadly affected autism,A18,1,0.9958,3,BroadlyAffectedAutism cannot retrieve stored classroom social rules
+BroadlyAffectedAutism_4_142,BR,Broadly affected autism,A18,1,0.9933,4,BroadlyAffectedAutism cannot match current situation to pragmatic rule entries
+BroadlyAffectedAutism_4_143,BR,Broadly affected autism,A23,1,0.9971,4,BroadlyAffectedAutism fails to detect implicit classroom behavioral expectations
+BroadlyAffectedAutism_3_44,BR,Broadly affected autism,A11,1,0.9974,3,BroadlyAffectedAutism cannot sustain attention on the lesson
+BroadlyAffectedAutism_4_126,BR,Broadly affected autism,A2,1,0.9976,4,BroadlyAffectedAutism's attention is captured by the buzzing stimulus
+BroadlyAffectedAutism_4_127,BR,Broadly affected autism,A24,1,0.9977,4,BroadlyAffectedAutism fails to register lesson feedback as learning
+BroadlyAffectedAutism_4_128,BR,Broadly affected autism,A5,1,0.9911,4,BroadlyAffectedAutism processes fragmented light and sound details separately
+BroadlyAffectedAutism_4_129,BR,Broadly affected autism,A11,1,0.9972,4,BroadlyAffectedAutism requires effortful control to redirect attention
+BroadlyAffectedAutism_5_226,BR,Broadly affected autism,A11,1,0.9979,5,BroadlyAffectedAutism cannot sustain redirected attention automatically
+BroadlyAffectedAutism_3_45,BR,Broadly affected autism,A1,1,0.9972,3,BroadlyAffectedAutism remains unavailable until sensory regulation restores
+BroadlyAffectedAutism_4_116,BR,Broadly affected autism,A1,1,0.9972,4,BroadlyAffectedAutism cannot process instructions given during this period
+BroadlyAffectedAutism_4_117,BR,Broadly affected autism,A18,1,0.9932,4,BroadlyAffectedAutism cannot retrieve stored social rules now
+BroadlyAffectedAutism_4_118,BR,Broadly affected autism,A19,1,0.9979,4,BroadlyAffectedAutism cannot execute established classroom routines currently
+BroadlyAffectedAutism_4_119,BR,Broadly affected autism,A24,1,0.9973,4,BroadlyAffectedAutism cannot register feedback delivered during this offline state
+BroadlyAffectedAutism_2_11,BR,Broadly affected autism,A20,1,0.9966,2,BroadlyAffectedAutism reacts disproportionately relative to the lights' actual significance
+BroadlyAffectedAutism_3_33,BR,Broadly affected autism,A1,1,0.9982,3,BroadlyAffectedAutism's cognitive processing goes offline
+BroadlyAffectedAutism_4_75,BR,Broadly affected autism,A1,1,0.998,4,BroadlyAffectedAutism cannot acquire new learning currently
+BroadlyAffectedAutism_5_188,BR,Broadly affected autism,A24,0,0.9933,5,BroadlyAffectedAutism's current feedback fails to update its system
+BroadlyAffectedAutism_3_34,BR,Broadly affected autism,A1,1,0.9964,3,BroadlyAffectedAutism cannot engage socially until regulated
+BroadlyAffectedAutism_4_120,BR,Broadly affected autism,A1,1,0.9957,4,BroadlyAffectedAutism cannot process learning until regulated
+BroadlyAffectedAutism_5_216,BR,Broadly affected autism,A24,1,0.9919,5,BroadlyAffectedAutism cannot integrate feedback given while dysregulated
+BroadlyAffectedAutism_4_121,BR,Broadly affected autism,A1,1,0.9936,4,BroadlyAffectedAutism remains cognitively offline during dysregulation
+BroadlyAffectedAutism_5_221,BR,Broadly affected autism,A1,1,0.997,5,BroadlyAffectedAutism cannot process instruction until regulation restored
+BroadlyAffectedAutism_5_223,BR,Broadly affected autism,A1,1,0.9949,5,BroadlyAffectedAutism disengages from classroom tasks during this period
+BroadlyAffectedAutism_3_35,BR,Broadly affected autism,A2,1,0.9949,3,BroadlyAffectedAutism weighs buzzing light equal to instruction
+BroadlyAffectedAutism_4_85,BR,Broadly affected autism,A1,1,0.9962,4,BroadlyAffectedAutism risks going offline from sensory overload
+BroadlyAffectedAutism_4_86,BR,Broadly affected autism,A2,1,0.994,4,BroadlyAffectedAutism cannot filter buzzing to prioritize instruction
+BroadlyAffectedAutism_5_205,BR,Broadly affected autism,A11,1,0.995,5,BroadlyAffectedAutism requires effortful control to attend instruction
+BroadlyAffectedAutism_4_87,BR,Broadly affected autism,A7,1,0.9925,4,BroadlyAffectedAutism processes instruction more slowly during buzzing
+BroadlyAffectedAutism_5_182,BR,Broadly affected autism,A24,1,0.9974,5,BroadlyAffectedAutism misses temporally proximate feedback during instruction
+BroadlyAffectedAutism_5_183,BR,Broadly affected autism,A6,1,0.9969,5,BroadlyAffectedAutism experiences processing overload from environmental volatility
+BroadlyAffectedAutism_1_4,BR,Broadly affected autism,A19,0,0.9942,1,BroadlyAffectedAutism loses prior routine optimization for lighting
+BroadlyAffectedAutism_2_16,BR,Broadly affected autism,A20,1,0.9961,2,BroadlyAffectedAutism generates disproportionate prediction error signals now
+BroadlyAffectedAutism_3_47,BR,Broadly affected autism,A2,1,0.9979,3,BroadlyAffectedAutism cannot automatically filter the buzzing sound
+BroadlyAffectedAutism_2_17,BR,Broadly affected autism,A1,0,0.9801,2,BroadlyAffectedAutism risks exceeding regulatory threshold from new lighting
+BroadlyAffectedAutism_3_56,BR,Broadly affected autism,A2,1,0.9976,3,BroadlyAffectedAutism weighs buzzing sound equal to instruction
+BroadlyAffectedAutism_4_130,BR,Broadly affected autism,A2,1,0.9972,4,BroadlyAffectedAutism requires effortful filtering to prioritize instruction
+BroadlyAffectedAutism_4_132,BR,Broadly affected autism,A7,1,0.9918,4,BroadlyAffectedAutism processes the instruction at reduced speed
+BroadlyAffectedAutism_2_18,BR,Broadly affected autism,A19,1,0.9907,2,BroadlyAffectedAutism no longer allocates resources away from lighting processing
+BroadlyAffectedAutism_3_49,BR,Broadly affected autism,A1,0,0.9937,3,BroadlyAffectedAutism approaches sensory regulatory threshold from lighting input
+BroadlyAffectedAutism_4_113,BR,Broadly affected autism,A1,1,0.998,4,BroadlyAffectedAutism risks losing cognitive processing availability
+BroadlyAffectedAutism_5_193,BR,Broadly affected autism,A1,1,0.9958,5,BroadlyAffectedAutism loses social interaction capacity temporarily
+BroadlyAffectedAutism_5_194,BR,Broadly affected autism,A1,1,0.9974,5,BroadlyAffectedAutism cannot learn until regulation restored
+BroadlyAffectedAutism_4_115,BR,Broadly affected autism,A3,1,0.9975,4,BroadlyAffectedAutism experiences interference integrating visual and auditory input
+BroadlyAffectedAutism_3_50,BR,Broadly affected autism,A2,1,0.9966,3,BroadlyAffectedAutism cannot automatically deprioritize the buzzing light stimulus
+BroadlyAffectedAutism_4_123,BR,Broadly affected autism,A1,1,0.9975,4,BroadlyAffectedAutism risks sensory input exceeding regulatory threshold
+BroadlyAffectedAutism_5_219,BR,Broadly affected autism,A1,1,0.9982,5,BroadlyAffectedAutism learning capacity halts temporarily
+BroadlyAffectedAutism_4_124,BR,Broadly affected autism,A2,1,0.9968,4,BroadlyAffectedAutism continues weighting buzzing light equally with other stimuli
+MixedASDwithDelay_0_0,MX,Mixed ASD with developmental delay,,1,0.988,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing."
+MixedASDwithDelay_1_1,MX,Mixed ASD with developmental delay,A1,1,0.9982,1,MixedASDwithDelay's cognitive processing goes offline
+MixedASDwithDelay_2_6,MX,Mixed ASD with developmental delay,A1,1,0.9978,2,MixedASDwithDelay cannot engage in learning tasks
+MixedASDwithDelay_3_20,MX,Mixed ASD with developmental delay,A24,1,0.9963,3,MixedASDwithDelay cannot receive temporally proximate feedback now
+MixedASDwithDelay_4_43,MX,Mixed ASD with developmental delay,A24,1,0.9954,4,MixedASDwithDelay cannot update behavior without proximate feedback
+MixedASDwithDelay_3_21,MX,Mixed ASD with developmental delay,A6,1,0.998,3,MixedASDwithDelay accumulates processing overload from environmental change
+MixedASDwithDelay_4_48,MX,Mixed ASD with developmental delay,A1,1,0.9971,4,MixedASDwithDelay remains offline until sensory regulation restored
+MixedASDwithDelay_5_75,MX,Mixed ASD with developmental delay,A24,1,0.9963,5,MixedASDwithDelay misses feedback that requires temporal proximity
+MixedASDwithDelay_6_102,MX,Mixed ASD with developmental delay,A19,0,0.3258,6,MixedASDwithDelay cannot form a new routine optimization
+MixedASDwithDelay_7_148,MX,Mixed ASD with developmental delay,A6,1,0.9928,7,MixedASDwithDelay treats the lighting change as ongoing overload
+MixedASDwithDelay_2_7,MX,Mixed ASD with developmental delay,A1,1,0.9976,2,MixedASDwithDelay cannot engage in social interaction
+MixedASDwithDelay_3_25,MX,Mixed ASD with developmental delay,A1,1,0.9982,3,MixedASDwithDelay cannot access learning processes
+MixedASDwithDelay_4_52,MX,Mixed ASD with developmental delay,A1,1,0.9979,4,MixedASDwithDelay's learning remains unavailable until sensory regulation restores
+MixedASDwithDelay_5_67,MX,Mixed ASD with developmental delay,A20,0,0.9918,5,MixedASDwithDelay registers the new lighting as unanticipated change
+MixedASDwithDelay_6_109,MX,Mixed ASD with developmental delay,A2,1,0.993,6,MixedASDwithDelay weights buzzing and brightness as equally salient
+MixedASDwithDelay_7_153,MX,Mixed ASD with developmental delay,A3,1,0.9962,7,MixedASDwithDelay experiences interference integrating buzzing and brightness
+MixedASDwithDelay_8_189,MX,Mixed ASD with developmental delay,A3,1,0.9979,8,MixedASDwithDelay cannot form coherent multisensory percept
+MixedASDwithDelay_8_190,MX,Mixed ASD with developmental delay,A2,1,0.9909,8,MixedASDwithDelay cannot filter buzzing from brightness by relevance
+MixedASDwithDelay_9_249,MX,Mixed ASD with developmental delay,A6,0,0.9257,9,MixedASDwithDelay treats the lighting change as environmental volatility
+MixedASDwithDelay_10_313,MX,Mixed ASD with developmental delay,A6,1,0.9924,10,MixedASDwithDelay experiences processing overload rather than adaptation
+MixedASDwithDelay_10_315,MX,Mixed ASD with developmental delay,A1,0,0.9908,10,MixedASDwithDelay risks exceeding its regulatory threshold
+MixedASDwithDelay_7_154,MX,Mixed ASD with developmental delay,A2,1,0.9974,7,MixedASDwithDelay must expend effort filtering both stimuli
+MixedASDwithDelay_8_184,MX,Mixed ASD with developmental delay,A2,0,0.9879,8,MixedASDwithDelay's filtering effort depletes resources for other processing
+MixedASDwithDelay_9_243,MX,Mixed ASD with developmental delay,A1,1,0.9975,9,MixedASDwithDelay's sensory input risks exceeding regulatory threshold
+MixedASDwithDelay_9_244,MX,Mixed ASD with developmental delay,A7,0,0.9942,9,MixedASDwithDelay's processing speed for complex information decreases further
+MixedASDwithDelay_10_308,MX,Mixed ASD with developmental delay,A6,0,0.991,10,MixedASDwithDelay experiences further overload from environmental volatility
+MixedASDwithDelay_9_245,MX,Mixed ASD with developmental delay,A3,0,0.8477,9,MixedASDwithDelay's cross-modal integration produces greater interference
+MixedASDwithDelay_5_68,MX,Mixed ASD with developmental delay,A24,1,0.9963,5,Feedback given now fails to update MixedASDwithDelay's learning
+MixedASDwithDelay_6_114,MX,Mixed ASD with developmental delay,A24,1,0.991,6,MixedASDwithDelay's learning state remains unchanged by current input
+MixedASDwithDelay_7_150,MX,Mixed ASD with developmental delay,A2,1,0.9936,7,MixedASDwithDelay continues treating buzzing light as high-priority input
+MixedASDwithDelay_8_191,MX,Mixed ASD with developmental delay,A1,1,0.9964,8,MixedASDwithDelay remains offline until light input reduces
+MixedASDwithDelay_9_256,MX,Mixed ASD with developmental delay,A24,1,0.9914,9,MixedASDwithDelay receives no causally linked feedback now
+MixedASDwithDelay_8_192,MX,Mixed ASD with developmental delay,A20,1,0.9959,8,MixedASDwithDelay generates disproportionate prediction error from lights
+MixedASDwithDelay_8_193,MX,Mixed ASD with developmental delay,A2,1,0.9956,8,MixedASDwithDelay cannot deprioritize the buzzing light stimulus
+MixedASDwithDelay_8_194,MX,Mixed ASD with developmental delay,A6,0,0.9885,8,MixedASDwithDelay experiences the classroom as rapidly changing environment
+MixedASDwithDelay_7_151,MX,Mixed ASD with developmental delay,A20,1,0.9954,7,MixedASDwithDelay's prediction error signal remains disproportionately elevated
+MixedASDwithDelay_8_202,MX,Mixed ASD with developmental delay,A20,1,0.9981,8,MixedASDwithDelay treats the light change as highly disruptive
+MixedASDwithDelay_9_252,MX,Mixed ASD with developmental delay,A2,1,0.9969,9,MixedASDwithDelay allocates equal weight to buzzing sound
+MixedASDwithDelay_6_116,MX,Mixed ASD with developmental delay,A21,1,0.986,6,Any framing of this moment as failure blocks learning further
+MixedASDwithDelay_7_143,MX,Mixed ASD with developmental delay,A21,0,0.9823,7,MixedASDwithDelay's threat response activates instead of learning
+MixedASDwithDelay_8_187,MX,Mixed ASD with developmental delay,A21,1,0.9948,8,MixedASDwithDelay's learning stays blocked by threat activation
+MixedASDwithDelay_7_145,MX,Mixed ASD with developmental delay,A1,1,0.9955,7,MixedASDwithDelay's cognitive processing stays offline regardless
+MixedASDwithDelay_8_178,MX,Mixed ASD with developmental delay,A1,1,0.9967,8,MixedASDwithDelay's regulation must be restored before processing resumes
+MixedASDwithDelay_8_179,MX,Mixed ASD with developmental delay,A2,0,0.9906,8,MixedASDwithDelay continues weighting all sensory input equally
+MixedASDwithDelay_9_227,MX,Mixed ASD with developmental delay,A1,0,0.8132,9,MixedASDwithDelay's sensory threshold remains exceeded
+MixedASDwithDelay_10_274,MX,Mixed ASD with developmental delay,A6,0,0.985,10,MixedASDwithDelay's overload blocks adaptive learning rate updates
+MixedASDwithDelay_5_69,MX,Mixed ASD with developmental delay,A1,1,0.9969,5,MixedASDwithDelay cannot process classroom instruction during this state
+MixedASDwithDelay_5_70,MX,Mixed ASD with developmental delay,A19,1,0.9866,5,MixedASDwithDelay cannot offset disruption with prior routine
+MixedASDwithDelay_6_113,MX,Mixed ASD with developmental delay,A19,1,0.9953,6,MixedASDwithDelay lacks freed cognitive resources without routine support
+MixedASDwithDelay_7_140,MX,Mixed ASD with developmental delay,A1,1,0.9953,7,MixedASDwithDelay remains unable to resume cognitive processing
+MixedASDwithDelay_4_54,MX,Mixed ASD with developmental delay,A6,0,0.9879,4,MixedASDwithDelay's learning rate cannot adjust to this change
+MixedASDwithDelay_5_86,MX,Mixed ASD with developmental delay,A19,1,0.9962,5,MixedASDwithDelay loses the routine's computational optimization
+MixedASDwithDelay_6_121,MX,Mixed ASD with developmental delay,A19,1,0.989,6,MixedASDwithDelay must reallocate cognitive resources to the disruption
+MixedASDwithDelay_7_157,MX,Mixed ASD with developmental delay,A2,1,0.9965,7,MixedASDwithDelay treats buzzing and brightness as equally salient
+MixedASDwithDelay_8_200,MX,Mixed ASD with developmental delay,A2,0,0.9813,8,MixedASDwithDelay requires effortful filtering to prioritize either stimulus
+MixedASDwithDelay_1_2,MX,Mixed ASD with developmental delay,A2,1,0.998,1,MixedASDwithDelay cannot automatically filter out buzzing sound
+MixedASDwithDelay_2_12,MX,Mixed ASD with developmental delay,A1,1,0.9962,2,MixedASDwithDelay risks going offline from sensory overload
+MixedASDwithDelay_3_27,MX,Mixed ASD with developmental delay,A1,1,0.9965,3,MixedASDwithDelay cannot access learning until regulated
+MixedASDwithDelay_4_51,MX,Mixed ASD with developmental delay,A19,1,0.9966,4,MixedASDwithDelay cannot allocate resources to ongoing tasks
+MixedASDwithDelay_5_90,MX,Mixed ASD with developmental delay,A1,1,0.9958,5,MixedASDwithDelay disengages from the current classroom task
+MixedASDwithDelay_6_124,MX,Mixed ASD with developmental delay,A19,1,0.9974,6,MixedASDwithDelay loses the resource-saving structure of routine task engagement
+MixedASDwithDelay_7_160,MX,Mixed ASD with developmental delay,A19,1,0.9918,7,MixedASDwithDelay must allocate resources to rebuilding routine
+MixedASDwithDelay_8_204,MX,Mixed ASD with developmental delay,A19,1,0.9869,8,MixedASDwithDelay has fewer resources for other tasks
+MixedASDwithDelay_9_264,MX,Mixed ASD with developmental delay,A1,1,0.991,9,MixedASDwithDelay has reduced capacity to maintain sensory regulation
+MixedASDwithDelay_8_205,MX,Mixed ASD with developmental delay,A22,0,0.996,8,MixedASDwithDelay needs explicit instruction to re-anchor routine
+MixedASDwithDelay_9_265,MX,Mixed ASD with developmental delay,A22,0,0.9914,9,MixedASDwithDelay cannot generalize old routine without explicit instruction
+MixedASDwithDelay_9_266,MX,Mixed ASD with developmental delay,A23,1,0.9909,9,MixedASDwithDelay follows the new routine only if explicitly stated
+MixedASDwithDelay_9_267,MX,Mixed ASD with developmental delay,A24,1,0.9959,9,"MixedASDwithDelay requires observable, specific feedback to relearn routine"
+MixedASDwithDelay_10_325,MX,Mixed ASD with developmental delay,A24,1,0.9947,10,MixedASDwithDelay fails to relearn routine without proximate feedback
+MixedASDwithDelay_10_326,MX,Mixed ASD with developmental delay,A21,1,0.997,10,MixedASDwithDelay blocks learning if feedback implies failure
+MixedASDwithDelay_3_28,MX,Mixed ASD with developmental delay,A1,1,0.9979,3,MixedASDwithDelay cannot engage socially while overloaded
+MixedASDwithDelay_2_13,MX,Mixed ASD with developmental delay,A2,1,0.9973,2,MixedASDwithDelay treats buzzing sound as equally salient input
+MixedASDwithDelay_3_33,MX,Mixed ASD with developmental delay,A1,1,0.994,3,MixedASDwithDelay approaches sensory regulatory threshold from buzzing input
+MixedASDwithDelay_4_41,MX,Mixed ASD with developmental delay,A1,1,0.9979,4,MixedASDwithDelay risks social engagement becoming unavailable
+MixedASDwithDelay_4_42,MX,Mixed ASD with developmental delay,A7,1,0.998,4,MixedASDwithDelay processes classroom information at reduced speed
+MixedASDwithDelay_5_73,MX,Mixed ASD with developmental delay,A6,1,0.9936,5,MixedASDwithDelay experiences overload from ongoing classroom pace
+MixedASDwithDelay_2_14,MX,Mixed ASD with developmental delay,A1,1,0.9971,2,MixedASDwithDelay's learning becomes unavailable during this exposure
+MixedASDwithDelay_3_32,MX,Mixed ASD with developmental delay,A24,1,0.9972,3,MixedASDwithDelay cannot integrate feedback given during this exposure
+MixedASDwithDelay_4_58,MX,Mixed ASD with developmental delay,A24,1,0.9978,4,MixedASDwithDelay's behavior remains unmodified by this feedback
+MixedASDwithDelay_5_92,MX,Mixed ASD with developmental delay,A24,0,0.9954,5,MixedASDwithDelay will repeat the same unmodified response
+MixedASDwithDelay_6_126,MX,Mixed ASD with developmental delay,A22,1,0.9907,6,MixedASDwithDelay's unmodified response fails to generalize to other contexts
+MixedASDwithDelay_7_164,MX,Mixed ASD with developmental delay,A22,0,0.9916,7,MixedASDwithDelay requires explicit instruction to re-anchor each new context
+MixedASDwithDelay_8_213,MX,Mixed ASD with developmental delay,A22,0,0.9959,8,MixedASDwithDelay cannot adapt to the buzzing lights without new instruction
+MixedASDwithDelay_9_279,MX,Mixed ASD with developmental delay,A19,1,0.9969,9,MixedASDwithDelay cannot free cognitive resources for other tasks
+MixedASDwithDelay_10_334,MX,Mixed ASD with developmental delay,A7,1,0.9964,10,MixedASDwithDelay processes socially complex information more slowly
+MixedASDwithDelay_10_336,MX,Mixed ASD with developmental delay,A6,1,0.9934,10,MixedASDwithDelay experiences overload from the ongoing change
+MixedASDwithDelay_9_281,MX,Mixed ASD with developmental delay,A23,0,0.9935,9,MixedASDwithDelay awaits an explicit stated rule for lights
+MixedASDwithDelay_8_215,MX,Mixed ASD with developmental delay,A18,1,0.9938,8,MixedASDwithDelay does not infer the new expectation on its own
+MixedASDwithDelay_9_282,MX,Mixed ASD with developmental delay,A23,1,0.9966,9,MixedASDwithDelay fails to detect the implicit expectation
+MixedASDwithDelay_7_165,MX,Mixed ASD with developmental delay,A20,1,0.989,7,MixedASDwithDelay experiences new contexts as unanticipated prediction errors
+MixedASDwithDelay_8_216,MX,Mixed ASD with developmental delay,A20,1,0.9796,8,MixedASDwithDelay generates disproportionate disruption signals from new contexts
+MixedASDwithDelay_8_217,MX,Mixed ASD with developmental delay,A6,1,0.9923,8,MixedASDwithDelay experiences processing overload from the new context
+MixedASDwithDelay_5_93,MX,Mixed ASD with developmental delay,A19,1,0.89,5,MixedASDwithDelay forms no routine to offset the disruption
+MixedASDwithDelay_6_129,MX,Mixed ASD with developmental delay,A19,1,0.9962,6,MixedASDwithDelay's cognitive resources remain unavailable for other tasks
+MixedASDwithDelay_7_161,MX,Mixed ASD with developmental delay,A1,1,0.9968,7,MixedASDwithDelay's social engagement remains unavailable during exposure
+MixedASDwithDelay_8_219,MX,Mixed ASD with developmental delay,A18,1,0.9962,8,MixedASDwithDelay cannot retrieve pragmatic social rules during exposure
+MixedASDwithDelay_9_285,MX,Mixed ASD with developmental delay,A23,0,0.9943,9,MixedASDwithDelay cannot detect unspoken social expectations during exposure
+MixedASDwithDelay_9_286,MX,Mixed ASD with developmental delay,A18,1,0.9931,9,MixedASDwithDelay's social responses remain unmatched to context
+MixedASDwithDelay_9_287,MX,Mixed ASD with developmental delay,A17,0,0.9903,9,MixedASDwithDelay defaults to literal interpretation of speech now
+MixedASDwithDelay_7_163,MX,Mixed ASD with developmental delay,A20,1,0.9976,7,MixedASDwithDelay's disruption exceeds the change's objective significance
+MixedASDwithDelay_8_208,MX,Mixed ASD with developmental delay,A5,0,0.9961,8,MixedASDwithDelay fixates on buzzing detail over classroom whole
+MixedASDwithDelay_9_257,MX,Mixed ASD with developmental delay,A5,1,0.9959,9,MixedASDwithDelay fails to integrate classroom as coherent whole
+MixedASDwithDelay_10_337,MX,Mixed ASD with developmental delay,A5,1,0.9975,10,MixedASDwithDelay cannot infer classroom's overall purpose from parts
+MixedASDwithDelay_10_338,MX,Mixed ASD with developmental delay,A9,0,0.5391,10,MixedASDwithDelay retains fragmented visual details with high fidelity
+MixedASDwithDelay_10_339,MX,Mixed ASD with developmental delay,A4,0,0.9865,10,MixedASDwithDelay requires explicit anchoring to reconceive classroom whole
+MixedASDwithDelay_10_340,MX,Mixed ASD with developmental delay,A18,1,0.9955,10,MixedASDwithDelay cannot apply implicit classroom norms automatically
+MixedASDwithDelay_9_258,MX,Mixed ASD with developmental delay,A2,1,0.9968,9,MixedASDwithDelay expends effort suppressing buzzing stimulus
+MixedASDwithDelay_10_322,MX,Mixed ASD with developmental delay,A2,1,0.9952,10,MixedASDwithDelay has no cognitive effort left for filtering other stimuli
+MixedASDwithDelay_9_259,MX,Mixed ASD with developmental delay,A6,1,0.994,9,MixedASDwithDelay experiences overload from persistent buzzing detail
+MixedASDwithDelay_10_333,MX,Mixed ASD with developmental delay,A7,0,0.9819,10,MixedASDwithDelay's processing speed drops further under overload
+MixedASDwithDelay_8_209,MX,Mixed ASD with developmental delay,A6,0,0.9921,8,"MixedASDwledDelay treats classroom as unstable, overload-prone environment"
+MixedASDwithDelay_9_260,MX,Mixed ASD with developmental delay,A6,1,0.994,9,MixedASDwithDelay's deep learning in classroom is impaired
+MixedASDwithDelay_10_329,MX,Mixed ASD with developmental delay,A22,1,0.9931,10,MixedASDwithDelay's classroom learning fails to generalize elsewhere
+MixedASDwithDelay_10_330,MX,Mixed ASD with developmental delay,A10,1,0.9889,10,MixedASDwithDelay's classroom episodic retrieval becomes unreliable without cues
+MixedASDwithDelay_9_261,MX,Mixed ASD with developmental delay,A20,0,0.8683,9,MixedASDwithDelay anticipates disproportionate disruption from future classroom changes
+MixedASDwithDelay_9_262,MX,Mixed ASD with developmental delay,A19,1,0.998,9,MixedASDwithDelay allocates fewer resources to classroom tasks
+MixedASDwithDelay_6_130,MX,Mixed ASD with developmental delay,A6,0,0.9891,6,MixedASDwithDelay's processing overload persists under continued light change
+MixedASDwithDelay_7_169,MX,Mixed ASD with developmental delay,A20,1,0.9974,7,MixedASDwithDelay's disruption stays disproportionate to actual change
+MixedASDwithDelay_8_224,MX,Mixed ASD with developmental delay,A6,1,0.9767,8,MixedASDwithDelay treats classroom environment as volatile ongoing
+MixedASDwithDelay_5_94,MX,Mixed ASD with developmental delay,A20,0,0.9948,5,MixedASDwithDelay continues generating prediction error to buzzing lights
+MixedASDwithDelay_6_135,MX,Mixed ASD with developmental delay,A20,1,0.9977,6,MixedASDwithDelay's disruption stays disproportionate to the lights' change
+MixedASDwithDelay_7_172,MX,Mixed ASD with developmental delay,A1,1,0.997,7,MixedASDwithDelay's cognitive processing remains offline under fluorescent buzzing
+MixedASDwithDelay_7_174,MX,Mixed ASD with developmental delay,A19,1,0.9982,7,MixedASDwithDelay cannot allocate resources to classroom tasks
+MixedASDwithDelay_8_228,MX,Mixed ASD with developmental delay,A1,1,0.997,8,MixedASDwithDelay's learning stays unavailable during classroom tasks
+MixedASDwithDelay_9_300,MX,Mixed ASD with developmental delay,A1,1,0.996,9,MixedASDwithDelay's social engagement remains unavailable during classroom tasks
+MixedASDwithDelay_9_301,MX,Mixed ASD with developmental delay,A24,1,0.9977,9,MixedASDwithDelay fails to encode classroom feedback as learning
+MixedASDwithDelay_9_302,MX,Mixed ASD with developmental delay,A19,1,0.995,9,MixedASDwithDelay cannot form new routines from classroom tasks
+MixedASDwithDelay_8_229,MX,Mixed ASD with developmental delay,A19,1,0.9959,8,MixedASDwithDelay's established routines lose their resource-saving benefit
+MixedASDwithDelay_9_303,MX,Mixed ASD with developmental delay,A19,0,0.9932,9,MixedASDwellDelay requires more cognitive resources for routine tasks
+MixedASDwithDelay_9_305,MX,Mixed ASD with developmental delay,A7,1,0.9964,9,MixedASDwithDelay's processing speed drops for classroom tasks
+MixedASDwithDelay_8_230,MX,Mixed ASD with developmental delay,A7,0,0.9954,8,MixedASDwithDelay cannot process complex instructions at normal speed
+MixedASDwithDelay_9_297,MX,Mixed ASD with developmental delay,A24,1,0.9975,9,MixedASDwithDelay misses temporally proximate feedback during instruction delay
+MixedASDwithDelay_9_298,MX,Mixed ASD with developmental delay,A18,1,0.9906,9,MixedASDwithDelay delays conscious retrieval of matching social rules
+MixedASDwithDelay_9_299,MX,Mixed ASD with developmental delay,A7,0,0.9956,9,MixedASDwithDelay falls behind classroom's socially complex task pace
+MixedASDwithDelay_8_231,MX,Mixed ASD with developmental delay,A6,0,0.9921,8,"MixedASDwithDelay experiences the classroom as overload, not adaptation"
+MixedASDwithDelay_9_289,MX,Mixed ASD with developmental delay,A1,1,0.9951,9,MixedASDwithDelay's cognitive processing stays offline in classroom
+MixedASDwithDelay_1_3,MX,Mixed ASD with developmental delay,A20,1,0.9964,1,MixedASDwithDelay generates disproportionate prediction error signals
+MixedASDwithDelay_2_18,MX,Mixed ASD with developmental delay,A20,1,0.9952,2,MixedASDwithDelay reacts disproportionately to the lighting change
+MixedASDwithDelay_3_37,MX,Mixed ASD with developmental delay,A2,0,0.9938,3,MixedASDwithDelay weighs buzzing sound equal to brightness
+MixedASDwithDelay_4_63,MX,Mixed ASD with developmental delay,A1,1,0.9938,4,MixedASDwithDelay approaches sensory regulatory threshold
+MixedASDwithDelay_5_78,MX,Mixed ASD with developmental delay,A1,1,0.9978,5,MixedASDwithDelay's cognitive processing capacity begins shutting down
+MixedASDwithDelay_6_98,MX,Mixed ASD with developmental delay,A1,1,0.9979,6,MixedASDwithDelay's social interaction becomes unavailable
+MixedASDwithDelay_5_80,MX,Mixed ASD with developmental delay,A1,1,0.998,5,MixedASDwithDelay's learning capacity becomes unavailable
+MixedASDwithDelay_3_39,MX,Mixed ASD with developmental delay,A6,1,0.9983,3,MixedASDwithDelay's processing becomes overloaded by the change
+MixedASDwithDelay_4_65,MX,Mixed ASD with developmental delay,A1,1,0.9974,4,MixedASDwithDelay's learning is unavailable until regulation restored
+MixedASDwithDelay_5_97,MX,Mixed ASD with developmental delay,A24,1,0.9984,5,MixedASDwithDelay cannot register feedback given during this period
+MixedASDwithDelay_6_132,MX,Mixed ASD with developmental delay,A24,1,0.9972,6,MixedASDwithDelay fails to link feedback to the triggering action
+MixedASDwithDelay_6_134,MX,Mixed ASD with developmental delay,A1,1,0.9979,6,MixedASDwithDelay requires renewed feedback after regulation restored
+MixedASDwithDelay_1_4,MX,Mixed ASD with developmental delay,A3,1,0.9964,1,MixedASDwithDelay experiences interference from combined light-sound input
+MixedASDwithDelay_2_9,MX,Mixed ASD with developmental delay,A1,1,0.9982,2,MixedASDwithDelay's cognitive processing becomes unavailable
+ModerateAutism_0_0,MO,Moderate autism,,0,0.1766,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains."
+ModerateAutism_1_1,MO,Moderate autism,A1,1,0.9962,1,ModerateAutism risks going offline from sensory overload
+ModerateAutism_2_5,MO,Moderate autism,A1,1,0.9982,2,ModerateAutism cannot engage in learning tasks
+ModerateAutism_3_21,MO,Moderate autism,A1,1,0.9972,3,ModerateAutism remains offline until sensory regulation is restored
+ModerateAutism_4_54,MO,Moderate autism,A1,1,0.998,4,ModerateAutism cannot access social interaction currently
+ModerateAutism_5_98,MO,Moderate autism,A1,1,0.9955,5,ModerateAutism remains unable to process cognitive tasks
+ModerateAutism_5_100,MO,Moderate autism,A24,1,0.9955,5,ModerateAutism cannot receive actionable behavioral feedback now
+ModerateAutism_6_160,MO,Moderate autism,A24,1,0.9967,6,ModerateAutism's current behavior remains unmodified by feedback
+ModerateAutism_7_242,MO,Moderate autism,A20,1,0.9959,7,ModerateAutism continues generating disproportionate prediction error from lights
+ModerateAutism_7_244,MO,Moderate autism,A22,1,0.9898,7,ModerateAutism will repeat the same reaction on re-exposure
+ModerateAutism_4_56,MO,Moderate autism,A19,1,0.9974,4,ModerateAutism loses routine-based cognitive resource allocation
+ModerateAutism_5_88,MO,Moderate autism,A19,1,0.9913,5,ModerateAutism must divert resources to process the new stimulus
+ModerateAutism_6_148,MO,Moderate autism,A20,1,0.9978,6,ModerateAutism registers disproportionate prediction error from the light change
+ModerateAutism_7_234,MO,Moderate autism,A1,0,0.9897,7,ModerateAutism approaches sensory regulatory threshold from combined input
+ModerateAutism_8_299,MO,Moderate autism,A2,0,0.9889,8,ModerateAutism cannot prioritize which stimulus to filter
+ModerateAutism_6_149,MO,Moderate autism,A3,1,0.9955,6,ModerateAutism cannot integrate the visual and auditory input smoothly
+ModerateAutism_7_207,MO,Moderate autism,A3,1,0.9962,7,ModerateAutism experiences the light and buzzing as interfering signals
+ModerateAutism_8_285,MO,Moderate autism,A2,1,0.9751,8,ModerateAutism cannot automatically filter out the interfering signals
+ModerateAutism_8_288,MO,Moderate autism,A3,1,0.9918,8,ModerateAutism fails to achieve automatic cross-modal coherence
+ModerateAutism_7_208,MO,Moderate autism,A2,0,0.9912,7,ModerateAutism assigns equal processing weight to both stimuli
+ModerateAutism_8_269,MO,Moderate autism,A2,0,0.9974,8,ModerateAutism must effortfully filter both stimuli manually
+ModerateAutism_7_209,MO,Moderate autism,A1,1,0.9933,7,ModerateAutism approaches the threshold for sensory shutdown
+ModerateAutism_2_6,MO,Moderate autism,A1,1,0.9976,2,ModerateAutism cannot engage in social interaction
+ModerateAutism_2_7,MO,Moderate autism,A2,1,0.9977,2,ModerateAutism weighs buzzing sound equal to lesson content
+ModerateAutism_3_18,MO,Moderate autism,A2,1,0.9886,3,ModerateAutism must expend effortful control to filter buzzing
+ModerateAutism_4_57,MO,Moderate autism,A2,1,0.9964,4,ModerateAutism has less cognitive capacity for lesson content
+ModerateAutism_5_97,MO,Moderate autism,A8,1,0.9934,5,ModerateAutism encodes fewer lesson facts into memory
+ModerateAutism_6_138,MO,Moderate autism,A10,1,0.9925,6,ModerateAutism cannot reliably retrieve lesson facts without visual cues
+ModerateAutism_7_221,MO,Moderate autism,A24,1,0.9948,7,ModerateAutism's lesson assessment lacks specific causal feedback
+ModerateAutism_8_311,MO,Moderate autism,A24,0,0.9914,8,ModerateAutism cannot link performance to specific actions
+ModerateAutism_7_222,MO,Moderate autism,A9,0,0.675,7,ModerateAutism relies more heavily on visual memory pathways
+ModerateAutism_8_272,MO,Moderate autism,A9,1,0.9947,8,ModerateAutism retains lesson content better with visual formats
+ModerateAutism_8_274,MO,Moderate autism,A4,0,0.1117,8,ModerateAutism needs concrete visual anchors for abstract lesson concepts
+ModerateAutism_6_140,MO,Moderate autism,A24,1,0.9943,6,ModerateAutism receives insufficient proximate feedback to update lesson learning
+ModerateAutism_4_59,MO,Moderate autism,A3,1,0.9971,4,ModerateAutism experiences interference between buzzing and visual input
+ModerateAutism_5_92,MO,Moderate autism,A3,1,0.9942,5,ModerateAutism fails to integrate buzzing and lighting coherently
+ModerateAutism_5_93,MO,Moderate autism,A1,1,0.9957,5,ModerateAutism approaches its sensory regulatory threshold
+ModerateAutism_6_123,MO,Moderate autism,A1,1,0.997,6,ModerateAutism's learning capacity begins to diminish
+ModerateAutism_7_203,MO,Moderate autism,A1,1,0.9949,7,ModerateAutism moves toward a fully offline cognitive state
+ModerateAutism_8_284,MO,Moderate autism,A1,1,0.9958,8,ModerateAutism requires regulation restored before learning resumes
+ModerateAutism_6_125,MO,Moderate autism,A1,0,0.9963,6,ModerateAutism risks imminent cognitive shutdown
+ModerateAutism_5_94,MO,Moderate autism,A5,1,0.9881,5,ModerateAutism processes buzzing and lights as separate details
+ModerateAutism_6_152,MO,Moderate autism,A2,1,0.9965,6,ModerateAutism continues weighting buzzing and lights equally
+ModerateAutism_7_241,MO,Moderate autism,A3,0,0.9913,7,ModerateAutism experiences persistent cross-modal interference from unfiltered stimuli
+ModerateAutism_8_327,MO,Moderate autism,A1,1,0.9982,8,ModerateAutism's learning capacity becomes unavailable temporarily
+ModerateAutism_3_19,MO,Moderate autism,A1,1,0.998,3,ModerateAutism risks cognitive processing becoming unavailable
+ModerateAutism_4_53,MO,Moderate autism,A1,1,0.9899,4,ModerateAutism requires sensory regulation before processing resumes
+ModerateAutism_5_73,MO,Moderate autism,A1,1,0.9916,5,ModerateAutism suspends learning tasks during dysregulation
+ModerateAutism_6_104,MO,Moderate autism,A19,1,0.998,6,ModerateAutism cannot reallocate resources to lesson tasks
+ModerateAutism_7_182,MO,Moderate autism,A24,1,0.9955,7,ModerateAutism misses temporally proximate lesson feedback
+ModerateAutism_6_105,MO,Moderate autism,A20,0,0.9809,6,ModerateAutism registers task suspension as prediction error
+ModerateAutism_7_179,MO,Moderate autism,A19,1,0.9951,7,ModerateAutism loses freed cognitive resources from disrupted routine
+ModerateAutism_8_245,MO,Moderate autism,A20,0,0.996,8,ModerateAutism treats the lighting change as highly significant
+ModerateAutism_6_106,MO,Moderate autism,A21,1,0.9891,6,ModerateAutism blocks learning if suspension is framed as failure
+ModerateAutism_7_172,MO,Moderate autism,A21,1,0.9796,7,ModerateAutism activates a threat response to the framing
+ModerateAutism_7_173,MO,Moderate autism,A24,1,0.9954,7,ModerateAutism fails to update behavior without causal feedback
+ModerateAutism_5_74,MO,Moderate autism,A20,1,0.9967,5,ModerateAutism generates disproportionate distress from the change
+ModerateAutism_6_131,MO,Moderate autism,A22,1,0.9983,6,ModerateAutism cannot generalize prior classroom rules to new lighting
+ModerateAutism_7_215,MO,Moderate autism,A24,1,0.9852,7,ModerateAutism requires immediate specific feedback to learn new rule
+ModerateAutism_8_296,MO,Moderate autism,A24,1,0.984,8,ModerateAutism ignores vague or delayed feedback signals
+ModerateAutism_8_297,MO,Moderate autism,A21,1,0.997,8,ModerateAutism blocks learning if feedback implies failure
+ModerateAutism_3_20,MO,Moderate autism,A3,1,0.9977,3,ModerateAutism experiences interference between visual and auditory input
+ModerateAutism_4_48,MO,Moderate autism,A3,1,0.9982,4,ModerateAutism fails to form coherent cross-modal representation
+ModerateAutism_5_89,MO,Moderate autism,A1,1,0.9926,5,ModerateAutism moves closer to sensory processing shutdown
+ModerateAutism_6_127,MO,Moderate autism,A1,1,0.9979,6,ModerateAutism approaches unavailability of social interaction
+ModerateAutism_7_218,MO,Moderate autism,A1,1,0.997,7,ModerateAutism cannot access learning until regulation restored
+ModerateAutism_8_307,MO,Moderate autism,A1,1,0.9972,8,ModerateAutism cannot process instructions given during this period
+ModerateAutism_6_128,MO,Moderate autism,A2,1,0.9975,6,ModerateAutism cannot automatically suppress buzzing input
+ModerateAutism_7_212,MO,Moderate autism,A2,1,0.9971,7,ModerateAutism continues allocating equal weight to buzzing
+ModerateAutism_8_314,MO,Moderate autism,A20,1,0.9982,8,ModerateAutism sustains disproportionate prediction error from the buzzing
+ModerateAutism_5_90,MO,Moderate autism,A5,1,0.9959,5,ModerateAutism cannot infer the overall classroom scene
+ModerateAutism_6_156,MO,Moderate autism,A5,0,0.992,6,ModerateAutism fixates on isolated sensory details instead
+ModerateAutism_5_91,MO,Moderate autism,A2,1,0.9976,5,ModerateAutism continues weighting buzzing sound equally to lesson
+ModerateAutism_6_141,MO,Moderate autism,A1,1,0.9948,6,ModerateAutism approaches sensory threshold risking cognitive offline state
+ModerateAutism_7_198,MO,Moderate autism,A1,1,0.9965,7,ModerateAutism cannot register new learning input
+ModerateAutism_6_142,MO,Moderate autism,A2,0,0.9104,6,ModerateAutism expends effortful resources attempting top-down filtering
+ModerateAutism_7_231,MO,Moderate autism,A2,1,0.9939,7,ModerateAutism cannot sustain effortful filtering automatically over time
+ModerateAutism_4_50,MO,Moderate autism,A5,0,0.9918,4,ModerateAutism processes buzzing sound as isolated detail
+ModerateAutism_5_86,MO,Moderate autism,A1,1,0.9924,5,ModerateAutism's sensory threshold moves closer to overload
+ModerateAutism_6_115,MO,Moderate autism,A2,0,0.9967,6,ModerateAutism cannot automatically filter buzzing stimulus priority
+ModerateAutism_2_8,MO,Moderate autism,A20,1,0.9981,2,ModerateAutism registers the light change as major disruption
+ModerateAutism_3_30,MO,Moderate autism,A1,1,0.9963,3,ModerateAutism risks losing access to learning capacity
+ModerateAutism_1_2,MO,Moderate autism,A2,1,0.9963,1,ModerateAutism cannot automatically filter the buzzing light
+ModerateAutism_2_13,MO,Moderate autism,A2,0,0.9954,2,ModerateAutism processes the buzzing at full priority weight
+ModerateAutism_3_44,MO,Moderate autism,A2,1,0.9972,3,ModerateAutism cannot effortlessly suppress the buzzing sound
+ModerateAutism_4_79,MO,Moderate autism,A2,0,0.5955,4,ModerateAutism must exert effortful top-down filtering to cope
+ModerateAutism_5_116,MO,Moderate autism,A2,1,0.9971,5,ModerateAutism has fewer cognitive resources for other tasks
+ModerateAutism_6_183,MO,Moderate autism,A1,1,0.9878,6,ModerateAutism approaches offline threshold for learning
+ModerateAutism_7_276,MO,Moderate autism,A1,1,0.9959,7,ModerateAutism cannot process social interaction now
+ModerateAutism_6_185,MO,Moderate autism,A24,1,0.9937,6,ModerateAutism fails to register new instructional feedback
+ModerateAutism_7_279,MO,Moderate autism,A19,1,0.9878,7,ModerateAutism cannot form a new routine from feedback
+ModerateAutism_7_280,MO,Moderate autism,A20,1,0.989,7,ModerateAutism later faces disproportionate prediction error signals
+ModerateAutism_5_118,MO,Moderate autism,A19,1,0.9947,5,ModerateAutism diverts resources normally allocated to routines
+ModerateAutism_6_199,MO,Moderate autism,A19,1,0.9962,6,ModerateAutism loses computational optimization from established routines
+ModerateAutism_7_304,MO,Moderate autism,A19,1,0.9932,7,ModerateAutism must expend extra resources on routine tasks
+ModerateAutism_7_305,MO,Moderate autism,A20,0,0.9964,7,ModerateAutism generates disproportionate prediction error from routine disruption
+ModerateAutism_4_80,MO,Moderate autism,A5,0,0.997,4,ModerateAutism fixates on the buzzing as an isolated detail
+ModerateAutism_5_122,MO,Moderate autism,A3,0,0.995,5,ModerateAutism cannot integrate buzzing with other simultaneous sensory input
+ModerateAutism_6_174,MO,Moderate autism,A3,1,0.9957,6,ModerateAutism experiences sensory interference rather than coherence
+ModerateAutism_7_238,MO,Moderate autism,A5,0,0.9957,7,ModerateAutism cannot infer the classroom's overall sensory whole
+ModerateAutism_8_317,MO,Moderate autism,A5,0,0.9903,8,ModerateAutism remains anchored to isolated buzzing detail
+ModerateAutism_2_14,MO,Moderate autism,A20,1,0.9972,2,ModerateAutism registers disproportionate disruption from the light change
+ModerateAutism_1_3,MO,Moderate autism,A3,1,0.9968,1,ModerateAutism experiences interference from simultaneous light and sound
+ModerateAutism_2_9,MO,Moderate autism,A1,1,0.9982,2,ModerateAutism's cognitive processing goes offline
+ModerateAutism_3_25,MO,Moderate autism,A1,1,0.9974,3,ModerateAutism cannot learn until regulation restored
+ModerateAutism_2_10,MO,Moderate autism,A2,1,0.9979,2,ModerateAutism cannot automatically filter the buzzing sound
+ModerateAutism_3_37,MO,Moderate autism,A20,1,0.9915,3,ModerateAutism registers the new lights as high prediction error
+ModerateAutism_4_82,MO,Moderate autism,A20,1,0.9977,4,ModerateAutism's disruption is disproportionate to the actual change
+ModerateAutism_5_136,MO,Moderate autism,A20,1,0.9966,5,ModerateAutism's disruption persists regardless of the change's true significance
+ModerateAutism_4_83,MO,Moderate autism,A19,1,0.9972,4,ModerateAutism cannot allocate resources to other tasks
+ModerateAutism_5_134,MO,Moderate autism,A20,1,0.9941,5,ModerateAutism disruption persists beyond the lights' objective significance
+ModerateAutism_6_217,MO,Moderate autism,A20,0,0.9901,6,ModerateAutism disruption does not diminish with continued exposure
+ModerateAutism_7_322,MO,Moderate autism,A20,0,0.9945,7,ModerateAutism sustains high prediction error signals continuously
+ModerateAutism_3_38,MO,Moderate autism,A2,1,0.9972,3,ModerateAutism assigns the buzzing equal weight to instruction
+ModerateAutism_4_66,MO,Moderate autism,A20,1,0.9872,4,ModerateAutism registers the new lights as disproportionate error
+ModerateAutism_5_108,MO,Moderate autism,A20,1,0.9966,5,ModerateAutism reacts with disruption disproportionate to the lighting change's significance
+ModerateAutism_6_191,MO,Moderate autism,A1,1,0.9959,6,ModerateAutism cannot engage socially during the disruption
+ModerateAutism_7_301,MO,Moderate autism,A1,1,0.997,7,ModerateAutism cannot process instruction until regulation is restored
+ModerateAutism_7_303,MO,Moderate autism,A24,1,0.9975,7,ModerateAutism misses feedback tied to this moment
+ModerateAutism_6_192,MO,Moderate autism,A19,1,0.9972,6,ModerateAutism loses the resource-saving benefit of routine
+ModerateAutism_5_109,MO,Moderate autism,A1,1,0.9983,5,ModerateAutism's cognitive processing becomes unavailable due to overload
+ModerateAutism_4_67,MO,Moderate autism,A2,1,0.9972,4,ModerateAutism must expend effort to filter instruction
+ModerateAutism_5_102,MO,Moderate autism,A2,1,0.9975,5,ModerateAutism has reduced cognitive resources for instruction content
+ModerateAutism_6_164,MO,Moderate autism,A5,1,0.9982,6,ModerateAutism fails to integrate instruction into a coherent whole
+ModerateAutism_7_249,MO,Moderate autism,A10,1,0.9964,7,ModerateAutism requires visual cues to later recall instruction
+ModerateAutism_8_318,MO,Moderate autism,A10,1,0.994,8,ModerateAutism fails to retrieve instruction without provided visual cues
+ModerateAutism_8_320,MO,Moderate autism,A9,1,0.989,8,ModerateAutism encodes instruction preferentially as a visual pattern
+ModerateAutism_7_250,MO,Moderate autism,A5,1,0.9901,7,ModerateAutism processes instruction as disconnected fragments
+ModerateAutism_6_165,MO,Moderate autism,A24,1,0.9952,6,ModerateAutism cannot encode instruction as reliable learning
+ModerateAutism_7_253,MO,Moderate autism,A19,1,0.995,7,ModerateAutism cannot form a routine from instruction
+ModerateAutism_5_103,MO,Moderate autism,A5,1,0.995,5,ModerateAutism processes instruction details without grasping overall meaning
+ModerateAutism_6_166,MO,Moderate autism,A5,1,0.9975,6,ModerateAutism cannot infer the instruction's overall intent
+ModerateAutism_7_254,MO,Moderate autism,A17,0,0.9888,7,ModerateAutism defaults to a literal interpretation of instruction
+ModerateAutism_7_255,MO,Moderate autism,A23,1,0.9966,7,ModerateAutism cannot detect the unspoken expectation behind instruction
+ModerateAutism_7_257,MO,Moderate autism,A22,1,0.9948,7,ModerateAutism cannot generalize the instruction from prior contexts
+ModerateAutism_6_167,MO,Moderate autism,A23,0,0.996,6,ModerateAutism requires the instruction restated explicitly
+ModerateAutism_7_260,MO,Moderate autism,A23,0,0.9889,7,ModerateAutism follows the instruction once explicitly stated
+ModerateAutism_7_261,MO,Moderate autism,A10,0,0.9902,7,ModerateAutism benefits from an explicit visual cue accompanying instruction
+ModerateAutism_8_331,MO,Moderate autism,A9,1,0.9933,8,ModerateAutism retains the visually cued instruction with high fidelity
+ModerateAutism_8_332,MO,Moderate autism,A10,0,0.9851,8,ModerateAutism retrieves the instruction reliably only with the cue present
+ModerateAutism_8_333,MO,Moderate autism,A4,1,0.9936,8,ModerateAutism anchors the abstract instruction to a concrete referent
+ModerateAutism_7_262,MO,Moderate autism,A18,1,0.9921,7,ModerateAutism cannot infer instruction from implicit classroom expectations
+ModerateAutism_6_168,MO,Moderate autism,A1,1,0.9933,6,ModerateAutism risks sensory overload disrupting task engagement
+ModerateAutism_7_225,MO,Moderate autism,A1,1,0.9979,7,ModerateAutism cannot socially engage during overload
+ModerateAutism_8_329,MO,Moderate autism,A1,1,0.9968,8,ModerateAutism remains cognitively offline during the overload
+ModerateAutism_8_330,MO,Moderate autism,A1,0,0.9969,8,ModerateAutism cannot learn new material during overload
+ModerateAutism_1_4,MO,Moderate autism,A20,1,0.9983,1,ModerateAutism generates disproportionate prediction error from the change
+ModerateAutism_2_15,MO,Moderate autism,A1,1,0.9915,2,ModerateAutism's sensory system risks exceeding regulatory threshold now
+ModerateAutism_2_17,MO,Moderate autism,A20,1,0.9975,2,ModerateAutism treats the light change as maximally disruptive
+ModerateAutism_3_45,MO,Moderate autism,A1,1,0.9979,3,ModerateAutism becomes unavailable for learning and interaction
+ModerateAutism_3_47,MO,Moderate autism,A5,1,0.9976,3,ModerateAutism fixates on the buzzing sound detail
+ModerateAutism_4_68,MO,Moderate autism,A5,0,0.9931,4,ModerateAutism fails to integrate buzzing into broader classroom context
+NeurotypicalCognition_0_0,NT,Neurotypical,,0,0.1132,0,"A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts."
+NeurotypicalCognition_1_1,NT,Neurotypical,N1,0,0.9928,1,NeurotypicalCognition automatically suppresses the buzzing sound as background
+NeurotypicalCognition_2_13,NT,Neurotypical,N1,0,0.9924,2,NeurotypicalCognition maintains focus on task-relevant classroom content
+NeurotypicalCognition_3_31,NT,Neurotypical,N4,0,0.9293,3,NeurotypicalCognition integrates verbal and visual classroom information simultaneously
+NeurotypicalCognition_4_50,NT,Neurotypical,N6,0,0.9696,4,NeurotypicalCognition automatically extracts overall lesson meaning
+NeurotypicalCognition_4_51,NT,Neurotypical,N3,0,0.9865,4,NeurotypicalCognition forms a unified percept of the classroom
+NeurotypicalCognition_5_104,NT,Neurotypical,N6,0,0.9883,5,NeurotypicalCognition extracts global meaning from the classroom scene
+NeurotypicalCognition_6_222,NT,Neurotypical,N7,0,0.3338,6,NeurotypicalCognition increases learning rate for the altered environment
+NeurotypicalCognition_5_106,NT,Neurotypical,N20,0,0.9741,5,NeurotypicalCognition updates its contextual model of the room
+NeurotypicalCognition_6_195,NT,Neurotypical,N20,0,0.8502,6,NeurotypicalCognition resolves the prediction error from the change
+NeurotypicalCognition_6_197,NT,Neurotypical,N7,0,0.163,6,NeurotypicalCognition consolidates learning as the room restabilizes
+NeurotypicalCognition_3_33,NT,Neurotypical,N6,0,0.9723,3,NeurotypicalCognition extracts global meaning from classroom instruction automatically
+NeurotypicalCognition_4_66,NT,Neurotypical,N4,0,0.1992,4,NeurotypicalCognition integrates instruction with classroom social context automatically
+NeurotypicalCognition_5_100,NT,Neurotypical,N23,0,0.9866,5,NeurotypicalCognition infers implicit classroom behavioral expectations automatically
+NeurotypicalCognition_6_225,NT,Neurotypical,N21,0,0.9896,6,NeurotypicalCognition treats expectation violations as correctable social information
+NeurotypicalCognition_5_101,NT,Neurotypical,N17,0,0.9865,5,NeurotypicalCognition decodes teacher's indirect speech without added effort
+NeurotypicalCognition_6_234,NT,Neurotypical,N23,0,0.9568,6,NeurotypicalCognition infers implicit classroom behavioral expectations from speech
+NeurotypicalCognition_6_236,NT,Neurotypical,N12,0,0.8978,6,NeurotypicalCognition adjusts behavior to gain teacher's social approval
+NeurotypicalCognition_5_102,NT,Neurotypical,N18,1,0.9561,5,NeurotypicalCognition acquires classroom norms through ongoing social participation
+NeurotypicalCognition_6_214,NT,Neurotypical,N18,0,0.6672,6,NeurotypicalCognition automatically detects classroom norm violations via feedback
+NeurotypicalCognition_6_215,NT,Neurotypical,N22,0,0.1139,6,NeurotypicalCognition generalizes classroom norms to new contexts
+NeurotypicalCognition_5_103,NT,Neurotypical,N2,0,0.9953,5,NeurotypicalCognition habituates further to the fluorescent buzzing
+NeurotypicalCognition_6_212,NT,Neurotypical,N7,1,0.9689,6,NeurotypicalCognition treats the classroom environment as stable now
+NeurotypicalCognition_4_67,NT,Neurotypical,N22,0,0.7578,4,NeurotypicalCognition generalizes the lesson content across future contexts
+NeurotypicalCognition_5_117,NT,Neurotypical,N6,0,0.9823,5,NeurotypicalCognition interprets new classroom details using prior global meaning
+NeurotypicalCognition_6_231,NT,Neurotypical,N22,0,0.1093,6,NeurotypicalCognition transfers this interpretation to future classroom settings
+NeurotypicalCognition_6_233,NT,Neurotypical,N6,0,0.8193,6,NeurotypicalCognition assimilates new lighting details into existing lesson context
+NeurotypicalCognition_3_34,NT,Neurotypical,N11,0,0.2338,3,NeurotypicalCognition remains ready to redirect attention to new salience
+NeurotypicalCognition_4_58,NT,Neurotypical,N20,0,0.8117,4,NeurotypicalCognition resolves any prediction error via updating
+NeurotypicalCognition_4_59,NT,Neurotypical,N11,0,0.9913,4,NeurotypicalCognition redirects attention if new salience emerges
+NeurotypicalCognition_5_112,NT,Neurotypical,N7,0,0.9567,5,NeurotypicalCognition increases updating due to the environmental change
+NeurotypicalCognition_6_219,NT,Neurotypical,N7,0,0.2373,6,NeurotypicalCognition consolidates once environment stabilizes
+NeurotypicalCognition_2_14,NT,Neurotypical,N6,0,0.9954,2,NeurotypicalCognition interprets the buzzing as irrelevant background context
+NeurotypicalCognition_3_26,NT,Neurotypical,N1,1,0.9904,3,NeurotypicalCognition continues amplifying task-relevant visual signals
+NeurotypicalCognition_4_49,NT,Neurotypical,N6,1,0.9947,4,NeurotypicalCognition extracts lesson meaning from visual details
+NeurotypicalCognition_5_91,NT,Neurotypical,N6,1,0.9933,5,NeurotypicalCognition integrates visual details into coherent lesson understanding
+NeurotypicalCognition_5_93,NT,Neurotypical,N22,0,0.2208,5,NeurotypicalCognition transfers extracted lesson meaning to related classroom contexts
+NeurotypicalCognition_6_186,NT,Neurotypical,N6,0,0.9675,6,NeurotypicalCognition applies contextual meaning to new classroom details
+NeurotypicalCognition_3_27,NT,Neurotypical,N11,1,0.9916,3,NeurotypicalCognition maintains attention on classroom task demands
+NeurotypicalCognition_4_62,NT,Neurotypical,N6,1,0.9837,4,NeurotypicalCognition extracts overall classroom meaning from task context
+NeurotypicalCognition_5_119,NT,Neurotypical,N4,0,0.9778,5,NeurotypicalCognition integrates lesson content across verbal and visual channels
+NeurotypicalCognition_6_207,NT,Neurotypical,N4,0,0.8856,6,NeurotypicalCognition simultaneously incorporates social and contextual cues
+NeurotypicalCognition_6_208,NT,Neurotypical,N6,0,0.9752,6,NeurotypicalCognition derives overall lesson meaning from integrated details
+NeurotypicalCognition_5_120,NT,Neurotypical,N7,0,0.9924,5,NeurotypicalCognition consolidates learning under stable classroom conditions
+NeurotypicalCognition_6_242,NT,Neurotypical,N22,0,0.9586,6,NeurotypicalCognition transfers consolidated classroom learning to new contexts
+NeurotypicalCognition_6_243,NT,Neurotypical,N7,1,0.9935,6,NeurotypicalCognition reduces learning rate under stable conditions
+NeurotypicalCognition_1_2,NT,Neurotypical,N2,0,0.993,1,NeurotypicalCognition habituates to the buzzing lights over time
+NeurotypicalCognition_2_9,NT,Neurotypical,N2,1,0.9957,2,NeurotypicalCognition's sensory threshold for the buzzing adjusts upward
+NeurotypicalCognition_2_11,NT,Neurotypical,N11,0,0.9896,2,NeurotypicalCognition no longer redirects attention toward the buzzing
+NeurotypicalCognition_3_22,NT,Neurotypical,N1,0,0.9795,3,NeurotypicalCognition amplifies task-relevant signals over the buzzing
+NeurotypicalCognition_4_41,NT,Neurotypical,N1,0,0.9923,4,NeurotypicalCognition sustains normal task performance despite the buzzing
+NeurotypicalCognition_5_94,NT,Neurotypical,N4,0,0.13,5,"NeurotypicalCognition continues integrating verbal, visual, and social information normally"
+NeurotypicalCognition_6_160,NT,Neurotypical,N22,0,0.9855,6,NeurotypicalCognition generalizes classroom rules despite the lighting change
+NeurotypicalCognition_5_95,NT,Neurotypical,N22,0,0.9588,5,NeurotypicalCognition generalizes learned task rules despite the lighting change
+NeurotypicalCognition_6_188,NT,Neurotypical,N22,1,0.9938,6,NeurotypicalCognition applies task rules without explicit re-anchoring
+NeurotypicalCognition_6_189,NT,Neurotypical,N20,0,0.2284,6,NeurotypicalCognition treats the lighting change as resolved
+NeurotypicalCognition_5_96,NT,Neurotypical,N7,0,0.9846,5,NeurotypicalCognition consolidates learning as the environment stabilizes
+NeurotypicalCognition_6_179,NT,Neurotypical,N22,0,0.0618,6,NeurotypicalCognition generalizes the new lighting condition across future contexts
+NeurotypicalCognition_6_180,NT,Neurotypical,N8,0,0.903,6,NeurotypicalCognition encodes the lighting change as episodic memory
+NeurotypicalCognition_6_181,NT,Neurotypical,N7,1,0.997,6,NeurotypicalCognition reduces its learning rate as volatility decreases
+NeurotypicalCognition_4_42,NT,Neurotypical,N11,1,0.9944,4,NeurotypicalCognition maintains attention on task-relevant demands
+NeurotypicalCognition_5_83,NT,Neurotypical,N6,0,0.2401,5,NeurotypicalCognition extracts global meaning from task details
+NeurotypicalCognition_6_161,NT,Neurotypical,N6,0,0.978,6,NeurotypicalCognition interprets task details through overall context
+NeurotypicalCognition_7_259,NT,Neurotypical,N4,0,0.0779,7,NeurotypicalCognition integrates verbal and social cues into task comprehension
+NeurotypicalCognition_6_162,NT,Neurotypical,N4,0,0.9797,6,NeurotypicalCognition integrates verbal and contextual information without effort
+NeurotypicalCognition_7_263,NT,Neurotypical,N17,0,0.9821,7,NeurotypicalCognition decodes teacher's implied meaning without effort
+NeurotypicalCognition_7_264,NT,Neurotypical,N4,0,0.918,7,NeurotypicalCognition simultaneously integrates social cues from classroom
+NeurotypicalCognition_6_163,NT,Neurotypical,N22,0,0.8942,6,NeurotypicalCognition transfers task understanding to new contexts
+NeurotypicalCognition_7_256,NT,Neurotypical,N22,1,0.9898,7,NeurotypicalCognition applies the learned rule without re-anchoring
+NeurotypicalCognition_7_258,NT,Neurotypical,N6,0,0.9419,7,NeurotypicalCognition reinterprets new context using extracted meaning
+NeurotypicalCognition_5_84,NT,Neurotypical,N22,1,0.988,5,NeurotypicalCognition applies prior learned rules to the task
+NeurotypicalCognition_6_150,NT,Neurotypical,N22,0,0.9727,6,NeurotypicalCognition transfers the rule despite the new lighting context
+NeurotypicalCognition_7_267,NT,Neurotypical,N22,0,0.2346,7,NeurotypicalCognition generalizes the rule to further task variations
+NeurotypicalCognition_7_268,NT,Neurotypical,N6,0,0.987,7,NeurotypicalCognition interprets the classroom context as unchanged overall
+NeurotypicalCognition_6_152,NT,Neurotypical,N24,0,0.18,6,NeurotypicalCognition monitors feedback to confirm correct rule application
+NeurotypicalCognition_4_43,NT,Neurotypical,N6,0,0.9869,4,NeurotypicalCognition extracts lesson meaning undisturbed by the noise
+NeurotypicalCognition_5_85,NT,Neurotypical,N6,0,0.3489,5,NeurotypicalCognition integrates lesson content into coherent global meaning
+NeurotypicalCognition_6_184,NT,Neurotypical,N5,0,0.7674,6,NeurotypicalCognition applies abstract reasoning to lesson content
+NeurotypicalCognition_5_86,NT,Neurotypical,N8,0,0.6522,5,NeurotypicalCognition encodes the lesson as episodic and semantic memory
+NeurotypicalCognition_6_167,NT,Neurotypical,N10,0,0.9857,6,NeurotypicalCognition can retrieve the lesson without visual anchors
+NeurotypicalCognition_6_169,NT,Neurotypical,N8,0,0.8889,6,NeurotypicalCognition retains the lesson with contextual narrative detail
+NeurotypicalCognition_5_87,NT,Neurotypical,N22,0,0.9661,5,NeurotypicalCognition transfers lesson content across future contexts
+NeurotypicalCognition_6_153,NT,Neurotypical,N22,1,0.995,6,NeurotypicalCognition applies lesson rules without re-anchoring in new settings
+NeurotypicalCognition_6_154,NT,Neurotypical,N5,1,0.9936,6,NeurotypicalCognition builds abstract reasoning from the concrete lesson
+NeurotypicalCognition_3_23,NT,Neurotypical,N11,1,0.9892,3,NeurotypicalCognition redirects attention toward classroom task demands
+NeurotypicalCognition_4_54,NT,Neurotypical,N4,1,0.9787,4,NeurotypicalCognition integrates verbal and visual task information simultaneously
+NeurotypicalCognition_5_89,NT,Neurotypical,N4,0,0.0579,5,NeurotypicalCognition incorporates social and contextual cues automatically
+NeurotypicalCognition_5_90,NT,Neurotypical,N11,0,0.9947,5,NeurotypicalCognition sustains distributed attention across task foci
+NeurotypicalCognition_6_172,NT,Neurotypical,N24,0,0.9549,6,NeurotypicalCognition supplements task feedback through self-monitoring and social inference
+NeurotypicalCognition_7_270,NT,Neurotypical,N21,0,0.6744,7,NeurotypicalCognition corrects behavior based on inferred errors
+NeurotypicalCognition_7_272,NT,Neurotypical,N22,0,0.2638,7,NeurotypicalCognition generalizes corrected behavior across new contexts
+NeurotypicalCognition_4_55,NT,Neurotypical,N6,1,0.9958,4,NeurotypicalCognition extracts overall meaning of the classroom activity
+NeurotypicalCognition_5_97,NT,Neurotypical,N23,0,0.1199,5,NeurotypicalCognition computes implicit behavioral expectations for the activity
+NeurotypicalCognition_6_198,NT,Neurotypical,N12,0,0.9796,6,NeurotypicalCognition regulates behavior via anticipated social consequences
+NeurotypicalCognition_6_200,NT,Neurotypical,N23,1,0.9901,6,NeurotypicalCognition infers expected behavior without explicit statement
+NeurotypicalCognition_5_98,NT,Neurotypical,N13,0,0.968,5,NeurotypicalCognition generates motivation to engage with the task
+NeurotypicalCognition_6_204,NT,Neurotypical,N13,1,0.9906,6,NeurotypicalCognition sustains engagement despite lack of intrinsic interest
+NeurotypicalCognition_6_205,NT,Neurotypical,N24,0,0.9726,6,NeurotypicalCognition integrates classroom feedback while performing the task
+NeurotypicalCognition_6_206,NT,Neurotypical,N21,0,0.8871,6,NeurotypicalCognition treats task errors as correctable information
+NeurotypicalCognition_3_24,NT,Neurotypical,N2,0,0.9768,3,NeurotypicalCognition's sensory threshold stabilizes to the new lighting
+NeurotypicalCognition_4_46,NT,Neurotypical,N2,0,0.9875,4,NeurotypicalCognition consolidates the new sensory baseline
+NeurotypicalCognition_5_73,NT,Neurotypical,N1,0,0.8914,5,NeurotypicalCognition amplifies only task-relevant classroom signals now
+NeurotypicalCognition_6_146,NT,Neurotypical,N6,0,0.0185,6,NeurotypicalCognition extracts lesson meaning from classroom details automatically
+NeurotypicalCognition_5_74,NT,Neurotypical,N11,0,0.7476,5,NeurotypicalCognition redirects attention freely to new salient events
+NeurotypicalCognition_6_128,NT,Neurotypical,N11,0,0.9777,6,NeurotypicalCognition prioritizes new social or task signals
+NeurotypicalCognition_7_245,NT,Neurotypical,N4,0,0.9845,7,NeurotypicalCognition integrates new signals with ongoing task context
+NeurotypicalCognition_7_246,NT,Neurotypical,N6,0,0.8491,7,NeurotypicalCognition extracts overall classroom meaning from new signals
+NeurotypicalCognition_5_75,NT,Neurotypical,N7,0,0.7387,5,NeurotypicalCognition's learning rate settles under stable conditions
+NeurotypicalCognition_6_194,NT,Neurotypical,N6,0,0.9932,6,NeurotypicalCognition extracts classroom meaning without buzzing interference
+NeurotypicalCognition_1_3,NT,Neurotypical,N20,0,0.9563,1,NeurotypicalCognition generates a small prediction error from the light change
+NeurotypicalCognition_2_15,NT,Neurotypical,N20,0,0.9689,2,NeurotypicalCognition resolves the prediction error through contextual updating
+NeurotypicalCognition_3_37,NT,Neurotypical,N19,0,0.9698,3,NeurotypicalCognition treats the disruption as mild and transient
+NeurotypicalCognition_4_72,NT,Neurotypical,N19,0,0.9804,4,NeurotypicalCognition's discomfort resolves rapidly through reappraisal
+NeurotypicalCognition_5_134,NT,Neurotypical,N1,0,0.9804,5,NeurotypicalCognition resumes filtering the lights as background stimulus
+NeurotypicalCognition_6_255,NT,Neurotypical,N11,0,0.9922,6,NeurotypicalCognition redirects attention toward classroom instructional content
+NeurotypicalCognition_5_135,NT,Neurotypical,N19,0,0.991,5,NeurotypicalCognition treats the new lighting as an acceptable preference change
+NeurotypicalCognition_1_4,NT,Neurotypical,N20,1,0.9315,1,NeurotypicalCognition rapidly updates its context to include new lighting
+NeurotypicalCognition_2_6,NT,Neurotypical,N2,0,0.9934,2,NeurotypicalCognition habituates to the buzzing sound over time
+NeurotypicalCognition_3_19,NT,Neurotypical,N11,0,0.9891,3,NeurotypicalCognition redirects attention back to task-relevant signals
+NeurotypicalCognition_4_39,NT,Neurotypical,N4,1,0.9907,4,NeurotypicalCognition integrates classroom information without explicit channel management
+NeurotypicalCognition_5_79,NT,Neurotypical,N6,0,0.4543,5,NeurotypicalCognition extracts overall classroom meaning from combined details
+NeurotypicalCognition_6_173,NT,Neurotypical,N6,0,0.9893,6,NeurotypicalCognition reinterprets buzzing lights within overall classroom context
+NeurotypicalCognition_6_174,NT,Neurotypical,N23,0,0.9814,6,NeurotypicalCognition infers implicit behavioral expectations for the changed classroom
+NeurotypicalCognition_5_80,NT,Neurotypical,N11,1,0.9897,5,NeurotypicalCognition distributes attention flexibly across classroom stimuli
+NeurotypicalCognition_5_81,NT,Neurotypical,N24,0,0.9578,5,NeurotypicalCognition supplements ambiguous classroom cues through social inference
+NeurotypicalCognition_6_156,NT,Neurotypical,N18,0,0.9472,6,NeurotypicalCognition detects norm violations through automatic social feedback
+NeurotypicalCognition_6_157,NT,Neurotypical,N6,0,0.9035,6,NeurotypicalCognition extracts overall classroom meaning from local cues
+NeurotypicalCognition_4_40,NT,Neurotypical,N11,0,0.9709,4,NeurotypicalCognition remains available for further salience-driven redirection
+NeurotypicalCognition_5_76,NT,Neurotypical,N11,0,0.9289,5,NeurotypicalCognition shifts focus toward new social signals
+NeurotypicalCognition_6_142,NT,Neurotypical,N15,0,0.0932,6,NeurotypicalCognition automatically mirrors emotions observed in peers
+NeurotypicalCognition_7_265,NT,Neurotypical,N16,0,0.0359,7,NeurotypicalCognition generates matching emotional response near-instantly
+NeurotypicalCognition_7_266,NT,Neurotypical,N14,0,0.5575,7,NeurotypicalCognition labels the mirrored emotional state internally
+NeurotypicalCognition_5_78,NT,Neurotypical,N6,0,0.9563,5,NeurotypicalCognition interprets classroom details within overall lesson context
+NeurotypicalCognition_6_178,NT,Neurotypical,N11,1,0.9877,6,NeurotypicalCognition redirects attention toward new task demands
+NeurotypicalCognition_2_8,NT,Neurotypical,N19,0,0.9657,2,NeurotypicalCognition experiences mild discomfort resolving rapidly
+NeurotypicalCognition_3_30,NT,Neurotypical,N7,0,0.362,3,NeurotypicalCognition consolidates once the lighting stabilizes
+NeurotypicalCognition_4_63,NT,Neurotypical,N2,1,0.9961,4,NeurotypicalCognition habituates fully to the buzzing sound
+NeurotypicalCognition_5_113,NT,Neurotypical,N1,1,0.9896,5,NeurotypicalCognition no longer amplifies the buzzing as task-relevant
+NeurotypicalCognition_5_114,NT,Neurotypical,N2,0,0.9749,5,NeurotypicalCognition's sensory threshold stabilizes at the new baseline
+NeurotypicalCognition_6_202,NT,Neurotypical,N11,1,0.9912,6,NeurotypicalCognition no longer redirects attention to the lights
+NeurotypicalCognition_6_203,NT,Neurotypical,N6,1,0.9829,6,NeurotypicalCognition resumes normal contextual interpretation of the classroom
+NeurotypicalCognition_5_115,NT,Neurotypical,N6,0,0.9819,5,NeurotypicalCognition attends primarily to lesson content again
+NeurotypicalCognition_6_229,NT,Neurotypical,N6,0,0.056,6,NeurotypicalCognition extracts global lesson meaning from content details
+NeurotypicalCognition_4_64,NT,Neurotypical,N1,1,0.9943,4,NeurotypicalCognition suppresses the fluorescent buzzing as background
+NeurotypicalCognition_5_122,NT,Neurotypical,N2,0,0.9938,5,NeurotypicalCognition habituates further as buzzing persists
+NeurotypicalCognition_5_124,NT,Neurotypical,N6,0,0.9924,5,NeurotypicalCognition maintains lesson-focused interpretation despite ambient buzzing
+NeurotypicalCognition_6_237,NT,Neurotypical,N6,1,0.9938,6,NeurotypicalCognition extracts lesson meaning despite buzzing detail
+NeurotypicalCognition_4_65,NT,Neurotypical,N7,0,0.7006,4,NeurotypicalCognition's learning rate returns to baseline stability
+NeurotypicalCognition_5_127,NT,Neurotypical,N8,0,0.9928,5,NeurotypicalCognition encodes the new lighting as routine context
+NeurotypicalCognition_6_249,NT,Neurotypical,N22,0,0.9771,6,NeurotypicalCognition transfers classroom rules under new lighting
+SocialBehavioralAutism_0_0,SB,Social/Behavioral autism,,0,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing."
+SocialBehavioralAutism_1_1,SB,Social/Behavioral autism,A1,1,0.9983,1,SocialBehavioralAutism's cognitive processing goes offline from overload
+SocialBehavioralAutism_2_5,SB,Social/Behavioral autism,A1,1,0.998,2,SocialBehavioralAutism cannot engage in social interaction now
+SocialBehavioralAutism_3_41,SB,Social/Behavioral autism,A1,1,0.9978,3,SocialBehavioralAutism cannot access learning processes now
+SocialBehavioralAutism_3_42,SB,Social/Behavioral autism,A18,1,0.9934,3,SocialBehavioralAutism cannot retrieve stored pragmatic social rules
+SocialBehavioralAutism_4_107,SB,Social/Behavioral autism,A18,1,0.9949,4,SocialBehavioralAutism cannot match behavior to current social context
+SocialBehavioralAutism_4_108,SB,Social/Behavioral autism,A23,1,0.9971,4,SocialBehavioralAutism cannot detect unspoken classroom behavioral expectations
+SocialBehavioralAutism_4_109,SB,Social/Behavioral autism,A1,1,0.9958,4,SocialBehavioralAutism remains unable to process classroom social cues
+SocialBehavioralAutism_3_43,SB,Social/Behavioral autism,A15,1,0.9977,3,SocialBehavioralAutism cannot analyze others' behavioral cues now
+SocialBehavioralAutism_4_83,SB,Social/Behavioral autism,A23,1,0.9966,4,SocialBehavioralAutism cannot detect implicit social expectations now
+SocialBehavioralAutism_5_189,SB,Social/Behavioral autism,A23,0,0.9934,5,SocialBehavioralAutism relies only on explicitly stated classroom rules now
+SocialBehavioralAutism_5_190,SB,Social/Behavioral autism,A18,0,0.9731,5,SocialBehavioralAutism requires conscious retrieval of stored social rules now
+SocialBehavioralAutism_5_191,SB,Social/Behavioral autism,A24,1,0.9966,5,SocialBehavioralAutism cannot update behavior without explicit corrective feedback now
+SocialBehavioralAutism_4_84,SB,Social/Behavioral autism,A16,1,0.9911,4,SocialBehavioralAutism delays any emotional response to this event
+SocialBehavioralAutism_5_184,SB,Social/Behavioral autism,A14,1,0.9976,5,SocialBehavioralAutism cannot label the eventual emotional state
+SocialBehavioralAutism_5_185,SB,Social/Behavioral autism,A16,1,0.9956,5,"SocialBehavioralAutism's emotional reaction surfaces later, decoupled from trigger"
+SocialBehavioralAutism_2_6,SB,Social/Behavioral autism,A1,1,0.9965,2,SocialBehavioralAutism cannot process new learning content now
+SocialBehavioralAutism_3_38,SB,Social/Behavioral autism,A24,1,0.9984,3,SocialBehavioralAutism cannot register feedback delivered during this period
+SocialBehavioralAutism_4_89,SB,Social/Behavioral autism,A24,1,0.9978,4,SocialBehavioralAutism's behavior remains unaffected by this feedback
+SocialBehavioralAutism_5_204,SB,Social/Behavioral autism,A19,1,0.9957,5,SocialBehavioralAutism continues operating under its prior established routine
+SocialBehavioralAutism_5_205,SB,Social/Behavioral autism,A24,1,0.9811,5,SocialBehavioralAutism will need new proximate feedback to change behavior
+SocialBehavioralAutism_5_206,SB,Social/Behavioral autism,A22,1,0.9943,5,SocialBehavioralAutism cannot generalize this feedback to other contexts
+SocialBehavioralAutism_4_91,SB,Social/Behavioral autism,A19,1,0.9972,4,SocialBehavioralAutism cannot allocate resources to other tasks now
+SocialBehavioralAutism_3_40,SB,Social/Behavioral autism,A19,0,0.986,3,SocialBehavioralAutism defaults to prior established routine actions
+SocialBehavioralAutism_4_75,SB,Social/Behavioral autism,A19,0,0.9865,4,SocialBehavioralAutism allocates minimal cognitive resources to routine execution
+SocialBehavioralAutism_5_149,SB,Social/Behavioral autism,A19,0,0.9658,5,SocialBehavioralAutism frees remaining resources for other processing
+SocialBehavioralAutism_5_150,SB,Social/Behavioral autism,A1,0,0.9977,5,SocialBehavioralAutism stays unavailable for learning despite routine execution
+SocialBehavioralAutism_5_151,SB,Social/Behavioral autism,A20,0,0.9903,5,SocialBehavioralAutism would show disproportionate disruption if routine changes
+SocialBehavioralAutism_4_76,SB,Social/Behavioral autism,A1,0,0.9786,4,SocialBehavioralAutism remains offline despite performing routine actions
+SocialBehavioralAutism_4_77,SB,Social/Behavioral autism,A20,1,0.9931,4,SocialBehavioralAutism's routine fails to account for the new lighting
+SocialBehavioralAutism_5_182,SB,Social/Behavioral autism,A22,1,0.9963,5,SocialBehavioralAutism cannot generalize prior rules to new lighting
+SocialBehavioralAutism_2_7,SB,Social/Behavioral autism,A1,1,0.9971,2,SocialBehavioralAutism remains offline until sensory regulation restored
+SocialBehavioralAutism_3_18,SB,Social/Behavioral autism,A1,1,0.9964,3,SocialBehavioralAutism cannot engage socially until regulated
+SocialBehavioralAutism_4_66,SB,Social/Behavioral autism,A1,1,0.997,4,SocialBehavioralAutism cannot process classroom instruction while offline
+SocialBehavioralAutism_4_67,SB,Social/Behavioral autism,A24,1,0.9973,4,SocialBehavioralAutism fails to register feedback given during this state
+SocialBehavioralAutism_5_165,SB,Social/Behavioral autism,A18,0,0.9798,5,SocialBehavioralAutism does not store the intended explicit rule
+SocialBehavioralAutism_5_166,SB,Social/Behavioral autism,A19,1,0.9899,5,SocialBehavioralAutism cannot form a new routine from it
+SocialBehavioralAutism_4_68,SB,Social/Behavioral autism,A18,1,0.9907,4,SocialBehavioralAutism cannot retrieve social rules while unregulated
+SocialBehavioralAutism_5_214,SB,Social/Behavioral autism,A18,1,0.993,5,SocialBehavioralAutism cannot apply explicit pragmatic rules now
+SocialBehavioralAutism_5_215,SB,Social/Behavioral autism,A23,1,0.9979,5,SocialBehavioralAutism cannot follow stated classroom expectations currently
+SocialBehavioralAutism_5_216,SB,Social/Behavioral autism,A1,1,0.9962,5,SocialBehavioralAutism remains unable to learn during offline state
+SocialBehavioralAutism_5_217,SB,Social/Behavioral autism,A24,1,0.9957,5,SocialBehavioralAutism cannot integrate feedback while rules unretrieved
+SocialBehavioralAutism_3_19,SB,Social/Behavioral autism,A1,1,0.9974,3,SocialBehavioralAutism cannot process classroom instruction now
+SocialBehavioralAutism_4_70,SB,Social/Behavioral autism,A20,1,0.9983,4,SocialBehavioralAutism registers a disproportionate prediction error from the change
+SocialBehavioralAutism_5_202,SB,Social/Behavioral autism,A19,1,0.9978,5,SocialBehavioralAutism loses cognitive resources normally freed by routine
+SocialBehavioralAutism_5_203,SB,Social/Behavioral autism,A16,1,0.998,5,SocialBehavioralAutism's emotional response to the change is delayed
+SocialBehavioralAutism_4_71,SB,Social/Behavioral autism,A19,1,0.9972,4,SocialBehavioralAutism loses the resource-saving benefit of routine
+SocialBehavioralAutism_3_20,SB,Social/Behavioral autism,A11,1,0.9956,3,SocialBehavioralAutism cannot sustain attention outside special interest
+SocialBehavioralAutism_4_72,SB,Social/Behavioral autism,A11,1,0.9805,4,SocialBehavioralAutism requires effortful control to reengage the task
+SocialBehavioralAutism_5_152,SB,Social/Behavioral autism,A11,1,0.9952,5,SocialBehavioralAutism's reengagement lapses without continued effortful control
+SocialBehavioralAutism_5_153,SB,Social/Behavioral autism,A1,1,0.9836,5,SocialBehavioralAutism stays offline if sensory threshold remains exceeded
+SocialBehavioralAutism_5_154,SB,Social/Behavioral autism,A20,1,0.9929,5,SocialBehavioralAutism's prediction error remains elevated from the light change
+SocialBehavioralAutism_4_73,SB,Social/Behavioral autism,A12,1,0.9956,4,SocialBehavioralAutism remains unmotivated by external praise now
+SocialBehavioralAutism_4_74,SB,Social/Behavioral autism,A13,0,0.9865,4,SocialBehavioralAutism cannot learn unless routed through special interest
+SocialBehavioralAutism_5_192,SB,Social/Behavioral autism,A12,0,0.9934,5,SocialBehavioralAutism disregards classroom instruction lacking special interest link
+SocialBehavioralAutism_5_193,SB,Social/Behavioral autism,A11,1,0.9962,5,SocialBehavioralAutism cannot sustain attention on generic classroom content
+SocialBehavioralAutism_5_194,SB,Social/Behavioral autism,A13,0,0.9941,5,SocialBehavioralAutism fails to generalize lessons outside special interest
+SocialBehavioralAutism_5_195,SB,Social/Behavioral autism,A24,1,0.9853,5,SocialBehavioralAutism ignores feedback disconnected from special interest activity
+SocialBehavioralAutism_1_2,SB,Social/Behavioral autism,A2,1,0.9972,1,SocialBehavioralAutism weights buzzing sound equal to instruction
+SocialBehavioralAutism_2_8,SB,Social/Behavioral autism,A2,1,0.9972,2,SocialBehavioralAutism requires effortful filtering to prioritize instruction
+SocialBehavioralAutism_3_31,SB,Social/Behavioral autism,A11,1,0.991,3,SocialBehavioralAutism cannot sustain filtering effort indefinitely
+SocialBehavioralAutism_4_87,SB,Social/Behavioral autism,A1,1,0.9933,4,SocialBehavioralAutism's sensory input eventually exceeds regulatory threshold
+SocialBehavioralAutism_5_131,SB,Social/Behavioral autism,A1,1,0.9965,5,SocialBehavioralAutism's learning becomes unavailable until regulated
+SocialBehavioralAutism_3_32,SB,Social/Behavioral autism,A1,0,0.9948,3,SocialBehavioralAutism risks going offline if buzzing persists
+SocialBehavioralAutism_4_105,SB,Social/Behavioral autism,A1,1,0.9979,4,SocialBehavioralAutism loses access to learning and social engagement
+SocialBehavioralAutism_4_106,SB,Social/Behavioral autism,A1,1,0.996,4,SocialBehavioralAutism cannot resume processing until regulation restored
+SocialBehavioralAutism_2_9,SB,Social/Behavioral autism,A1,1,0.9962,2,SocialBehavioralAutism risks going offline from sensory overload
+SocialBehavioralAutism_3_22,SB,Social/Behavioral autism,A1,1,0.9978,3,SocialBehavioralAutism loses access to cognitive processing capacity
+SocialBehavioralAutism_4_55,SB,Social/Behavioral autism,A1,1,0.9974,4,SocialBehavioralAutism cannot learn until regulation restored
+SocialBehavioralAutism_5_133,SB,Social/Behavioral autism,A24,1,0.9964,5,SocialBehavioralAutism requires observable specific feedback to resume learning
+SocialBehavioralAutism_5_134,SB,Social/Behavioral autism,A19,1,0.9918,5,SocialBehavioralAutism depends on restored routine to reallocate resources
+SocialBehavioralAutism_4_56,SB,Social/Behavioral autism,A1,1,0.9964,4,SocialBehavioralAutism remains offline until stimulus decreases
+SocialBehavioralAutism_5_142,SB,Social/Behavioral autism,A19,1,0.9956,5,SocialBehavioralAutism cannot resume the established classroom routine
+SocialBehavioralAutism_3_24,SB,Social/Behavioral autism,A1,1,0.998,3,SocialBehavioralAutism cannot acquire new learning currently
+SocialBehavioralAutism_4_78,SB,Social/Behavioral autism,A1,1,0.9976,4,SocialBehavioralAutism cannot encode current classroom instruction
+SocialBehavioralAutism_5_177,SB,Social/Behavioral autism,A10,1,0.9949,5,SocialBehavioralAutism will retrieve this lesson unreliably without visual cues
+SocialBehavioralAutism_5_178,SB,Social/Behavioral autism,A8,1,0.9976,5,SocialBehavioralAutism forms no episodic record of this instruction
+SocialBehavioralAutism_5_179,SB,Social/Behavioral autism,A24,1,0.9933,5,SocialBehavioralAutism cannot use feedback tied to missed instruction
+SocialBehavioralAutism_5_180,SB,Social/Behavioral autism,A1,1,0.9964,5,SocialBehavioralAutism remains unable to engage until regulation restored
+SocialBehavioralAutism_4_79,SB,Social/Behavioral autism,A24,1,0.9963,4,SocialBehavioralAutism ignores feedback given during this period
+SocialBehavioralAutism_5_167,SB,Social/Behavioral autism,A24,1,0.9972,5,SocialBehavioralAutism shows no behavioral update from that feedback
+SocialBehavioralAutism_5_168,SB,Social/Behavioral autism,A1,1,0.9979,5,SocialBehavioralAutism requires feedback repeated after regulation restored
+SocialBehavioralAutism_5_169,SB,Social/Behavioral autism,A20,0,0.9948,5,SocialBehavioralAutism treats the light change as ongoing prediction error
+SocialBehavioralAutism_4_80,SB,Social/Behavioral autism,A1,1,0.9967,4,SocialBehavioralAutism requires regulation restoration before learning resumes
+SocialBehavioralAutism_5_174,SB,Social/Behavioral autism,A1,1,0.9963,5,SocialBehavioralAutism suspends cognitive processing until regulation restored
+SocialBehavioralAutism_5_175,SB,Social/Behavioral autism,A19,0,0.9944,5,SocialBehavioralAutism seeks a restored predictable routine
+SocialBehavioralAutism_4_81,SB,Social/Behavioral autism,A18,1,0.9953,4,SocialBehavioralAutism cannot retrieve applicable social rules now
+SocialBehavioralAutism_2_10,SB,Social/Behavioral autism,A3,1,0.9938,2,SocialBehavioralAutism experiences interference between buzzing and instruction
+SocialBehavioralAutism_3_25,SB,Social/Behavioral autism,A1,1,0.9958,3,SocialBehavioralAutism risks going offline for learning
+SocialBehavioralAutism_4_99,SB,Social/Behavioral autism,A1,0,0.9964,4,SocialBehavioralAutism cannot process classroom instruction until regulated
+SocialBehavioralAutism_4_100,SB,Social/Behavioral autism,A1,1,0.9947,4,SocialBehavioralAutism suspends social engagement during sensory overload
+SocialBehavioralAutism_5_162,SB,Social/Behavioral autism,A1,1,0.9971,5,SocialBehavioralAutism halts cognitive processing during the overload
+SocialBehavioralAutism_3_26,SB,Social/Behavioral autism,A3,1,0.9982,3,SocialBehavioralAutism cannot form coherent cross-modal representation
+SocialBehavioralAutism_4_58,SB,Social/Behavioral autism,A5,1,0.9933,4,SocialBehavioralAutism processes buzzing as isolated detail from instruction
+SocialBehavioralAutism_5_123,SB,Social/Behavioral autism,A1,0,0.993,5,SocialBehavioralAutism risks exceeding regulatory threshold from buzzing
+SocialBehavioralAutism_5_124,SB,Social/Behavioral autism,A5,1,0.9982,5,SocialBehavioralAutism fails to integrate instruction into coherent whole
+SocialBehavioralAutism_4_59,SB,Social/Behavioral autism,A3,1,0.995,4,SocialBehavioralAutism cannot resolve simultaneous cross-modal inputs into coherence
+SocialBehavioralAutism_5_137,SB,Social/Behavioral autism,A5,0,0.992,5,SocialBehavioralAutism defaults to isolated detail processing of the room
+SocialBehavioralAutism_2_11,SB,Social/Behavioral autism,A11,1,0.9955,2,SocialBehavioralAutism cannot sustain attention on instruction automatically
+SocialBehavioralAutism_3_28,SB,Social/Behavioral autism,A11,1,0.995,3,SocialBehavioralAutism requires effortful control to attend to instruction
+SocialBehavioralAutism_4_60,SB,Social/Behavioral autism,A11,1,0.9954,4,SocialBehavioralAutism cannot sustain this effortful attention automatically
+SocialBehavioralAutism_5_147,SB,Social/Behavioral autism,A11,1,0.9956,5,SocialBehavioralAutism's attention to instruction eventually lapses
+SocialBehavioralAutism_5_148,SB,Social/Behavioral autism,A20,1,0.9982,5,SocialBehavioralAutism registers disproportionate prediction error from buzzing
+SocialBehavioralAutism_4_61,SB,Social/Behavioral autism,A1,0,0.9844,4,SocialBehavioralAutism risks going offline if effort fails
+SocialBehavioralAutism_5_213,SB,Social/Behavioral autism,A1,1,0.9976,5,SocialBehavioralAutism suspends learning until sensory regulation returns
+SocialBehavioralAutism_4_62,SB,Social/Behavioral autism,A2,1,0.9968,4,SocialBehavioralAutism continuously expends resources filtering the buzzing
+SocialBehavioralAutism_5_157,SB,Social/Behavioral autism,A19,1,0.9973,5,SocialBehavioralAutism has fewer resources left for instructional tasks
+SocialBehavioralAutism_3_30,SB,Social/Behavioral autism,A2,1,0.9968,3,SocialBehavioralAutism must effortfully filter buzzing from instruction
+SocialBehavioralAutism_4_63,SB,Social/Behavioral autism,A11,0,0.9967,4,SocialBehavioralAutism depletes effortful attention control resources rapidly
+SocialBehavioralAutism_5_144,SB,Social/Behavioral autism,A11,1,0.9974,5,SocialBehavioralAutism fails to sustain attention on instruction
+SocialBehavioralAutism_5_145,SB,Social/Behavioral autism,A2,1,0.9976,5,SocialBehavioralAutism cannot automatically suppress buzzing stimulus
+SocialBehavioralAutism_4_64,SB,Social/Behavioral autism,A1,1,0.9932,4,SocialBehavioralAutism risks exceeding sensory regulatory threshold
+SocialBehavioralAutism_5_126,SB,Social/Behavioral autism,A1,1,0.9974,5,SocialBehavioralAutism goes offline for cognitive processing
+SocialBehavioralAutism_5_128,SB,Social/Behavioral autism,A1,1,0.998,5,SocialBehavioralAutism loses access to learning capacity
+SocialBehavioralAutism_4_65,SB,Social/Behavioral autism,A2,1,0.9962,4,SocialBehavioralAutism continues treating buzzing as equally salient
+SocialBehavioralAutism_5_186,SB,Social/Behavioral autism,A1,0,0.9908,5,SocialBehavioralAutism risks exceeding regulatory threshold soon
+SocialBehavioralAutism_1_3,SB,Social/Behavioral autism,A20,1,0.9964,1,SocialBehavioralAutism generates disproportionate prediction error signals
+SocialBehavioralAutism_2_12,SB,Social/Behavioral autism,A1,1,0.9978,2,SocialBehavioralAutism goes offline for learning and social engagement
+SocialBehavioralAutism_3_47,SB,Social/Behavioral autism,A1,1,0.9972,3,SocialBehavioralAutism remains unavailable until sensory regulation restores
+SocialBehavioralAutism_4_111,SB,Social/Behavioral autism,A11,1,0.9959,4,SocialBehavioralAutism cannot sustain attention on classroom tasks
+SocialBehavioralAutism_3_48,SB,Social/Behavioral autism,A18,1,0.9938,3,SocialBehavioralAutism cannot retrieve stored pragmatic rules now
+SocialBehavioralAutism_4_122,SB,Social/Behavioral autism,A1,1,0.9972,4,SocialBehavioralAutism remains unavailable for social interaction
+SocialBehavioralAutism_3_49,SB,Social/Behavioral autism,A24,1,0.9947,3,SocialBehavioralAutism cannot integrate teacher feedback during this state
+SocialBehavioralAutism_4_117,SB,Social/Behavioral autism,A24,0,0.9711,4,SocialBehavioralAutism will not update from delayed feedback later
+SocialBehavioralAutism_3_50,SB,Social/Behavioral autism,A11,1,0.9954,3,SocialBehavioralAutism cannot sustain attention outside sensory disruption
+SocialBehavioralAutism_4_102,SB,Social/Behavioral autism,A1,1,0.9982,4,SocialBehavioralAutism cannot engage in learning tasks now
+SocialBehavioralAutism_4_104,SB,Social/Behavioral autism,A11,1,0.9972,4,SocialBehavioralAutism requires effortful control to redirect focus
+SocialBehavioralAutism_5_198,SB,Social/Behavioral autism,A11,1,0.9979,5,SocialBehavioralAutism cannot sustain redirected focus automatically
+SocialBehavioralAutism_5_199,SB,Social/Behavioral autism,A2,1,0.9903,5,SocialBehavioralAutism has reduced capacity to filter remaining stimuli
+SocialBehavioralAutism_2_13,SB,Social/Behavioral autism,A2,1,0.9956,2,SocialBehavioralAutism cannot filter the buzzing light input
+SocialBehavioralAutism_3_45,SB,Social/Behavioral autism,A14,1,0.9977,3,SocialBehavioralAutism experiences arousal without identifying the emotion
+SocialBehavioralAutism_4_85,SB,Social/Behavioral autism,A1,1,0.9979,4,SocialBehavioralAutism becomes unavailable for learning and interaction
+SocialBehavioralAutism_5_172,SB,Social/Behavioral autism,A18,1,0.9675,5,SocialBehavioralAutism fails to encode explicit rules stated now
+SocialBehavioralAutism_4_86,SB,Social/Behavioral autism,A16,1,0.9971,4,SocialBehavioralAutism will show emotional response after a delay
+SocialBehavioralAutism_2_14,SB,Social/Behavioral autism,A19,1,0.9967,2,SocialBehavioralAutism loses the prior routine's cognitive optimization
+SocialBehavioralAutism_3_35,SB,Social/Behavioral autism,A19,1,0.99,3,SocialBehavioralAutism must reallocate cognitive resources to sensory processing
+SocialBehavioralAutism_4_51,SB,Social/Behavioral autism,A1,1,0.9967,4,SocialBehavioralAutism cannot engage in learning or social interaction
+SocialBehavioralAutism_4_52,SB,Social/Behavioral autism,A2,0,0.9951,4,SocialBehavioralAutism expends effort filtering the buzzing light stimulus
+SocialBehavioralAutism_5_113,SB,Social/Behavioral autism,A11,1,0.998,5,SocialBehavioralAutism has reduced attentional resources for classroom tasks
+SocialBehavioralAutism_5_115,SB,Social/Behavioral autism,A2,1,0.9976,5,SocialBehavioralAutism still processes buzzing as equal-weight stimulus
+SocialBehavioralAutism_3_36,SB,Social/Behavioral autism,A22,1,0.9983,3,SocialBehavioralAutism cannot generalize old classroom rules to new lighting
+SocialBehavioralAutism_4_95,SB,Social/Behavioral autism,A22,0,0.9923,4,SocialBehavioralAutism requires explicit instruction to re-anchor classroom rules
+SocialBehavioralAutism_5_207,SB,Social/Behavioral autism,A23,0,0.9894,5,SocialBehavioralAutism cannot infer new rules without explicit statement
+SocialBehavioralAutism_5_208,SB,Social/Behavioral autism,A18,0,0.9868,5,SocialBehavioralAutism requires conscious retrieval of new rule entry
+SocialBehavioralAutism_5_209,SB,Social/Behavioral autism,A24,1,0.9783,5,SocialBehavioralAutism needs immediate specific feedback to update rule
+SocialBehavioralAutism_5_210,SB,Social/Behavioral autism,A22,1,0.9873,5,SocialBehavioralAutism keeps old rule until new context explicitly taught
+SocialBehavioralAutism_4_96,SB,Social/Behavioral autism,A23,0,0.9879,4,SocialBehavioralAutism follows only explicitly restated rules for new lighting
+SocialBehavioralAutism_4_97,SB,Social/Behavioral autism,A1,0,0.9971,4,SocialBehavioralAutism risks sensory overload from buzzing fluorescent lights
+SocialBehavioralAutism_5_159,SB,Social/Behavioral autism,A2,1,0.998,5,SocialBehavioralAutism cannot automatically filter out the buzzing sound
+SocialBehavioralAutism_5_160,SB,Social/Behavioral autism,A3,1,0.9975,5,SocialBehavioralAutism experiences interference integrating light and sound
+SocialBehavioralAutism_4_98,SB,Social/Behavioral autism,A18,0,0.9935,4,SocialBehavioralAutism needs new explicit rule entries for classroom lighting
+SocialBehavioralAutism_1_4,SB,Social/Behavioral autism,A19,1,0.9967,1,SocialBehavioralAutism loses established routine resource allocation

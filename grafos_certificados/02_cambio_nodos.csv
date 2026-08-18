@@ -1,0 +1,754 @@
+node_id,actor,actor_full,premise_id,converge_F,g_entailment_max,nivel,texto
+BroadlyAffectedAutism_0_0,BR,Broadly affected autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing."
+BroadlyAffectedAutism_1_1,BR,Broadly affected autism,A20,1,0.9972,1,BroadlyAffectedAutism generates disproportionate prediction error signal
+BroadlyAffectedAutism_2_18,BR,Broadly affected autism,A20,1,0.9978,2,BroadlyAffectedAutism experiences disruption disproportionate to schedule change significance
+BroadlyAffectedAutism_3_41,BR,Broadly affected autism,A1,1,0.9968,3,BroadlyAffectedAutism risks going offline from overload
+BroadlyAffectedAutism_4_119,BR,Broadly affected autism,A1,1,0.9976,4,BroadlyAffectedAutism becomes unable to process learning tasks
+BroadlyAffectedAutism_3_45,BR,Broadly affected autism,A21,1,0.9975,3,BroadlyAffectedAutism blocks learning if change framed as failure
+BroadlyAffectedAutism_4_77,BR,Broadly affected autism,A21,1,0.9928,4,BroadlyAffectedAutism activates a threat response to the change
+BroadlyAffectedAutism_4_78,BR,Broadly affected autism,A24,1,0.9955,4,"BroadlyAffectedAutism requires observable, specific, causal feedback to update"
+BroadlyAffectedAutism_5_176,BR,Broadly affected autism,A24,1,0.996,5,BroadlyAffectedAutism fails to update without explicit causal feedback
+BroadlyAffectedAutism_5_178,BR,Broadly affected autism,A19,1,0.9922,5,BroadlyAffectedAutism diverts resources until new routine is explicitly encoded
+BroadlyAffectedAutism_2_20,BR,Broadly affected autism,A1,1,0.9972,2,BroadlyAffectedAutism risks going offline for learning and engagement
+BroadlyAffectedAutism_3_61,BR,Broadly affected autism,A1,1,0.9961,3,BroadlyAffectedAutism suspends social interaction until regulation restored
+BroadlyAffectedAutism_4_141,BR,Broadly affected autism,A23,1,0.9878,4,BroadlyAffectedAutism requires explicit restated rules to proceed
+BroadlyAffectedAutism_3_62,BR,Broadly affected autism,A1,1,0.9911,3,BroadlyAffectedAutism cannot process new instructions while offline
+BroadlyAffectedAutism_4_142,BR,Broadly affected autism,A1,1,0.9968,4,BroadlyAffectedAutism cannot engage socially while offline
+BroadlyAffectedAutism_3_64,BR,Broadly affected autism,A11,1,0.9939,3,BroadlyAffectedAutism cannot sustain attention without special-interest anchor
+BroadlyAffectedAutism_4_131,BR,Broadly affected autism,A11,1,0.996,4,BroadlyAffectedAutism requires effortful control to engage new schedule
+BroadlyAffectedAutism_5_229,BR,Broadly affected autism,A19,1,0.9977,5,BroadlyAffectedAutism has fewer resources for other tasks
+BroadlyAffectedAutism_5_230,BR,Broadly affected autism,A11,1,0.9858,5,BroadlyAffectedAutism cannot sustain this effort automatically
+BroadlyAffectedAutism_5_231,BR,Broadly affected autism,A22,1,0.9957,5,BroadlyAffectedAutism will not generalize this adjustment later
+BroadlyAffectedAutism_5_232,BR,Broadly affected autism,A24,1,0.9966,5,BroadlyAffectedAutism needs explicit feedback to learn new schedule
+BroadlyAffectedAutism_4_132,BR,Broadly affected autism,A12,0,0.9886,4,BroadlyAffectedAutism resists teacher instructions lacking special-interest link
+BroadlyAffectedAutism_4_133,BR,Broadly affected autism,A13,1,0.992,4,BroadlyAffectedAutism fails to generalize schedule change without special-interest anchor
+BroadlyAffectedAutism_5_247,BR,Broadly affected autism,A22,1,0.9979,5,BroadlyAffectedAutism requires explicit instruction to re-anchor schedule
+BroadlyAffectedAutism_1_2,BR,Broadly affected autism,A19,1,0.998,1,BroadlyAffectedAutism loses cognitive resources previously freed by routine
+BroadlyAffectedAutism_2_8,BR,Broadly affected autism,A1,1,0.996,2,BroadlyAffectedAutism risks exceeding its regulatory threshold
+BroadlyAffectedAutism_3_54,BR,Broadly affected autism,A1,1,0.9937,3,BroadlyAffectedAutism risks losing access to learning ability
+BroadlyAffectedAutism_4_106,BR,Broadly affected autism,A1,1,0.9931,4,BroadlyAffectedAutism becomes unable to process new instructions
+BroadlyAffectedAutism_5_219,BR,Broadly affected autism,A18,1,0.9818,5,BroadlyAffectedAutism cannot retrieve a matching rule for the change
+BroadlyAffectedAutism_5_221,BR,Broadly affected autism,A21,1,0.9983,5,BroadlyAffectedAutism may interpret the disruption as failure
+BroadlyAffectedAutism_4_107,BR,Broadly affected autism,A1,1,0.9979,4,BroadlyAffectedAutism loses capacity for social engagement temporarily
+BroadlyAffectedAutism_5_259,BR,Broadly affected autism,A21,1,0.9505,5,BroadlyAffectedAutism risks threat response if socially blamed
+BroadlyAffectedAutism_3_55,BR,Broadly affected autism,A1,1,0.9979,3,BroadlyAffectedAutism risks losing capacity for social engagement
+BroadlyAffectedAutism_4_128,BR,Broadly affected autism,A18,1,0.9973,4,BroadlyAffectedAutism cannot retrieve stored pragmatic social rules
+BroadlyAffectedAutism_4_130,BR,Broadly affected autism,A15,1,0.9917,4,BroadlyAffectedAutism cannot infer others' reactions to the disruption
+BroadlyAffectedAutism_5_254,BR,Broadly affected autism,A18,0,0.9862,5,BroadlyAffectedAutism must consciously retrieve stored social rules
+BroadlyAffectedAutism_5_256,BR,Broadly affected autism,A23,1,0.9949,5,BroadlyAffectedAutism cannot detect others' unspoken expectations now
+BroadlyAffectedAutism_3_56,BR,Broadly affected autism,A20,0,0.9886,3,BroadlyAffectedAutism generates disproportionate error signals from the change
+BroadlyAffectedAutism_4_113,BR,Broadly affected autism,A1,1,0.9961,4,BroadlyAffectedAutism risks cognitive processing going offline
+BroadlyAffectedAutism_5_206,BR,Broadly affected autism,A1,1,0.9978,5,BroadlyAffectedAutism becomes unavailable for social interaction
+BroadlyAffectedAutism_5_207,BR,Broadly affected autism,A1,1,0.997,5,BroadlyAffectedAutism cannot engage in learning temporarily
+BroadlyAffectedAutism_5_208,BR,Broadly affected autism,A21,1,0.9972,5,BroadlyAffectedAutism cannot process the change as learning
+BroadlyAffectedAutism_4_114,BR,Broadly affected autism,A20,1,0.9977,4,BroadlyAffectedAutism's disruption magnitude exceeds the change's actual significance
+BroadlyAffectedAutism_5_251,BR,Broadly affected autism,A1,1,0.9972,5,BroadlyAffectedAutism's processing goes offline until regulated
+BroadlyAffectedAutism_4_116,BR,Broadly affected autism,A21,1,0.9979,4,BroadlyAffectedAutism's learning becomes blocked if error framed as failure
+BroadlyAffectedAutism_5_223,BR,Broadly affected autism,A24,1,0.9979,5,BroadlyAffectedAutism fails to update behavior from this event
+BroadlyAffectedAutism_5_224,BR,Broadly affected autism,A22,1,0.9957,5,BroadlyAffectedAutism cannot generalize a rule for future changes
+BroadlyAffectedAutism_2_9,BR,Broadly affected autism,A11,1,0.9968,2,BroadlyAffectedAutism cannot sustain effortful attention on new tasks
+BroadlyAffectedAutism_3_31,BR,Broadly affected autism,A11,1,0.9981,3,BroadlyAffectedAutism attention reverts to special interest domain
+BroadlyAffectedAutism_4_96,BR,Broadly affected autism,A11,1,0.9939,4,BroadlyAffectedAutism disengages from the newly scheduled activity
+BroadlyAffectedAutism_4_97,BR,Broadly affected autism,A12,0,0.9952,4,BroadlyAffectedAutism resists redirection unless linked to interest
+BroadlyAffectedAutism_5_209,BR,Broadly affected autism,A18,0,0.9881,5,BroadlyAffectedAutism does not detect implicit redirection expectations
+BroadlyAffectedAutism_5_210,BR,Broadly affected autism,A24,1,0.9901,5,BroadlyAffectedAutism's behavior remains unchanged without causal feedback
+BroadlyAffectedAutism_5_211,BR,Broadly affected autism,A21,0,0.9934,5,BroadlyAffectedAutism perceives redirection attempts as threatening correction
+BroadlyAffectedAutism_1_3,BR,Broadly affected autism,A6,1,0.9962,1,BroadlyAffectedAutism experiences processing overload from the sudden change
+BroadlyAffectedAutism_2_14,BR,Broadly affected autism,A1,1,0.9978,2,BroadlyAffectedAutism becomes unavailable for learning and interaction
+BroadlyAffectedAutism_3_37,BR,Broadly affected autism,A1,1,0.9977,3,BroadlyAffectedAutism remains offline until regulation is restored
+BroadlyAffectedAutism_4_109,BR,Broadly affected autism,A1,1,0.9979,4,BroadlyAffectedAutism cannot process the new schedule instructions
+BroadlyAffectedAutism_5_234,BR,Broadly affected autism,A19,1,0.9975,5,BroadlyAffectedAutism loses the cognitive optimization the routine provided
+BroadlyAffectedAutism_4_112,BR,Broadly affected autism,A24,1,0.9975,4,BroadlyAffectedAutism cannot use feedback given during this state
+BroadlyAffectedAutism_5_244,BR,Broadly affected autism,A24,1,0.9936,5,BroadlyAffectedAutism fails to update behavior from delayed feedback
+BroadlyAffectedAutism_5_246,BR,Broadly affected autism,A19,1,0.9963,5,BroadlyAffectedAutism cannot integrate the new schedule as routine
+BroadlyAffectedAutism_3_38,BR,Broadly affected autism,A20,1,0.9978,3,BroadlyAffectedAutism generates disruption disproportionate to the actual change
+BroadlyAffectedAutism_3_40,BR,Broadly affected autism,A24,1,0.9959,3,BroadlyAffectedAutism cannot process any feedback given right now
+BroadlyAffectedAutism_4_102,BR,Broadly affected autism,A24,1,0.9818,4,BroadlyAffectedAutism will not update from feedback given now
+BroadlyAffectedAutism_4_104,BR,Broadly affected autism,A20,1,0.9982,4,BroadlyAffectedAutism sustains an unresolved prediction error signal
+BroadlyAffectedAutism_5_237,BR,Broadly affected autism,A20,1,0.9974,5,BroadlyAffectedAutism's disruption remains disproportionate to the actual change
+BroadlyAffectedAutism_4_105,BR,Broadly affected autism,A19,1,0.9978,4,BroadlyAffectedAutism cannot allocate resources to other tasks
+BroadlyAffectedAutism_5_225,BR,Broadly affected autism,A1,1,0.9972,5,BroadlyAffectedAutism remains offline for social interaction
+BroadlyAffectedAutism_5_227,BR,Broadly affected autism,A19,1,0.9976,5,BroadlyAffectedAutism loses the resource savings routines provided
+BroadlyAffectedAutism_2_15,BR,Broadly affected autism,A20,1,0.9974,2,BroadlyAffectedAutism generates disproportionate distress relative to the change
+BroadlyAffectedAutism_3_51,BR,Broadly affected autism,A20,0,0.9859,3,BroadlyAffectedAutism cannot resolve the prediction error internally
+BroadlyAffectedAutism_4_125,BR,Broadly affected autism,A19,1,0.9978,4,BroadlyAffectedAutism loses its routine-based resource allocation
+BroadlyAffectedAutism_4_126,BR,Broadly affected autism,A20,0,0.9965,4,BroadlyAffectedAutism generates a persistent high-precision error signal
+BroadlyAffectedAutism_3_52,BR,Broadly affected autism,A16,1,0.9877,3,BroadlyAffectedAutism delays its behavioral response to the change
+BroadlyAffectedAutism_4_93,BR,Broadly affected autism,A24,0,0.9955,4,BroadlyAffectedAutism receives feedback too late to inform learning
+BroadlyAffectedAutism_5_190,BR,Broadly affected autism,A22,1,0.9976,5,BroadlyAffectedAutism cannot generalize this schedule change to future contexts
+BroadlyAffectedAutism_5_191,BR,Broadly affected autism,A20,0,0.9955,5,BroadlyAffectedAutism will show equally disproportionate distress at the next change
+BroadlyAffectedAutism_4_94,BR,Broadly affected autism,A19,1,0.9965,4,BroadlyAffectedAutism cannot reallocate cognitive resources without routine
+BroadlyAffectedAutism_5_160,BR,Broadly affected autism,A19,1,0.9938,5,BroadlyAffectedAutism diverts all resources to prediction error
+BroadlyAffectedAutism_5_162,BR,Broadly affected autism,A20,0,0.9976,5,BroadlyAffectedAutism treats the schedule change as maximally disruptive
+BroadlyAffectedAutism_4_95,BR,Broadly affected autism,A16,0,0.9879,4,BroadlyAffectedAutism reacts emotionally after the schedule event ends
+BroadlyAffectedAutism_3_53,BR,Broadly affected autism,A14,1,0.9982,3,BroadlyAffectedAutism cannot label its own arousal state
+BroadlyAffectedAutism_4_117,BR,Broadly affected autism,A16,0,0.9966,4,BroadlyAffectedAutism's emotional response emerges after the schedule change
+BroadlyAffectedAutism_5_212,BR,Broadly affected autism,A16,1,0.9985,5,BroadlyAffectedAutism's reaction appears disconnected from the schedule change
+BroadlyAffectedAutism_5_213,BR,Broadly affected autism,A24,1,0.9969,5,BroadlyAffectedAutism cannot link feedback to the causal event
+BroadlyAffectedAutism_5_214,BR,Broadly affected autism,A21,1,0.9949,5,BroadlyAffectedAutism's delayed reaction risks being framed as misbehavior
+BroadlyAffectedAutism_4_118,BR,Broadly affected autism,A14,1,0.9952,4,BroadlyAffectedAutism cannot verbally communicate its current arousal
+BroadlyAffectedAutism_5_241,BR,Broadly affected autism,A16,1,0.9984,5,BroadlyAffectedAutism's emotional response to the change emerges later
+BroadlyAffectedAutism_5_242,BR,Broadly affected autism,A24,1,0.9934,5,BroadlyAffectedAutism cannot receive feedback linked to its arousal
+BroadlyAffectedAutism_5_243,BR,Broadly affected autism,A15,0,0.9631,5,BroadlyAffectedAutism's arousal is only detectable as observable behavior
+BroadlyAffectedAutism_2_16,BR,Broadly affected autism,A19,1,0.9978,2,BroadlyAffectedAutism loses the resource-saving benefit of routine
+BroadlyAffectedAutism_3_33,BR,Broadly affected autism,A1,1,0.9955,3,BroadlyAffectedAutism risks exceeding its sensory regulatory threshold
+BroadlyAffectedAutism_4_90,BR,Broadly affected autism,A1,1,0.9966,4,BroadlyAffectedAutism may go offline cognitively and socially
+BroadlyAffectedAutism_5_197,BR,Broadly affected autism,A14,1,0.9953,5,BroadlyAffectedAutism experiences arousal without naming the emotion
+BroadlyAffectedAutism_4_92,BR,Broadly affected autism,A2,1,0.9956,4,BroadlyAffectedAutism cannot automatically filter competing stimuli
+BroadlyAffectedAutism_5_183,BR,Broadly affected autism,A1,0,0.9911,5,BroadlyAffectedAutism risks going offline from sensory overload
+BroadlyAffectedAutism_5_184,BR,Broadly affected autism,A2,1,0.9938,5,BroadlyAffectedAutism must expend effort to filter stimuli
+BroadlyAffectedAutism_5_185,BR,Broadly affected autism,A3,1,0.9962,5,BroadlyAffectedAutism experiences interference from simultaneous inputs
+BroadlyAffectedAutism_3_36,BR,Broadly affected autism,A18,1,0.9976,3,BroadlyAffectedAutism lacks an explicit rule for the new schedule
+BroadlyAffectedAutism_4_82,BR,Broadly affected autism,A23,0,0.9798,4,BroadlyAffectedAutism requires an explicit stated rule to comply
+BroadlyAffectedAutism_5_192,BR,Broadly affected autism,A23,1,0.998,5,BroadlyAffectedAutism cannot follow the unstated new schedule
+BroadlyAffectedAutism_5_193,BR,Broadly affected autism,A22,1,0.995,5,BroadlyAffectedAutism will not generalize this rule elsewhere
+BroadlyAffectedAutism_5_194,BR,Broadly affected autism,A24,1,0.9904,5,BroadlyAffectedAutism needs immediate specific feedback to comply
+BroadlyAffectedAutism_2_17,BR,Broadly affected autism,A6,1,0.9981,2,BroadlyAffectedAutism cannot flexibly update to the new schedule
+BroadlyAffectedAutism_3_48,BR,Broadly affected autism,A6,1,0.9946,3,BroadlyAffectedAutism treats the change as processing overload
+BroadlyAffectedAutism_4_73,BR,Broadly affected autism,A1,1,0.9983,4,BroadlyAffectedAutism's cognitive processing becomes unavailable until regulated
+BroadlyAffectedAutism_5_158,BR,Broadly affected autism,A1,1,0.9965,5,BroadlyAffectedAutism cannot learn new information until regulated
+BroadlyAffectedAutism_1_4,BR,Broadly affected autism,A22,1,0.9982,1,BroadlyAffectedAutism cannot generalize prior routine to new schedule
+BroadlyAffectedAutism_2_12,BR,Broadly affected autism,A6,1,0.995,2,BroadlyAffectedAutism experiences processing overload from the schedule change
+BroadlyAffectedAutism_3_26,BR,Broadly affected autism,A1,1,0.9984,3,BroadlyAffectedAutism cognitive processing becomes unavailable temporarily
+BroadlyAffectedAutism_4_65,BR,Broadly affected autism,A1,1,0.9964,4,BroadlyAffectedAutism cannot engage socially until regulated
+BroadlyAffectedAutism_5_166,BR,Broadly affected autism,A16,0,0.983,5,BroadlyAffectedAutism's emotional reaction may surface later
+BroadlyAffectedAutism_4_66,BR,Broadly affected autism,A1,1,0.9968,4,BroadlyAffectedAutism cannot learn until regulation restored
+BroadlyAffectedAutism_5_151,BR,Broadly affected autism,A1,1,0.9975,5,BroadlyAffectedAutism cannot engage socially during this period
+BroadlyAffectedAutism_5_153,BR,Broadly affected autism,A19,1,0.9933,5,BroadlyAffectedAutism requires restored routine to reallocate resources
+BroadlyAffectedAutism_4_67,BR,Broadly affected autism,A20,1,0.9977,4,BroadlyAffectedAutism's disruption exceeds the schedule change's significance
+BroadlyAffectedAutism_4_68,BR,Broadly affected autism,A16,1,0.9955,4,BroadlyAffectedAutism's emotional response to change is delayed
+BroadlyAffectedAutism_5_148,BR,Broadly affected autism,A16,1,0.9885,5,BroadlyAffectedAutism's reaction surfaces well after the schedule change
+BroadlyAffectedAutism_5_150,BR,Broadly affected autism,A15,0,0.9691,5,BroadlyAffectedAutism must infer meaning behind its own arousal
+BroadlyAffectedAutism_3_27,BR,Broadly affected autism,A20,1,0.9983,3,BroadlyAffectedAutism reaction magnitude exceeds the change's actual significance
+BroadlyAffectedAutism_4_83,BR,Broadly affected autism,A1,1,0.9977,4,BroadlyAffectedAutism becomes cognitively offline until regulation restored
+BroadlyAffectedAutism_5_174,BR,Broadly affected autism,A1,1,0.9947,5,BroadlyAffectedAutism cannot process new learning while offline
+BroadlyAffectedAutism_5_175,BR,Broadly affected autism,A16,0,0.9828,5,BroadlyAffectedAutism's emotional response occurs after the trigger
+BroadlyAffectedAutism_4_84,BR,Broadly affected autism,A14,1,0.9889,4,BroadlyAffectedAutism cannot label the emotional state driving reaction
+BroadlyAffectedAutism_5_200,BR,Broadly affected autism,A14,1,0.998,5,BroadlyAffectedAutism exhibits physiological arousal without identified cause
+BroadlyAffectedAutism_4_85,BR,Broadly affected autism,A16,1,0.9934,4,BroadlyAffectedAutism's emotional response persists after the change ends
+BroadlyAffectedAutism_5_201,BR,Broadly affected autism,A1,1,0.9957,5,BroadlyAffectedAutism remains unavailable for learning and engagement
+BroadlyAffectedAutism_5_202,BR,Broadly affected autism,A16,1,0.9972,5,BroadlyAffectedAutism's emotional processing lags behind current events
+BroadlyAffectedAutism_5_203,BR,Broadly affected autism,A24,1,0.994,5,BroadlyAffectedAutism cannot receive temporally proximate corrective feedback
+BroadlyAffectedAutism_3_29,BR,Broadly affected autism,A23,1,0.9972,3,BroadlyAffectedAutism requires explicit statement of the new schedule
+BroadlyAffectedAutism_4_69,BR,Broadly affected autism,A9,1,0.9962,4,BroadlyAffectedAutism retains the new schedule best via visual format
+BroadlyAffectedAutism_5_170,BR,Broadly affected autism,A10,1,0.9962,5,BroadlyAffectedAutism reliably retrieves schedule only with visual cues present
+BroadlyAffectedAutism_5_171,BR,Broadly affected autism,A19,1,0.9979,5,BroadlyAffectedAutism treats visualized schedule as new routine
+BroadlyAffectedAutism_4_70,BR,Broadly affected autism,A10,1,0.9964,4,BroadlyAffectedAutism needs explicit visual cues to encode the change
+BroadlyAffectedAutism_5_154,BR,Broadly affected autism,A10,0,0.9942,5,BroadlyAffectedAutism cannot reliably encode change without visual cues
+BroadlyAffectedAutism_5_155,BR,Broadly affected autism,A9,1,0.9978,5,BroadlyAffectedAutism retains visually cued schedule with high fidelity
+BroadlyAffectedAutism_5_156,BR,Broadly affected autism,A24,1,0.9968,5,BroadlyAffectedAutism requires immediate observable feedback about new schedule
+BroadlyAffectedAutism_4_71,BR,Broadly affected autism,A23,1,0.9953,4,BroadlyAffectedAutism follows the new schedule only if explicitly stated
+BroadlyAffectedAutism_5_167,BR,Broadly affected autism,A19,1,0.997,5,BroadlyAffectedAutism defaults to prior routine without explicit statement
+BroadlyAffectedAutism_5_168,BR,Broadly affected autism,A23,0,0.993,5,BroadlyAffectedAutism requires teacher to explicitly announce new schedule
+BroadlyAffectedAutism_5_169,BR,Broadly affected autism,A18,1,0.9947,5,BroadlyAffectedAutism ignores implicit cues about the schedule change
+BroadlyAffectedAutism_4_72,BR,Broadly affected autism,A24,1,0.9961,4,BroadlyAffectedAutism cannot update without specific observable feedback
+BroadlyAffectedAutism_5_180,BR,Broadly affected autism,A19,1,0.9968,5,BroadlyAffectedAutism defaults back to the prior routine
+BroadlyAffectedAutism_5_181,BR,Broadly affected autism,A21,1,0.992,5,BroadlyAffectedAutism treats the unexplained change as failure
+BroadlyAffectedAutism_5_182,BR,Broadly affected autism,A24,1,0.9965,5,BroadlyAffectedAutism remains unable to incorporate the schedule change
+BroadlyAffectedAutism_1_5,BR,Broadly affected autism,A1,1,0.9956,1,BroadlyAffectedAutism risks going offline from regulatory overload
+BroadlyAffectedAutism_2_23,BR,Broadly affected autism,A1,1,0.9981,2,BroadlyAffectedAutism cannot engage in learning until regulated
+BroadlyAffectedAutism_3_58,BR,Broadly affected autism,A1,1,0.9976,3,BroadlyAffectedAutism remains unable to engage in social interaction
+BroadlyAffectedAutism_3_59,BR,Broadly affected autism,A19,1,0.9954,3,BroadlyAffectedAutism loses the routine's computational optimization benefit
+MixedASDwithDelay_0_0,MX,Mixed ASD with developmental delay,,1,0.988,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing."
+MixedASDwithDelay_1_1,MX,Mixed ASD with developmental delay,A20,1,0.9972,1,MixedASDwithDelay generates disproportionate prediction error signal
+MixedASDwithDelay_2_16,MX,Mixed ASD with developmental delay,A20,1,0.9976,2,MixedASDwithDelay experiences disruption disproportionate to actual change
+MixedASDwithDelay_3_38,MX,Mixed ASD with developmental delay,A6,0,0.9938,3,MixedASDwithDelay processes the change as overload not update
+MixedASDwithDelay_4_100,MX,Mixed ASD with developmental delay,A1,1,0.9949,4,MixedASDwithDelay becomes cognitively offline for learning
+MixedASDwithDelay_5_150,MX,Mixed ASD with developmental delay,A1,0,0.9929,5,MixedASDwithDelay cannot engage socially with the teacher
+MixedASDwithDelay_6_263,MX,Mixed ASD with developmental delay,A1,1,0.9963,6,MixedASDwithDelay remains offline until sensory regulation restored
+MixedASDwithDelay_6_264,MX,Mixed ASD with developmental delay,A18,1,0.9973,6,MixedASDwithDelay cannot retrieve stored pragmatic social rules
+MixedASDwithDelay_6_265,MX,Mixed ASD with developmental delay,A24,0,0.9871,6,MixedASDwithDelay cannot use teacher feedback to update behavior
+MixedASDwithDelay_3_39,MX,Mixed ASD with developmental delay,A4,1,0.9959,3,MixedASDwithDelay cannot process the new schedule without visual anchoring
+MixedASDwithDelay_4_69,MX,Mixed ASD with developmental delay,A4,1,0.9978,4,MixedASDwithDelay requires a concrete visual referent for the schedule
+MixedASDwithDelay_5_118,MX,Mixed ASD with developmental delay,A9,1,0.9978,5,MixedASDwithDelay retains a visual schedule representation with high fidelity
+MixedASDwithDelay_6_210,MX,Mixed ASD with developmental delay,A10,1,0.9962,6,MixedASDwithDelay retrieves schedule information reliably using visual cue
+MixedASDwithDelay_6_211,MX,Mixed ASD with developmental delay,A19,1,0.9971,6,MixedASDwithDelay can establish the visual schedule as new routine
+MixedASDwithDelay_4_70,MX,Mixed ASD with developmental delay,A10,1,0.9932,4,MixedASDwithDelay cannot reliably retrieve the schedule without cues
+MixedASDwithDelay_5_140,MX,Mixed ASD with developmental delay,A23,1,0.998,5,MixedASDwithDelay cannot follow the unstated new schedule
+MixedASDwithDelay_5_141,MX,Mixed ASD with developmental delay,A24,1,0.9974,5,MixedASDwithDelay needs explicit feedback to update the schedule
+MixedASDwithDelay_5_142,MX,Mixed ASD with developmental delay,A10,1,0.9962,5,MixedASDwithDelay requires a visual cue to retrieve the schedule
+MixedASDwithDelay_6_220,MX,Mixed ASD with developmental delay,A23,1,0.9953,6,MixedASDwithDelay follows schedule only if explicitly stated
+MixedASDwithDelay_4_71,MX,Mixed ASD with developmental delay,A19,1,0.9975,4,MixedASDwithDelay defaults to the previously established routine
+MixedASDwithDelay_5_135,MX,Mixed ASD with developmental delay,A19,1,0.9544,5,MixedASDwithDelay expects the old routine's next step
+MixedASDwithDelay_6_224,MX,Mixed ASD with developmental delay,A20,1,0.9948,6,MixedASDwithDelay generates renewed prediction error signal
+MixedASDwithDelay_6_225,MX,Mixed ASD with developmental delay,A19,1,0.9953,6,MixedASDwithDelay attempts to perform the old routine action
+MixedASDwithDelay_6_226,MX,Mixed ASD with developmental delay,A22,1,0.998,6,MixedASDwithDelay cannot map old routine onto new schedule
+MixedASDwithDelay_5_137,MX,Mixed ASD with developmental delay,A23,0,0.991,5,MixedASDwithDelay follows the old schedule as the explicit rule
+MixedASDwithDelay_6_221,MX,Mixed ASD with developmental delay,A20,1,0.9916,6,MixedASDwithDelay's behavior conflicts with the actual new activity
+MixedASDwithDelay_6_222,MX,Mixed ASD with developmental delay,A22,1,0.996,6,MixedASDwithDelay cannot generalize old rule to new context
+MixedASDwithDelay_6_223,MX,Mixed ASD with developmental delay,A21,1,0.9929,6,MixedASDwithDelay may treat resulting correction as failure
+MixedASDwithDelay_5_138,MX,Mixed ASD with developmental delay,A24,1,0.9962,5,MixedASDwithDelay requires explicit feedback to update its routine
+MixedASDwithDelay_6_239,MX,Mixed ASD with developmental delay,A21,1,0.9975,6,MixedASDwithDelay blocks learning if change framed as failure
+MixedASDwithDelay_6_240,MX,Mixed ASD with developmental delay,A19,1,0.996,6,MixedASDwithDelay continues following outdated routine absent feedback
+MixedASDwithDelay_2_17,MX,Mixed ASD with developmental delay,A19,0,0.9935,2,MixedASDwithDelay loses computational optimization from broken routine
+MixedASDwithDelay_3_43,MX,Mixed ASD with developmental delay,A19,1,0.9926,3,MixedASDwithDelay must divert resources to reprocess schedule
+MixedASDwithDelay_4_88,MX,Mixed ASD with developmental delay,A22,1,0.9982,4,MixedASDwithDelay cannot generalize old routine to new schedule
+MixedASDwithDelay_5_146,MX,Mixed ASD with developmental delay,A1,0,0.989,5,MixedASDwithDelay risks going offline from unresolved disruption
+MixedASDwithDelay_6_251,MX,Mixed ASD with developmental delay,A1,1,0.9978,6,MixedASDwithDelay becomes unavailable for learning and interaction
+MixedASDwithDelay_6_253,MX,Mixed ASD with developmental delay,A21,1,0.9968,6,MixedASDwithDelay's disruption blocks learning if framed as failure
+MixedASDwithDelay_3_44,MX,Mixed ASD with developmental delay,A22,1,0.9984,3,MixedASDwithDelay cannot generalize old schedule rules automatically
+MixedASDwithDelay_4_78,MX,Mixed ASD with developmental delay,A20,1,0.9976,4,MixedASDwithDelay experiences disruption disproportionate to schedule change
+MixedASDwithDelay_2_18,MX,Mixed ASD with developmental delay,A1,1,0.9956,2,MixedASDwithDelay risks going offline from regulatory overload
+MixedASDwithDelay_3_51,MX,Mixed ASD with developmental delay,A1,1,0.9961,3,MixedASDwithDelay becomes unable to process learning or social input
+MixedASDwithDelay_4_98,MX,Mixed ASD with developmental delay,A24,1,0.9972,4,MixedASDwithDelay cannot register feedback about the schedule change
+MixedASDwithDelay_5_171,MX,Mixed ASD with developmental delay,A24,1,0.9955,5,MixedASDwithDelay's expectations remain unupdated by the change
+MixedASDwithDelay_5_174,MX,Mixed ASD with developmental delay,A6,1,0.9944,5,MixedASDwithDelay cannot flexibly adapt to the new schedule
+MixedASDwithDelay_4_99,MX,Mixed ASD with developmental delay,A18,1,0.9955,4,MixedASDwithDelay cannot retrieve social rules for the change
+MixedASDwithDelay_5_179,MX,Mixed ASD with developmental delay,A18,1,0.9947,5,MixedASDwithDelay cannot match behavior to unstated expectations
+MixedASDwithDelay_6_278,MX,Mixed ASD with developmental delay,A23,0,0.9886,6,MixedASDwithDelay produces behavior misaligned with teacher's expectations
+MixedASDwithDelay_6_279,MX,Mixed ASD with developmental delay,A21,1,0.9931,6,MixedASDwithDelay risks the mismatch being framed as failure
+MixedASDwithDelay_6_280,MX,Mixed ASD with developmental delay,A24,1,0.9938,6,MixedASDwithDelay cannot learn from vague resulting feedback
+MixedASDwithDelay_5_180,MX,Mixed ASD with developmental delay,A23,1,0.9962,5,MixedASDwithDelay requires an explicit stated rule for the change
+MixedASDwithDelay_1_2,MX,Mixed ASD with developmental delay,A19,1,0.998,1,MixedASDwithDelay loses cognitive resource savings from routine
+MixedASDwithDelay_2_7,MX,Mixed ASD with developmental delay,A1,1,0.9968,2,MixedASDwithDelay risks going offline from overload
+MixedASDwithDelay_1_3,MX,Mixed ASD with developmental delay,A6,1,0.9962,1,MixedASDwithDelay experiences processing overload from sudden change
+MixedASDwithDelay_2_8,MX,Mixed ASD with developmental delay,A1,1,0.9973,2,MixedASDwithDelay's cognitive processing and social engagement go offline
+MixedASDwithDelay_3_20,MX,Mixed ASD with developmental delay,A1,1,0.9968,3,MixedASDwithDelay cannot learn until regulation is restored
+MixedASDwithDelay_3_21,MX,Mixed ASD with developmental delay,A1,1,0.9973,3,MixedASDwithDelay cannot engage socially until regulation is restored
+MixedASDwithDelay_4_59,MX,Mixed ASD with developmental delay,A1,1,0.9972,4,MixedASDwithDelay's learning remains unavailable until regulation restored
+MixedASDwithDelay_5_120,MX,Mixed ASD with developmental delay,A24,1,0.9966,5,MixedASDwithDelay cannot integrate feedback given during this period
+MixedASDwithDelay_5_121,MX,Mixed ASD with developmental delay,A19,1,0.9936,5,MixedASDwithDelay lacks routine-based cognitive resource allocation now
+MixedASDwithDelay_6_189,MX,Mixed ASD with developmental delay,A6,1,0.995,6,MixedASDwithDelay experiences the changed schedule as processing overload
+MixedASDwithDelay_5_122,MX,Mixed ASD with developmental delay,A21,1,0.9945,5,MixedASDwithDelay cannot process any error as learning now
+MixedASDwithDelay_6_235,MX,Mixed ASD with developmental delay,A21,1,0.996,6,MixedASDwithDelay encodes the schedule error as threat
+MixedASDwithDelay_4_60,MX,Mixed ASD with developmental delay,A21,1,0.9939,4,Framing the disruption as misbehavior would block MixedASDwithDelay's learning
+MixedASDwithDelay_5_103,MX,Mixed ASD with developmental delay,A21,1,0.9972,5,MixedASDwithDelay's threat response activates instead of learning
+MixedASDwithDelay_6_181,MX,Mixed ASD with developmental delay,A24,1,0.9979,6,MixedASDwithDelay's behavior does not update from this event
+MixedASDwithDelay_6_182,MX,Mixed ASD with developmental delay,A20,1,0.9971,6,MixedASDwithDelay's prediction error signal remains disproportionately high
+MixedASDwithDelay_5_104,MX,Mixed ASD with developmental delay,A21,0,0.1409,5,MixedASDwithDelay cannot decouple the error from moral judgment
+MixedASDwithDelay_6_190,MX,Mixed ASD with developmental delay,A21,0,0.9934,6,MixedASDwithDelay's threat response blocks learning from the error
+MixedASDwithDelay_2_9,MX,Mixed ASD with developmental delay,A20,1,0.9978,2,MixedASDwithDelay's disruption is disproportionate to the schedule change's actual significance
+MixedASDwithDelay_3_23,MX,Mixed ASD with developmental delay,A1,1,0.9978,3,MixedASDwithDelay's cognitive processing becomes unavailable
+MixedASDwithDelay_4_54,MX,Mixed ASD with developmental delay,A1,1,0.9978,4,MixedASDwithDelay's social interaction and learning become unavailable
+MixedASDwithDelay_5_107,MX,Mixed ASD with developmental delay,A24,1,0.9973,5,MixedASDwithDelay cannot process feedback given during this state
+MixedASDwithDelay_6_195,MX,Mixed ASD with developmental delay,A24,1,0.9941,6,MixedASDwithDelay's learning does not update from this feedback
+MixedASDwithDelay_6_196,MX,Mixed ASD with developmental delay,A1,1,0.996,6,MixedASDwithDelay requires regulation restoration before processing resumes
+MixedASDwithDelay_5_108,MX,Mixed ASD with developmental delay,A1,1,0.9956,5,MixedASDwithDelay cannot acquire the new schedule information now
+MixedASDwithDelay_6_206,MX,Mixed ASD with developmental delay,A10,0,0.9728,6,MixedASDwithDelay will need explicit visual cues later
+MixedASDwithDelay_6_207,MX,Mixed ASD with developmental delay,A19,1,0.9894,6,MixedASDwithDelay lacks an established routine for schedule
+MixedASDwithDelay_4_55,MX,Mixed ASD with developmental delay,A1,1,0.9977,4,MixedASDwithDelay remains offline until regulation is restored
+MixedASDwithDelay_5_114,MX,Mixed ASD with developmental delay,A1,1,0.9975,5,MixedASDwithDelay cannot engage socially during this period
+MixedASDwithDelay_6_227,MX,Mixed ASD with developmental delay,A1,1,0.9972,6,MixedASDwithDelay cannot acquire new information during this period
+MixedASDwithDelay_5_115,MX,Mixed ASD with developmental delay,A1,1,0.9983,5,MixedASDwithDelay cannot access learning processes now
+MixedASDwithDelay_6_212,MX,Mixed ASD with developmental delay,A1,1,0.998,6,MixedASDwithDelay cannot engage socially right now
+MixedASDwithDelay_3_24,MX,Mixed ASD with developmental delay,A19,1,0.9978,3,MixedASDwithDelay loses the resource-saving benefit of routine
+MixedASDwithDelay_4_56,MX,Mixed ASD with developmental delay,A19,0,0.9843,4,MixedASDwithDelay has no spare resources for other tasks
+MixedASDwithDelay_5_149,MX,Mixed ASD with developmental delay,A18,1,0.9971,5,MixedASDwithDelay cannot consciously retrieve pragmatic rules now
+MixedASDwithDelay_6_229,MX,Mixed ASD with developmental delay,A23,1,0.996,6,MixedASDwithDelay cannot infer the teacher's unspoken expectations now
+MixedASDwithDelay_6_230,MX,Mixed ASD with developmental delay,A17,0,0.5845,6,MixedASDwithDelay defaults to literal interpretation of new instructions
+MixedASDwithDelay_6_231,MX,Mixed ASD with developmental delay,A22,1,0.9968,6,MixedASDwithDelay needs explicit re-instruction for the new schedule
+MixedASDwithDelay_4_57,MX,Mixed ASD with developmental delay,A1,1,0.9896,4,MixedASDwithDelay becomes more vulnerable to sensory overload
+MixedASDwithDelay_5_110,MX,Mixed ASD with developmental delay,A2,1,0.9972,5,MixedASDwithDelay cannot effortlessly filter competing sensory stimuli
+MixedASDwithDelay_6_185,MX,Mixed ASD with developmental delay,A2,1,0.997,6,MixedASDwithDelay assigns equal weight to all stimuli
+MixedASDwithDelay_6_186,MX,Mixed ASD with developmental delay,A3,1,0.9975,6,MixedASDwithDelay experiences cross-modal interference from simultaneous input
+MixedASDwithDelay_4_58,MX,Mixed ASD with developmental delay,A6,0,0.9914,4,MixedASDwithDelay treats the altered schedule as volatile environment
+MixedASDwithDelay_5_112,MX,Mixed ASD with developmental delay,A6,1,0.986,5,MixedASDwithDelay experiences overload instead of flexible updating
+MixedASDwithDelay_6_199,MX,Mixed ASD with developmental delay,A24,1,0.997,6,MixedASDwithDelay needs immediate concrete feedback to reorient
+MixedASDwithDelay_3_25,MX,Mixed ASD with developmental delay,A6,0,0.9851,3,MixedASDwithDelay experiences overload from the environmental change
+MixedASDwithDelay_4_63,MX,Mixed ASD with developmental delay,A1,1,0.9979,4,MixedASDwithDelay's social engagement becomes unavailable temporarily
+MixedASDwithDelay_5_166,MX,Mixed ASD with developmental delay,A1,1,0.997,5,MixedASDwithDelay's learning becomes unavailable temporarily
+MixedASDwithDelay_4_65,MX,Mixed ASD with developmental delay,A24,1,0.9927,4,MixedASDwithDelay cannot update from feedback while offline
+MixedASDwithDelay_5_169,MX,Mixed ASD with developmental delay,A24,1,0.9975,5,Delayed feedback about the change fails to update MixedASDwithDelay
+MixedASDwithDelay_5_170,MX,Mixed ASD with developmental delay,A19,1,0.9976,5,MixedASDwithDelay cannot reallocate resources without a restored routine
+MixedASDwithDelay_6_275,MX,Mixed ASD with developmental delay,A1,1,0.9975,6,MixedASDwithDelay remains unable to engage learning tasks
+MixedASDwithDelay_6_276,MX,Mixed ASD with developmental delay,A19,1,0.9938,6,MixedASDwithDelay keeps resources locked to prediction-error processing
+MixedASDwithDelay_2_11,MX,Mixed ASD with developmental delay,A6,1,0.9981,2,MixedASDwithDelay fails to flexibly update to the new schedule
+MixedASDwithDelay_3_49,MX,Mixed ASD with developmental delay,A23,0,0.9785,3,MixedASDwithDelay lacks an explicit rule for the change
+MixedASDwithDelay_1_4,MX,Mixed ASD with developmental delay,A22,1,0.9968,1,MixedASDwithDelay cannot apply prior schedule rule to new context
+MixedASDwithDelay_2_13,MX,Mixed ASD with developmental delay,A22,1,0.9979,2,MixedASDwithDelay requires explicit instruction to re-anchor schedule
+MixedASDwithDelay_3_32,MX,Mixed ASD with developmental delay,A20,1,0.998,3,MixedASDwithDelay experiences disproportionate prediction error from the change
+MixedASDwithDelay_4_83,MX,Mixed ASD with developmental delay,A1,1,0.9951,4,MixedASDwithDelay may go cognitively offline
+MixedASDwithDelay_5_129,MX,Mixed ASD with developmental delay,A1,1,0.9981,5,MixedASDwithDelay cannot access learning until regulated
+MixedASDwithDelay_6_203,MX,Mixed ASD with developmental delay,A1,1,0.9974,6,MixedASDwithDelay remains unavailable for social interaction
+MixedASDwithDelay_6_204,MX,Mixed ASD with developmental delay,A24,1,0.9953,6,MixedASDwithDelay requires observable proximate feedback to regain regulation
+MixedASDwithDelay_6_205,MX,Mixed ASD with developmental delay,A19,0,0.9853,6,MixedASDwithDelay depends on restored routine to reduce load
+MixedASDwithDelay_5_131,MX,Mixed ASD with developmental delay,A21,0,0.9645,5,MixedASDwithDelay activates threat response if blamed
+MixedASDwithDelay_6_234,MX,Mixed ASD with developmental delay,A24,1,0.9904,6,MixedASDwithDelay fails to update from blame-based feedback
+MixedASDwithDelay_3_33,MX,Mixed ASD with developmental delay,A23,1,0.9948,3,MixedASDwithDelay awaits an explicit stated rule for schedule
+MixedASDwithDelay_4_73,MX,Mixed ASD with developmental delay,A20,1,0.9981,4,MixedASDwithDelay continues experiencing unresolved prediction error signals
+MixedASDwithDelay_5_164,MX,Mixed ASD with developmental delay,A20,1,0.9978,5,MixedASDwithDelay's disruption exceeds the change's actual significance
+MixedASDwithDelay_6_259,MX,Mixed ASD with developmental delay,A21,0,0.994,6,MixedASDwithDelay's threat response blocks schedule learning
+MixedASDwithDelay_6_260,MX,Mixed ASD with developmental delay,A24,1,0.9974,6,MixedASDwithDelay requires immediate specific feedback to regulate
+MixedASDwithDelay_4_74,MX,Mixed ASD with developmental delay,A23,1,0.9957,4,MixedASDwithDelay cannot infer schedule from unspoken expectations
+MixedASDwithDelay_5_126,MX,Mixed ASD with developmental delay,A20,1,0.9971,5,MixedASDwithDelay generates disproportionate prediction error about schedule
+MixedASDwithDelay_5_128,MX,Mixed ASD with developmental delay,A18,1,0.992,5,MixedASDwithDelay cannot intuitively match schedule to social context
+MixedASDwithDelay_6_202,MX,Mixed ASD with developmental delay,A18,1,0.9956,6,MixedASDwithDelay must consciously retrieve a matching rule
+MixedASDwithDelay_3_34,MX,Mixed ASD with developmental delay,A19,1,0.9975,3,MixedASDwithDelay cannot offload cognitive resources without established routine
+MixedASDwithDelay_3_35,MX,Mixed ASD with developmental delay,A24,1,0.9973,3,MixedASDwithDelay cannot update behavior without proximate causal feedback
+MixedASDwithDelay_4_80,MX,Mixed ASD with developmental delay,A24,0,0.9886,4,MixedASDwithDelay treats vague feedback as non-informative
+MixedASDwithDelay_5_153,MX,Mixed ASD with developmental delay,A20,1,0.9963,5,MixedASDwithDelay continues generating high prediction error signals
+MixedASDwithDelay_6_254,MX,Mixed ASD with developmental delay,A1,0,0.9227,6,MixedASDwithDelay's regulatory threshold is exceeded by errors
+MixedASDwithDelay_6_255,MX,Mixed ASD with developmental delay,A1,1,0.9978,6,MixedASDwithDelay goes offline for learning and social tasks
+MixedASDwithDelay_6_256,MX,Mixed ASD with developmental delay,A6,0,0.9824,6,MixedASDwithDelay experiences processing overload from environmental volatility
+MixedASDwithDelay_5_154,MX,Mixed ASD with developmental delay,A24,1,0.9887,5,MixedASDwithDelay's behavior remains unchanged after the schedule shift
+MixedASDwithDelay_6_249,MX,Mixed ASD with developmental delay,A1,0,0.9947,6,MixedASDwithDelay's persistent mismatch risks exceeding regulatory threshold
+MixedASDwithDelay_6_250,MX,Mixed ASD with developmental delay,A19,0,0.9868,6,MixedASDwithDelay diverts cognitive resources to unresolved prediction error
+MixedASDwithDelay_5_155,MX,Mixed ASD with developmental delay,A21,1,0.9966,5,MixedASDwithDelay risks threat response if error framed as failure
+MixedASDwithDelay_4_81,MX,Mixed ASD with developmental delay,A21,1,0.9983,4,MixedASDwithDelay may frame the change as failure
+MixedASDwithDelay_2_14,MX,Mixed ASD with developmental delay,A23,1,0.9962,2,MixedASDwithDelay needs an explicit stated rule for new schedule
+MixedASDwithDelay_3_29,MX,Mixed ASD with developmental delay,A23,1,0.9919,3,MixedASDwithDelay cannot reliably act without an explicit rule
+MixedASDwithDelay_3_31,MX,Mixed ASD with developmental delay,A24,1,0.9978,3,MixedASDwithDelay fails to update behavior absent proximate feedback
+MixedASDwithDelay_4_91,MX,Mixed ASD with developmental delay,A21,1,0.9937,4,MixedASDwithDelay treats unmet schedule expectation as failure
+MixedASDwithDelay_5_159,MX,Mixed ASD with developmental delay,A21,0,0.9886,5,MixedASDwithDelay activates threat response to schedule error
+MixedASDwithDelay_6_273,MX,Mixed ASD with developmental delay,A21,1,0.9958,6,MixedASDwithDelay cannot process the schedule change as learning
+MixedASDwithDelay_6_274,MX,Mixed ASD with developmental delay,A1,0,0.9949,6,MixedASDwithDelay's social engagement becomes unavailable during threat response
+MixedASDwithDelay_5_160,MX,Mixed ASD with developmental delay,A21,1,0.9897,5,MixedASDwithDelay blocks learning from schedule mismatch
+MixedASDwithDelay_6_244,MX,Mixed ASD with developmental delay,A19,1,0.9957,6,MixedASDwithDelay fails to form a new routine
+MixedASDwithDelay_6_246,MX,Mixed ASD with developmental delay,A6,0,0.9921,6,MixedASDwithDelay experiences processing overload from repeated schedule volatility
+MixedASDwithDelay_6_247,MX,Mixed ASD with developmental delay,A24,0,0.9639,6,MixedASDwithDelay repeats the same failure response next time
+MixedASDwithDelay_4_92,MX,Mixed ASD with developmental delay,A1,0,0.976,4,MixedASDwithDelay risks exceeding regulatory threshold from unresolved error
+MixedASDwithDelay_2_15,MX,Mixed ASD with developmental delay,A19,0,0.9561,2,MixedASDwithDelay loses the prediction-error-reducing benefit of routine
+MixedASDwithDelay_3_27,MX,Mixed ASD with developmental delay,A19,1,0.9978,3,MixedASDwithDelay cannot allocate resources to other tasks
+MixedASDwithDelay_4_68,MX,Mixed ASD with developmental delay,A7,1,0.9939,4,MixedASDwithDelay's processing speed for other tasks decreases
+MixedASDwithDelay_5_133,MX,Mixed ASD with developmental delay,A7,0,0.9339,5,MixedASDwithDelay processes socially complex tasks more slowly
+ModerateAutism_0_0,MO,Moderate autism,,0,0.8393,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains."
+ModerateAutism_1_1,MO,Moderate autism,A20,1,0.9972,1,ModerateAutism generates disproportionate prediction error signals
+ModerateAutism_2_16,MO,Moderate autism,A20,1,0.9978,2,ModerateAutism experiences disruption disproportionate to the schedule change's significance
+ModerateAutism_3_40,MO,Moderate autism,A1,1,0.9984,3,ModerateAutism's cognitive processing goes offline temporarily
+ModerateAutism_4_65,MO,Moderate autism,A1,1,0.9973,4,ModerateAutism cannot engage socially until regulation restores
+ModerateAutism_5_177,MO,Moderate autism,A1,1,0.9962,5,ModerateAutism's learning capacity remains suspended currently
+ModerateAutism_5_178,MO,Moderate autism,A18,1,0.9897,5,ModerateAutism cannot retrieve pragmatic social rules now
+ModerateAutism_5_179,MO,Moderate autism,A19,1,0.9965,5,ModerateAutism cannot redirect resources to other tasks
+ModerateAutism_4_66,MO,Moderate autism,A1,1,0.9965,4,ModerateAutism cannot learn new information until regulated
+ModerateAutism_5_152,MO,Moderate autism,A1,1,0.9944,5,ModerateAutism remains offline until sensory regulation restores
+ModerateAutism_5_153,MO,Moderate autism,A24,1,0.9972,5,ModerateAutism cannot process feedback about the new schedule
+ModerateAutism_5_154,MO,Moderate autism,A23,1,0.9964,5,ModerateAutism cannot apply the new schedule rule yet
+ModerateAutism_4_67,MO,Moderate autism,A18,1,0.9913,4,ModerateAutism cannot retrieve stored pragmatic rules now
+ModerateAutism_5_167,MO,Moderate autism,A18,1,0.9972,5,ModerateAutism cannot apply expected social behavior now
+ModerateAutism_5_168,MO,Moderate autism,A23,1,0.9947,5,ModerateAutism cannot infer unspoken behavioral expectations now
+ModerateAutism_5_169,MO,Moderate autism,A23,0,0.9916,5,ModerateAutism requires explicitly stated rules for this situation
+ModerateAutism_4_68,MO,Moderate autism,A22,1,0.9935,4,ModerateAutism cannot re-anchor to the new schedule
+ModerateAutism_5_173,MO,Moderate autism,A20,1,0.9964,5,ModerateAutism continues generating prediction error signals
+ModerateAutism_2_18,MO,Moderate autism,A19,1,0.9913,2,ModerateAutism must reallocate cognitive resources to handle the change
+ModerateAutism_3_31,MO,Moderate autism,A22,1,0.9968,3,ModerateAutism cannot generalize old schedule rules to new context
+ModerateAutism_4_79,MO,Moderate autism,A22,1,0.9942,4,ModerateAutism requires explicit instruction to learn new schedule
+ModerateAutism_5_131,MO,Moderate autism,A23,1,0.993,5,ModerateAutism cannot follow schedule without explicit stated rule
+ModerateAutism_5_132,MO,Moderate autism,A24,1,0.9974,5,ModerateAutism requires specific immediate feedback to update schedule behavior
+ModerateAutism_6_258,MO,Moderate autism,A24,1,0.9947,6,ModerateAutism disregards vague or delayed feedback about schedule
+ModerateAutism_6_259,MO,Moderate autism,A21,1,0.9959,6,ModerateAutism blocks learning if feedback framed as failure
+ModerateAutism_5_133,MO,Moderate autism,A18,1,0.9963,5,ModerateAutism must consciously retrieve new schedule rule
+ModerateAutism_6_243,MO,Moderate autism,A10,1,0.9958,6,ModerateAutism's rule retrieval fails without explicit visual cues
+ModerateAutism_6_244,MO,Moderate autism,A18,0,0.0701,6,ModerateAutism searches its explicit rule database for the schedule
+ModerateAutism_6_245,MO,Moderate autism,A24,0,0.9843,6,ModerateAutism needs immediate specific feedback to encode new rule
+ModerateAutism_4_81,MO,Moderate autism,A20,1,0.9976,4,ModerateAutism treats the change as high-magnitude disruption
+ModerateAutism_5_183,MO,Moderate autism,A1,1,0.9968,5,ModerateAutism risks going offline from overload
+ModerateAutism_5_185,MO,Moderate autism,A23,1,0.9962,5,ModerateAutism seeks an explicit stated rule for the change
+ModerateAutism_3_33,MO,Moderate autism,A1,1,0.9958,3,ModerateAutism has reduced capacity for learning and interaction
+ModerateAutism_4_82,MO,Moderate autism,A1,1,0.9967,4,ModerateAutism goes offline until regulation restores
+ModerateAutism_5_199,MO,Moderate autism,A1,1,0.9978,5,ModerateAutism suspends cognitive processing until regulation restores
+ModerateAutism_5_200,MO,Moderate autism,A19,1,0.9935,5,ModerateAutism cannot access routine-based resource optimization now
+ModerateAutism_4_83,MO,Moderate autism,A22,1,0.9982,4,ModerateAutism cannot generalize old routine to new schedule
+ModerateAutism_4_84,MO,Moderate autism,A23,1,0.9953,4,ModerateAutism requires explicit statement of new rule
+ModerateAutism_5_191,MO,Moderate autism,A23,1,0.9959,5,ModerateAutism cannot apply unstated schedule expectations
+ModerateAutism_5_194,MO,Moderate autism,A18,1,0.9851,5,ModerateAutism cannot infer new rule from context
+ModerateAutism_4_85,MO,Moderate autism,A24,1,0.9978,4,ModerateAutism fails to update without immediate specific feedback
+ModerateAutism_5_201,MO,Moderate autism,A24,1,0.996,5,ModerateAutism retains no updated expectation for the schedule
+ModerateAutism_5_202,MO,Moderate autism,A21,1,0.9978,5,ModerateAutism treats the unresolved change as threat
+ModerateAutism_1_2,MO,Moderate autism,A19,1,0.9978,1,ModerateAutism loses the resource-saving benefit of routine
+ModerateAutism_2_10,MO,Moderate autism,A19,0,0.9837,2,ModerateAutism must allocate resources to novel demands
+ModerateAutism_3_45,MO,Moderate autism,A19,1,0.9977,3,ModerateAutism has fewer resources for other tasks
+ModerateAutism_4_97,MO,Moderate autism,A1,0,0.7485,4,ModerateAutism risks its regulatory system going offline
+ModerateAutism_5_217,MO,Moderate autism,A1,1,0.9971,5,ModerateAutism cannot process learning during this period
+ModerateAutism_3_46,MO,Moderate autism,A22,1,0.9925,3,ModerateAutism cannot apply old routine rules here
+ModerateAutism_4_100,MO,Moderate autism,A22,1,0.9899,4,ModerateAutism requires explicit instruction to re-anchor rules
+ModerateAutism_5_208,MO,Moderate autism,A23,1,0.9878,5,ModerateAutism cannot act until the new rule is explicitly stated
+ModerateAutism_5_210,MO,Moderate autism,A24,0,0.9947,5,ModerateAutism requires observable specific feedback to update the rule
+ModerateAutism_3_47,MO,Moderate autism,A1,1,0.996,3,ModerateAutism risks exceeding its regulatory threshold
+ModerateAutism_4_111,MO,Moderate autism,A1,1,0.9979,4,ModerateAutism risks social interaction becoming unavailable
+ModerateAutism_2_11,MO,Moderate autism,A22,1,0.9984,2,ModerateAutism cannot generalize prior schedule rules automatically
+ModerateAutism_3_38,MO,Moderate autism,A22,1,0.9979,3,ModerateAutism needs explicit instruction to re-anchor to new schedule
+ModerateAutism_4_92,MO,Moderate autism,A24,1,0.9971,4,ModerateAutism needs immediate specific feedback about the schedule change
+ModerateAutism_5_188,MO,Moderate autism,A20,0,0.9976,5,ModerateAutism's prediction error persists until explicit feedback arrives
+ModerateAutism_5_189,MO,Moderate autism,A23,1,0.9947,5,ModerateAutism will follow the new schedule once explicitly stated
+ModerateAutism_5_190,MO,Moderate autism,A18,1,0.9913,5,ModerateAutism stores the new schedule as an explicit rule entry
+ModerateAutism_3_39,MO,Moderate autism,A23,1,0.9943,3,ModerateAutism cannot infer new schedule expectations without explicit statement
+ModerateAutism_4_88,MO,Moderate autism,A18,1,0.9868,4,ModerateAutism cannot infer new expectations through social intuition
+ModerateAutism_5_182,MO,Moderate autism,A18,1,0.992,5,ModerateAutism cannot automatically match schedule change to social rules
+ModerateAutism_1_3,MO,Moderate autism,A23,1,0.9976,1,ModerateAutism lacks an explicit rule for the new schedule
+ModerateAutism_2_13,MO,Moderate autism,A19,1,0.9954,2,ModerateAutism loses the computational optimization of routine
+ModerateAutism_3_36,MO,Moderate autism,A1,1,0.9937,3,ModerateAutism risks sensory-cognitive system going offline
+ModerateAutism_4_69,MO,Moderate autism,A1,1,0.998,4,ModerateAutism cannot engage in learning currently
+ModerateAutism_4_70,MO,Moderate autism,A1,1,0.998,4,ModerateAutism cannot engage in social interaction currently
+ModerateAutism_5_195,MO,Moderate autism,A1,1,0.9972,5,ModerateAutism cannot engage in cognitive processing currently
+ModerateAutism_5_197,MO,Moderate autism,A24,1,0.9965,5,ModerateAutism cannot receive behavior-linked feedback currently
+ModerateAutism_4_71,MO,Moderate autism,A20,1,0.9977,4,ModerateAutism generates disruption disproportionate to actual change
+ModerateAutism_5_166,MO,Moderate autism,A21,1,0.9978,5,ModerateAutism blocks learning if disruption framed as failure
+ModerateAutism_2_15,MO,Moderate autism,A1,0,0.9673,2,ModerateAutism risks going offline from unregulated input
+ModerateAutism_3_49,MO,Moderate autism,A1,1,0.9983,3,ModerateAutism becomes unavailable for learning and social interaction
+ModerateAutism_4_106,MO,Moderate autism,A1,1,0.9977,4,ModerateAutism stays unavailable until regulation is restored
+ModerateAutism_5_231,MO,Moderate autism,A1,1,0.996,5,ModerateAutism cannot process teacher instructions right now
+ModerateAutism_5_233,MO,Moderate autism,A18,1,0.9939,5,ModerateAutism cannot retrieve pragmatic rules while offline
+ModerateAutism_5_234,MO,Moderate autism,A19,1,0.9976,5,ModerateAutism cannot reallocate resources without restored routine
+ModerateAutism_4_107,MO,Moderate autism,A24,1,0.9975,4,ModerateAutism cannot integrate feedback given during this state
+ModerateAutism_5_212,MO,Moderate autism,A24,1,0.9955,5,ModerateAutism's rule for the schedule remains unupdated
+ModerateAutism_5_213,MO,Moderate autism,A20,1,0.9982,5,ModerateAutism's prediction error signal remains unresolved
+ModerateAutism_5_215,MO,Moderate autism,A21,1,0.9975,5,ModerateAutism cannot process this error as learning information
+ModerateAutism_4_109,MO,Moderate autism,A21,1,0.9905,4,Framing this state as misbehavior would block ModerateAutism's learning
+ModerateAutism_5_205,MO,Moderate autism,A21,1,0.9972,5,ModerateAutism's threat response activates instead of learning
+ModerateAutism_5_207,MO,Moderate autism,A22,1,0.9951,5,ModerateAutism cannot generalize the new schedule rule
+ModerateAutism_1_4,MO,Moderate autism,A22,1,0.9962,1,ModerateAutism cannot generalize prior routine to new context
+ModerateAutism_2_7,MO,Moderate autism,A19,1,0.9977,2,ModerateAutism loses freed cognitive resources from routine
+ModerateAutism_3_24,MO,Moderate autism,A1,1,0.9939,3,ModerateAutism has diminished cognitive capacity for processing input
+ModerateAutism_4_55,MO,Moderate autism,A2,1,0.9972,4,ModerateAutism cannot effortfully filter irrelevant sensory input
+ModerateAutism_5_116,MO,Moderate autism,A2,1,0.997,5,ModerateAutism treats all sensory input as equally weighted
+ModerateAutism_6_221,MO,Moderate autism,A5,0,0.8063,6,ModerateAutism processes sensory details before integrating them globally
+ModerateAutism_5_117,MO,Moderate autism,A1,1,0.9955,5,ModerateAutism risks exceeding its sensory regulatory threshold
+ModerateAutism_6_227,MO,Moderate autism,A1,1,0.9968,6,ModerateAutism cannot learn until regulation restored
+ModerateAutism_5_118,MO,Moderate autism,A3,1,0.9975,5,ModerateAutism experiences interference from simultaneous cross-modal inputs
+ModerateAutism_6_236,MO,Moderate autism,A5,0,0.4259,6,ModerateAutism defaults to local detail processing
+ModerateAutism_6_237,MO,Moderate autism,A3,1,0.9787,6,ModerateAutism fails to form coherent cross-modal percept
+ModerateAutism_4_56,MO,Moderate autism,A1,1,0.9955,4,ModerateAutism approaches sensory regulatory threshold overload
+ModerateAutism_5_114,MO,Moderate autism,A1,1,0.9978,5,ModerateAutism's social engagement becomes unavailable
+ModerateAutism_3_25,MO,Moderate autism,A19,1,0.9979,3,ModerateAutism cannot allocate resources to the new task
+ModerateAutism_4_76,MO,Moderate autism,A20,1,0.9971,4,ModerateAutism generates disproportionate prediction error about schedule
+ModerateAutism_5_162,MO,Moderate autism,A1,1,0.9956,5,ModerateAutism cannot engage socially during this disruption
+ModerateAutism_4_78,MO,Moderate autism,A5,1,0.997,4,ModerateAutism cannot integrate new schedule as coherent whole
+ModerateAutism_5_146,MO,Moderate autism,A23,0,0.9664,5,ModerateAutism seeks an explicit stated rule instead
+ModerateAutism_2_8,MO,Moderate autism,A23,1,0.9972,2,ModerateAutism requires explicit statement of new schedule
+ModerateAutism_3_26,MO,Moderate autism,A4,1,0.9979,3,ModerateAutism needs the new schedule anchored visually
+ModerateAutism_4_72,MO,Moderate autism,A9,1,0.9976,4,ModerateAutism retains visually anchored schedule with high fidelity
+ModerateAutism_5_155,MO,Moderate autism,A10,0,0.9883,5,ModerateAutism reliably retrieves new schedule when needed
+ModerateAutism_5_156,MO,Moderate autism,A19,1,0.9953,5,ModerateAutism can treat new schedule as routine optimization
+ModerateAutism_4_73,MO,Moderate autism,A10,1,0.9954,4,ModerateAutism cannot reliably retrieve schedule without visual cues
+ModerateAutism_5_120,MO,Moderate autism,A24,1,0.9979,5,ModerateAutism cannot update its schedule expectation without explicit feedback
+ModerateAutism_5_121,MO,Moderate autism,A1,1,0.9903,5,ModerateAutism risks going offline from schedule uncertainty
+ModerateAutism_4_74,MO,Moderate autism,A4,1,0.9978,4,ModerateAutism requires concrete visual representation of new schedule
+ModerateAutism_5_124,MO,Moderate autism,A20,0,0.997,5,ModerateAutism keeps generating prediction errors until schedule visualized
+ModerateAutism_6_249,MO,Moderate autism,A1,1,0.9967,6,ModerateAutism remains cognitively offline until regulated
+ModerateAutism_6_251,MO,Moderate autism,A20,1,0.9978,6,ModerateAutism's disruption exceeds the change's actual significance
+ModerateAutism_6_252,MO,Moderate autism,A24,0,0.9843,6,ModerateAutism requires observable specific feedback to resolve error
+ModerateAutism_4_75,MO,Moderate autism,A20,0,0.9937,4,ModerateAutism sustains disproportionate error until schedule is visualized
+ModerateAutism_5_134,MO,Moderate autism,A1,1,0.9927,5,ModerateAutism's learning remains offline until schedule is visualized
+ModerateAutism_6_253,MO,Moderate autism,A1,0,0.9831,6,ModerateAutism cannot engage socially until visualized
+ModerateAutism_6_254,MO,Moderate autism,A20,0,0.9957,6,ModerateAutism sustains high prediction error without visual anchor
+ModerateAutism_6_255,MO,Moderate autism,A24,1,0.9968,6,ModerateAutism requires observable specific feedback to reorient
+ModerateAutism_6_256,MO,Moderate autism,A21,1,0.9928,6,ModerateAutism's learning stays blocked if framed as failure
+ModerateAutism_5_135,MO,Moderate autism,A24,1,0.9935,5,ModerateAutism requires observable specific feedback to resolve disruption
+ModerateAutism_6_246,MO,Moderate autism,A24,1,0.9902,6,ModerateAutism cannot resolve disruption from vague feedback
+ModerateAutism_6_247,MO,Moderate autism,A24,0,0.9886,6,ModerateAutism requires feedback causally linked to schedule change
+ModerateAutism_6_248,MO,Moderate autism,A21,1,0.9962,6,ModerateAutism blocks learning if feedback implies moral failure
+ModerateAutism_5_136,MO,Moderate autism,A21,1,0.998,5,ModerateAutism's learning blocks if error framed as failure
+ModerateAutism_3_27,MO,Moderate autism,A23,1,0.9962,3,ModerateAutism cannot infer schedule change from implicit cues
+ModerateAutism_4_60,MO,Moderate autism,A24,1,0.9964,4,ModerateAutism requires observable specific feedback about the change
+ModerateAutism_5_127,MO,Moderate autism,A18,1,0.9969,5,ModerateAutism needs an explicit rule entry for the new schedule
+ModerateAutism_3_28,MO,Moderate autism,A20,1,0.9942,3,"Without explicit statement, prediction error signal persists"
+ModerateAutism_4_95,MO,Moderate autism,A19,1,0.9971,4,ModerateAutism cannot reallocate cognitive resources to tasks
+ModerateAutism_5_140,MO,Moderate autism,A19,1,0.9976,5,ModerateAutism loses routine-based cognitive resource optimization
+ModerateAutism_6_238,MO,Moderate autism,A19,0,0.9878,6,ModerateAutism diverts cognitive resources to error monitoring
+ModerateAutism_6_239,MO,Moderate autism,A1,0,0.9924,6,ModerateAutism approaches threshold for cognitive processing shutdown
+ModerateAutism_3_29,MO,Moderate autism,A22,1,0.9934,3,ModerateAutism requires re-instruction for each schedule change
+ModerateAutism_4_61,MO,Moderate autism,A23,1,0.9968,4,ModerateAutism cannot reliably apply the unstated new schedule
+ModerateAutism_5_158,MO,Moderate autism,A20,1,0.9919,5,ModerateAutism experiences disruption unrelated to change's objective significance
+ModerateAutism_5_159,MO,Moderate autism,A23,1,0.997,5,ModerateAutism fails to detect the implicit new expectation
+ModerateAutism_4_62,MO,Moderate autism,A22,1,0.9906,4,ModerateAutism continues expecting the previous routine's structure
+ModerateAutism_4_64,MO,Moderate autism,A24,1,0.9969,4,ModerateAutism cannot update behavior without explicit causal feedback
+ModerateAutism_5_142,MO,Moderate autism,A24,1,0.9969,5,ModerateAutism continues following the old schedule unchanged
+ModerateAutism_5_143,MO,Moderate autism,A21,1,0.9961,5,ModerateAutism cannot learn from the change if framed as failure
+ModerateAutism_1_5,MO,Moderate autism,A1,1,0.9971,1,ModerateAutism risks losing access to learning and engagement
+ModerateAutism_2_22,MO,Moderate autism,A23,1,0.9978,2,ModerateAutism cannot infer the unstated new expectations
+ModerateAutism_3_54,MO,Moderate autism,A18,1,0.9926,3,ModerateAutism cannot retrieve a matching stored social rule
+ModerateAutism_4_103,MO,Moderate autism,A18,0,0.9673,4,ModerateAutism cannot determine an appropriate social response
+ModerateAutism_5_222,MO,Moderate autism,A21,1,0.9966,5,ModerateAutism risks threat response if judged as failure
+ModerateAutism_5_223,MO,Moderate autism,A19,1,0.9971,5,ModerateAutism defaults to a previously established routine action
+ModerateAutism_5_224,MO,Moderate autism,A24,1,0.9877,5,ModerateAutism receives no proximate feedback to guide behavior
+NeurotypicalCognition_0_0,NT,Neurotypical,,0,0.103,0,"A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts."
+NeurotypicalCognition_1_1,NT,Neurotypical,N20,1,0.998,1,NeurotypicalCognition generates a prediction error proportional to the change
+NeurotypicalCognition_2_13,NT,Neurotypical,N7,0,0.8674,2,NeurotypicalCognition increases its learning rate now
+NeurotypicalCognition_3_37,NT,Neurotypical,N20,0,0.9793,3,NeurotypicalCognition rapidly updates its contextual model of the schedule
+NeurotypicalCognition_4_74,NT,Neurotypical,N6,0,0.9857,4,NeurotypicalCognition integrates the new schedule into global context
+NeurotypicalCognition_5_137,NT,Neurotypical,N6,0,0.9767,5,NeurotypicalCognition reinterprets subsequent events under the updated context
+NeurotypicalCognition_6_264,NT,Neurotypical,N6,1,0.9914,6,NeurotypicalCognition interprets new events through updated schedule context
+NeurotypicalCognition_3_38,NT,Neurotypical,N22,0,0.4226,3,NeurotypicalCognition generalizes the new schedule rule across contexts
+NeurotypicalCognition_4_66,NT,Neurotypical,N20,0,0.32,4,NeurotypicalCognition updates its predictive model of the day
+NeurotypicalCognition_5_157,NT,Neurotypical,N21,1,0.9908,5,NeurotypicalCognition proceeds without triggering system shutdown
+NeurotypicalCognition_6_285,NT,Neurotypical,N24,0,0.9766,6,NeurotypicalCognition monitors social cues to confirm the update
+NeurotypicalCognition_5_158,NT,Neurotypical,N11,1,0.9912,5,NeurotypicalCognition redirects attention to the new activity
+NeurotypicalCognition_6_277,NT,Neurotypical,N4,1,0.9931,6,NeurotypicalCognition integrates contextual information about the new activity
+NeurotypicalCognition_6_278,NT,Neurotypical,N6,1,0.9888,6,NeurotypicalCognition extracts overall meaning of the new activity
+NeurotypicalCognition_4_67,NT,Neurotypical,N24,0,0.9893,4,NeurotypicalCognition monitors feedback to confirm the new routine
+NeurotypicalCognition_5_149,NT,Neurotypical,N24,0,0.9818,5,NeurotypicalCognition supplements feedback with social inference now
+NeurotypicalCognition_3_39,NT,Neurotypical,N24,0,0.9905,3,NeurotypicalCognition supplements missing schedule details through self-monitoring
+NeurotypicalCognition_4_96,NT,Neurotypical,N20,0,0.9919,4,NeurotypicalCognition resolves the change through contextual updating
+NeurotypicalCognition_5_180,NT,Neurotypical,N7,0,0.9917,5,NeurotypicalCognition reduces learning rate as environment stabilizes
+NeurotypicalCognition_2_14,NT,Neurotypical,N19,0,0.8545,2,NeurotypicalCognition's discomfort resolves quickly through reappraisal
+NeurotypicalCognition_2_15,NT,Neurotypical,N21,0,0.9864,2,NeurotypicalCognition treats the change as correctable information
+NeurotypicalCognition_3_31,NT,Neurotypical,N21,0,0.9831,3,"NeurotypicalCognition experiences mild discomfort motivating correction, not shutdown"
+NeurotypicalCognition_4_98,NT,Neurotypical,N7,0,0.9594,4,NeurotypicalCognition increases its learning rate given volatility
+NeurotypicalCognition_5_216,NT,Neurotypical,N6,0,0.9799,5,NeurotypicalCognition extracts global meaning from schedule details
+NeurotypicalCognition_4_99,NT,Neurotypical,N24,0,0.9896,4,NeurotypicalCognition infers the new routine through self-monitoring
+NeurotypicalCognition_5_168,NT,Neurotypical,N22,0,0.976,5,NeurotypicalCognition generalizes the new routine across similar contexts
+NeurotypicalCognition_6_242,NT,Neurotypical,N19,1,0.9896,6,NeurotypicalCognition treats the new routine as updated preference
+NeurotypicalCognition_6_243,NT,Neurotypical,N6,1,0.9888,6,NeurotypicalCognition uses new routine to interpret future events
+NeurotypicalCognition_5_169,NT,Neurotypical,N20,0,0.665,5,NeurotypicalCognition resolves the prediction error through updated expectations
+NeurotypicalCognition_4_100,NT,Neurotypical,N22,0,0.9672,4,NeurotypicalCognition applies prior schedule rules to new context
+NeurotypicalCognition_5_173,NT,Neurotypical,N22,0,0.9808,5,NeurotypicalCognition transfers routine structure without explicit re-anchoring
+NeurotypicalCognition_1_2,NT,Neurotypical,N19,0,0.9845,1,NeurotypicalCognition experiences mild discomfort that resolves quickly
+NeurotypicalCognition_2_16,NT,Neurotypical,N20,0,0.9716,2,NeurotypicalCognition rapidly updates its contextual model of the day
+NeurotypicalCognition_3_35,NT,Neurotypical,N23,1,0.9791,3,NeurotypicalCognition infers implicit expectations for the new schedule
+NeurotypicalCognition_4_68,NT,Neurotypical,N22,0,0.9355,4,NeurotypicalCognition applies known behavioral rules to new schedule
+NeurotypicalCognition_5_132,NT,Neurotypical,N22,0,0.2646,5,NeurotypicalCognition transfers rules without needing re-anchoring
+NeurotypicalCognition_6_244,NT,Neurotypical,N4,1,0.9951,6,NeurotypicalCognition integrates new schedule information without explicit management
+NeurotypicalCognition_5_133,NT,Neurotypical,N24,0,0.1017,5,NeurotypicalCognition monitors feedback to verify rule fit
+NeurotypicalCognition_6_276,NT,Neurotypical,N22,0,0.9826,6,NeurotypicalCognition transfers behavioral rules without explicit re-anchoring
+NeurotypicalCognition_5_134,NT,Neurotypical,N21,0,0.402,5,NeurotypicalCognition treats rule mismatches as correctable information
+NeurotypicalCognition_6_270,NT,Neurotypical,N21,0,0.9933,6,NeurotypicalCognition initiates corrective behavior without system shutdown
+NeurotypicalCognition_6_273,NT,Neurotypical,N24,0,0.9472,6,NeurotypicalCognition self-monitors to supplement unclear schedule feedback
+NeurotypicalCognition_4_69,NT,Neurotypical,N11,1,0.9947,4,NeurotypicalCognition redirects attention toward new schedule demands
+NeurotypicalCognition_5_155,NT,Neurotypical,N4,0,0.9954,5,NeurotypicalCognition integrates contextual cues about new schedule
+NeurotypicalCognition_4_70,NT,Neurotypical,N13,0,0.9913,4,NeurotypicalCognition generates motivation to follow new schedule
+NeurotypicalCognition_5_161,NT,Neurotypical,N13,1,0.9948,5,NeurotypicalCognition sustains engagement with newly scheduled tasks
+NeurotypicalCognition_6_268,NT,Neurotypical,N22,0,0.0614,6,NeurotypicalCognition generalizes this adjustment to future schedule changes
+NeurotypicalCognition_3_36,NT,Neurotypical,N11,1,0.9943,3,NeurotypicalCognition redirects attention to the new task demands
+NeurotypicalCognition_4_81,NT,Neurotypical,N4,0,0.9922,4,NeurotypicalCognition integrates contextual cues for the new task
+NeurotypicalCognition_5_143,NT,Neurotypical,N6,0,0.9905,5,NeurotypicalCognition extracts global meaning from the new routine
+NeurotypicalCognition_5_144,NT,Neurotypical,N13,0,0.9643,5,NeurotypicalCognition generates motivation for the new task
+NeurotypicalCognition_6_287,NT,Neurotypical,N18,0,0.9662,6,NeurotypicalCognition infers social expectations for new task behavior
+NeurotypicalCognition_6_288,NT,Neurotypical,N13,1,0.9933,6,NeurotypicalCognition sustains engagement despite low intrinsic interest
+NeurotypicalCognition_5_145,NT,Neurotypical,N24,0,0.9585,5,NeurotypicalCognition supplements sparse feedback through self-monitoring
+NeurotypicalCognition_6_292,NT,Neurotypical,N24,0,0.9806,6,NeurotypicalCognition infers social cues to fill feedback gaps
+NeurotypicalCognition_4_82,NT,Neurotypical,N6,1,0.985,4,NeurotypicalCognition extracts overall meaning of the new schedule
+NeurotypicalCognition_4_83,NT,Neurotypical,N22,0,0.953,4,NeurotypicalCognition applies prior learned rules to new task
+NeurotypicalCognition_5_147,NT,Neurotypical,N24,0,0.475,5,NeurotypicalCognition monitors feedback to refine task performance
+NeurotypicalCognition_5_148,NT,Neurotypical,N21,0,0.9354,5,NeurotypicalCognition treats resulting errors as corrective information
+NeurotypicalCognition_2_17,NT,Neurotypical,N19,0,0.968,2,NeurotypicalCognition reappraises the new schedule as acceptable
+NeurotypicalCognition_3_40,NT,Neurotypical,N20,0,0.9626,3,NeurotypicalCognition updates its contextual prediction of the day
+NeurotypicalCognition_3_41,NT,Neurotypical,N22,0,0.9784,3,NeurotypicalCognition generalizes acceptance to future schedule changes
+NeurotypicalCognition_4_76,NT,Neurotypical,N7,0,0.9469,4,NeurotypicalCognition increases updating rate for schedule volatility
+NeurotypicalCognition_5_185,NT,Neurotypical,N22,0,0.9732,5,NeurotypicalCognition applies updated schedule expectations across future contexts
+NeurotypicalCognition_4_77,NT,Neurotypical,N20,0,0.987,4,NeurotypicalCognition expects smaller prediction errors from future changes
+NeurotypicalCognition_5_182,NT,Neurotypical,N7,1,0.9939,5,NeurotypicalCognition treats the schedule environment as more stable
+NeurotypicalCognition_5_183,NT,Neurotypical,N20,0,0.9596,5,NeurotypicalCognition updates its contextual model more rapidly
+NeurotypicalCognition_5_184,NT,Neurotypical,N22,0,0.8704,5,NeurotypicalCognition transfers this expectation across different schedule contexts
+NeurotypicalCognition_6_300,NT,Neurotypical,N7,0,0.9294,6,NeurotypicalCognition consolidates updating rate as schedule volatility stabilizes
+NeurotypicalCognition_3_42,NT,Neurotypical,N13,0,0.8864,3,NeurotypicalCognition remains motivated to follow new tasks
+NeurotypicalCognition_4_93,NT,Neurotypical,N13,0,0.9488,4,NeurotypicalCognition sustains motivation through social task embedding
+NeurotypicalCognition_5_189,NT,Neurotypical,N13,0,0.989,5,NeurotypicalCognition engages in unfamiliar tasks via social reward structures
+NeurotypicalCognition_5_190,NT,Neurotypical,N18,0,0.9745,5,NeurotypicalCognition acquires new schedule norms through social participation
+NeurotypicalCognition_2_18,NT,Neurotypical,N7,0,0.1003,2,NeurotypicalCognition increases learning rate for this environment
+NeurotypicalCognition_3_47,NT,Neurotypical,N7,1,0.9838,3,NeurotypicalCognition consolidates the new schedule once volatility decreases
+NeurotypicalCognition_4_105,NT,Neurotypical,N8,0,0.5901,4,NeurotypicalCognition encodes the schedule change as narrative memory
+NeurotypicalCognition_5_207,NT,Neurotypical,N10,0,0.9682,5,NeurotypicalCognition can retrieve the schedule memory via varied cues
+NeurotypicalCognition_5_209,NT,Neurotypical,N6,0,0.9342,5,NeurotypicalCognition integrates the change into its overall daily context
+NeurotypicalCognition_4_106,NT,Neurotypical,N7,0,0.9919,4,NeurotypicalCognition reduces its learning rate as volatility stabilizes
+NeurotypicalCognition_5_239,NT,Neurotypical,N8,0,0.9337,5,NeurotypicalCognition encodes the new schedule as a contextual narrative
+NeurotypicalCognition_1_3,NT,Neurotypical,N20,1,0.9902,1,NeurotypicalCognition rapidly updates its contextual expectations
+NeurotypicalCognition_2_5,NT,Neurotypical,N19,0,0.9786,2,NeurotypicalCognition experiences mild discomfort from the disruption
+NeurotypicalCognition_3_29,NT,Neurotypical,N21,0,0.9342,3,NeurotypicalCognition treats the disruption as correctable information
+NeurotypicalCognition_4_60,NT,Neurotypical,N24,0,0.9844,4,NeurotypicalCognition seeks social cues to clarify the change
+NeurotypicalCognition_5_131,NT,Neurotypical,N18,0,0.5515,5,NeurotypicalCognition detects the new norm through social feedback
+NeurotypicalCognition_4_61,NT,Neurotypical,N21,1,0.9892,4,NeurotypicalCognition initiates corrective action toward the new schedule
+NeurotypicalCognition_5_124,NT,Neurotypical,N7,0,0.975,5,NeurotypicalCognition consolidates learning as volatility subsides
+NeurotypicalCognition_6_263,NT,Neurotypical,N7,0,0.9822,6,NeurotypicalCognition reduces updating rate as environment stabilizes
+NeurotypicalCognition_3_30,NT,Neurotypical,N7,0,0.6094,3,NeurotypicalCognition increases updating due to environmental volatility
+NeurotypicalCognition_4_84,NT,Neurotypical,N20,0,0.3716,4,NeurotypicalCognition rapidly integrates the new schedule context
+NeurotypicalCognition_5_139,NT,Neurotypical,N22,0,0.9803,5,NeurotypicalCognition generalizes the new schedule to future contexts
+NeurotypicalCognition_6_233,NT,Neurotypical,N7,0,0.9844,6,NeurotypicalCognition consolidates learning as the schedule stabilizes
+NeurotypicalCognition_5_140,NT,Neurotypical,N7,0,0.9797,5,NeurotypicalCognition's learning rate returns to baseline stability
+NeurotypicalCognition_5_141,NT,Neurotypical,N6,0,0.9845,5,NeurotypicalCognition interprets remaining activities within the new context
+NeurotypicalCognition_6_254,NT,Neurotypical,N24,0,0.0915,6,NeurotypicalCognition monitors ongoing feedback for further changes
+NeurotypicalCognition_4_85,NT,Neurotypical,N6,1,0.981,4,NeurotypicalCognition reinterprets the day's events under new context
+NeurotypicalCognition_5_174,NT,Neurotypical,N6,0,0.9848,5,NeurotypicalCognition derives new global meaning for the day
+NeurotypicalCognition_5_176,NT,Neurotypical,N18,1,0.981,5,NeurotypicalCognition monitors social cues for new expectations
+NeurotypicalCognition_4_87,NT,Neurotypical,N7,0,0.9682,4,NeurotypicalCognition delays consolidation until volatility decreases
+NeurotypicalCognition_5_217,NT,Neurotypical,N7,0,0.9806,5,NeurotypicalCognition maintains heightened updating until stability returns
+NeurotypicalCognition_5_218,NT,Neurotypical,N24,0,0.9834,5,NeurotypicalCognition monitors ongoing feedback to detect stabilization
+NeurotypicalCognition_2_7,NT,Neurotypical,N22,0,0.9639,2,NeurotypicalCognition applies known routines to the new schedule
+NeurotypicalCognition_3_22,NT,Neurotypical,N20,0,0.9844,3,NeurotypicalCognition updates expectations proportional to schedule change
+NeurotypicalCognition_4_49,NT,Neurotypical,N20,0,0.9788,4,NeurotypicalCognition resolves prediction error through contextual updating
+NeurotypicalCognition_4_52,NT,Neurotypical,N24,0,0.9855,4,NeurotypicalCognition supplements missing details through social inference
+NeurotypicalCognition_3_23,NT,Neurotypical,N21,0,0.9881,3,NeurotypicalCognition treats schedule mismatch as correctable information
+NeurotypicalCognition_4_53,NT,Neurotypical,N21,0,0.9872,4,NeurotypicalCognition is motivated to correct the schedule mismatch
+NeurotypicalCognition_5_101,NT,Neurotypical,N24,1,0.9971,5,NeurotypicalCognition seeks clarifying cues about the new schedule
+NeurotypicalCognition_6_191,NT,Neurotypical,N24,0,0.9464,6,NeurotypicalCognition supplements vague cues with self-monitoring
+NeurotypicalCognition_6_193,NT,Neurotypical,N23,0,0.9805,6,NeurotypicalCognition infers new expectations through social inference
+NeurotypicalCognition_5_102,NT,Neurotypical,N23,0,0.9856,5,NeurotypicalCognition infers expected behavior from social context
+NeurotypicalCognition_6_204,NT,Neurotypical,N23,1,0.9854,6,NeurotypicalCognition adjusts behavior to match inferred expectations
+NeurotypicalCognition_6_205,NT,Neurotypical,N18,0,0.9824,6,NeurotypicalCognition monitors for social feedback signaling norm violations
+NeurotypicalCognition_6_206,NT,Neurotypical,N13,0,0.9748,6,NeurotypicalCognition complies with the new schedule through social motivation
+NeurotypicalCognition_2_8,NT,Neurotypical,N7,0,0.5446,2,NeurotypicalCognition increases its updating rate for this event
+NeurotypicalCognition_3_25,NT,Neurotypical,N20,0,0.9892,3,NeurotypicalCognition resolves the error via contextual updating
+NeurotypicalCognition_3_26,NT,Neurotypical,N7,0,0.9852,3,NeurotypicalCognition treats the environment as more volatile
+NeurotypicalCognition_4_78,NT,Neurotypical,N20,0,0.9971,4,NeurotypicalCognition generates a prediction error about the schedule
+NeurotypicalCognition_4_79,NT,Neurotypical,N7,0,0.5185,4,NeurotypicalCognition increases its learning rate for future schedule changes
+NeurotypicalCognition_5_165,NT,Neurotypical,N22,0,0.9833,5,NeurotypicalCognition generalizes updated expectations to other routines
+NeurotypicalCognition_6_255,NT,Neurotypical,N22,0,0.9904,6,NeurotypicalCognition transfers this expectation without explicit re-anchoring
+NeurotypicalCognition_6_256,NT,Neurotypical,N19,0,0.8844,6,NeurotypicalCognition resolves residual discomfort through rapid reappraisal
+NeurotypicalCognition_5_166,NT,Neurotypical,N19,1,0.9885,5,NeurotypicalCognition treats schedule disruption as a temporary preference violation
+NeurotypicalCognition_6_296,NT,Neurotypical,N22,1,0.9917,6,NeurotypicalCognition applies prior coping patterns to this new schedule
+NeurotypicalCognition_4_80,NT,Neurotypical,N19,0,0.9822,4,NeurotypicalCognition experiences mild discomfort that resolves through reappraisal
+NeurotypicalCognition_5_194,NT,Neurotypical,N19,0,0.9876,5,NeurotypicalCognition resumes normal engagement with the new schedule
+NeurotypicalCognition_3_27,NT,Neurotypical,N22,0,0.9857,3,NeurotypicalCognition applies updated expectations across future contexts
+NeurotypicalCognition_4_56,NT,Neurotypical,N22,0,0.9814,4,NeurotypicalCognition transfers the new schedule rule without re-anchoring
+NeurotypicalCognition_5_107,NT,Neurotypical,N19,0,0.2648,5,NeurotypicalCognition's discomfort from the change resolves rapidly
+NeurotypicalCognition_6_235,NT,Neurotypical,N21,1,0.9948,6,NeurotypicalCognition resumes engagement without system shutdown
+NeurotypicalCognition_6_236,NT,Neurotypical,N12,0,0.896,6,NeurotypicalCognition complies with new schedule for social approval
+NeurotypicalCognition_5_108,NT,Neurotypical,N22,0,0.9863,5,NeurotypicalCognition applies the new rule to unrelated tasks
+NeurotypicalCognition_6_198,NT,Neurotypical,N7,0,0.9702,6,NeurotypicalCognition consolidates the new rule as stable
+NeurotypicalCognition_6_199,NT,Neurotypical,N20,1,0.983,6,NeurotypicalCognition resolves remaining prediction error through updating
+NeurotypicalCognition_5_109,NT,Neurotypical,N7,0,0.2336,5,NeurotypicalCognition consolidates the update once conditions stabilize
+NeurotypicalCognition_6_220,NT,Neurotypical,N19,1,0.9953,6,NeurotypicalCognition treats the new schedule as preferred routine
+NeurotypicalCognition_5_110,NT,Neurotypical,N6,1,0.9822,5,NeurotypicalCognition reinterprets the day's context using the new schedule
+NeurotypicalCognition_6_201,NT,Neurotypical,N6,1,0.996,6,NeurotypicalCognition derives new expectations for upcoming activities
+NeurotypicalCognition_4_57,NT,Neurotypical,N19,1,0.9959,4,NeurotypicalCognition treats the changed routine as a mere preference
+NeurotypicalCognition_5_116,NT,Neurotypical,N21,1,0.9931,5,NeurotypicalCognition remains behaviorally engaged without system shutdown
+NeurotypicalCognition_6_210,NT,Neurotypical,N24,0,0.9874,6,NeurotypicalCognition seeks social cues to clarify the new schedule
+NeurotypicalCognition_6_211,NT,Neurotypical,N21,0,0.8759,6,NeurotypicalCognition corrects its behavior using the new information
+NeurotypicalCognition_6_212,NT,Neurotypical,N23,0,0.9152,6,NeurotypicalCognition infers the teacher's implicit expectations for the change
+NeurotypicalCognition_5_117,NT,Neurotypical,N13,0,0.9559,5,NeurotypicalCognition sustains motivation for the new activity
+NeurotypicalCognition_6_230,NT,Neurotypical,N12,0,0.958,6,NeurotypicalCognition regulates engagement based on anticipated social approval
+NeurotypicalCognition_4_58,NT,Neurotypical,N7,0,0.9949,4,NeurotypicalCognition consolidates the updated schedule once stability returns
+NeurotypicalCognition_5_127,NT,Neurotypical,N19,1,0.9785,5,NeurotypicalCognition treats the new schedule as updated preference
+NeurotypicalCognition_6_224,NT,Neurotypical,N19,0,0.9893,6,NeurotypicalCognition no longer experiences discomfort from schedule change
+NeurotypicalCognition_6_225,NT,Neurotypical,N7,1,0.9893,6,NeurotypicalCognition consolidates new schedule as stable expectation
+NeurotypicalCognition_1_4,NT,Neurotypical,N22,1,0.9875,1,NeurotypicalCognition generalizes prior routine rules to new schedule
+SocialBehavioralAutism_0_0,SB,Social/Behavioral autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing."
+SocialBehavioralAutism_1_1,SB,Social/Behavioral autism,A20,1,0.9972,1,SocialBehavioralAutism generates disproportionate prediction error signals
+SocialBehavioralAutism_2_22,SB,Social/Behavioral autism,A19,1,0.9978,2,SocialBehavioralAutism cannot allocate resources to other tasks
+SocialBehavioralAutism_3_59,SB,Social/Behavioral autism,A1,1,0.9952,3,SocialBehavioralAutism cannot sustain cognitive processing during disruption
+SocialBehavioralAutism_4_90,SB,Social/Behavioral autism,A1,1,0.9963,4,SocialBehavioralAutism remains offline until sensory regulation restored
+SocialBehavioralAutism_5_208,SB,Social/Behavioral autism,A1,1,0.9976,5,SocialBehavioralAutism cannot engage in social interaction
+SocialBehavioralAutism_5_209,SB,Social/Behavioral autism,A1,1,0.9943,5,SocialBehavioralAutism cannot process any new learning input
+SocialBehavioralAutism_4_91,SB,Social/Behavioral autism,A23,1,0.9962,4,SocialBehavioralAutism requires an explicit stated rule for the change
+SocialBehavioralAutism_5_196,SB,Social/Behavioral autism,A22,1,0.9982,5,SocialBehavioralAutism cannot generalize old routine to new schedule
+SocialBehavioralAutism_5_197,SB,Social/Behavioral autism,A18,1,0.9956,5,SocialBehavioralAutism must consciously retrieve a matching rule
+SocialBehavioralAutism_4_92,SB,Social/Behavioral autism,A19,0,0.9958,4,SocialBehavioralAutism cannot reallocate resources without a routine
+SocialBehavioralAutism_5_187,SB,Social/Behavioral autism,A21,1,0.9944,5,SocialBehavioralAutism treats the disruption as threat
+SocialBehavioralAutism_5_188,SB,Social/Behavioral autism,A19,1,0.9979,5,SocialBehavioralAutism cannot free resources for the new task
+SocialBehavioralAutism_4_93,SB,Social/Behavioral autism,A18,1,0.997,4,SocialBehavioralAutism cannot infer the new schedule's unstated structure
+SocialBehavioralAutism_5_164,SB,Social/Behavioral autism,A19,1,0.9975,5,SocialBehavioralAutism defaults to the previously established routine
+SocialBehavioralAutism_5_165,SB,Social/Behavioral autism,A20,1,0.9976,5,SocialBehavioralAutism experiences disruption disproportionate to actual change
+SocialBehavioralAutism_3_60,SB,Social/Behavioral autism,A11,1,0.996,3,SocialBehavioralAutism cannot maintain attention outside special interest now
+SocialBehavioralAutism_4_138,SB,Social/Behavioral autism,A11,1,0.9963,4,SocialBehavioralAutism cannot redirect attention without effortful control
+SocialBehavioralAutism_4_140,SB,Social/Behavioral autism,A20,1,0.996,4,SocialBehavioralAutism remains locked in heightened prediction-error state
+SocialBehavioralAutism_3_61,SB,Social/Behavioral autism,A19,1,0.9978,3,SocialBehavioralAutism loses resource efficiency normally provided by routine
+SocialBehavioralAutism_4_137,SB,Social/Behavioral autism,A1,1,0.9956,4,SocialBehavioralAutism has reduced capacity for learning tasks
+SocialBehavioralAutism_2_23,SB,Social/Behavioral autism,A1,1,0.9983,2,SocialBehavioralAutism's cognitive processing goes offline until regulated
+SocialBehavioralAutism_3_38,SB,Social/Behavioral autism,A1,1,0.9964,3,SocialBehavioralAutism cannot engage socially until regulated
+SocialBehavioralAutism_4_121,SB,Social/Behavioral autism,A18,1,0.996,4,SocialBehavioralAutism cannot retrieve explicit social rules now
+SocialBehavioralAutism_4_124,SB,Social/Behavioral autism,A14,1,0.9982,4,SocialBehavioralAutism cannot identify its own arousal state
+SocialBehavioralAutism_5_246,SB,Social/Behavioral autism,A14,0,0.9895,5,SocialBehavioralAutism cannot report why it feels disrupted
+SocialBehavioralAutism_3_39,SB,Social/Behavioral autism,A1,1,0.9968,3,SocialBehavioralAutism cannot learn until regulation restored
+SocialBehavioralAutism_4_98,SB,Social/Behavioral autism,A24,0,0.9921,4,SocialBehavioralAutism cannot process feedback given during dysregulation
+SocialBehavioralAutism_5_192,SB,Social/Behavioral autism,A19,1,0.9935,5,SocialBehavioralAutism cannot restore routine-based cognitive efficiency
+SocialBehavioralAutism_5_193,SB,Social/Behavioral autism,A21,1,0.9975,5,SocialBehavioralAutism cannot convert the error into learning
+SocialBehavioralAutism_5_194,SB,Social/Behavioral autism,A24,0,0.9572,5,SocialBehavioralAutism's behavior remains unchanged by the feedback
+SocialBehavioralAutism_4_99,SB,Social/Behavioral autism,A19,1,0.9976,4,SocialBehavioralAutism loses the resource savings routines provided
+SocialBehavioralAutism_5_228,SB,Social/Behavioral autism,A19,0,0.1115,5,SocialBehavioralAutism must redirect resources to error processing
+SocialBehavioralAutism_5_230,SB,Social/Behavioral autism,A11,1,0.9933,5,SocialBehavioralAutism struggles to sustain attention outside interests
+SocialBehavioralAutism_4_100,SB,Social/Behavioral autism,A21,1,0.9972,4,SocialBehavioralAutism cannot treat the change as learning information yet
+SocialBehavioralAutism_5_224,SB,Social/Behavioral autism,A24,1,0.9948,5,SocialBehavioralAutism receives feedback lacking required temporal proximity
+SocialBehavioralAutism_3_40,SB,Social/Behavioral autism,A19,1,0.9978,3,SocialBehavioralAutism loses routine-based resource allocation
+SocialBehavioralAutism_4_102,SB,Social/Behavioral autism,A19,0,0.9928,4,SocialBehavioralAutism must divert resources to effortful task processing
+SocialBehavioralAutism_4_104,SB,Social/Behavioral autism,A18,1,0.99,4,SocialBehavioralAutism must consciously retrieve applicable explicit rules
+SocialBehavioralAutism_5_183,SB,Social/Behavioral autism,A23,1,0.9978,5,SocialBehavioralAutism fails to detect the unstated new expectation
+SocialBehavioralAutism_5_184,SB,Social/Behavioral autism,A18,1,0.9922,5,SocialBehavioralAutism requires an explicit new rule to act
+SocialBehavioralAutism_1_2,SB,Social/Behavioral autism,A19,1,0.9976,1,SocialBehavioralAutism loses the resource-saving benefit of routine
+SocialBehavioralAutism_2_16,SB,Social/Behavioral autism,A18,1,0.988,2,SocialBehavioralAutism must consciously retrieve applicable social rules
+SocialBehavioralAutism_3_49,SB,Social/Behavioral autism,A23,1,0.9948,3,SocialBehavioralAutism cannot reliably apply unstated schedule expectations
+SocialBehavioralAutism_4_112,SB,Social/Behavioral autism,A24,1,0.9969,4,SocialBehavioralAutism cannot update behavior without explicit causal feedback
+SocialBehavioralAutism_5_216,SB,Social/Behavioral autism,A21,1,0.9978,5,SocialBehavioralAutism treats the unexplained change as threat
+SocialBehavioralAutism_5_217,SB,Social/Behavioral autism,A24,1,0.9974,5,SocialBehavioralAutism requires observable proximate feedback to adjust
+SocialBehavioralAutism_4_113,SB,Social/Behavioral autism,A21,1,0.9943,4,SocialBehavioralAutism treats the schedule deviation as failure
+SocialBehavioralAutism_5_205,SB,Social/Behavioral autism,A21,1,0.9926,5,SocialBehavioralAutism blocks learning from the schedule change
+SocialBehavioralAutism_5_206,SB,Social/Behavioral autism,A20,1,0.9966,5,SocialBehavioralAutism generates disproportionate distress about the change
+SocialBehavioralAutism_3_50,SB,Social/Behavioral autism,A18,1,0.9854,3,SocialBehavioralAutism must actively match situation to stored rules
+SocialBehavioralAutism_4_106,SB,Social/Behavioral autism,A23,1,0.9919,4,SocialBehavioralAutism fails without an explicit stated rule
+SocialBehavioralAutism_5_202,SB,Social/Behavioral autism,A21,0,0.9905,5,SocialBehavioralAutism treats the failure as threat if shamed
+SocialBehavioralAutism_3_51,SB,Social/Behavioral autism,A11,1,0.9951,3,SocialBehavioralAutism expends effortful attention outside special interest
+SocialBehavioralAutism_4_132,SB,Social/Behavioral autism,A12,0,0.9933,4,SocialBehavioralAutism remains weakly motivated by the non-interest task
+SocialBehavioralAutism_3_52,SB,Social/Behavioral autism,A16,0,0.9943,3,SocialBehavioralAutism's appropriate response is delayed after the change
+SocialBehavioralAutism_4_126,SB,Social/Behavioral autism,A24,1,0.9975,4,SocialBehavioralAutism fails to receive temporally proximate feedback on the change
+SocialBehavioralAutism_5_218,SB,Social/Behavioral autism,A24,1,0.9952,5,SocialBehavioralAutism fails to update its response to the change
+SocialBehavioralAutism_5_219,SB,Social/Behavioral autism,A20,1,0.9982,5,SocialBehavioralAutism's prediction error signal remains unresolved
+SocialBehavioralAutism_4_127,SB,Social/Behavioral autism,A16,1,0.9984,4,SocialBehavioralAutism's emotional reaction to the change surfaces later
+SocialBehavioralAutism_5_247,SB,Social/Behavioral autism,A14,1,0.9891,5,SocialBehavioralAutism cannot automatically identify the surfacing emotion
+SocialBehavioralAutism_5_248,SB,Social/Behavioral autism,A24,1,0.99,5,SocialBehavioralAutism's delayed reaction lacks temporal proximate feedback linkage
+SocialBehavioralAutism_5_249,SB,Social/Behavioral autism,A20,1,0.9983,5,SocialBehavioralAutism's reaction magnitude exceeds the change's objective significance
+SocialBehavioralAutism_2_17,SB,Social/Behavioral autism,A22,1,0.9984,2,SocialBehavioralAutism cannot generalize prior schedule rules automatically
+SocialBehavioralAutism_1_3,SB,Social/Behavioral autism,A22,1,0.9944,1,SocialBehavioralAutism cannot automatically apply rules to the new schedule
+SocialBehavioralAutism_2_20,SB,Social/Behavioral autism,A22,1,0.9975,2,SocialBehavioralAutism requires explicit instruction to re-anchor the schedule
+SocialBehavioralAutism_3_43,SB,Social/Behavioral autism,A19,1,0.9975,3,SocialBehavioralAutism cannot reallocate cognitive resources without a fixed routine
+SocialBehavioralAutism_4_69,SB,Social/Behavioral autism,A11,1,0.996,4,SocialBehavioralAutism requires effortful control to attend to the new schedule
+SocialBehavioralAutism_5_144,SB,Social/Behavioral autism,A11,1,0.9942,5,SocialBehavioralAutism cannot sustain attention without continued effort
+SocialBehavioralAutism_5_146,SB,Social/Behavioral autism,A1,0,0.9814,5,SocialBehavioralAutism risks sensory overload from sustained effortful attention
+SocialBehavioralAutism_3_44,SB,Social/Behavioral autism,A24,1,0.9979,3,SocialBehavioralAutism cannot update its schedule without specific feedback
+SocialBehavioralAutism_4_120,SB,Social/Behavioral autism,A24,1,0.9955,4,SocialBehavioralAutism's internal schedule model stays uncorrected
+SocialBehavioralAutism_5_227,SB,Social/Behavioral autism,A1,1,0.9904,5,SocialBehavioralAutism risks sensory system going offline
+SocialBehavioralAutism_3_45,SB,Social/Behavioral autism,A18,1,0.9972,3,SocialBehavioralAutism cannot infer the new schedule from unspoken cues
+SocialBehavioralAutism_2_21,SB,Social/Behavioral autism,A1,1,0.9956,2,SocialBehavioralAutism risks going offline from regulatory overload
+SocialBehavioralAutism_3_63,SB,Social/Behavioral autism,A1,1,0.9978,3,SocialBehavioralAutism becomes unavailable for learning and social interaction
+SocialBehavioralAutism_4_142,SB,Social/Behavioral autism,A24,1,0.995,4,SocialBehavioralAutism cannot register feedback given during this state
+SocialBehavioralAutism_4_143,SB,Social/Behavioral autism,A18,1,0.9723,4,SocialBehavioralAutism fails to encode any explicit rule now offered
+SocialBehavioralAutism_3_66,SB,Social/Behavioral autism,A21,1,0.998,3,SocialBehavioralAutism blocks learning if disruption is framed as failure
+SocialBehavioralAutism_4_133,SB,Social/Behavioral autism,A21,0,0.9966,4,SocialBehavioralAutism activates a threat response instead
+SocialBehavioralAutism_4_134,SB,Social/Behavioral autism,A24,1,0.995,4,SocialBehavioralAutism requires causally linked feedback to update
+SocialBehavioralAutism_5_250,SB,Social/Behavioral autism,A24,1,0.9973,5,SocialBehavioralAutism fails to update without immediate causal feedback
+SocialBehavioralAutism_5_252,SB,Social/Behavioral autism,A19,1,0.9969,5,SocialBehavioralAutism continues expecting the old routine unchanged
+SocialBehavioralAutism_4_135,SB,Social/Behavioral autism,A20,1,0.9964,4,SocialBehavioralAutism remains disproportionately disrupted by the change
+SocialBehavioralAutism_1_4,SB,Social/Behavioral autism,A18,1,0.9969,1,SocialBehavioralAutism requires explicit retrieval of new schedule rules
+SocialBehavioralAutism_2_8,SB,Social/Behavioral autism,A19,1,0.998,2,SocialBehavioralAutism loses cognitive resources previously freed by routine
+SocialBehavioralAutism_3_25,SB,Social/Behavioral autism,A11,1,0.9971,3,SocialBehavioralAutism cannot sustain effortful attention on tasks
+SocialBehavioralAutism_4_82,SB,Social/Behavioral autism,A11,1,0.9981,4,SocialBehavioralAutism attention defaults toward special interest domain
+SocialBehavioralAutism_5_189,SB,Social/Behavioral autism,A11,1,0.9939,5,SocialBehavioralAutism disengages from the newly presented task
+SocialBehavioralAutism_5_190,SB,Social/Behavioral autism,A12,0,0.9952,5,SocialBehavioralAutism resists redirection unless linked to special interest
+SocialBehavioralAutism_5_191,SB,Social/Behavioral autism,A13,1,0.9959,5,SocialBehavioralAutism processes new schedule only via special interest framing
+SocialBehavioralAutism_4_83,SB,Social/Behavioral autism,A24,1,0.9965,4,SocialBehavioralAutism fails to register task-relevant feedback
+SocialBehavioralAutism_5_166,SB,Social/Behavioral autism,A24,1,0.9913,5,SocialBehavioralAutism does not update behavior from this feedback
+SocialBehavioralAutism_5_167,SB,Social/Behavioral autism,A21,0,0.9845,5,SocialBehavioralAutism treats unregistered errors as unresolved threats
+SocialBehavioralAutism_5_168,SB,Social/Behavioral autism,A20,1,0.9963,5,SocialBehavioralAutism remains locked in unresolved prediction error
+SocialBehavioralAutism_3_26,SB,Social/Behavioral autism,A1,1,0.9955,3,SocialBehavioralAutism approaches sensory regulatory threshold overload
+SocialBehavioralAutism_4_73,SB,Social/Behavioral autism,A1,1,0.9983,4,SocialBehavioralAutism goes offline for learning and social engagement
+SocialBehavioralAutism_5_212,SB,Social/Behavioral autism,A1,1,0.9957,5,SocialBehavioralAutism cannot process new information until regulated
+SocialBehavioralAutism_5_214,SB,Social/Behavioral autism,A14,1,0.9953,5,SocialBehavioralAutism cannot label its current emotional state
+SocialBehavioralAutism_4_75,SB,Social/Behavioral autism,A14,1,0.998,4,SocialBehavioralAutism experiences unlabeled physiological arousal
+SocialBehavioralAutism_5_171,SB,Social/Behavioral autism,A21,1,0.9801,5,SocialBehavioralAutism treats the arousal as threat if shamed
+SocialBehavioralAutism_2_9,SB,Social/Behavioral autism,A18,1,0.9951,2,SocialBehavioralAutism cannot infer new schedule rule without explicit statement
+SocialBehavioralAutism_3_35,SB,Social/Behavioral autism,A19,0,0.9654,3,SocialBehavioralAutism loses reduction of prediction error load
+SocialBehavioralAutism_4_96,SB,Social/Behavioral autism,A11,1,0.9928,4,SocialBehavioralAutism requires effortful control to sustain attention
+SocialBehavioralAutism_5_176,SB,Social/Behavioral autism,A11,1,0.9964,5,SocialBehavioralAutism has reduced cognitive resources for other tasks
+SocialBehavioralAutism_3_36,SB,Social/Behavioral autism,A18,1,0.9972,3,SocialBehavioralAutism requires explicit statement of new schedule
+SocialBehavioralAutism_4_87,SB,Social/Behavioral autism,A19,1,0.9974,4,SocialBehavioralAutism loses routine-based cognitive resource allocation
+SocialBehavioralAutism_5_153,SB,Social/Behavioral autism,A19,1,0.9919,5,SocialBehavioralAutism must reallocate resources to process change
+SocialBehavioralAutism_5_154,SB,Social/Behavioral autism,A1,0,0.9936,5,SocialBehavioralAutism risks sensory-cognitive system overload
+SocialBehavioralAutism_4_89,SB,Social/Behavioral autism,A1,1,0.9593,4,SocialBehavioralAutism risks going offline without regulation restored
+SocialBehavioralAutism_5_231,SB,Social/Behavioral autism,A1,1,0.9979,5,SocialBehavioralAutism cannot process new schedule information
+SocialBehavioralAutism_5_233,SB,Social/Behavioral autism,A1,1,0.9953,5,SocialBehavioralAutism suspends learning until regulation restored
+SocialBehavioralAutism_1_5,SB,Social/Behavioral autism,A4,1,0.9979,1,SocialBehavioralAutism needs a visual anchor for the new schedule
+SocialBehavioralAutism_2_10,SB,Social/Behavioral autism,A9,1,0.9971,2,SocialBehavioralAutism retains the visual schedule with high fidelity
+SocialBehavioralAutism_3_27,SB,Social/Behavioral autism,A10,1,0.9954,3,SocialBehavioralAutism reliably retrieves the new schedule via cue
+SocialBehavioralAutism_4_80,SB,Social/Behavioral autism,A23,1,0.993,4,SocialBehavioralAutism follows the schedule as an explicit stated rule
+SocialBehavioralAutism_5_159,SB,Social/Behavioral autism,A19,0,0.9935,5,SocialBehavioralAutism frees cognitive resources once schedule is fixed
+SocialBehavioralAutism_5_160,SB,Social/Behavioral autism,A22,1,0.9976,5,SocialBehavioralAutism cannot apply this schedule to other contexts
+SocialBehavioralAutism_5_161,SB,Social/Behavioral autism,A18,1,0.9945,5,SocialBehavioralAutism must consciously retrieve schedule rule each time
+SocialBehavioralAutism_4_81,SB,Social/Behavioral autism,A22,1,0.9966,4,SocialBehavioralAutism does not generalize this coping to future changes
+SocialBehavioralAutism_5_180,SB,Social/Behavioral autism,A22,1,0.9929,5,SocialBehavioralAutism requires explicit re-anchoring for every new schedule change
+SocialBehavioralAutism_3_28,SB,Social/Behavioral autism,A19,1,0.9979,3,SocialBehavioralAutism treats the visual schedule as new routine
+SocialBehavioralAutism_4_70,SB,Social/Behavioral autism,A19,1,0.9947,4,SocialBehavioralAutism reallocates cognitive resources to other tasks
+SocialBehavioralAutism_5_148,SB,Social/Behavioral autism,A12,0,0.6831,5,SocialBehavioralAutism engages other tasks only if intrinsically motivating
+SocialBehavioralAutism_5_149,SB,Social/Behavioral autism,A13,0,0.9063,5,SocialBehavioralAutism still relies on special interest for generalizable learning
+SocialBehavioralAutism_4_71,SB,Social/Behavioral autism,A22,1,0.9962,4,SocialBehavioralAutism cannot generalize this routine to other contexts
+SocialBehavioralAutism_5_150,SB,Social/Behavioral autism,A22,1,0.988,5,SocialBehavioralAutism requires explicit instruction for each new context
+SocialBehavioralAutism_5_151,SB,Social/Behavioral autism,A20,0,0.9844,5,SocialBehavioralAutism treats each new context as unanticipated change
+SocialBehavioralAutism_4_72,SB,Social/Behavioral autism,A20,1,0.9955,4,SocialBehavioralAutism still overreacts to future unannounced changes
+SocialBehavioralAutism_5_155,SB,Social/Behavioral autism,A22,0,0.9958,5,SocialBehavioralAutism requires new explicit instruction for each future change
+SocialBehavioralAutism_5_157,SB,Social/Behavioral autism,A1,1,0.9903,5,SocialBehavioralAutism risks going offline during future unannounced changes
+SocialBehavioralAutism_2_12,SB,Social/Behavioral autism,A20,1,0.998,2,SocialBehavioralAutism experiences disproportionate prediction error from the change
+SocialBehavioralAutism_3_55,SB,Social/Behavioral autism,A16,1,0.9972,3,SocialBehavioralAutism's emotional response is delayed
+SocialBehavioralAutism_4_115,SB,Social/Behavioral autism,A16,1,0.9985,4,SocialBehavioralAutism's reaction surfaces disconnected from the schedule change
+SocialBehavioralAutism_5_198,SB,Social/Behavioral autism,A24,1,0.9927,5,SocialBehavioralAutism cannot receive causally-linked feedback for the reaction
+SocialBehavioralAutism_5_199,SB,Social/Behavioral autism,A21,1,0.9939,5,SocialBehavioralAutism's reaction risks being framed as misbehavior
+SocialBehavioralAutism_5_200,SB,Social/Behavioral autism,A18,1,0.9933,5,SocialBehavioralAutism cannot automatically link reaction to its trigger
+SocialBehavioralAutism_4_116,SB,Social/Behavioral autism,A14,1,0.9923,4,SocialBehavioralAutism cannot name the emotion when it emerges
+SocialBehavioralAutism_4_117,SB,Social/Behavioral autism,A24,1,0.9969,4,SocialBehavioralAutism fails to link the delayed reaction to its cause
+SocialBehavioralAutism_5_239,SB,Social/Behavioral autism,A10,0,0.9958,5,SocialBehavioralAutism cannot retrieve the causal event without visual cues
+SocialBehavioralAutism_5_240,SB,Social/Behavioral autism,A24,1,0.9955,5,"SocialBehavioralAutism cannot learn from this delayed, uncausal feedback"
+SocialBehavioralAutism_5_241,SB,Social/Behavioral autism,A18,1,0.9932,5,SocialBehavioralAutism cannot match the reaction to a stored rule
+SocialBehavioralAutism_2_13,SB,Social/Behavioral autism,A4,1,0.9943,2,SocialBehavioralAutism cannot process the new schedule without concrete anchoring
+SocialBehavioralAutism_3_32,SB,Social/Behavioral autism,A1,0,0.9902,3,SocialBehavioralAutism risks going offline from unresolved prediction error
+SocialBehavioralAutism_4_129,SB,Social/Behavioral autism,A1,1,0.996,4,SocialBehavioralAutism requires regulation restored before processing resumes
+SocialBehavioralAutism_5_235,SB,Social/Behavioral autism,A1,1,0.9948,5,SocialBehavioralAutism suspends social interaction until regulated
+SocialBehavioralAutism_5_236,SB,Social/Behavioral autism,A1,1,0.9983,5,SocialBehavioralAutism cannot engage in learning tasks now
+SocialBehavioralAutism_5_237,SB,Social/Behavioral autism,A19,1,0.996,5,SocialBehavioralAutism seeks restoration of a stable routine
+SocialBehavioralAutism_2_14,SB,Social/Behavioral autism,A19,0,0.9863,2,SocialBehavioralAutism lacks a routine to allocate resources elsewhere
+SocialBehavioralAutism_3_57,SB,Social/Behavioral autism,A19,1,0.9953,3,SocialBehavioralAutism cannot offload cognitive resources automatically
+SocialBehavioralAutism_4_110,SB,Social/Behavioral autism,A19,1,0.9972,4,SocialBehavioralAutism has fewer resources available for other tasks

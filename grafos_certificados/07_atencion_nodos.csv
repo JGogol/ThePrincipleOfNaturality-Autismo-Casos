@@ -1,0 +1,754 @@
+node_id,actor,actor_full,premise_id,converge_F,g_entailment_max,nivel,texto
+BroadlyAffectedAutism_0_0,BR,Broadly affected autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing."
+BroadlyAffectedAutism_1_1,BR,Broadly affected autism,A20,1,0.9964,1,BroadlyAffectedAutism experiences disproportionate disruption from the redirection
+BroadlyAffectedAutism_2_16,BR,Broadly affected autism,A20,1,0.9976,2,BroadlyAffectedAutism generates a large prediction error signal
+BroadlyAffectedAutism_3_50,BR,Broadly affected autism,A1,1,0.9968,3,BroadlyAffectedAutism's cognitive processing becomes temporarily unavailable
+BroadlyAffectedAutism_4_86,BR,Broadly affected autism,A1,1,0.9976,4,BroadlyAffectedAutism cannot engage in social interaction now
+BroadlyAffectedAutism_5_238,BR,Broadly affected autism,A1,1,0.9886,5,BroadlyAffectedAutism remains unavailable for learning until regulated
+BroadlyAffectedAutism_5_240,BR,Broadly affected autism,A24,1,0.9959,5,BroadlyAffectedAutism cannot process group task feedback now
+BroadlyAffectedAutism_4_87,BR,Broadly affected autism,A1,1,0.9968,4,BroadlyAffectedAutism cannot learn until regulation restored
+BroadlyAffectedAutism_3_53,BR,Broadly affected autism,A20,1,0.9983,3,BroadlyAffectedAutism's disruption exceeds the change's objective significance
+BroadlyAffectedAutism_4_117,BR,Broadly affected autism,A21,1,0.9972,4,BroadlyAffectedAutism treats the disruption as a threat
+BroadlyAffectedAutism_1_2,BR,Broadly affected autism,A11,1,0.9973,1,BroadlyAffectedAutism requires effortful control to shift attention
+BroadlyAffectedAutism_2_7,BR,Broadly affected autism,A11,1,0.9978,2,BroadlyAffectedAutism cannot sustain attention on the group task automatically
+BroadlyAffectedAutism_3_21,BR,Broadly affected autism,A11,1,0.9968,3,BroadlyAffectedAutism must expend effortful control to engage the task
+BroadlyAffectedAutism_4_45,BR,Broadly affected autism,A11,0,0.9953,4,BroadlyAffectedAutism depletes limited effortful control resources quickly
+BroadlyAffectedAutism_5_109,BR,Broadly affected autism,A20,0,0.9776,5,BroadlyAffectedAutism becomes more vulnerable to prediction error
+BroadlyAffectedAutism_5_110,BR,Broadly affected autism,A6,1,0.9854,5,BroadlyAffectedAutism approaches processing overload from the task
+BroadlyAffectedAutism_5_111,BR,Broadly affected autism,A21,1,0.9945,5,BroadlyAffectedAutism treats task difficulty as threatening failure
+BroadlyAffectedAutism_4_46,BR,Broadly affected autism,A13,1,0.9918,4,BroadlyAffectedAutism transfers knowledge less reliably from the group task
+BroadlyAffectedAutism_5_83,BR,Broadly affected autism,A22,1,0.9933,5,BroadlyAffectedAutism needs explicit instruction to reapply this learning
+BroadlyAffectedAutism_6_183,BR,Broadly affected autism,A22,1,0.9921,6,BroadlyAffectedAutism cannot generalize the learning without new instruction
+BroadlyAffectedAutism_6_185,BR,Broadly affected autism,A18,0,0.9633,6,BroadlyAffectedAutism stores the rule as explicit database entry
+BroadlyAffectedAutism_5_84,BR,Broadly affected autism,A13,0,0.9899,5,BroadlyAffectedAutism generalizes concepts better via special interest tasks
+BroadlyAffectedAutism_6_163,BR,Broadly affected autism,A13,0,0.9741,6,BroadlyAffectedAutism relies on special interest as primary learning gateway
+BroadlyAffectedAutism_6_165,BR,Broadly affected autism,A22,1,0.9934,6,BroadlyAffectedAutism does not automatically transfer group-task rules elsewhere
+BroadlyAffectedAutism_3_22,BR,Broadly affected autism,A12,0,0.9978,3,BroadlyAffectedAutism remains weakly motivated by the group task
+BroadlyAffectedAutism_4_47,BR,Broadly affected autism,A12,1,0.992,4,BroadlyAffectedAutism disengages from the group task without linkage
+BroadlyAffectedAutism_5_103,BR,Broadly affected autism,A12,1,0.9975,5,BroadlyAffectedAutism stays unmotivated by the unlinked group task
+BroadlyAffectedAutism_6_202,BR,Broadly affected autism,A12,1,0.9909,6,BroadlyAffectedAutism requires interest-linked incentive to re-engage
+BroadlyAffectedAutism_6_203,BR,Broadly affected autism,A13,1,0.9945,6,BroadlyAffectedAutism fails to generalize concepts from the task
+BroadlyAffectedAutism_5_104,BR,Broadly affected autism,A21,1,0.994,5,BroadlyAffectedAutism treats disengagement as failure if socially framed
+BroadlyAffectedAutism_4_48,BR,Broadly affected autism,A11,1,0.9942,4,BroadlyAffectedAutism requires continuous effortful control to stay engaged
+BroadlyAffectedAutism_5_105,BR,Broadly affected autism,A11,1,0.995,5,BroadlyAffectedAutism's engagement will lapse without renewed effort
+BroadlyAffectedAutism_5_107,BR,Broadly affected autism,A12,1,0.9971,5,BroadlyAffectedAutism seeks return to the special interest
+BroadlyAffectedAutism_3_23,BR,Broadly affected autism,A19,1,0.9977,3,BroadlyAffectedAutism loses the resource-saving benefit of routine
+BroadlyAffectedAutism_4_54,BR,Broadly affected autism,A20,1,0.9975,4,BroadlyAffectedAutism experiences disproportionate prediction error signals
+BroadlyAffectedAutism_5_130,BR,Broadly affected autism,A14,1,0.998,5,BroadlyAffectedAutism experiences arousal without identifying the emotion
+BroadlyAffectedAutism_4_55,BR,Broadly affected autism,A19,1,0.9934,4,BroadlyAffectedAutism has fewer cognitive resources for the task
+BroadlyAffectedAutism_5_97,BR,Broadly affected autism,A7,1,0.997,5,BroadlyAffectedAutism processes the group task more slowly
+BroadlyAffectedAutism_6_190,BR,Broadly affected autism,A6,1,0.9875,6,BroadlyAffectedAutism experiences the group task as overload
+BroadlyAffectedAutism_6_191,BR,Broadly affected autism,A20,0,0.9877,6,BroadlyAffectedAutism generates disproportionate error signals from the mismatch
+BroadlyAffectedAutism_6_192,BR,Broadly affected autism,A1,1,0.9951,6,BroadlyAffectedAutism risks going offline from accumulated demand
+BroadlyAffectedAutism_5_98,BR,Broadly affected autism,A11,1,0.9951,5,BroadlyAffectedAutism cannot sustain effortful attention on the task
+BroadlyAffectedAutism_5_100,BR,Broadly affected autism,A21,1,0.9931,5,BroadlyAffectedAutism risks threat-response blocking further learning
+BroadlyAffectedAutism_6_208,BR,Broadly affected autism,A21,1,0.9907,6,BroadlyAffectedAutism stops treating errors as learning input
+BroadlyAffectedAutism_4_56,BR,Broadly affected autism,A6,1,0.9959,4,BroadlyAffectedAutism risks processing overload from the shift
+BroadlyAffectedAutism_2_8,BR,Broadly affected autism,A19,0,0.9944,2,BroadlyAffectedAutism diverts resources away from the special interest
+BroadlyAffectedAutism_3_32,BR,Broadly affected autism,A20,1,0.9977,3,BroadlyAffectedAutism generates disproportionate prediction error from the shift
+BroadlyAffectedAutism_4_80,BR,Broadly affected autism,A20,1,0.9982,4,BroadlyAffectedAutism treats the redirection as highly significant disruption
+BroadlyAffectedAutism_5_217,BR,Broadly affected autism,A1,0,0.9966,5,BroadlyAffectedAutism risks going offline from the disruption
+BroadlyAffectedAutism_5_218,BR,Broadly affected autism,A14,1,0.9959,5,BroadlyAffectedAutism experiences unlabeled physiological arousal now
+BroadlyAffectedAutism_4_81,BR,Broadly affected autism,A1,1,0.9958,4,BroadlyAffectedAutism risks cognitive processing going offline
+BroadlyAffectedAutism_5_154,BR,Broadly affected autism,A1,1,0.9964,5,BroadlyAffectedAutism cannot engage socially until regulation restored
+BroadlyAffectedAutism_5_155,BR,Broadly affected autism,A16,1,0.9979,5,BroadlyAffectedAutism delays its emotional response to the disruption
+BroadlyAffectedAutism_4_82,BR,Broadly affected autism,A21,1,0.986,4,BroadlyAffectedAutism activates a threat response to the disruption
+BroadlyAffectedAutism_5_227,BR,Broadly affected autism,A21,1,0.9923,5,BroadlyAffectedAutism blocks learning from this transition
+BroadlyAffectedAutism_5_230,BR,Broadly affected autism,A18,1,0.9919,5,BroadlyAffectedAutism searches for an explicit rule to apply
+BroadlyAffectedAutism_1_3,BR,Broadly affected autism,A12,0,0.995,1,BroadlyAffectedAutism shows weak motivation for the unrelated task
+BroadlyAffectedAutism_2_14,BR,Broadly affected autism,A12,1,0.9936,2,BroadlyAffectedAutism remains unmotivated by external social prompts
+BroadlyAffectedAutism_3_37,BR,Broadly affected autism,A24,1,0.9953,3,BroadlyAffectedAutism ignores redirection lacking causal specific feedback
+BroadlyAffectedAutism_4_72,BR,Broadly affected autism,A20,1,0.9955,4,BroadlyAffectedAutism experiences disproportionate disruption from the interruption
+BroadlyAffectedAutism_5_159,BR,Broadly affected autism,A1,1,0.998,5,BroadlyAffectedAutism's learning capacity becomes temporarily unavailable
+BroadlyAffectedAutism_4_74,BR,Broadly affected autism,A19,1,0.9969,4,BroadlyAffectedAutism cannot reallocate resources without a routine
+BroadlyAffectedAutism_5_175,BR,Broadly affected autism,A11,1,0.9977,5,BroadlyAffectedAutism remains hyperfocused on the special interest detail
+BroadlyAffectedAutism_5_176,BR,Broadly affected autism,A19,0,0.953,5,BroadlyAffectedAutism lacks a routine to offload prediction error
+BroadlyAffectedAutism_4_75,BR,Broadly affected autism,A21,1,0.9885,4,BroadlyAffectedAutism treats forced redirection as threat signal
+BroadlyAffectedAutism_5_169,BR,Broadly affected autism,A21,1,0.997,5,BroadlyAffectedAutism's threat framing blocks learning from redirection
+BroadlyAffectedAutism_1_4,BR,Broadly affected autism,A19,1,0.9972,1,BroadlyAffectedAutism loses cognitive resources allocated by prior routine
+BroadlyAffectedAutism_2_9,BR,Broadly affected autism,A20,1,0.9977,2,BroadlyAffectedAutism generates disproportionate prediction error from the redirect
+BroadlyAffectedAutism_3_39,BR,Broadly affected autism,A1,1,0.9979,3,BroadlyAffectedAutism becomes temporarily unavailable for social engagement
+BroadlyAffectedAutism_4_95,BR,Broadly affected autism,A16,1,0.9982,4,BroadlyAffectedAutism's emotional reaction surfaces after a delay
+BroadlyAffectedAutism_5_215,BR,Broadly affected autism,A10,1,0.9891,5,BroadlyAffectedAutism cannot link reaction to its trigger without cues
+BroadlyAffectedAutism_5_216,BR,Broadly affected autism,A21,1,0.9926,5,BroadlyAffectedAutism treats the reaction as threat if shamed
+BroadlyAffectedAutism_4_96,BR,Broadly affected autism,A24,1,0.9984,4,BroadlyAffectedAutism needs explicit proximate feedback to re-engage
+BroadlyAffectedAutism_5_205,BR,Broadly affected autism,A23,1,0.9979,5,BroadlyAffectedAutism requires an explicitly stated transition rule
+BroadlyAffectedAutism_5_206,BR,Broadly affected autism,A18,0,0.9898,5,BroadlyAffectedAutism retrieves matching rule from stored social database
+BroadlyAffectedAutism_5_207,BR,Broadly affected autism,A21,1,0.9972,5,BroadlyAffectedAutism blocks learning if feedback implies failure
+BroadlyAffectedAutism_3_41,BR,Broadly affected autism,A20,1,0.9962,3,BroadlyAffectedAutism reacts disproportionately relative to the redirect's significance
+BroadlyAffectedAutism_4_77,BR,Broadly affected autism,A21,0,0.9899,4,BroadlyAffectedAutism enters threat response if reaction is judged
+BroadlyAffectedAutism_5_231,BR,Broadly affected autism,A21,1,0.9946,5,BroadlyAffectedAutism blocks learning from the redirect experience
+BroadlyAffectedAutism_4_78,BR,Broadly affected autism,A11,1,0.9935,4,BroadlyAffectedAutism requires effortful control to attend outside interest
+BroadlyAffectedAutism_5_150,BR,Broadly affected autism,A11,1,0.997,5,BroadlyAffectedAutism cannot sustain attention without continuous effort
+BroadlyAffectedAutism_4_79,BR,Broadly affected autism,A16,0,0.9737,4,BroadlyAffectedAutism's visible response is delayed from the trigger
+BroadlyAffectedAutism_5_180,BR,Broadly affected autism,A16,1,0.9865,5,BroadlyAffectedAutism's reaction appears disconnected from the redirect event
+BroadlyAffectedAutism_5_181,BR,Broadly affected autism,A24,1,0.9883,5,Feedback linked to the delayed reaction arrives non-proximately
+BroadlyAffectedAutism_5_182,BR,Broadly affected autism,A21,1,0.9949,5,BroadlyAffectedAutism's delayed reaction risks being framed as misbehavior
+BroadlyAffectedAutism_3_42,BR,Broadly affected autism,A21,1,0.9973,3,BroadlyAffectedAutism treats the redirect as threatening if framed negatively
+BroadlyAffectedAutism_4_89,BR,Broadly affected autism,A21,1,0.9962,4,BroadlyAffectedAutism activates threat response blocking learning
+BroadlyAffectedAutism_5_197,BR,Broadly affected autism,A21,1,0.9978,5,BroadlyAffectedAutism fails to encode the redirect as learning
+BroadlyAffectedAutism_5_199,BR,Broadly affected autism,A16,1,0.9982,5,BroadlyAffectedAutism delays its reaction to the redirect
+BroadlyAffectedAutism_5_200,BR,Broadly affected autism,A20,1,0.9962,5,BroadlyAffectedAutism exhibits disruption disproportionate to the task change
+BroadlyAffectedAutism_4_90,BR,Broadly affected autism,A16,1,0.998,4,BroadlyAffectedAutism delays its emotional response to the redirect
+BroadlyAffectedAutism_5_156,BR,Broadly affected autism,A16,1,0.9969,5,BroadlyAffectedAutism's emotional reaction surfaces after the redirect ends
+BroadlyAffectedAutism_5_157,BR,Broadly affected autism,A14,1,0.9872,5,BroadlyAffectedAutism cannot label the emotional state involved
+BroadlyAffectedAutism_5_158,BR,Broadly affected autism,A24,0,0.9927,5,BroadlyAffectedAutism's delayed reaction breaks temporal link needed for learning
+BroadlyAffectedAutism_4_91,BR,Broadly affected autism,A14,1,0.997,4,BroadlyAffectedAutism cannot label its own arousal state
+BroadlyAffectedAutism_5_223,BR,Broadly affected autism,A21,1,0.9908,5,BroadlyAffectedAutism cannot process the arousal as learning information
+BroadlyAffectedAutism_2_11,BR,Broadly affected autism,A19,1,0.9954,2,BroadlyAffectedAutism has fewer resources available for the group task
+BroadlyAffectedAutism_3_30,BR,Broadly affected autism,A7,0,0.9903,3,BroadlyAffectedAutism processes the group task's social complexity slowly
+BroadlyAffectedAutism_4_61,BR,Broadly affected autism,A18,1,0.9962,4,BroadlyAffectedAutism must consciously retrieve applicable social rules
+BroadlyAffectedAutism_5_139,BR,Broadly affected autism,A18,1,0.9842,5,BroadlyAffectedAutism delays action while matching stored rules
+BroadlyAffectedAutism_5_140,BR,Broadly affected autism,A23,1,0.9974,5,BroadlyAffectedAutism cannot detect unspoken group expectations
+BroadlyAffectedAutism_5_141,BR,Broadly affected autism,A7,0,0.9934,5,BroadlyAffectedAutism's rule retrieval slows under social complexity
+BroadlyAffectedAutism_4_62,BR,Broadly affected autism,A23,1,0.9974,4,BroadlyAffectedAutism fails to detect implicit group task expectations
+BroadlyAffectedAutism_5_121,BR,Broadly affected autism,A23,1,0.9919,5,BroadlyAffectedAutism does not apply unstated group norms
+BroadlyAffectedAutism_5_122,BR,Broadly affected autism,A18,1,0.9929,5,BroadlyAffectedAutism cannot infer expected behavior without explicit rules
+BroadlyAffectedAutism_4_63,BR,Broadly affected autism,A7,1,0.9962,4,BroadlyAffectedAutism falls behind the group's task pace
+BroadlyAffectedAutism_5_142,BR,Broadly affected autism,A20,1,0.9961,5,BroadlyAffectedAutism experiences disproportionate prediction error from the pace mismatch
+BroadlyAffectedAutism_5_143,BR,Broadly affected autism,A21,1,0.9902,5,BroadlyAffectedAutism risks framing the lag as failure
+BroadlyAffectedAutism_5_144,BR,Broadly affected autism,A24,1,0.9977,5,BroadlyAffectedAutism cannot update behavior from vague group feedback
+BroadlyAffectedAutism_5_145,BR,Broadly affected autism,A18,1,0.9974,5,BroadlyAffectedAutism cannot infer the group's unspoken pace expectations
+BroadlyAffectedAutism_4_64,BR,Broadly affected autism,A17,0,0.9847,4,BroadlyAffectedAutism requires extra steps for indirect instructions
+BroadlyAffectedAutism_5_124,BR,Broadly affected autism,A18,0,0.9936,5,BroadlyAffectedAutism consciously retrieves matching rules from memory
+BroadlyAffectedAutism_6_247,BR,Broadly affected autism,A22,1,0.9941,6,BroadlyAffectedAutism cannot generalize rule to this new context
+BroadlyAffectedAutism_6_249,BR,Broadly affected autism,A18,1,0.9931,6,BroadlyAffectedAutism applies retrieved rule only if explicitly matching
+BroadlyAffectedAutism_6_250,BR,Broadly affected autism,A24,1,0.9883,6,BroadlyAffectedAutism requires specific feedback to confirm correct rule
+BroadlyAffectedAutism_5_125,BR,Broadly affected autism,A23,1,0.9978,5,BroadlyAffectedAutism fails to detect unspoken task expectations
+BroadlyAffectedAutism_6_241,BR,Broadly affected autism,A18,1,0.9951,6,BroadlyAffectedAutism cannot apply unstated social norms automatically
+BroadlyAffectedAutism_6_242,BR,Broadly affected autism,A23,1,0.9977,6,BroadlyAffectedAutism follows only explicitly stated task rules
+BroadlyAffectedAutism_5_126,BR,Broadly affected autism,A17,0,0.9948,5,BroadlyAffectedAutism delays response until literal meaning decoded
+BroadlyAffectedAutism_2_12,BR,Broadly affected autism,A6,1,0.9975,2,BroadlyAffectedAutism experiences processing overload from the abrupt shift
+BroadlyAffectedAutism_3_24,BR,Broadly affected autism,A1,1,0.9975,3,BroadlyAffectedAutism becomes unable to engage in the group task
+BroadlyAffectedAutism_4_57,BR,Broadly affected autism,A1,1,0.9972,4,BroadlyAffectedAutism remains offline until regulation is restored
+BroadlyAffectedAutism_5_178,BR,Broadly affected autism,A1,1,0.9952,5,BroadlyAffectedAutism cannot acquire new learning during this state
+BroadlyAffectedAutism_5_179,BR,Broadly affected autism,A24,0,0.983,5,BroadlyAffectedAutism cannot use feedback given while offline
+BroadlyAffectedAutism_4_58,BR,Broadly affected autism,A11,1,0.9962,4,BroadlyAffectedAutism reverts attention to the special interest domain
+BroadlyAffectedAutism_5_146,BR,Broadly affected autism,A11,0,0.9967,5,BroadlyAffectedAutism sustains attention automatically within the special interest
+BroadlyAffectedAutism_5_148,BR,Broadly affected autism,A19,0,0.9225,5,BroadlyAffectedAutism reduces prediction error load through this reversion
+BroadlyAffectedAutism_5_149,BR,Broadly affected autism,A20,1,0.9947,5,BroadlyAffectedAutism generates disproportionate error if redirected again
+BroadlyAffectedAutism_4_59,BR,Broadly affected autism,A21,1,0.997,4,BroadlyAffectedAutism's blocked learning if failure is framed as shame
+BroadlyAffectedAutism_5_133,BR,Broadly affected autism,A21,1,0.998,5,BroadlyAffectedAutism's threat response activates instead of learning
+BroadlyAffectedAutism_5_135,BR,Broadly affected autism,A22,1,0.9929,5,BroadlyAffectedAutism will not generalize this transition rule later
+BroadlyAffectedAutism_4_60,BR,Broadly affected autism,A24,1,0.9968,4,BroadlyAffectedAutism fails to update without immediate specific feedback
+BroadlyAffectedAutism_5_170,BR,Broadly affected autism,A24,1,0.9923,5,BroadlyAffectedAutism repeats the same behavior in future transitions
+BroadlyAffectedAutism_5_171,BR,Broadly affected autism,A22,1,0.9975,5,BroadlyAffectedAutism fails to generalize the group-task expectation
+BroadlyAffectedAutism_5_172,BR,Broadly affected autism,A23,1,0.9979,5,BroadlyAffectedAutism requires an explicit stated rule to comply
+BroadlyAffectedAutism_5_173,BR,Broadly affected autism,A20,0,0.9907,5,BroadlyAffectedAutism treats the next similar shift as equally disruptive
+BroadlyAffectedAutism_3_25,BR,Broadly affected autism,A20,1,0.998,3,BroadlyAffectedAutism generates disruption disproportionate to the actual change
+BroadlyAffectedAutism_4_69,BR,Broadly affected autism,A1,1,0.9963,4,BroadlyAffectedAutism becomes cognitively unavailable until regulation restored
+BroadlyAffectedAutism_5_137,BR,Broadly affected autism,A1,1,0.9944,5,BroadlyAffectedAutism cannot process social interaction demands
+BroadlyAffectedAutism_4_71,BR,Broadly affected autism,A21,1,0.9975,4,BroadlyAffectedAutism may interpret the disruption as failure
+BroadlyAffectedAutism_5_187,BR,Broadly affected autism,A21,1,0.9826,5,BroadlyAffectedAutism blocks learning from this error
+BroadlyAffectedAutism_3_27,BR,Broadly affected autism,A6,1,0.998,3,BroadlyAffectedAutism fails to flexibly update to the new task
+BroadlyAffectedAutism_4_67,BR,Broadly affected autism,A23,1,0.9982,4,BroadlyAffectedAutism needs explicit instruction to redirect focus
+BroadlyAffectedAutism_5_127,BR,Broadly affected autism,A23,1,0.998,5,BroadlyAffectedAutism ignores implicit or unstated redirection cues
+BroadlyAffectedAutism_5_128,BR,Broadly affected autism,A24,1,0.9977,5,BroadlyAffectedAutism requires feedback that is specific and immediate
+BroadlyAffectedAutism_5_129,BR,Broadly affected autism,A22,0,0.9964,5,BroadlyAffectedAutism cannot transfer redirection rule without explicit re-anchoring
+BroadlyAffectedAutism_4_68,BR,Broadly affected autism,A19,1,0.9942,4,BroadlyAffectedAutism lacks routine to reallocate cognitive resources
+BroadlyAffectedAutism_5_119,BR,Broadly affected autism,A11,1,0.9929,5,BroadlyAffectedAutism requires effortful control to attend
+BroadlyAffectedAutism_6_253,BR,Broadly affected autism,A7,0,0.9943,6,BroadlyAffectedAutism processes the socially complex task more slowly
+BroadlyAffectedAutism_5_120,BR,Broadly affected autism,A19,1,0.9951,5,BroadlyAffectedAutism cannot offload resources without established routine
+MixedASDwithDelay_0_0,MX,Mixed ASD with developmental delay,,1,0.9887,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing."
+MixedASDwithDelay_1_1,MX,Mixed ASD with developmental delay,A20,1,0.9977,1,MixedASDwithDelay generates disproportionate prediction error from the redirect
+MixedASDwithDelay_2_17,MX,Mixed ASD with developmental delay,A6,1,0.9781,2,MixedASDwithDelay experiences processing overload rather than adaptive updating
+MixedASDwithDelay_3_54,MX,Mixed ASD with developmental delay,A1,1,0.9982,3,MixedASDwithDelay goes offline for social engagement temporarily
+MixedASDwithDelay_4_152,MX,Mixed ASD with developmental delay,A20,1,0.9982,4,MixedASDwithDelay perceives the redirect as highly disruptive
+MixedASDwithDelay_3_56,MX,Mixed ASD with developmental delay,A23,1,0.9979,3,MixedASDwithDelay requires an explicit stated rule to transition
+MixedASDwithDelay_4_144,MX,Mixed ASD with developmental delay,A23,1,0.9957,4,MixedASDwithDelay cannot infer transition from implicit cues
+MixedASDwithDelay_4_145,MX,Mixed ASD with developmental delay,A18,1,0.9962,4,MixedASDwithDelay must consciously retrieve matching stored rule
+MixedASDwithDelay_4_146,MX,Mixed ASD with developmental delay,A22,1,0.9793,4,MixedASDwithDelay cannot generalize prior transition rule automatically
+MixedASDwithDelay_3_57,MX,Mixed ASD with developmental delay,A21,1,0.9915,3,MixedASDwithDelay's learning halts if overload is framed as failure
+MixedASDwithDelay_4_131,MX,Mixed ASD with developmental delay,A21,0,0.9966,4,MixedASDwithDelay activates a threat response instead
+MixedASDwithDelay_4_132,MX,Mixed ASD with developmental delay,A21,1,0.9974,4,MixedASDwithDelay cannot process the redirect as learning information
+MixedASDwithDelay_2_18,MX,Mixed ASD with developmental delay,A19,1,0.9976,2,MixedASDwithDelay loses the resource-saving benefit of routine
+MixedASDwithDelay_3_58,MX,Mixed ASD with developmental delay,A19,1,0.9884,3,MixedASDwithDelay must allocate resources to redirect itself
+MixedASDwithDelay_4_136,MX,Mixed ASD with developmental delay,A22,1,0.9969,4,MixedASDwithDelay cannot transfer prior routine to the new task
+MixedASDwithDelay_3_60,MX,Mixed ASD with developmental delay,A7,1,0.997,3,MixedASDwithDelay processes the group task more slowly
+MixedASDwithDelay_4_125,MX,Mixed ASD with developmental delay,A7,1,0.9962,4,MixedASDwithDelay falls behind the group's task pace
+MixedASDwithDelay_4_126,MX,Mixed ASD with developmental delay,A24,1,0.9879,4,MixedASDwithDelay misses temporally proximate feedback on the task
+MixedASDwithDelay_5_212,MX,Mixed ASD with developmental delay,A24,1,0.989,5,MixedASDwithDelay fails to update behavior from the task
+MixedASDwithDelay_5_213,MX,Mixed ASD with developmental delay,A8,0,0.9655,5,MixedASDwithDelay retains poor episodic memory of the task
+MixedASDwithDelay_4_127,MX,Mixed ASD with developmental delay,A6,1,0.9945,4,MixedASDwithDelay experiences overload from the task's ongoing changes
+MixedASDwithDelay_2_19,MX,Mixed ASD with developmental delay,A1,0,0.9935,2,MixedASDwithDelay risks going offline if overload exceeds threshold
+MixedASDwithDelay_3_63,MX,Mixed ASD with developmental delay,A1,1,0.9961,3,MixedASDwithDelay's learning becomes unavailable until regulated
+MixedASDwithDelay_4_148,MX,Mixed ASD with developmental delay,A1,1,0.9939,4,MixedASDwithDelay's social interaction remains offline
+MixedASDwithDelay_2_20,MX,Mixed ASD with developmental delay,A5,1,0.9949,2,MixedASDwithDelay cannot automatically shift from detail to group task
+MixedASDwithDelay_3_48,MX,Mixed ASD with developmental delay,A23,1,0.9982,3,MixedASDwithDelay requires explicit instruction to redirect attention
+MixedASDwithDelay_4_88,MX,Mixed ASD with developmental delay,A23,1,0.998,4,MixedASDwithDelay ignores unspoken redirect expectations
+MixedASDwithDelay_4_89,MX,Mixed ASD with developmental delay,A24,1,0.9977,4,MixedASDwithDelay needs observable specific proximate redirect feedback
+MixedASDwithDelay_5_187,MX,Mixed ASD with developmental delay,A21,1,0.997,5,MixedASDwithDelay blocks learning if feedback implies moral failure
+MixedASDwithDelay_5_188,MX,Mixed ASD with developmental delay,A22,1,0.9941,5,MixedASDwithDelay cannot generalize this feedback to other tasks
+MixedASDwithDelay_5_189,MX,Mixed ASD with developmental delay,A19,0,0.9743,5,MixedASDwithDelay treats consistent feedback as a new routine optimization
+MixedASDwithDelay_4_90,MX,Mixed ASD with developmental delay,A22,1,0.9977,4,MixedASDwithDelay cannot generalize this redirect rule elsewhere
+MixedASDwithDelay_5_214,MX,Mixed ASD with developmental delay,A22,0,0.4588,5,MixedASDwithDelay will need new explicit instruction in other contexts
+MixedASDwithDelay_5_215,MX,Mixed ASD with developmental delay,A18,0,0.9895,5,MixedASDwithDelay treats each redirect rule as separate database entry
+MixedASDwithDelay_3_49,MX,Mixed ASD with developmental delay,A18,1,0.9976,3,MixedASDwithDelay cannot infer the redirect from implicit cues
+MixedASDwithDelay_4_121,MX,Mixed ASD with developmental delay,A18,1,0.9962,4,MixedASDwithDelay must consciously retrieve the applicable social rule
+MixedASDwithDelay_5_228,MX,Mixed ASD with developmental delay,A7,1,0.9934,5,MixedASDwithDelay responds slower due to social processing demands
+MixedASDwithDelay_4_122,MX,Mixed ASD with developmental delay,A2,1,0.9972,4,MixedASDwithDelay retains the detail at equal priority to the task
+MixedASDwithDelay_5_217,MX,Mixed ASD with developmental delay,A2,1,0.9977,5,MixedASDwithDelay does not spontaneously prioritize the group task
+MixedASDwithDelay_5_219,MX,Mixed ASD with developmental delay,A23,1,0.9949,5,MixedASDwithDelay follows redirection only if explicitly stated
+MixedASDwithDelay_3_51,MX,Mixed ASD with developmental delay,A19,1,0.9959,3,MixedASDwithDelay persists on the detail absent an explicit routine cue
+MixedASDwithDelay_4_116,MX,Mixed ASD with developmental delay,A18,1,0.9944,4,MixedASDwithDelay does not infer the implicit group expectation
+MixedASDwithDelay_4_118,MX,Mixed ASD with developmental delay,A21,1,0.9899,4,Framing persistence as failure would block further learning
+MixedASDwithDelay_5_193,MX,Mixed ASD with developmental delay,A21,1,0.998,5,MixedASDwithDelay activates threat response instead of learning
+MixedASDwithDelay_4_119,MX,Mixed ASD with developmental delay,A1,0,0.9945,4,Continued prediction error risks pushing MixedASDwithDelay offline
+MixedASDwithDelay_1_2,MX,Mixed ASD with developmental delay,A5,1,0.9975,1,MixedASDwithDelay cannot infer the group task's global relevance
+MixedASDwithDelay_2_10,MX,Mixed ASD with developmental delay,A23,1,0.9968,2,MixedASDwithDelay requires an explicit stated rule to redirect
+MixedASDwithDelay_3_41,MX,Mixed ASD with developmental delay,A23,1,0.9975,3,MixedASDwithDelay cannot detect the unspoken expectation to switch tasks
+MixedASDwithDelay_4_98,MX,Mixed ASD with developmental delay,A23,1,0.9975,4,MixedASDwithDelay continues the detail task without explicit redirection
+MixedASDwithDelay_5_183,MX,Mixed ASD with developmental delay,A19,1,0.9966,5,MixedASDwithDelay keeps cognitive resources allocated to the detail task
+MixedASDwithDelay_4_99,MX,Mixed ASD with developmental delay,A20,1,0.9969,4,MixedASDwithDelay will experience disproportionate disruption if interrupted
+MixedASDwithDelay_5_206,MX,Mixed ASD with developmental delay,A1,1,0.9967,5,MixedASDwithDelay may go offline from disruption overload
+MixedASDwithDelay_4_100,MX,Mixed ASD with developmental delay,A18,1,0.9771,4,MixedASDwithDelay cannot retrieve a matching rule for switching tasks
+MixedASDwithDelay_5_225,MX,Mixed ASD with developmental delay,A19,1,0.9908,5,MixedASDwithDelay continues the current absorbed task uninterrupted
+MixedASDwithDelay_3_43,MX,Mixed ASD with developmental delay,A24,1,0.9981,3,MixedASDwithDelay needs immediate specific feedback to redirect attention
+MixedASDwithDelay_4_92,MX,Mixed ASD with developmental delay,A24,1,0.9935,4,MixedASDwithDelay fails to redirect without observable causal feedback
+MixedASDwithDelay_5_199,MX,Mixed ASD with developmental delay,A20,0,0.9911,5,MixedASDwithDelay generates disproportionate prediction error from the demand
+MixedASDwithDelay_5_200,MX,Mixed ASD with developmental delay,A5,1,0.9963,5,MixedASDwithDelay remains locked on the local detail
+MixedASDwithDelay_5_201,MX,Mixed ASD with developmental delay,A21,1,0.9971,5,MixedASDwithDelay treats the failed redirect as threat if framed as fault
+MixedASDwithDelay_5_202,MX,Mixed ASD with developmental delay,A19,1,0.9908,5,MixedASDwithDelay lacks a routine to allocate resources for redirecting
+MixedASDwithDelay_4_94,MX,Mixed ASD with developmental delay,A19,1,0.997,4,MixedASDwithDelay loses cognitive resources absent an established routine
+MixedASDwithDelay_3_44,MX,Mixed ASD with developmental delay,A18,1,0.9893,3,MixedASDwithDelay must consciously retrieve a stored rule for redirecting
+MixedASDwithDelay_4_114,MX,Mixed ASD with developmental delay,A22,0,0.9313,4,MixedASDwithDelay may fail to apply rule to new context
+MixedASDwithDelay_4_115,MX,Mixed ASD with developmental delay,A19,0,0.9936,4,MixedASDwithDelay diverts cognitive resources toward rule retrieval
+MixedASDwithDelay_5_166,MX,Mixed ASD with developmental delay,A19,1,0.9957,5,MixedASDwithDelay delays engaging the group task
+MixedASDwithDelay_5_167,MX,Mixed ASD with developmental delay,A7,1,0.9941,5,MixedASDwithDelay processes the social task more slowly
+MixedASDwithDelay_5_168,MX,Mixed ASD with developmental delay,A20,1,0.998,5,MixedASDwithDelay experiences heightened prediction error from the interruption
+MixedASDwithDelay_2_11,MX,Mixed ASD with developmental delay,A22,1,0.9982,2,MixedASDwithDelay cannot generalize prior switching rules to this task
+MixedASDwithDelay_3_37,MX,Mixed ASD with developmental delay,A20,1,0.9979,3,MixedASDwithDelay generates disproportionate prediction error for this transition
+MixedASDwithDelay_4_124,MX,Mixed ASD with developmental delay,A1,0,0.9925,4,MixedASDwithDelay risks going offline if regulation fails
+MixedASDwithDelay_3_38,MX,Mixed ASD with developmental delay,A22,1,0.996,3,MixedASDwithDelay requires explicit instruction to re-anchor switching rule
+MixedASDwithDelay_4_110,MX,Mixed ASD with developmental delay,A23,1,0.9905,4,MixedASDwithDelay follows the switching rule once explicitly stated
+MixedASDwithDelay_4_111,MX,Mixed ASD with developmental delay,A24,1,0.9965,4,MixedASDwithDelay needs immediate specific feedback to update the rule
+MixedASDwithDelay_3_39,MX,Mixed ASD with developmental delay,A19,1,0.998,3,MixedASDwithDelay cannot offload cognitive resources without established routine
+MixedASDwithDelay_3_40,MX,Mixed ASD with developmental delay,A23,1,0.9978,3,MixedASDwithDelay depends on explicitly stated task-switch rule
+MixedASDwithDelay_4_87,MX,Mixed ASD with developmental delay,A24,1,0.9978,4,MixedASDwithDelay requires immediate specific feedback to switch tasks
+MixedASDwithDelay_5_169,MX,Mixed ASD with developmental delay,A24,1,0.9956,5,MixedASDwithDelay fails to switch without observable causal feedback
+MixedASDwithDelay_5_171,MX,Mixed ASD with developmental delay,A21,1,0.9976,5,MixedASDwithDelay blocks learning if switch framed as failure
+MixedASDwithDelay_2_12,MX,Mixed ASD with developmental delay,A6,1,0.9944,2,MixedASDwithDelay experiences the redirection as processing overload
+MixedASDwithDelay_3_34,MX,Mixed ASD with developmental delay,A1,1,0.9959,3,MixedASDwithDelay cannot engage social interaction until regulated
+MixedASDwithDelay_4_103,MX,Mixed ASD with developmental delay,A1,1,0.9886,4,MixedASDwithDelay's learning stays unavailable during dysregulation
+MixedASDwithDelay_5_180,MX,Mixed ASD with developmental delay,A1,1,0.9918,5,MixedASDwithDelay's social interaction remains unavailable during dysregulation
+MixedASDwithDelay_5_182,MX,Mixed ASD with developmental delay,A21,1,0.9917,5,Any error framing now blocks MixedASDwithDelay's future learning
+MixedASDwithDelay_3_35,MX,Mixed ASD with developmental delay,A21,1,0.9973,3,MixedASDwithDelay treats redirection as failure activates threat response
+MixedASDwithDelay_4_104,MX,Mixed ASD with developmental delay,A21,1,0.9919,4,MixedASDwithDelay cannot learn from the redirection event
+MixedASDwithDelay_5_221,MX,Mixed ASD with developmental delay,A19,1,0.9942,5,MixedASDwithDelay forms no routine for future redirections
+MixedASDwithDelay_5_222,MX,Mixed ASD with developmental delay,A20,0,0.9901,5,MixedASDwithDelay will react with equal disproportionate disruption again
+MixedASDwithDelay_5_223,MX,Mixed ASD with developmental delay,A24,0,0.9924,5,MixedASDwithDelay repeats the same redirection response unchanged
+MixedASDwithDelay_4_105,MX,Mixed ASD with developmental delay,A21,1,0.9969,4,MixedASDwithDelay's threat response blocks new learning
+MixedASDwithDelay_5_195,MX,Mixed ASD with developmental delay,A18,1,0.9845,5,MixedASDwithDelay does not store a new redirection rule
+MixedASDwithDelay_5_196,MX,Mixed ASD with developmental delay,A24,1,0.9831,5,MixedASDwithDelay fails to update its behavioral model
+MixedASDwithDelay_5_197,MX,Mixed ASD with developmental delay,A22,1,0.994,5,MixedASDwithDelay cannot generalize this redirection experience later
+MixedASDwithDelay_5_198,MX,Mixed ASD with developmental delay,A20,0,0.9923,5,MixedASDwithDelay will react equally strongly to future redirections
+MixedASDwithDelay_1_3,MX,Mixed ASD with developmental delay,A6,1,0.9966,1,MixedASDwithDelay experiences processing overload from the abrupt shift
+MixedASDwithDelay_2_13,MX,Mixed ASD with developmental delay,A1,1,0.9969,2,MixedASDwithDelay cannot engage with the group task now
+MixedASDwithDelay_3_45,MX,Mixed ASD with developmental delay,A1,1,0.9972,3,MixedASDwithDelay remains offline until regulation is restored
+MixedASDwithDelay_4_140,MX,Mixed ASD with developmental delay,A1,1,0.9968,4,MixedASDwithDelay cannot process the group task's demands
+MixedASDwithDelay_4_141,MX,Mixed ASD with developmental delay,A1,1,0.9976,4,MixedASDwithDelay cannot engage in social interaction now
+MixedASDwithDelay_4_142,MX,Mixed ASD with developmental delay,A1,1,0.9952,4,MixedASDwithDelay cannot form new learning currently
+MixedASDwithDelay_3_46,MX,Mixed ASD with developmental delay,A20,1,0.9983,3,MixedASDwithDelay's disruption exceeds the change's actual significance
+MixedASDwithDelay_4_129,MX,Mixed ASD with developmental delay,A20,1,0.9976,4,MixedASDwithDelay's prediction error signal remains disproportionately high
+MixedASDwithDelay_4_130,MX,Mixed ASD with developmental delay,A21,1,0.9954,4,"MixedASDwithDelay treats the disruption as threat, not learning"
+MixedASDwithDelay_3_47,MX,Mixed ASD with developmental delay,A19,0,0.9915,3,MixedASDwithDelay lacks a routine to offload this transition
+MixedASDwithDelay_2_14,MX,Mixed ASD with developmental delay,A20,1,0.9981,2,MixedASDwithDelay generates a disproportionate prediction-error signal
+MixedASDwithDelay_2_16,MX,Mixed ASD with developmental delay,A19,1,0.998,2,MixedASDwithDelay loses routine-based cognitive resource savings
+MixedASDwithDelay_3_31,MX,Mixed ASD with developmental delay,A19,1,0.9978,3,MixedASDwithDelay must allocate extra resources to the transition
+MixedASDwithDelay_4_97,MX,Mixed ASD with developmental delay,A6,1,0.9975,4,MixedASDwithDelay risks overload from the rapid change
+MixedASDwithDelay_5_232,MX,Mixed ASD with developmental delay,A6,1,0.998,5,MixedASDwithDelay cannot flexibly update to the new task
+MixedASDwithDelay_3_32,MX,Mixed ASD with developmental delay,A1,1,0.9955,3,MixedASDwithDelay risks going cognitively offline
+MixedASDwithDelay_1_4,MX,Mixed ASD with developmental delay,A22,1,0.993,1,MixedASDwithDelay cannot transfer focus rules to the new task
+MixedASDwithDelay_2_5,MX,Mixed ASD with developmental delay,A20,1,0.9969,2,MixedASDwithDelay generates disproportionate prediction error for task switch
+MixedASDwithDelay_3_27,MX,Mixed ASD with developmental delay,A1,1,0.9968,3,MixedASDwithDelay's cognitive processing becomes temporarily unavailable
+MixedASDwithDelay_4_69,MX,Mixed ASD with developmental delay,A1,1,0.9968,4,MixedASDwithDelay cannot learn until regulation is restored
+MixedASDwithDelay_4_70,MX,Mixed ASD with developmental delay,A1,0,0.9963,4,MixedASDwithDelay remains offline until sensory regulation returns
+MixedASDwithDelay_3_29,MX,Mixed ASD with developmental delay,A24,1,0.9958,3,MixedASDwithDelay cannot update behavior without immediate feedback
+MixedASDwithDelay_4_106,MX,Mixed ASD with developmental delay,A24,0,0.9894,4,MixedASDwithDelay repeats the same task-switch failure
+MixedASDwithDelay_5_238,MX,Mixed ASD with developmental delay,A21,0,0.9945,5,MixedASDwithDelay's repeated failure risks activating a threat response
+MixedASDwithDelay_5_239,MX,Mixed ASD with developmental delay,A20,0,0.9906,5,MixedASDwithDelay will generate disproportionate error on next switch
+MixedASDwithDelay_5_240,MX,Mixed ASD with developmental delay,A19,0,0.9881,5,MixedASDwithDelay never converts task-switching into a routine
+MixedASDwithDelay_5_241,MX,Mixed ASD with developmental delay,A22,1,0.9856,5,MixedASDwithDelay fails to generalize the rule to future switches
+MixedASDwithDelay_4_107,MX,Mixed ASD with developmental delay,A20,1,0.9975,4,MixedASDwithDelay sustains high prediction error signal
+MixedASDwithDelay_4_108,MX,Mixed ASD with developmental delay,A21,1,0.9951,4,MixedASDwithDelay treats redirection attempts as threat
+MixedASDwithDelay_5_242,MX,Mixed ASD with developmental delay,A21,1,0.9946,5,MixedASDwithDelay blocks learning from the redirection attempt
+MixedASDwithDelay_5_244,MX,Mixed ASD with developmental delay,A20,1,0.9951,5,MixedASDwithDelay escalates disruption disproportionate to the redirection
+MixedASDwithDelay_2_7,MX,Mixed ASD with developmental delay,A22,1,0.998,2,MixedASDwithDelay needs explicit instruction to re-anchor focus rules
+MixedASDwithDelay_3_24,MX,Mixed ASD with developmental delay,A23,0,0.9902,3,MixedASDwithDelay will follow the group-task rule once explicitly stated
+MixedASDwithDelay_4_77,MX,Mixed ASD with developmental delay,A24,0,0.9957,4,MixedASDwithDelay requires immediate specific feedback to sustain compliance
+MixedASDwithDelay_5_175,MX,Mixed ASD with developmental delay,A24,0,0.9887,5,MixedASDwithDelay loses compliance when feedback is delayed
+MixedASDwithDelay_5_176,MX,Mixed ASD with developmental delay,A21,1,0.9954,5,MixedASDwithDelay stops complying if feedback signals moral failure
+MixedASDwithDelay_5_177,MX,Mixed ASD with developmental delay,A19,1,0.9883,5,MixedASDwithDelay stabilizes compliance once it becomes a routine
+MixedASDwithDelay_4_78,MX,Mixed ASD with developmental delay,A19,0,0.9785,4,MixedASDwithDelay treats the stated rule as a routine
+MixedASDwithDelay_5_190,MX,Mixed ASD with developmental delay,A19,1,0.9923,5,MixedASDwithDelay frees cognitive resources for other task demands
+MixedASDwithDelay_4_79,MX,Mixed ASD with developmental delay,A22,1,0.9641,4,MixedASDwithDelay will not apply this rule to future unrelated tasks
+MixedASDwithDelay_5_178,MX,Mixed ASD with developmental delay,A22,1,0.995,5,MixedASDwithDelay requires new explicit instruction for each future task
+MixedASDwithDelay_3_25,MX,Mixed ASD with developmental delay,A24,1,0.9969,3,MixedASDwithDelay requires immediate observable feedback to adopt the new rule
+MixedASDwithDelay_4_81,MX,Mixed ASD with developmental delay,A21,1,0.9902,4,MixedASDwithDelay disregards feedback framed as moral failure
+MixedASDwithDelay_5_211,MX,Mixed ASD with developmental delay,A19,1,0.9949,5,MixedASDwithDelay continues relying on its established routine
+MixedASDwithDelay_4_82,MX,Mixed ASD with developmental delay,A18,1,0.996,4,MixedASDwithDelay requires conscious retrieval to apply the rule
+MixedASDwithDelay_5_172,MX,Mixed ASD with developmental delay,A18,0,0.9561,5,MixedASDwithDelay must match the situation to a stored rule
+MixedASDwithDelay_5_173,MX,Mixed ASD with developmental delay,A24,1,0.9912,5,MixedASDwithDelay fails to apply rule without proximate feedback
+MixedASDwithDelay_3_26,MX,Mixed ASD with developmental delay,A20,0,0.9822,3,Without explicit instruction MixedASDwithDelay treats the switch as high-magnitude disruption
+MixedASDwithDelay_4_83,MX,Mixed ASD with developmental delay,A20,1,0.9979,4,MixedASDwithDelay generates disruption disproportionate to the task's actual significance
+MixedASDwithDelay_5_165,MX,Mixed ASD with developmental delay,A21,1,0.9982,5,MixedASDwithDelay blocks learning if disruption is framed as failure
+MixedASDwithDelay_4_84,MX,Mixed ASD with developmental delay,A1,0,0.9842,4,MixedASDwithDelay's regulatory threshold risks being exceeded by the disruption
+MixedASDwithDelay_5_234,MX,Mixed ASD with developmental delay,A1,1,0.9966,5,MixedASDwithDelay's social engagement becomes unavailable
+MixedASDwithDelay_2_8,MX,Mixed ASD with developmental delay,A19,1,0.9964,2,MixedASDwithDelay cannot free cognitive resources for the group task
+MixedASDwithDelay_3_22,MX,Mixed ASD with developmental delay,A1,1,0.9974,3,MixedASDwithDelay cannot engage socially with the group task
+MixedASDwithDelay_4_65,MX,Mixed ASD with developmental delay,A23,1,0.9975,4,MixedASDwithDelay fails to detect unspoken group task expectations
+MixedASDwithDelay_5_156,MX,Mixed ASD with developmental delay,A23,1,0.9977,5,MixedASDwithDelay follows only explicitly stated task instructions
+MixedASDwithDelay_5_158,MX,Mixed ASD with developmental delay,A21,1,0.9922,5,MixedASDwithDelay's behavior may be judged as failure
+ModerateAutism_0_0,MO,Moderate autism,,0,0.9886,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains."
+ModerateAutism_1_1,MO,Moderate autism,A20,1,0.9977,1,ModerateAutism generates disproportionate prediction error from the redirect
+ModerateAutism_2_17,MO,Moderate autism,A20,1,0.9966,2,ModerateAutism reacts as if redirect is catastrophic
+ModerateAutism_3_65,MO,Moderate autism,A1,1,0.9982,3,ModerateAutism becomes unavailable for social engagement temporarily
+ModerateAutism_3_66,MO,Moderate autism,A5,1,0.9963,3,ModerateAutism continues fixating on the local detail
+ModerateAutism_4_203,MO,Moderate autism,A22,1,0.9957,4,ModerateAutism cannot apply prior redirect rules to this context
+ModerateAutism_3_68,MO,Moderate autism,A22,1,0.9971,3,ModerateAutism cannot apply prior transition rules here
+ModerateAutism_2_18,MO,Moderate autism,A1,1,0.9967,2,ModerateAutism risks going offline from overload
+ModerateAutism_3_69,MO,Moderate autism,A1,1,0.9975,3,ModerateAutism becomes unavailable for the group task
+ModerateAutism_4_210,MO,Moderate autism,A1,1,0.9972,4,ModerateAutism remains unavailable until regulation restored
+ModerateAutism_4_211,MO,Moderate autism,A21,0,0.9961,4,ModerateAutism activates threat response if framed as failure
+ModerateAutism_4_212,MO,Moderate autism,A24,1,0.9882,4,Delayed feedback about the task fails to update ModerateAutism
+ModerateAutism_3_70,MO,Moderate autism,A1,1,0.998,3,ModerateAutism's learning capacity is temporarily suspended
+ModerateAutism_4_204,MO,Moderate autism,A1,1,0.9974,4,ModerateAutism cannot socially engage with the group task
+ModerateAutism_4_205,MO,Moderate autism,A1,1,0.9943,4,ModerateAutism's cognitive processing stays unavailable until regulated
+ModerateAutism_3_72,MO,Moderate autism,A20,1,0.998,3,ModerateAutism's disruption is disproportionate to the actual change
+ModerateAutism_2_19,MO,Moderate autism,A5,1,0.9953,2,ModerateAutism resists shifting from detail to group task
+ModerateAutism_3_44,MO,Moderate autism,A5,1,0.9902,3,ModerateAutism continues processing the detail as a standalone part
+ModerateAutism_3_45,MO,Moderate autism,A19,1,0.998,3,ModerateAutism cannot allocate resources to the new task
+ModerateAutism_4_167,MO,Moderate autism,A20,1,0.9965,4,ModerateAutism remains destabilized disproportionate to the redirect
+ModerateAutism_4_169,MO,Moderate autism,A18,1,0.9965,4,ModerateAutism cannot retrieve the implicit expectation to join the group
+ModerateAutism_3_46,MO,Moderate autism,A24,1,0.998,3,ModerateAutism requires immediate specific feedback to shift attention
+ModerateAutism_4_77,MO,Moderate autism,A24,1,0.9956,4,ModerateAutism fails to shift attention without observable feedback
+ModerateAutism_4_78,MO,Moderate autism,A24,1,0.9983,4,ModerateAutism ignores vague or delayed redirection cues
+ModerateAutism_3_47,MO,Moderate autism,A21,0,0.996,3,ModerateAutism treats forced redirect as threat if framed negatively
+ModerateAutism_4_174,MO,Moderate autism,A21,1,0.9973,4,ModerateAutism activates threat response blocking learning
+ModerateAutism_4_175,MO,Moderate autism,A24,1,0.9931,4,ModerateAutism fails to update behavior from shame-framed feedback
+ModerateAutism_2_20,MO,Moderate autism,A19,1,0.998,2,ModerateAutism loses its cognitive-resource-saving routine
+ModerateAutism_3_58,MO,Moderate autism,A19,1,0.9935,3,ModerateAutism must divert resources to manage the transition
+ModerateAutism_4_190,MO,Moderate autism,A1,1,0.9885,4,ModerateAutism has less capacity left for sensory regulation
+ModerateAutism_4_192,MO,Moderate autism,A18,1,0.9962,4,ModerateAutism must consciously retrieve the applicable social rule
+ModerateAutism_4_193,MO,Moderate autism,A23,1,0.9979,4,ModerateAutism needs an explicit stated instruction to comply
+ModerateAutism_3_59,MO,Moderate autism,A22,0,0.9964,3,ModerateAutism cannot generalize the lost routine to the group task
+ModerateAutism_3_60,MO,Moderate autism,A5,1,0.9697,3,ModerateAutism cannot automatically infer the group task's structure
+ModerateAutism_4_140,MO,Moderate autism,A22,1,0.995,4,ModerateAutism cannot transfer prior task rules without instruction
+ModerateAutism_3_61,MO,Moderate autism,A18,1,0.9968,3,ModerateAutism requires an explicit rule for the new task
+ModerateAutism_4_177,MO,Moderate autism,A23,1,0.9978,4,ModerateAutism cannot infer the task's unspoken expectations
+ModerateAutism_1_2,MO,Moderate autism,A5,1,0.9847,1,ModerateAutism cannot automatically integrate the detail into the group task
+ModerateAutism_2_13,MO,Moderate autism,A5,0,0.9941,2,ModerateAutism continues local processing of the fascinating detail
+ModerateAutism_3_49,MO,Moderate autism,A5,1,0.9971,3,ModerateAutism does not automatically infer the group task's relevance
+ModerateAutism_4_122,MO,Moderate autism,A20,1,0.9975,4,ModerateAutism experiences disproportionate prediction error at transition
+ModerateAutism_4_124,MO,Moderate autism,A22,1,0.9976,4,ModerateAutism cannot generalize prior task rules to this context
+ModerateAutism_3_50,MO,Moderate autism,A23,1,0.9974,3,ModerateAutism requires an explicit stated rule to redirect attention
+ModerateAutism_4_83,MO,Moderate autism,A23,1,0.9973,4,ModerateAutism cannot detect implicit redirection expectations
+ModerateAutism_4_84,MO,Moderate autism,A20,0,0.9951,4,ModerateAutism experiences the redirection as unanticipated change
+ModerateAutism_4_86,MO,Moderate autism,A23,1,0.9905,4,ModerateAutism will follow an explicitly stated redirection rule
+ModerateAutism_3_51,MO,Moderate autism,A2,1,0.9763,3,ModerateAutism does not filter out the detail's stimulus weight
+ModerateAutism_4_110,MO,Moderate autism,A2,1,0.9972,4,ModerateAutism keeps allocating equal weight to detail
+ModerateAutism_4_112,MO,Moderate autism,A23,1,0.9974,4,ModerateAutism cannot infer the unstated need to redirect
+ModerateAutism_2_14,MO,Moderate autism,A23,1,0.9969,2,ModerateAutism requires an explicit stated instruction to redirect
+ModerateAutism_3_34,MO,Moderate autism,A18,1,0.9976,3,ModerateAutism cannot infer the redirect from implicit cues
+ModerateAutism_4_103,MO,Moderate autism,A23,1,0.9975,4,ModerateAutism continues the detail absent explicit redirection
+ModerateAutism_4_105,MO,Moderate autism,A18,1,0.996,4,ModerateAutism must consciously retrieve a stated transition rule
+ModerateAutism_3_35,MO,Moderate autism,A20,0,0.9907,3,ModerateAutism registers the redirect as an unanticipated change
+ModerateAutism_4_172,MO,Moderate autism,A19,0,0.9976,4,ModerateAutism loses the resource savings of routine processing
+ModerateAutism_4_173,MO,Moderate autism,A21,1,0.987,4,ModerateAutism risks threat response if redirect framed as failure
+ModerateAutism_3_36,MO,Moderate autism,A24,1,0.9974,3,ModerateAutism needs the instruction to be specific and immediate
+ModerateAutism_4_114,MO,Moderate autism,A24,1,0.9923,4,ModerateAutism fails to redirect if feedback is vague
+ModerateAutism_4_115,MO,Moderate autism,A24,1,0.9859,4,ModerateAutism fails to redirect if feedback is delayed
+ModerateAutism_4_116,MO,Moderate autism,A20,1,0.998,4,ModerateAutism generates disproportionate error without immediate cue
+ModerateAutism_4_117,MO,Moderate autism,A18,1,0.9967,4,ModerateAutism cannot infer redirection from unspoken expectations
+ModerateAutism_2_15,MO,Moderate autism,A19,0,0.9905,2,ModerateAutism cannot compute the task-switch without an established routine
+ModerateAutism_3_28,MO,Moderate autism,A19,1,0.9939,3,ModerateAutism cannot free resources for the group task
+ModerateAutism_4_134,MO,Moderate autism,A21,0,0.9953,4,ModerateAutism treats the failed switch as threat if shamed
+ModerateAutism_2_16,MO,Moderate autism,A18,0,0.9966,2,ModerateAutism cannot infer the unstated expectation to rejoin the group
+ModerateAutism_3_62,MO,Moderate autism,A23,1,0.9943,3,ModerateAutism continues the task without an explicit redirect cue
+ModerateAutism_4_153,MO,Moderate autism,A20,1,0.9969,4,ModerateAutism will experience disproportionate disruption if interrupted
+ModerateAutism_4_154,MO,Moderate autism,A19,1,0.9932,4,ModerateAutism treats continued task as stable routine
+ModerateAutism_4_155,MO,Moderate autism,A24,1,0.9957,4,ModerateAutism cannot update behavior without specific feedback
+ModerateAutism_4_156,MO,Moderate autism,A18,1,0.985,4,ModerateAutism lacks a stored rule to rejoin group
+ModerateAutism_3_63,MO,Moderate autism,A20,1,0.9946,3,ModerateAutism registers the unsignaled transition as high prediction error
+ModerateAutism_4_196,MO,Moderate autism,A1,1,0.9968,4,ModerateAutism experiences disrupted cognitive processing capacity temporarily
+ModerateAutism_4_198,MO,Moderate autism,A21,0,0.9901,4,ModerateAutism may activate a threat response to the transition
+ModerateAutism_3_64,MO,Moderate autism,A18,0,0.9921,3,ModerateAutism requires explicit instruction to rejoin the group
+ModerateAutism_4_186,MO,Moderate autism,A23,0,0.7477,4,ModerateAutism will follow explicit instruction reliably if given
+ModerateAutism_4_187,MO,Moderate autism,A23,1,0.9959,4,ModerateAutism remains fixed on the detail absent explicit instruction
+ModerateAutism_1_3,MO,Moderate autism,A23,1,0.9975,1,ModerateAutism fails to detect the implicit expectation to switch tasks
+ModerateAutism_2_5,MO,Moderate autism,A23,1,0.9961,2,ModerateAutism continues the current task without switching
+ModerateAutism_3_29,MO,Moderate autism,A20,1,0.9953,3,ModerateAutism will experience high prediction error when interrupted
+ModerateAutism_4_161,MO,Moderate autism,A20,1,0.9982,4,ModerateAutism generates disruption disproportionate to the interruption's actual significance
+ModerateAutism_4_163,MO,Moderate autism,A19,1,0.9969,4,ModerateAutism cannot reallocate resources without an established routine
+ModerateAutism_3_30,MO,Moderate autism,A23,1,0.9937,3,ModerateAutism lacks explicit rule to justify switching tasks
+ModerateAutism_4_101,MO,Moderate autism,A23,1,0.9951,4,ModerateAutism cannot reliably apply the unstated expectation
+ModerateAutism_4_102,MO,Moderate autism,A22,1,0.9939,4,ModerateAutism requires explicit instruction to re-anchor to the new task
+ModerateAutism_3_31,MO,Moderate autism,A19,1,0.9941,3,ModerateAutism allocates resources solely to the current task
+ModerateAutism_4_107,MO,Moderate autism,A19,1,0.9932,4,ModerateAutism preserves cognitive resources by maintaining the current routine
+ModerateAutism_4_108,MO,Moderate autism,A2,1,0.9977,4,ModerateAutism does not automatically reweight attention toward the group task
+ModerateAutism_4_109,MO,Moderate autism,A5,1,0.9942,4,ModerateAutism remains focused on the local detail without integrating the broader task context
+ModerateAutism_3_32,MO,Moderate autism,A18,1,0.9967,3,ModerateAutism cannot retrieve a matching social norm for switching
+ModerateAutism_4_180,MO,Moderate autism,A20,0,0.9897,4,ModerateAutism registers the task switch as unanticipated change
+ModerateAutism_4_181,MO,Moderate autism,A23,1,0.9969,4,ModerateAutism requires an explicit stated rule to switch
+ModerateAutism_4_182,MO,Moderate autism,A18,1,0.9958,4,ModerateAutism cannot apply the norm without conscious retrieval
+ModerateAutism_2_6,MO,Moderate autism,A5,1,0.9902,2,ModerateAutism remains focused on the local detail exclusively
+ModerateAutism_3_41,MO,Moderate autism,A20,0,0.9906,3,Any forced redirection triggers disproportionate prediction error
+ModerateAutism_4_159,MO,Moderate autism,A21,1,0.9979,4,ModerateAutism perceives the redirection as threatening failure
+ModerateAutism_3_42,MO,Moderate autism,A23,1,0.9976,3,ModerateAutism needs an explicit instruction to switch tasks
+ModerateAutism_4_90,MO,Moderate autism,A23,1,0.9861,4,ModerateAutism will follow the task switch once stated explicitly
+ModerateAutism_4_91,MO,Moderate autism,A20,0,0.9734,4,ModerateAutism's prediction error subsides only after explicit direction
+ModerateAutism_4_92,MO,Moderate autism,A24,0,0.98,4,ModerateAutism requires immediate observable feedback tied to the instruction
+ModerateAutism_3_43,MO,Moderate autism,A19,1,0.9962,3,Lack of a routine blocks automatic reallocation of attention
+ModerateAutism_4_75,MO,Moderate autism,A22,1,0.993,4,ModerateAutism cannot transfer attention rules to this new context
+ModerateAutism_4_76,MO,Moderate autism,A19,1,0.9911,4,ModerateAutism lacks freed cognitive resources for the new task
+ModerateAutism_2_7,MO,Moderate autism,A20,0,0.9807,2,ModerateAutism will register any forced switch as disproportionate error
+ModerateAutism_3_52,MO,Moderate autism,A1,0,0.9863,3,ModerateAutism risks exceeding regulatory threshold and going offline
+ModerateAutism_4_194,MO,Moderate autism,A1,1,0.9913,4,ModerateAutism becomes unavailable for learning and social engagement
+ModerateAutism_4_195,MO,Moderate autism,A1,1,0.9969,4,ModerateAutism cannot process the group task until regulated
+ModerateAutism_3_53,MO,Moderate autism,A21,1,0.9967,3,ModerateAutism treats the switch as a threat if framed as failure
+ModerateAutism_1_4,MO,Moderate autism,A22,1,0.9967,1,ModerateAutism cannot generalize prior task rules to the group task
+ModerateAutism_2_8,MO,Moderate autism,A20,1,0.9978,2,ModerateAutism generates disproportionate prediction error from the switch
+ModerateAutism_3_55,MO,Moderate autism,A20,1,0.977,3,ModerateAutism resists the switch regardless of task importance
+ModerateAutism_4_127,MO,Moderate autism,A20,1,0.9974,4,ModerateAutism sustains high prediction-error signaling during the switch
+ModerateAutism_4_128,MO,Moderate autism,A21,1,0.9974,4,ModerateAutism blocks learning if redirection is framed as failure
+ModerateAutism_3_56,MO,Moderate autism,A19,1,0.9972,3,ModerateAutism loses the resource savings of the prior routine
+ModerateAutism_4_183,MO,Moderate autism,A19,1,0.9977,4,ModerateAutism has fewer resources for the group task
+ModerateAutism_4_185,MO,Moderate autism,A24,1,0.9981,4,ModerateAutism requires immediate specific feedback to proceed
+ModerateAutism_3_57,MO,Moderate autism,A21,1,0.9976,3,ModerateAutism blocks learning if switch is framed as failure
+ModerateAutism_4_151,MO,Moderate autism,A21,1,0.9845,4,ModerateAutism activates a threat response to the framing
+ModerateAutism_4_152,MO,Moderate autism,A24,1,0.9824,4,ModerateAutism's behavior stays unchanged without corrective learning
+ModerateAutism_2_9,MO,Moderate autism,A22,1,0.998,2,ModerateAutism requires explicit instruction to re-anchor rules
+ModerateAutism_3_37,MO,Moderate autism,A23,1,0.9968,3,ModerateAutism cannot apply the group task rules without explicit statement
+ModerateAutism_4_145,MO,Moderate autism,A20,1,0.9964,4,ModerateAutism generates disproportionate prediction error from the unstated task
+ModerateAutism_4_147,MO,Moderate autism,A18,1,0.9955,4,ModerateAutism cannot retrieve applicable social rules without cues
+ModerateAutism_3_38,MO,Moderate autism,A20,1,0.9964,3,ModerateAutism experiences disproportionate prediction error absent explicit instruction
+ModerateAutism_4_164,MO,Moderate autism,A20,1,0.9979,4,ModerateAutism's disruption is disproportionate to the task's actual significance
+ModerateAutism_4_165,MO,Moderate autism,A1,0,0.9955,4,ModerateAutism's cognitive processing becomes unavailable under excessive prediction error
+ModerateAutism_4_166,MO,Moderate autism,A21,1,0.9982,4,ModerateAutism's learning is blocked if error is framed as failure
+ModerateAutism_3_39,MO,Moderate autism,A24,1,0.9973,3,ModerateAutism requires immediate specific feedback to learn the new rule
+ModerateAutism_4_135,MO,Moderate autism,A24,1,0.9959,4,ModerateAutism fails to update the rule without proximate feedback
+ModerateAutism_4_136,MO,Moderate autism,A21,1,0.996,4,ModerateAutism cannot learn if feedback implies moral failure
+ModerateAutism_4_137,MO,Moderate autism,A19,1,0.9912,4,ModerateAutism treats the new rule as a fixed routine once learned
+ModerateAutism_2_10,MO,Moderate autism,A23,1,0.998,2,ModerateAutism cannot infer unspoken expectations of the group task
+ModerateAutism_3_24,MO,Moderate autism,A23,0,0.9974,3,ModerateAutism requires explicit stated instructions for the group task
+ModerateAutism_4_81,MO,Moderate autism,A24,1,0.9929,4,ModerateAutism requires observable specific feedback to complete task
+ModerateAutism_4_82,MO,Moderate autism,A18,1,0.997,4,ModerateAutism must consciously retrieve matching rule for task
+ModerateAutism_3_25,MO,Moderate autism,A18,1,0.9883,3,ModerateAutism must consciously retrieve stored social rules to match
+ModerateAutism_4_87,MO,Moderate autism,A18,1,0.988,4,ModerateAutism delays response while retrieving matching rule
+ModerateAutism_4_88,MO,Moderate autism,A23,0,0.9859,4,ModerateAutism fails if no explicit rule is stored
+ModerateAutism_4_89,MO,Moderate autism,A20,1,0.9914,4,ModerateAutism experiences added prediction error during retrieval delay
+ModerateAutism_3_26,MO,Moderate autism,A24,1,0.9977,3,ModerateAutism cannot update behavior from vague group cues
+ModerateAutism_4_118,MO,Moderate autism,A21,1,0.9975,4,ModerateAutism risks framing the error as failure
+ModerateAutism_4_120,MO,Moderate autism,A18,1,0.996,4,ModerateAutism cannot retrieve applicable pragmatic rules automatically
+ModerateAutism_4_121,MO,Moderate autism,A23,1,0.985,4,ModerateAutism requires an explicit stated rule to proceed
+ModerateAutism_2_11,MO,Moderate autism,A19,1,0.9973,2,ModerateAutism loses the cognitive efficiency of established routine
+ModerateAutism_3_21,MO,Moderate autism,A20,1,0.9981,3,ModerateAutism generates disproportionate prediction error signals now
+ModerateAutism_4_97,MO,Moderate autism,A1,1,0.9906,4,ModerateAutism's cognitive processing goes offline now
+ModerateAutism_4_98,MO,Moderate autism,A20,1,0.9983,4,ModerateAutism's disruption exceeds the change's objective significance
+ModerateAutism_4_99,MO,Moderate autism,A21,1,0.9976,4,ModerateAutism treats the redirection as a threat
+ModerateAutism_3_22,MO,Moderate autism,A19,1,0.9978,3,ModerateAutism must allocate extra resources to the transition
+ModerateAutism_4_94,MO,Moderate autism,A18,1,0.9971,4,ModerateAutism must explicitly retrieve applicable task rules
+ModerateAutism_4_95,MO,Moderate autism,A4,0,0.9852,4,ModerateAutism requires a concrete visual anchor for the task
+ModerateAutism_3_23,MO,Moderate autism,A1,1,0.9952,3,ModerateAutism risks reduced availability for social engagement
+ModerateAutism_4_130,MO,Moderate autism,A20,1,0.9977,4,ModerateAutism generates disproportionate prediction error from the shift
+NeurotypicalCognition_0_0,NT,Neurotypical,,0,0.209,0,"A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts."
+NeurotypicalCognition_1_1,NT,Neurotypical,N11,1,0.976,1,NeurotypicalCognition redirects attention toward the group task
+NeurotypicalCognition_2_8,NT,Neurotypical,N4,0,0.0515,2,NeurotypicalCognition integrates the group task's social and contextual cues
+NeurotypicalCognition_3_18,NT,Neurotypical,N23,0,0.9807,3,NeurotypicalCognition infers the group's implicit behavioral expectations
+NeurotypicalCognition_4_36,NT,Neurotypical,N18,0,0.9902,4,NeurotypicalCognition aligns its behavior with group norms
+NeurotypicalCognition_5_65,NT,Neurotypical,N12,0,0.9372,5,NeurotypicalCognition anticipates social approval from the group
+NeurotypicalCognition_6_182,NT,Neurotypical,N12,1,0.9921,6,NeurotypicalCognition sustains behavior aligned with the group task
+NeurotypicalCognition_7_267,NT,Neurotypical,N11,1,0.9805,7,NeurotypicalCognition remains able to redirect attention if salience shifts
+NeurotypicalCognition_7_269,NT,Neurotypical,N18,0,0.9439,7,NeurotypicalCognition monitors for social norm violations during the task
+NeurotypicalCognition_7_270,NT,Neurotypical,N12,0,0.897,7,NeurotypicalCognition expects continued social approval for this alignment
+NeurotypicalCognition_5_66,NT,Neurotypical,N18,0,0.2018,5,NeurotypicalCognition monitors for further norm violations via feedback
+NeurotypicalCognition_6_189,NT,Neurotypical,N21,0,0.9572,6,NeurotypicalCognition corrects behavior upon detecting a norm error
+NeurotypicalCognition_6_190,NT,Neurotypical,N11,1,0.9857,6,NeurotypicalCognition remains flexibly attentive to further social signals
+NeurotypicalCognition_5_67,NT,Neurotypical,N24,0,0.1406,5,NeurotypicalCognition integrates ongoing group feedback to adjust behavior
+NeurotypicalCognition_6_146,NT,Neurotypical,N21,0,0.9298,6,NeurotypicalCognition treats behavioral errors as correctable information
+NeurotypicalCognition_4_37,NT,Neurotypical,N12,0,0.9439,4,NeurotypicalCognition prioritizes the group task for social approval
+NeurotypicalCognition_5_93,NT,Neurotypical,N11,1,0.9941,5,NeurotypicalCognition fully redirects attention to task demands
+NeurotypicalCognition_6_142,NT,Neurotypical,N6,0,0.9899,6,NeurotypicalCognition extracts global meaning from task details
+NeurotypicalCognition_7_237,NT,Neurotypical,N6,1,0.9903,7,NeurotypicalCognition interprets task details within group context
+NeurotypicalCognition_6_144,NT,Neurotypical,N20,0,0.1628,6,NeurotypicalCognition resolves the shift's prediction error quickly
+NeurotypicalCognition_5_94,NT,Neurotypical,N20,0,0.9792,5,NeurotypicalCognition updates rapidly after the interrupted focus
+NeurotypicalCognition_6_175,NT,Neurotypical,N19,0,0.9072,6,NeurotypicalCognition experiences no lasting discomfort from the shift
+NeurotypicalCognition_4_38,NT,Neurotypical,N24,0,0.3218,4,NeurotypicalCognition monitors group feedback for behavioral cues
+NeurotypicalCognition_5_76,NT,Neurotypical,N24,0,0.9805,5,NeurotypicalCognition supplements vague feedback through self-monitoring
+NeurotypicalCognition_5_77,NT,Neurotypical,N18,0,0.7853,5,NeurotypicalCognition detects norm violations from group feedback
+NeurotypicalCognition_6_191,NT,Neurotypical,N21,0,0.38,6,NeurotypicalCognition is motivated to correct the detected behavior
+NeurotypicalCognition_5_78,NT,Neurotypical,N21,0,0.9575,5,NeurotypicalCognition corrects behavior in response to detected error
+NeurotypicalCognition_6_169,NT,Neurotypical,N21,1,0.9961,6,NeurotypicalCognition resumes group task without disruption
+NeurotypicalCognition_6_170,NT,Neurotypical,N22,0,0.3399,6,NeurotypicalCognition generalizes corrected behavior to similar tasks
+NeurotypicalCognition_7_262,NT,Neurotypical,N22,0,0.989,7,NeurotypicalCognition applies corrected behavior without explicit re-anchoring
+NeurotypicalCognition_7_263,NT,Neurotypical,N7,1,0.9485,7,NeurotypicalCognition consolidates the generalized behavior as environment stabilizes
+NeurotypicalCognition_6_171,NT,Neurotypical,N24,0,0.0563,6,NeurotypicalCognition continues monitoring feedback for further adjustment
+NeurotypicalCognition_3_19,NT,Neurotypical,N12,0,0.9829,3,NeurotypicalCognition becomes motivated by anticipated peer approval
+NeurotypicalCognition_4_42,NT,Neurotypical,N13,1,0.9972,4,NeurotypicalCognition sustains engagement with the group task
+NeurotypicalCognition_5_73,NT,Neurotypical,N18,0,0.9868,5,NeurotypicalCognition detects norm violations through social feedback
+NeurotypicalCognition_6_172,NT,Neurotypical,N21,0,0.9721,6,NeurotypicalCognition experiences mild social discomfort motivating correction
+NeurotypicalCognition_6_173,NT,Neurotypical,N21,1,0.992,6,NeurotypicalCognition adjusts behavior without systemic disruption
+NeurotypicalCognition_7_254,NT,Neurotypical,N22,0,0.742,7,NeurotypicalCognition generalizes this adjustment across future contexts
+NeurotypicalCognition_7_255,NT,Neurotypical,N7,1,0.9883,7,NeurotypicalCognition consolidates the corrected behavior pattern
+NeurotypicalCognition_7_256,NT,Neurotypical,N20,0,0.1512,7,NeurotypicalCognition resolves remaining prediction error rapidly
+NeurotypicalCognition_6_174,NT,Neurotypical,N22,0,0.0804,6,NeurotypicalCognition generalizes the corrected rule to similar contexts
+NeurotypicalCognition_5_74,NT,Neurotypical,N4,0,0.0632,5,NeurotypicalCognition simultaneously processes group members' verbal and social cues
+NeurotypicalCognition_6_155,NT,Neurotypical,N17,0,0.9849,6,NeurotypicalCognition decodes implied meaning without extra inference
+NeurotypicalCognition_6_157,NT,Neurotypical,N6,0,0.9261,6,NeurotypicalCognition extracts overall group task meaning automatically
+NeurotypicalCognition_7_264,NT,Neurotypical,N22,0,0.342,7,NeurotypicalCognition generalizes task rules across group members
+NeurotypicalCognition_7_265,NT,Neurotypical,N17,0,0.5816,7,NeurotypicalCognition decodes implicit cues within group dialogue
+NeurotypicalCognition_6_158,NT,Neurotypical,N18,0,0.9649,6,NeurotypicalCognition detects any social norm violations automatically
+NeurotypicalCognition_5_75,NT,Neurotypical,N21,0,0.9416,5,NeurotypicalCognition corrects errors flagged during task collaboration
+NeurotypicalCognition_6_180,NT,Neurotypical,N21,1,0.9905,6,NeurotypicalCognition continues collaboration without system shutdown
+NeurotypicalCognition_4_43,NT,Neurotypical,N12,1,0.9898,4,NeurotypicalCognition regulates behavior toward anticipated social consequences
+NeurotypicalCognition_5_88,NT,Neurotypical,N20,0,0.8942,5,NeurotypicalCognition updates prediction rapidly to the new task context
+NeurotypicalCognition_6_168,NT,Neurotypical,N19,0,0.9936,6,NeurotypicalCognition resolves discomfort from interrupted focus rapidly
+NeurotypicalCognition_5_89,NT,Neurotypical,N13,1,0.9844,5,NeurotypicalCognition sustains motivation despite low intrinsic interest
+NeurotypicalCognition_6_186,NT,Neurotypical,N21,0,0.9887,6,NeurotypicalCognition processes task errors without system shutdown
+NeurotypicalCognition_4_44,NT,Neurotypical,N19,0,0.9792,4,NeurotypicalCognition's residual discomfort from the shift resolves rapidly
+NeurotypicalCognition_5_106,NT,Neurotypical,N19,1,0.9889,5,NeurotypicalCognition re-engages fully without lingering resistance
+NeurotypicalCognition_6_211,NT,Neurotypical,N11,1,0.9836,6,NeurotypicalCognition sustains flexible attention on the group task
+NeurotypicalCognition_6_214,NT,Neurotypical,N18,0,0.831,6,NeurotypicalCognition monitors peers for norm-consistent participation
+NeurotypicalCognition_3_20,NT,Neurotypical,N22,0,0.9623,3,NeurotypicalCognition applies prior task rules to this group task
+NeurotypicalCognition_4_33,NT,Neurotypical,N22,0,0.9943,4,NeurotypicalCognition transfers the rules without explicit re-anchoring
+NeurotypicalCognition_5_61,NT,Neurotypical,N23,0,0.8059,5,NeurotypicalCognition computes the group task's implicit social expectations
+NeurotypicalCognition_5_63,NT,Neurotypical,N24,0,0.1253,5,NeurotypicalCognition integrates group members' feedback during the task
+NeurotypicalCognition_6_134,NT,Neurotypical,N24,1,0.9902,6,NeurotypicalCognition supplements vague feedback with social inference
+NeurotypicalCognition_7_251,NT,Neurotypical,N23,0,0.9055,7,NeurotypicalCognition infers implicit behavioral expectations from the feedback
+NeurotypicalCognition_7_253,NT,Neurotypical,N21,0,0.9432,7,NeurotypicalCognition adjusts its actions to correct the inferred error
+NeurotypicalCognition_4_34,NT,Neurotypical,N21,0,0.5123,4,NeurotypicalCognition treats rule mismatches as correctable information
+NeurotypicalCognition_5_98,NT,Neurotypical,N21,0,0.9772,5,NeurotypicalCognition corrects the mismatch without disengaging
+NeurotypicalCognition_6_194,NT,Neurotypical,N22,0,0.9524,6,NeurotypicalCognition applies the corrected rule to future contexts
+NeurotypicalCognition_6_196,NT,Neurotypical,N21,1,0.9961,6,NeurotypicalCognition remains engaged with the social task
+NeurotypicalCognition_4_35,NT,Neurotypical,N24,0,0.9355,4,NeurotypicalCognition monitors group feedback to refine rule application
+NeurotypicalCognition_5_84,NT,Neurotypical,N21,0,0.5787,5,NeurotypicalCognition treats detected errors as correction information
+NeurotypicalCognition_6_197,NT,Neurotypical,N21,0,0.7252,6,NeurotypicalCognition corrects the error without systemic disruption
+NeurotypicalCognition_5_85,NT,Neurotypical,N7,0,0.982,5,NeurotypicalCognition adjusts updating rate to feedback volatility
+NeurotypicalCognition_6_207,NT,Neurotypical,N7,0,0.9876,6,NeurotypicalCognition consolidates learning when feedback stabilizes
+NeurotypicalCognition_6_208,NT,Neurotypical,N7,0,0.9789,6,NeurotypicalCognition increases updating during volatile feedback periods
+NeurotypicalCognition_6_210,NT,Neurotypical,N8,0,0.4349,6,NeurotypicalCognition encodes the group task as an episodic narrative
+NeurotypicalCognition_5_86,NT,Neurotypical,N22,0,0.0913,5,NeurotypicalCognition generalizes refined rule to new contexts
+NeurotypicalCognition_6_159,NT,Neurotypical,N22,1,0.9933,6,NeurotypicalCognition applies the rule without explicit re-anchoring
+NeurotypicalCognition_6_160,NT,Neurotypical,N7,0,0.9654,6,NeurotypicalCognition consolidates the rule as environment stabilizes
+NeurotypicalCognition_7_271,NT,Neurotypical,N7,0,0.9742,7,NeurotypicalCognition reduces further updating of the rule
+NeurotypicalCognition_1_2,NT,Neurotypical,N20,0,0.8701,1,NeurotypicalCognition generates a small prediction error from the shift
+NeurotypicalCognition_2_12,NT,Neurotypical,N20,0,0.0652,2,NeurotypicalCognition resolves the error through rapid contextual updating
+NeurotypicalCognition_3_32,NT,Neurotypical,N4,0,0.9709,3,NeurotypicalCognition integrates group task context without effort
+NeurotypicalCognition_4_52,NT,Neurotypical,N23,0,0.9662,4,NeurotypicalCognition infers its expected role in group
+NeurotypicalCognition_5_120,NT,Neurotypical,N23,1,0.9843,5,NeurotypicalCognition aligns behavior with inferred role expectations
+NeurotypicalCognition_6_224,NT,Neurotypical,N12,0,0.9304,6,NeurotypicalCognition anticipates peer approval for compliance
+NeurotypicalCognition_4_54,NT,Neurotypical,N4,0,0.0307,4,NeurotypicalCognition integrates peers' social cues automatically
+NeurotypicalCognition_5_112,NT,Neurotypical,N11,0,0.985,5,NeurotypicalCognition redirects attention according to peer signals
+NeurotypicalCognition_6_206,NT,Neurotypical,N11,1,0.996,6,NeurotypicalCognition maintains attention on task per ongoing social salience
+NeurotypicalCognition_5_113,NT,Neurotypical,N15,0,0.0623,5,NeurotypicalCognition automatically mirrors peers' emotional states
+NeurotypicalCognition_6_225,NT,Neurotypical,N16,0,0.8338,6,NeurotypicalCognition generates mirrored emotion with minimal delay
+NeurotypicalCognition_6_226,NT,Neurotypical,N14,1,0.9838,6,NeurotypicalCognition labels the mirrored emotional state
+NeurotypicalCognition_6_227,NT,Neurotypical,N12,0,0.9807,6,NeurotypicalCognition aligns behavior with peer affiliation goals
+NeurotypicalCognition_2_14,NT,Neurotypical,N19,0,0.4794,2,NeurotypicalCognition's discomfort resolves rapidly through reappraisal
+NeurotypicalCognition_3_40,NT,Neurotypical,N12,0,0.9593,3,NeurotypicalCognition prioritizes social affiliation over the detail
+NeurotypicalCognition_4_97,NT,Neurotypical,N4,0,0.1799,4,NeurotypicalCognition integrates social and task context simultaneously
+NeurotypicalCognition_3_41,NT,Neurotypical,N22,1,0.9836,3,NeurotypicalCognition applies prior task rules to the new context
+NeurotypicalCognition_4_58,NT,Neurotypical,N22,1,0.992,4,NeurotypicalCognition transfers task rules without explicit re-anchoring
+NeurotypicalCognition_5_109,NT,Neurotypical,N4,0,0.07,5,NeurotypicalCognition integrates social and contextual cues simultaneously
+NeurotypicalCognition_6_201,NT,Neurotypical,N23,0,0.9658,6,NeurotypicalCognition infers expected participation behavior in the group
+NeurotypicalCognition_6_202,NT,Neurotypical,N4,0,0.2447,6,NeurotypicalCognition merges verbal and social cues without extra effort
+NeurotypicalCognition_1_3,NT,Neurotypical,N12,0,0.9454,1,NeurotypicalCognition prioritizes group task due to social affiliation
+NeurotypicalCognition_2_9,NT,Neurotypical,N11,0,0.9944,2,NeurotypicalCognition redirects attention away from the fascinating detail
+NeurotypicalCognition_3_22,NT,Neurotypical,N20,0,0.9884,3,NeurotypicalCognition rapidly updates context to the new task
+NeurotypicalCognition_4_45,NT,Neurotypical,N11,1,0.99,4,NeurotypicalCognition engages attention fully on group task
+NeurotypicalCognition_5_68,NT,Neurotypical,N4,0,0.3317,5,NeurotypicalCognition integrates verbal and social cues for task
+NeurotypicalCognition_6_121,NT,Neurotypical,N17,1,0.9817,6,NeurotypicalCognition decodes implicit meaning within group instructions
+NeurotypicalCognition_7_235,NT,Neurotypical,N6,0,0.982,7,NeurotypicalCognition extracts overall task meaning from instructions
+NeurotypicalCognition_7_236,NT,Neurotypical,N22,0,0.9771,7,NeurotypicalCognition applies understood instructions across task contexts
+NeurotypicalCognition_5_69,NT,Neurotypical,N6,0,0.9698,5,NeurotypicalCognition extracts overall meaning of group task
+NeurotypicalCognition_6_148,NT,Neurotypical,N6,0,0.9932,6,NeurotypicalCognition interprets task details through overall context
+NeurotypicalCognition_7_215,NT,Neurotypical,N4,0,0.3895,7,NeurotypicalCognition integrates verbal and social task information simultaneously
+NeurotypicalCognition_7_217,NT,Neurotypical,N22,0,0.0401,7,NeurotypicalCognition generalizes task rules to this new context
+NeurotypicalCognition_7_218,NT,Neurotypical,N18,0,0.1375,7,NeurotypicalCognition detects norm violations during group task participation
+NeurotypicalCognition_6_150,NT,Neurotypical,N23,0,0.9731,6,NeurotypicalCognition infers implicit behavioral expectations for task
+NeurotypicalCognition_7_228,NT,Neurotypical,N18,0,0.2327,7,NeurotypicalCognition monitors peers for norm violation feedback
+NeurotypicalCognition_7_229,NT,Neurotypical,N13,1,0.977,7,NeurotypicalCognition generates motivation to comply with task
+NeurotypicalCognition_7_230,NT,Neurotypical,N22,1,0.9843,7,NeurotypicalCognition applies expectations across similar future tasks
+NeurotypicalCognition_5_70,NT,Neurotypical,N22,1,0.9754,5,NeurotypicalCognition applies prior learned rules to new task
+NeurotypicalCognition_6_132,NT,Neurotypical,N24,0,0.9824,6,NeurotypicalCognition integrates incoming feedback on task performance
+NeurotypicalCognition_7_231,NT,Neurotypical,N24,1,0.9802,7,NeurotypicalCognition supplements feedback with self-monitoring and social inference
+NeurotypicalCognition_7_232,NT,Neurotypical,N21,0,0.6533,7,NeurotypicalCognition treats performance errors as correctable information
+NeurotypicalCognition_6_133,NT,Neurotypical,N21,0,0.6437,6,NeurotypicalCognition treats task errors as correctable information
+NeurotypicalCognition_7_248,NT,Neurotypical,N21,0,0.9685,7,NeurotypicalCognition corrects errors without system shutdown
+NeurotypicalCognition_7_249,NT,Neurotypical,N24,0,0.9533,7,NeurotypicalCognition integrates feedback to adjust performance
+NeurotypicalCognition_5_71,NT,Neurotypical,N11,0,0.9698,5,NeurotypicalCognition remains ready to redirect attention again
+NeurotypicalCognition_6_152,NT,Neurotypical,N11,0,0.9943,6,NeurotypicalCognition redirects attention upon new salient signals
+NeurotypicalCognition_7_241,NT,Neurotypical,N11,1,0.9923,7,NeurotypicalCognition sustains flexible attention across multiple task foci
+NeurotypicalCognition_7_242,NT,Neurotypical,N4,0,0.9743,7,NeurotypicalCognition integrates new signal with ongoing task context
+NeurotypicalCognition_7_243,NT,Neurotypical,N20,0,0.4165,7,NeurotypicalCognition updates predictions proportional to signal significance
+NeurotypicalCognition_6_153,NT,Neurotypical,N20,0,0.9813,6,NeurotypicalCognition resolves future changes through rapid updating
+NeurotypicalCognition_7_274,NT,Neurotypical,N20,0,0.8012,7,NeurotypicalCognition expects prediction error proportional to next change
+NeurotypicalCognition_7_275,NT,Neurotypical,N11,0,0.9793,7,NeurotypicalCognition remains flexible to redirect attention again
+NeurotypicalCognition_7_277,NT,Neurotypical,N22,0,0.9411,7,NeurotypicalCognition transfers updating strategy to new contexts
+NeurotypicalCognition_6_154,NT,Neurotypical,N7,0,0.8973,6,NeurotypicalCognition adjusts learning rate to ongoing volatility
+NeurotypicalCognition_4_47,NT,Neurotypical,N22,0,0.983,4,NeurotypicalCognition applies prior learned rules to group task
+NeurotypicalCognition_5_82,NT,Neurotypical,N11,1,0.9945,5,NeurotypicalCognition maintains attention on group task demands
+NeurotypicalCognition_6_140,NT,Neurotypical,N24,0,0.1772,6,NeurotypicalCognition monitors group feedback to guide task performance
+NeurotypicalCognition_7_246,NT,Neurotypical,N21,0,0.2846,7,NeurotypicalCognition corrects errors identified through group feedback
+NeurotypicalCognition_7_247,NT,Neurotypical,N12,0,0.982,7,NeurotypicalCognition adjusts behavior to gain peer approval
+NeurotypicalCognition_1_4,NT,Neurotypical,N19,0,0.905,1,NeurotypicalCognition experiences mild discomfort that resolves quickly
+NeurotypicalCognition_2_16,NT,Neurotypical,N19,0,0.9903,2,NeurotypicalCognition reappraises the disrupted focus rapidly
+NeurotypicalCognition_3_28,NT,Neurotypical,N13,0,0.9948,3,NeurotypicalCognition generates motivation for the unrelated task
+NeurotypicalCognition_3_29,NT,Neurotypical,N20,0,0.9878,3,NeurotypicalCognition updates its contextual model of priorities
+NeurotypicalCognition_4_49,NT,Neurotypical,N13,0,0.9779,4,NeurotypicalCognition generates motivation for the group task
+NeurotypicalCognition_5_116,NT,Neurotypical,N13,1,0.9963,5,NeurotypicalCognition sustains engagement despite low intrinsic interest
+NeurotypicalCognition_6_219,NT,Neurotypical,N11,1,0.9912,6,NeurotypicalCognition distributes attention across group task demands
+NeurotypicalCognition_6_221,NT,Neurotypical,N24,0,0.9591,6,NeurotypicalCognition monitors social feedback during the group task
+NeurotypicalCognition_4_50,NT,Neurotypical,N22,1,0.9782,4,NeurotypicalCognition transfers prior focus strategies to new task
+NeurotypicalCognition_2_17,NT,Neurotypical,N13,0,0.9535,2,NeurotypicalCognition generates motivation via social embedding of task
+SocialBehavioralAutism_0_0,SB,Social/Behavioral autism,,1,0.9893,0,"An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing."
+SocialBehavioralAutism_1_1,SB,Social/Behavioral autism,A11,1,0.9973,1,SocialBehavioralAutism requires effortful control to redirect attention
+SocialBehavioralAutism_2_5,SB,Social/Behavioral autism,A11,1,0.9978,2,SocialBehavioralAutism cannot sustain attention on group task automatically
+SocialBehavioralAutism_3_21,SB,Social/Behavioral autism,A20,1,0.997,3,SocialBehavioralAutism generates disproportionate prediction error at redirection
+SocialBehavioralAutism_4_71,SB,Social/Behavioral autism,A1,1,0.9885,4,SocialBehavioralAutism risks going offline from sensory overload
+SocialBehavioralAutism_5_174,SB,Social/Behavioral autism,A1,1,0.9938,5,SocialBehavioralAutism cannot process the group task cognitively
+SocialBehavioralAutism_5_175,SB,Social/Behavioral autism,A21,1,0.9968,5,SocialBehavioralAutism treats redirection as threat if shamed
+SocialBehavioralAutism_4_72,SB,Social/Behavioral autism,A16,1,0.998,4,SocialBehavioralAutism delays its emotional response to redirection
+SocialBehavioralAutism_5_159,SB,Social/Behavioral autism,A16,1,0.9969,5,SocialBehavioralAutism's emotional reaction surfaces after redirection ends
+SocialBehavioralAutism_5_160,SB,Social/Behavioral autism,A14,1,0.997,5,SocialBehavioralAutism cannot label the arousal it experiences
+SocialBehavioralAutism_5_161,SB,Social/Behavioral autism,A15,0,0.627,5,SocialBehavioralAutism treats its own reaction as data needing analysis
+SocialBehavioralAutism_3_22,SB,Social/Behavioral autism,A11,1,0.9928,3,SocialBehavioralAutism must allocate effortful control to group task
+SocialBehavioralAutism_4_58,SB,Social/Behavioral autism,A11,1,0.9953,4,SocialBehavioralAutism's effortful attention resource becomes depleted
+SocialBehavioralAutism_5_134,SB,Social/Behavioral autism,A20,1,0.9912,5,SocialBehavioralAutism becomes vulnerable to disproportionate prediction error
+SocialBehavioralAutism_3_23,SB,Social/Behavioral autism,A12,0,0.9978,3,SocialBehavioralAutism experiences group task as weakly motivating
+SocialBehavioralAutism_4_67,SB,Social/Behavioral autism,A12,1,0.9909,4,SocialBehavioralAutism does not engage without external reward linked to interest
+SocialBehavioralAutism_5_170,SB,Social/Behavioral autism,A13,1,0.9918,5,SocialBehavioralAutism fails to transfer skills from group task
+SocialBehavioralAutism_5_171,SB,Social/Behavioral autism,A12,1,0.9864,5,SocialBehavioralAutism remains unmotivated by praise for task completion
+SocialBehavioralAutism_5_172,SB,Social/Behavioral autism,A24,1,0.989,5,SocialBehavioralAutism receives no behavior-linked feedback from task
+SocialBehavioralAutism_4_70,SB,Social/Behavioral autism,A13,0,0.9881,4,SocialBehavioralAutism transfers concepts poorly outside the special interest domain
+SocialBehavioralAutism_5_181,SB,Social/Behavioral autism,A22,1,0.9967,5,SocialBehavioralAutism cannot apply prior rules to the group task
+SocialBehavioralAutism_5_183,SB,Social/Behavioral autism,A13,0,0.9807,5,SocialBehavioralAutism learns the group task best via special interest links
+SocialBehavioralAutism_3_24,SB,Social/Behavioral autism,A19,1,0.995,3,SocialBehavioralAutism loses computational savings from interrupted routine
+SocialBehavioralAutism_2_6,SB,Social/Behavioral autism,A20,1,0.9974,2,SocialBehavioralAutism generates disproportionate prediction error from the shift
+SocialBehavioralAutism_3_34,SB,Social/Behavioral autism,A19,1,0.9977,3,SocialBehavioralAutism has fewer resources for the group task
+SocialBehavioralAutism_4_105,SB,Social/Behavioral autism,A18,1,0.9967,4,SocialBehavioralAutism fails to retrieve applicable social rules
+SocialBehavioralAutism_4_107,SB,Social/Behavioral autism,A5,1,0.9926,4,SocialBehavioralAutism processes group task as disconnected local details
+SocialBehavioralAutism_5_222,SB,Social/Behavioral autism,A5,1,0.9962,5,SocialBehavioralAutism cannot infer the group task's overall goal
+SocialBehavioralAutism_5_224,SB,Social/Behavioral autism,A22,1,0.9921,5,SocialBehavioralAutism cannot generalize prior task rules automatically
+SocialBehavioralAutism_5_225,SB,Social/Behavioral autism,A24,1,0.9981,5,SocialBehavioralAutism needs specific immediate feedback to continue
+SocialBehavioralAutism_3_35,SB,Social/Behavioral autism,A21,1,0.9943,3,SocialBehavioralAutism activates a threat response to the shift
+SocialBehavioralAutism_4_108,SB,Social/Behavioral autism,A21,1,0.9974,4,SocialBehavioralAutism cannot process the shift as learning
+SocialBehavioralAutism_4_109,SB,Social/Behavioral autism,A14,1,0.998,4,SocialBehavioralAutism experiences arousal without a labeled emotion
+SocialBehavioralAutism_4_110,SB,Social/Behavioral autism,A11,1,0.9971,4,SocialBehavioralAutism reverts attention to the special interest
+SocialBehavioralAutism_3_36,SB,Social/Behavioral autism,A22,1,0.9928,3,SocialBehavioralAutism cannot automatically re-anchor to the new task
+SocialBehavioralAutism_4_89,SB,Social/Behavioral autism,A23,1,0.9974,4,SocialBehavioralAutism needs explicitly stated rules for the task
+SocialBehavioralAutism_5_206,SB,Social/Behavioral autism,A22,1,0.9976,5,SocialBehavioralAutism cannot transfer prior rules to this task
+SocialBehavioralAutism_4_90,SB,Social/Behavioral autism,A18,1,0.998,4,SocialBehavioralAutism cannot infer unspoken group task expectations
+SocialBehavioralAutism_5_185,SB,Social/Behavioral autism,A18,1,0.996,5,SocialBehavioralAutism cannot retrieve a matching pragmatic rule
+SocialBehavioralAutism_5_187,SB,Social/Behavioral autism,A21,1,0.9962,5,SocialBehavioralAutism risks framing task mismatch as failure
+SocialBehavioralAutism_3_37,SB,Social/Behavioral autism,A24,1,0.9968,3,SocialBehavioralAutism fails to update without immediate specific feedback
+SocialBehavioralAutism_4_122,SB,Social/Behavioral autism,A22,1,0.9977,4,SocialBehavioralAutism cannot generalize the redirection rule later
+SocialBehavioralAutism_4_123,SB,Social/Behavioral autism,A19,0,0.9902,4,SocialBehavioralAutism continues allocating resources to the prior task
+SocialBehavioralAutism_4_124,SB,Social/Behavioral autism,A21,1,0.9962,4,SocialBehavioralAutism treats the failed shift as a threat
+SocialBehavioralAutism_2_8,SB,Social/Behavioral autism,A24,1,0.9976,2,SocialBehavioralAutism needs explicit proximate cues to complete redirect
+SocialBehavioralAutism_3_25,SB,Social/Behavioral autism,A23,1,0.9957,3,SocialBehavioralAutism fails to redirect without explicit stated instruction
+SocialBehavioralAutism_4_82,SB,Social/Behavioral autism,A11,1,0.9962,4,SocialBehavioralAutism remains hyperfocused on the special interest detail
+SocialBehavioralAutism_4_83,SB,Social/Behavioral autism,A23,1,0.9978,4,SocialBehavioralAutism requires an explicit stated rule to switch tasks
+SocialBehavioralAutism_5_162,SB,Social/Behavioral autism,A23,1,0.9964,5,SocialBehavioralAutism fails to switch tasks without stated rule
+SocialBehavioralAutism_5_163,SB,Social/Behavioral autism,A20,1,0.9908,5,Absent explicit rule triggers disproportionate prediction error
+SocialBehavioralAutism_5_164,SB,Social/Behavioral autism,A22,1,0.9941,5,SocialBehavioralAutism cannot generalize prior rule to new context
+SocialBehavioralAutism_4_84,SB,Social/Behavioral autism,A21,1,0.9975,4,SocialBehavioralAutism treats the redirect demand as a threat if framed as failure
+SocialBehavioralAutism_5_226,SB,Social/Behavioral autism,A21,1,0.9934,5,SocialBehavioralAutism blocks learning from the redirect demand
+SocialBehavioralAutism_5_227,SB,Social/Behavioral autism,A16,0,0.9871,5,SocialBehavioralAutism delays its emotional response to the demand
+SocialBehavioralAutism_5_228,SB,Social/Behavioral autism,A20,1,0.9939,5,SocialBehavioralAutism generates disproportionate disruption to the request
+SocialBehavioralAutism_3_26,SB,Social/Behavioral autism,A24,1,0.9983,3,SocialBehavioralAutism ignores vague or delayed redirect prompts
+SocialBehavioralAutism_4_85,SB,Social/Behavioral autism,A24,1,0.9953,4,SocialBehavioralAutism continues the original task uninterrupted
+SocialBehavioralAutism_5_188,SB,Social/Behavioral autism,A20,0,0.9839,5,SocialBehavioralAutism accumulates unresolved prediction error from group task
+SocialBehavioralAutism_5_191,SB,Social/Behavioral autism,A12,1,0.9967,5,SocialBehavioralAutism remains unmotivated by the group task
+SocialBehavioralAutism_4_87,SB,Social/Behavioral autism,A20,0,0.9881,4,SocialBehavioralAutism generates a prediction error signal from the stalled transition
+SocialBehavioralAutism_5_211,SB,Social/Behavioral autism,A20,1,0.9977,5,SocialBehavioralAutism experiences disruption disproportionate to actual change
+SocialBehavioralAutism_5_214,SB,Social/Behavioral autism,A21,1,0.9975,5,SocialBehavioralAutism blocks learning if transition framed as failure
+SocialBehavioralAutism_3_27,SB,Social/Behavioral autism,A20,1,0.998,3,SocialBehavioralAutism experiences disproportionate disruption absent explicit cue
+SocialBehavioralAutism_4_77,SB,Social/Behavioral autism,A20,1,0.9976,4,SocialBehavioralAutism treats the redirect as high-magnitude threat
+SocialBehavioralAutism_4_78,SB,Social/Behavioral autism,A1,1,0.9961,4,SocialBehavioralAutism's processing goes offline until regulation restored
+SocialBehavioralAutism_5_195,SB,Social/Behavioral autism,A1,1,0.9973,5,SocialBehavioralAutism cannot join the group task now
+SocialBehavioralAutism_5_196,SB,Social/Behavioral autism,A1,1,0.9964,5,SocialBehavioralAutism's social interaction remains unavailable until regulated
+SocialBehavioralAutism_5_198,SB,Social/Behavioral autism,A19,0,0.9907,5,SocialBehavioralAutism requires restored routine to resume tasks
+SocialBehavioralAutism_4_79,SB,Social/Behavioral autism,A14,1,0.993,4,SocialBehavioralAutism experiences unlabeled physiological arousal from disruption
+SocialBehavioralAutism_5_194,SB,Social/Behavioral autism,A21,1,0.9944,5,SocialBehavioralAutism blocks learning if arousal framed as failure
+SocialBehavioralAutism_4_80,SB,Social/Behavioral autism,A16,1,0.9979,4,SocialBehavioralAutism's emotional response to disruption is delayed
+SocialBehavioralAutism_5_179,SB,Social/Behavioral autism,A16,1,0.997,5,SocialBehavioralAutism's distress surfaces after the redirect ends
+SocialBehavioralAutism_5_180,SB,Social/Behavioral autism,A24,1,0.994,5,SocialBehavioralAutism cannot link disruption to feedback in time
+SocialBehavioralAutism_1_2,SB,Social/Behavioral autism,A20,1,0.998,1,SocialBehavioralAutism generates disproportionate prediction error from the interruption
+SocialBehavioralAutism_2_18,SB,Social/Behavioral autism,A1,1,0.9919,2,SocialBehavioralAutism risks processing going offline temporarily
+SocialBehavioralAutism_3_55,SB,Social/Behavioral autism,A1,1,0.9969,3,SocialBehavioralAutism cannot engage the group task until regulated
+SocialBehavioralAutism_4_135,SB,Social/Behavioral autism,A1,1,0.9941,4,SocialBehavioralAutism requires regulation restored before learning resumes
+SocialBehavioralAutism_4_137,SB,Social/Behavioral autism,A19,0,0.9392,4,SocialBehavioralAutism seeks a routine to reduce prediction error
+SocialBehavioralAutism_4_138,SB,Social/Behavioral autism,A24,1,0.9984,4,SocialBehavioralAutism requires immediate specific feedback to reengage
+SocialBehavioralAutism_3_57,SB,Social/Behavioral autism,A20,1,0.9964,3,SocialBehavioralAutism experiences disproportionate disruption from the redirection
+SocialBehavioralAutism_4_153,SB,Social/Behavioral autism,A22,1,0.9902,4,SocialBehavioralAutism cannot automatically transfer focus to new task
+SocialBehavioralAutism_4_155,SB,Social/Behavioral autism,A19,1,0.9979,4,SocialBehavioralAutism loses the cognitive savings of routine
+SocialBehavioralAutism_2_19,SB,Social/Behavioral autism,A22,1,0.9966,2,SocialBehavioralAutism cannot automatically map interest task to group task
+SocialBehavioralAutism_3_42,SB,Social/Behavioral autism,A11,0,0.9943,3,SocialBehavioralAutism needs effortful control to sustain group attention
+SocialBehavioralAutism_4_91,SB,Social/Behavioral autism,A12,1,0.9896,4,SocialBehavioralAutism disengages without special-interest linked motivation
+SocialBehavioralAutism_5_218,SB,Social/Behavioral autism,A12,0,0.9925,5,SocialBehavioralAutism remains unmoved by praise-based redirection attempts
+SocialBehavioralAutism_5_219,SB,Social/Behavioral autism,A23,1,0.9939,5,SocialBehavioralAutism requires an explicit stated rule to rejoin
+SocialBehavioralAutism_5_220,SB,Social/Behavioral autism,A21,1,0.9938,5,SocialBehavioralAutism treats disengagement blame as a threat signal
+SocialBehavioralAutism_5_221,SB,Social/Behavioral autism,A24,1,0.9978,5,SocialBehavioralAutism ignores vague or delayed redirection cues
+SocialBehavioralAutism_4_93,SB,Social/Behavioral autism,A14,0,0.9904,4,SocialBehavioralAutism experiences unlabeled physiological arousal during forced attention
+SocialBehavioralAutism_5_217,SB,Social/Behavioral autism,A21,1,0.9949,5,Framing the redirection as failure would block learning
+SocialBehavioralAutism_3_43,SB,Social/Behavioral autism,A23,1,0.9979,3,SocialBehavioralAutism requires an explicit stated rule to transition
+SocialBehavioralAutism_4_112,SB,Social/Behavioral autism,A23,1,0.9964,4,SocialBehavioralAutism fails to transition without an explicit rule
+SocialBehavioralAutism_4_113,SB,Social/Behavioral autism,A18,0,0.9895,4,SocialBehavioralAutism stores the transition rule as explicit data
+SocialBehavioralAutism_4_114,SB,Social/Behavioral autism,A24,1,0.9973,4,SocialBehavioralAutism needs immediate specific feedback to learn the rule
+SocialBehavioralAutism_3_44,SB,Social/Behavioral autism,A21,1,0.9979,3,SocialBehavioralAutism blocks learning if redirection feels like failure
+SocialBehavioralAutism_4_100,SB,Social/Behavioral autism,A21,1,0.998,4,SocialBehavioralAutism activates threat response instead of learning
+SocialBehavioralAutism_5_233,SB,Social/Behavioral autism,A21,1,0.9978,5,SocialBehavioralAutism fails to encode redirection as learning information
+SocialBehavioralAutism_5_235,SB,Social/Behavioral autism,A18,1,0.9947,5,SocialBehavioralAutism requires conscious retrieval of an explicit rule to comply
+SocialBehavioralAutism_4_103,SB,Social/Behavioral autism,A24,1,0.9958,4,SocialBehavioralAutism fails to update behavior without immediate causal feedback
+SocialBehavioralAutism_5_229,SB,Social/Behavioral autism,A24,1,0.9917,5,SocialBehavioralAutism repeats the same redirection resistance next time
+SocialBehavioralAutism_5_231,SB,Social/Behavioral autism,A12,0,0.9936,5,SocialBehavioralAutism remains unmoved by social praise for compliance
+SocialBehavioralAutism_5_232,SB,Social/Behavioral autism,A19,1,0.9949,5,SocialBehavioralAutism relies on prior routine instead of new behavior
+SocialBehavioralAutism_2_20,SB,Social/Behavioral autism,A21,1,0.9979,2,SocialBehavioralAutism treats the redirection as threat if framed as failure
+SocialBehavioralAutism_3_53,SB,Social/Behavioral autism,A14,1,0.987,3,SocialBehavioralAutism cannot identify the arousal state produced
+SocialBehavioralAutism_4_149,SB,Social/Behavioral autism,A16,1,0.9982,4,SocialBehavioralAutism's emotional response emerges after significant delay
+SocialBehavioralAutism_4_151,SB,Social/Behavioral autism,A15,0,0.9896,4,SocialBehavioralAutism cannot infer others' reactions without deliberate analysis
+SocialBehavioralAutism_3_54,SB,Social/Behavioral autism,A16,1,0.9982,3,SocialBehavioralAutism delays its response to the redirection
+SocialBehavioralAutism_4_129,SB,Social/Behavioral autism,A16,1,0.9845,4,SocialBehavioralAutism reacts to the redirection after the moment passes
+SocialBehavioralAutism_4_130,SB,Social/Behavioral autism,A24,1,0.9935,4,SocialBehavioralAutism fails to link the redirection to its cause
+SocialBehavioralAutism_4_131,SB,Social/Behavioral autism,A11,1,0.9966,4,SocialBehavioralAutism remains attentionally fixed on the original detail
+SocialBehavioralAutism_1_3,SB,Social/Behavioral autism,A12,1,0.9975,1,SocialBehavioralAutism lacks motivation for the unrelated group task
+SocialBehavioralAutism_2_12,SB,Social/Behavioral autism,A11,1,0.9965,2,SocialBehavioralAutism requires effortful control to attend
+SocialBehavioralAutism_3_40,SB,Social/Behavioral autism,A19,1,0.9877,3,SocialBehavioralAutism lacks routine structure to offset the effort
+SocialBehavioralAutism_4_94,SB,Social/Behavioral autism,A20,1,0.9979,4,SocialBehavioralAutism experiences disproportionate prediction error from the transition
+SocialBehavioralAutism_4_96,SB,Social/Behavioral autism,A19,1,0.9872,4,SocialBehavioralAutism has no freed cognitive resources for the shift
+SocialBehavioralAutism_2_14,SB,Social/Behavioral autism,A12,1,0.9897,2,SocialBehavioralAutism resists external social incentives to comply
+SocialBehavioralAutism_3_48,SB,Social/Behavioral autism,A11,1,0.9974,3,SocialBehavioralAutism sustains focus on the special interest
+SocialBehavioralAutism_4_148,SB,Social/Behavioral autism,A13,1,0.9862,4,SocialBehavioralAutism resists transfer of focus outside interest domain
+SocialBehavioralAutism_3_49,SB,Social/Behavioral autism,A13,0,0.9793,3,SocialBehavioralAutism disengages unless task links to special interest
+SocialBehavioralAutism_4_121,SB,Social/Behavioral autism,A21,1,0.9954,4,SocialBehavioralAutism treats forced disengagement as a threat if framed as failure
+SocialBehavioralAutism_3_50,SB,Social/Behavioral autism,A23,1,0.9968,3,SocialBehavioralAutism requires an explicit stated rule to redirect
+SocialBehavioralAutism_4_126,SB,Social/Behavioral autism,A22,1,0.9982,4,SocialBehavioralAutism cannot generalize prior redirect rules to this task
+SocialBehavioralAutism_4_127,SB,Social/Behavioral autism,A18,1,0.9962,4,SocialBehavioralAutism must consciously retrieve the matching rule
+SocialBehavioralAutism_4_128,SB,Social/Behavioral autism,A24,1,0.9982,4,SocialBehavioralAutism needs immediate specific feedback to redirect
+SocialBehavioralAutism_1_4,SB,Social/Behavioral autism,A19,1,0.9972,1,SocialBehavioralAutism loses cognitive resources allocated by prior routine
+SocialBehavioralAutism_2_9,SB,Social/Behavioral autism,A20,1,0.9975,2,SocialBehavioralAutism generates a disproportionate prediction error signal
+SocialBehavioralAutism_3_45,SB,Social/Behavioral autism,A1,1,0.9963,3,SocialBehavioralAutism risks cognitive processing going offline
+SocialBehavioralAutism_4_97,SB,Social/Behavioral autism,A1,1,0.9969,4,SocialBehavioralAutism becomes unavailable for social engagement
+SocialBehavioralAutism_3_47,SB,Social/Behavioral autism,A19,1,0.9973,3,SocialBehavioralAutism loses the routine's resource-saving optimization
+SocialBehavioralAutism_4_115,SB,Social/Behavioral autism,A19,1,0.998,4,SocialBehavioralAutism cannot allocate resources to the new task
+SocialBehavioralAutism_4_117,SB,Social/Behavioral autism,A2,1,0.9935,4,SocialBehavioralAutism must effortfully filter competing task stimuli
+SocialBehavioralAutism_5_207,SB,Social/Behavioral autism,A11,1,0.997,5,SocialBehavioralAutism cannot sustain attention without continued effort
+SocialBehavioralAutism_5_209,SB,Social/Behavioral autism,A2,0,0.96,5,SocialBehavioralAutism must continuously suppress equally-weighted stimuli
+SocialBehavioralAutism_5_210,SB,Social/Behavioral autism,A5,1,0.9972,5,SocialBehavioralAutism keeps attending to the detail over the group task
+SocialBehavioralAutism_2_10,SB,Social/Behavioral autism,A11,1,0.9968,2,SocialBehavioralAutism requires effortful control to sustain the new task
+SocialBehavioralAutism_3_31,SB,Social/Behavioral autism,A11,1,0.9978,3,SocialBehavioralAutism cannot maintain attention automatically on the task
+SocialBehavioralAutism_4_66,SB,Social/Behavioral autism,A11,1,0.9955,4,SocialBehavioralAutism risks attention lapse without continuous effortful control
+SocialBehavioralAutism_5_141,SB,Social/Behavioral autism,A21,1,0.993,5,SocialBehavioralAutism treats an attention lapse as failure if criticized
+SocialBehavioralAutism_5_142,SB,Social/Behavioral autism,A19,1,0.998,5,SocialBehavioralAutism cannot offload cognitive load without an established routine
+SocialBehavioralAutism_2_11,SB,Social/Behavioral autism,A22,1,0.9969,2,SocialBehavioralAutism cannot generalize prior routine structure to task
+SocialBehavioralAutism_3_29,SB,Social/Behavioral autism,A22,1,0.9935,3,SocialBehavioralAutism requires explicit instruction to re-anchor task
+SocialBehavioralAutism_4_61,SB,Social/Behavioral autism,A23,1,0.9949,4,SocialBehavioralAutism ignores redirection unless explicitly stated
+SocialBehavioralAutism_5_168,SB,Social/Behavioral autism,A11,1,0.9977,5,SocialBehavioralAutism sustains hyperfocus on the fascinating detail
+SocialBehavioralAutism_5_169,SB,Social/Behavioral autism,A18,1,0.9968,5,SocialBehavioralAutism requires conscious retrieval of the group-task rule
+SocialBehavioralAutism_4_62,SB,Social/Behavioral autism,A18,1,0.9971,4,SocialBehavioralAutism must consciously retrieve matching task rule
+SocialBehavioralAutism_5_143,SB,Social/Behavioral autism,A11,0,0.9774,5,SocialBehavioralAutism must exert effortful control to disengage
+SocialBehavioralAutism_5_144,SB,Social/Behavioral autism,A18,1,0.9908,5,SocialBehavioralAutism experiences delay before applying task rule
+SocialBehavioralAutism_5_145,SB,Social/Behavioral autism,A23,1,0.9931,5,SocialBehavioralAutism follows the retrieved rule once matched
+SocialBehavioralAutism_4_63,SB,Social/Behavioral autism,A24,1,0.9958,4,SocialBehavioralAutism updates behavior only with specific immediate cues
+SocialBehavioralAutism_5_158,SB,Social/Behavioral autism,A12,1,0.9841,5,SocialBehavioralAutism resists group task absent special-interest link
