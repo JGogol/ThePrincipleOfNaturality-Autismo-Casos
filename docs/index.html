@@ -161,6 +161,7 @@ const KEYS=Object.keys(PROB);
 const COL={NT:0x34d399,SB:0xfacc15,MX:0xfb923c,MO:0xf43f5e,BR:0xc084fc};
 const CSS={NT:'#34d399',SB:'#facc15',MX:'#fb923c',MO:'#f43f5e',BR:'#c084fc'};
 const REL={F:['converge (F)','#34d399'],E:['entailment parcial','#93c5fd'],C:['contradice','#f87171'],N:['neutral','#9fb0cc']};
+const SIT={sensorial:'Cambian las luces del aula por tubos fluorescentes más brillantes y que zumban.',cambio:'La maestra cambia el horario del día sin ningún aviso.',sarcasmo:'Un compañero usa sarcasmo durante una conversación grupal.',burla:'Un compañero se burla abiertamente del niño frente al grupo.',atencion:'El niño está absorto en un detalle fascinante y debe redirigir la atención a una tarea grupal ajena.'};
 const SUB=['SB','MX','MO','BR'];
 const RG=250;
 
@@ -398,15 +399,15 @@ function actorTable(per){const O=['NT','SB','MX','MO','BR'];
   return h+'</table>';}
 function renderData(pi){const P=PROB[KEYS[pi]],s=P.stats;const sel=document.getElementById('dataSel');sel.innerHTML='';
   KEYS.forEach((k,i)=>{const b=document.createElement('button');b.textContent=PROB[k].label;if(i===pi)b.className='on';b.onclick=()=>renderData(i);sel.appendChild(b);});
-  let h=`<div class="dmetrics"><b>${s.total_nodes}</b> nodos · <b style="color:#34d399">${s.total_F}</b> en F (convergen) · convergencias núcleo autista <b style="color:#fb923c">${s.conv_autismo.toLocaleString()}</b> vs neurotípico <b style="color:#60a5fa">${s.conv_NT}</b> · aislamiento NT <b>×${s.ratio}</b> · <b style="color:#60a5fa">p&lt;0.001</b> (máx del null ×${s.null_max}) · HUB estricto <b style="color:#f87171">0</b>${s.hub&&s.hub.lax?' · HUB lax (5 actores) ✓':' · sin HUB global'}</div>`;
+  let h=`<div style="font-size:13px;color:#dfe6f2;margin:10px 0 2px"><b style="color:#93c5fd">Situación:</b> ${SIT[KEYS[pi]]||''}</div><div class="dmetrics"><b>${s.total_nodes}</b> nodos · <b style="color:#34d399">${s.total_F}</b> en F (convergen) · convergencias núcleo autista <b style="color:#fb923c">${s.conv_autismo.toLocaleString()}</b> vs neurotípico <b style="color:#60a5fa">${s.conv_NT}</b> · aislamiento NT <b>×${s.ratio}</b> · <b style="color:#60a5fa">p&lt;0.001</b> (máx del null ×${s.null_max}) · HUB estricto <b style="color:#f87171">0</b>${s.hub&&s.hub.lax?' · HUB lax (5 actores) ✓':' · sin HUB global'}</div>`;
   h+=matrixHTML('Matriz de convergencias certificadas',s.conv,'g');
   h+=matrixHTML('Matriz de contradicciones (NLI)',s.contra,'r');
   h+=actorTable(s.per_actor);
-  h+=topNodesHTML(s.top_nodes);
+  h+=topNodesHTML(s.top_nodes,PROB[KEYS[pi]].label,SIT[KEYS[pi]]||'');
   document.getElementById('dataBody').innerHTML=h;}
-function topNodesHTML(list){if(!list)return'';
-  let h='<div class="dmt">Inferencias más convergentes (anclas del problema)</div>';
-  list.forEach((n,i)=>{h+=`<div class="anchor"><div><b style="color:${CSS[n.actor]}">${n.actor}</b> · <b>${n.ax||'—'}</b> · <span style="color:#34d399">${n.degree} convergencias</span> · <span style="color:#93c5fd">llega a ${n.n_actors}/4 arquitecturas</span></div><div class="atext">"${n.text}"</div>`;
+function topNodesHTML(list,label,sit){if(!list)return'';
+  let h=`<div class="dmt">Inferencias más convergentes — ${label}</div><div style="font-size:11.5px;color:#93c5fd;margin:-2px 0 7px"><b>Situación:</b> <span style="color:#dfe6f2">${sit}</span></div>`;
+  list.forEach((n,i)=>{h+=`<div class="anchor"><div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px"><span><b style="color:${CSS[n.actor]}">${n.actor}</b> · <b>${n.ax||'—'}</b> · <span style="color:#34d399">${n.degree} conv.</span> · <span style="color:#93c5fd">${n.n_actors}/4</span></span><span style="color:#c4b5fd;font-weight:700;font-size:10.5px;white-space:nowrap">◆ ${label}</span></div><div class="atext">"${n.text}"</div>`;
     if(n.partners&&n.partners.length){h+='<div class="apart">converge con:</div>';
       n.partners.forEach(p=>{h+=`<div class="prow"><span class="dot" style="background:${CSS[p.actor]};width:8px;height:8px;margin-right:5px"></span><b style="color:${CSS[p.actor]}">${p.actor}</b> <span style="color:#8fa0bd">[${p.ax||'—'}]</span> "${p.text}"</div>`;});}
     h+='</div>';});
