@@ -1,0 +1,1054 @@
+{
+ "sensorial": {
+  "conv": {
+   "NT-SB": 5,
+   "MX-NT": 10,
+   "MO-NT": 19,
+   "BR-NT": 8,
+   "MX-SB": 183,
+   "MO-SB": 209,
+   "BR-SB": 290,
+   "MO-MX": 182,
+   "BR-MX": 201,
+   "BR-MO": 207
+  },
+  "contra": {
+   "NT-SB": 9640,
+   "MX-NT": 4584,
+   "MO-NT": 6558,
+   "BR-NT": 10128,
+   "MX-SB": 2190,
+   "MO-SB": 2171,
+   "BR-SB": 4922,
+   "MO-MX": 2604,
+   "BR-MX": 3097,
+   "BR-MO": 3427
+  },
+  "neutral": {
+   "NT-SB": 4354,
+   "MX-NT": 1869,
+   "MO-NT": 3651,
+   "BR-NT": 5069,
+   "MX-SB": 5870,
+   "MO-SB": 6831,
+   "BR-SB": 13397,
+   "MO-MX": 6869,
+   "BR-MX": 8401,
+   "BR-MO": 9418
+  },
+  "evaluated": {
+   "NT-SB": 14162,
+   "MX-NT": 6569,
+   "MO-NT": 10424,
+   "BR-NT": 15378,
+   "MX-SB": 9105,
+   "MO-SB": 10072,
+   "BR-SB": 19846,
+   "MO-MX": 10521,
+   "BR-MX": 12633,
+   "BR-MO": 14041
+  },
+  "per_actor": {
+   "NT": {
+    "nodos": 150,
+    "F": 31,
+    "pctF": 20.7,
+    "g_medio": 0.816,
+    "top_ax": [
+     [
+      "N6",
+      6
+     ],
+     [
+      "N11",
+      6
+     ],
+     [
+      "N22",
+      4
+     ]
+    ]
+   },
+   "SB": {
+    "nodos": 152,
+    "F": 122,
+    "pctF": 80.3,
+    "g_medio": 0.994,
+    "top_ax": [
+     [
+      "A1",
+      38
+     ],
+     [
+      "A11",
+      15
+     ],
+     [
+      "A24",
+      13
+     ]
+    ]
+   },
+   "MX": {
+    "nodos": 150,
+    "F": 114,
+    "pctF": 76.0,
+    "g_medio": 0.983,
+    "top_ax": [
+     [
+      "A1",
+      32
+     ],
+     [
+      "A19",
+      15
+     ],
+     [
+      "A24",
+      14
+     ]
+    ]
+   },
+   "MO": {
+    "nodos": 152,
+    "F": 120,
+    "pctF": 78.9,
+    "g_medio": 0.978,
+    "top_ax": [
+     [
+      "A1",
+      35
+     ],
+     [
+      "A2",
+      16
+     ],
+     [
+      "A20",
+      15
+     ]
+    ]
+   },
+   "BR": {
+    "nodos": 151,
+    "F": 134,
+    "pctF": 88.7,
+    "g_medio": 0.991,
+    "top_ax": [
+     [
+      "A1",
+      41
+     ],
+     [
+      "A24",
+      16
+     ],
+     [
+      "A19",
+      10
+     ]
+    ]
+   }
+  },
+  "total_nodes": 755,
+  "total_F": 521,
+  "conv_autismo": 1272,
+  "conv_NT": 42,
+  "ratio": 30.3,
+  "p": 0.000999000999000999,
+  "null_max": 2.97,
+  "hub": {
+   "strict": 0,
+   "lax": 0,
+   "bridge": null
+  },
+  "top_nodes": [
+   {
+    "actor": "MX",
+    "ax": "A1",
+    "degree": 25,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay's learning becomes unavailable during this exposure"
+   },
+   {
+    "actor": "SB",
+    "ax": "A1",
+    "degree": 24,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism loses access to learning capacity"
+   },
+   {
+    "actor": "MX",
+    "ax": "A1",
+    "degree": 23,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay's learning capacity becomes unavailable"
+   },
+   {
+    "actor": "SB",
+    "ax": "A1",
+    "degree": 22,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot access learning processes now"
+   },
+   {
+    "actor": "SB",
+    "ax": "A11",
+    "degree": 22,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot sustain attention on generic classroom content"
+   },
+   {
+    "actor": "BR",
+    "ax": "A11",
+    "degree": 22,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism cannot sustain attention on the lesson"
+   }
+  ]
+ },
+ "cambio": {
+  "conv": {
+   "NT-SB": 20,
+   "MX-NT": 11,
+   "MO-NT": 12,
+   "BR-NT": 18,
+   "MX-SB": 218,
+   "MO-SB": 226,
+   "BR-SB": 243,
+   "MO-MX": 295,
+   "BR-MX": 264,
+   "BR-MO": 250
+  },
+  "contra": {
+   "NT-SB": 9792,
+   "MX-NT": 4699,
+   "MO-NT": 6449,
+   "BR-NT": 9815,
+   "MX-SB": 2060,
+   "MO-SB": 2207,
+   "BR-SB": 4424,
+   "MO-MX": 2356,
+   "BR-MX": 2423,
+   "BR-MO": 2761
+  },
+  "neutral": {
+   "NT-SB": 6781,
+   "MX-NT": 3251,
+   "MO-NT": 3527,
+   "BR-NT": 7207,
+   "MX-SB": 6676,
+   "MO-SB": 7282,
+   "BR-SB": 14043,
+   "MO-MX": 8153,
+   "BR-MX": 9397,
+   "BR-MO": 10148
+  },
+  "evaluated": {
+   "NT-SB": 16866,
+   "MX-NT": 8067,
+   "MO-NT": 10129,
+   "BR-NT": 17265,
+   "MX-SB": 9695,
+   "MO-SB": 10512,
+   "BR-SB": 19685,
+   "MO-MX": 11691,
+   "BR-MX": 12903,
+   "BR-MO": 13953
+  },
+  "per_actor": {
+   "NT": {
+    "nodos": 150,
+    "F": 35,
+    "pctF": 23.3,
+    "g_medio": 0.895,
+    "top_ax": [
+     [
+      "N6",
+      7
+     ],
+     [
+      "N19",
+      5
+     ],
+     [
+      "N21",
+      4
+     ]
+    ]
+   },
+   "SB": {
+    "nodos": 151,
+    "F": 128,
+    "pctF": 84.8,
+    "g_medio": 0.986,
+    "top_ax": [
+     [
+      "A1",
+      21
+     ],
+     [
+      "A19",
+      18
+     ],
+     [
+      "A24",
+      16
+     ]
+    ]
+   },
+   "MX": {
+    "nodos": 152,
+    "F": 122,
+    "pctF": 80.3,
+    "g_medio": 0.985,
+    "top_ax": [
+     [
+      "A1",
+      27
+     ],
+     [
+      "A24",
+      18
+     ],
+     [
+      "A19",
+      15
+     ]
+    ]
+   },
+   "MO": {
+    "nodos": 150,
+    "F": 128,
+    "pctF": 85.3,
+    "g_medio": 0.981,
+    "top_ax": [
+     [
+      "A1",
+      29
+     ],
+     [
+      "A24",
+      17
+     ],
+     [
+      "A23",
+      15
+     ]
+    ]
+   },
+   "BR": {
+    "nodos": 150,
+    "F": 129,
+    "pctF": 86.0,
+    "g_medio": 0.994,
+    "top_ax": [
+     [
+      "A1",
+      33
+     ],
+     [
+      "A24",
+      16
+     ],
+     [
+      "A19",
+      16
+     ]
+    ]
+   }
+  },
+  "total_nodes": 753,
+  "total_F": 542,
+  "conv_autismo": 1496,
+  "conv_NT": 61,
+  "ratio": 24.5,
+  "p": 0.000999000999000999,
+  "null_max": 2.58,
+  "hub": {
+   "strict": 0,
+   "lax": 1,
+   "bridge": {
+    "NT": "NeurotypicalCognition seeks clarifying cues about the new schedule",
+    "SB": "SocialBehavioralAutism requires explicit retrieval of new schedule rules",
+    "MX": "MixedASDwithDelay requires explicit instruction to re-anchor schedule",
+    "MO": "ModerateAutism defaults to a previously established routine action",
+    "BR": "BroadlyAffectedAutism requires explicit statement of the new schedule"
+   }
+  },
+  "top_nodes": [
+   {
+    "actor": "SB",
+    "ax": "A24",
+    "degree": 25,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot update its schedule without specific feedback"
+   },
+   {
+    "actor": "MO",
+    "ax": "A1",
+    "degree": 25,
+    "n_actors": 3,
+    "text": "ModerateAutism cannot engage in learning currently"
+   },
+   {
+    "actor": "MX",
+    "ax": "A18",
+    "degree": 24,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay cannot consciously retrieve pragmatic rules now"
+   },
+   {
+    "actor": "BR",
+    "ax": "A24",
+    "degree": 24,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism remains unable to incorporate the schedule change"
+   },
+   {
+    "actor": "MO",
+    "ax": "A24",
+    "degree": 22,
+    "n_actors": 3,
+    "text": "ModerateAutism cannot update its schedule expectation without explicit feedback"
+   },
+   {
+    "actor": "BR",
+    "ax": "A1",
+    "degree": 22,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism cannot engage in learning temporarily"
+   }
+  ]
+ },
+ "sarcasmo": {
+  "conv": {
+   "NT-SB": 26,
+   "MX-NT": 22,
+   "MO-NT": 28,
+   "BR-NT": 27,
+   "MX-SB": 371,
+   "MO-SB": 415,
+   "BR-SB": 347,
+   "MO-MX": 493,
+   "BR-MX": 377,
+   "BR-MO": 378
+  },
+  "contra": {
+   "NT-SB": 12281,
+   "MX-NT": 5274,
+   "MO-NT": 6415,
+   "BR-NT": 11379,
+   "MX-SB": 4588,
+   "MO-SB": 4513,
+   "BR-SB": 6432,
+   "MO-MX": 4872,
+   "BR-MX": 5545,
+   "BR-MO": 5800
+  },
+  "neutral": {
+   "NT-SB": 7161,
+   "MX-NT": 2471,
+   "MO-NT": 2907,
+   "BR-NT": 7542,
+   "MX-SB": 7194,
+   "MO-SB": 7582,
+   "BR-SB": 12326,
+   "MO-MX": 7187,
+   "BR-MX": 8812,
+   "BR-MO": 9525
+  },
+  "evaluated": {
+   "NT-SB": 19997,
+   "MX-NT": 8037,
+   "MO-NT": 9686,
+   "BR-NT": 19388,
+   "MX-SB": 13453,
+   "MO-SB": 13945,
+   "BR-SB": 20583,
+   "MO-MX": 14037,
+   "BR-MX": 15961,
+   "BR-MO": 17091
+  },
+  "per_actor": {
+   "NT": {
+    "nodos": 150,
+    "F": 48,
+    "pctF": 32.0,
+    "g_medio": 0.935,
+    "top_ax": [
+     [
+      "N18",
+      10
+     ],
+     [
+      "N23",
+      9
+     ],
+     [
+      "N22",
+      8
+     ]
+    ]
+   },
+   "SB": {
+    "nodos": 151,
+    "F": 137,
+    "pctF": 90.7,
+    "g_medio": 0.993,
+    "top_ax": [
+     [
+      "A18",
+      35
+     ],
+     [
+      "A22",
+      20
+     ],
+     [
+      "A17",
+      18
+     ]
+    ]
+   },
+   "MX": {
+    "nodos": 150,
+    "F": 134,
+    "pctF": 89.3,
+    "g_medio": 0.991,
+    "top_ax": [
+     [
+      "A18",
+      37
+     ],
+     [
+      "A17",
+      23
+     ],
+     [
+      "A24",
+      21
+     ]
+    ]
+   },
+   "MO": {
+    "nodos": 150,
+    "F": 139,
+    "pctF": 92.7,
+    "g_medio": 0.994,
+    "top_ax": [
+     [
+      "A18",
+      38
+     ],
+     [
+      "A22",
+      29
+     ],
+     [
+      "A23",
+      25
+     ]
+    ]
+   },
+   "BR": {
+    "nodos": 150,
+    "F": 134,
+    "pctF": 89.3,
+    "g_medio": 0.994,
+    "top_ax": [
+     [
+      "A18",
+      43
+     ],
+     [
+      "A17",
+      18
+     ],
+     [
+      "A24",
+      14
+     ]
+    ]
+   }
+  },
+  "total_nodes": 751,
+  "total_F": 592,
+  "conv_autismo": 2381,
+  "conv_NT": 103,
+  "ratio": 23.1,
+  "p": 0.000999000999000999,
+  "null_max": 2.79,
+  "hub": {
+   "strict": 0,
+   "lax": 1,
+   "bridge": {
+    "NT": "NeurotypicalCognition decodes the sarcasm without additional inferential steps",
+    "SB": "SocialBehavioralAutism first interprets the sarcasm literally",
+    "MX": "MixedASDwithDelay decodes the sarcasm as literal statement",
+    "MO": "ModerateAutism retains literal meaning absent proximate corrective feedback",
+    "BR": "BroadlyAffectedAutism processes the sarcastic statement as literal meaning"
+   }
+  },
+  "top_nodes": [
+   {
+    "actor": "MO",
+    "ax": "A18",
+    "degree": 45,
+    "n_actors": 4,
+    "text": "ModerateAutism does not retrieve a pragmatic rule entry"
+   },
+   {
+    "actor": "SB",
+    "ax": "A22",
+    "degree": 43,
+    "n_actors": 4,
+    "text": "SocialBehavioralAutism fails to generalize prior sarcasm exposure here"
+   },
+   {
+    "actor": "MX",
+    "ax": "A22",
+    "degree": 41,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay cannot generalize this literal reading to future sarcasm"
+   },
+   {
+    "actor": "MO",
+    "ax": "A18",
+    "degree": 40,
+    "n_actors": 3,
+    "text": "ModerateAutism does not retrieve a sarcasm-detection social rule"
+   },
+   {
+    "actor": "BR",
+    "ax": "A22",
+    "degree": 37,
+    "n_actors": 4,
+    "text": "BroadlyAffectedAutism does not generalize this correction to future sarcasm"
+   },
+   {
+    "actor": "BR",
+    "ax": "A23",
+    "degree": 36,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism cannot reliably apply the unspoken sarcastic norm"
+   }
+  ]
+ },
+ "burla": {
+  "conv": {
+   "NT-SB": 12,
+   "MX-NT": 9,
+   "MO-NT": 11,
+   "BR-NT": 22,
+   "MX-SB": 370,
+   "MO-SB": 326,
+   "BR-SB": 320,
+   "MO-MX": 594,
+   "BR-MX": 378,
+   "BR-MO": 309
+  },
+  "contra": {
+   "NT-SB": 11249,
+   "MX-NT": 5009,
+   "MO-NT": 6394,
+   "BR-NT": 10726,
+   "MX-SB": 5122,
+   "MO-SB": 4753,
+   "BR-SB": 7108,
+   "MO-MX": 3522,
+   "BR-MX": 4651,
+   "BR-MO": 5044
+  },
+  "neutral": {
+   "NT-SB": 9095,
+   "MX-NT": 2236,
+   "MO-NT": 3266,
+   "BR-NT": 8801,
+   "MX-SB": 8463,
+   "MO-SB": 8023,
+   "BR-SB": 12070,
+   "MO-MX": 7705,
+   "BR-MX": 9037,
+   "BR-MO": 9216
+  },
+  "evaluated": {
+   "NT-SB": 20775,
+   "MX-NT": 7399,
+   "MO-NT": 9804,
+   "BR-NT": 19867,
+   "MX-SB": 15379,
+   "MO-SB": 14466,
+   "BR-SB": 20977,
+   "MO-MX": 13732,
+   "BR-MX": 15503,
+   "BR-MO": 15913
+  },
+  "per_actor": {
+   "NT": {
+    "nodos": 150,
+    "F": 33,
+    "pctF": 22.0,
+    "g_medio": 0.875,
+    "top_ax": [
+     [
+      "N21",
+      9
+     ],
+     [
+      "N23",
+      9
+     ],
+     [
+      "N12",
+      4
+     ]
+    ]
+   },
+   "SB": {
+    "nodos": 151,
+    "F": 123,
+    "pctF": 81.5,
+    "g_medio": 0.988,
+    "top_ax": [
+     [
+      "A18",
+      30
+     ],
+     [
+      "A23",
+      16
+     ],
+     [
+      "A16",
+      15
+     ]
+    ]
+   },
+   "MX": {
+    "nodos": 150,
+    "F": 136,
+    "pctF": 90.7,
+    "g_medio": 0.994,
+    "top_ax": [
+     [
+      "A18",
+      27
+     ],
+     [
+      "A23",
+      22
+     ],
+     [
+      "A22",
+      19
+     ]
+    ]
+   },
+   "MO": {
+    "nodos": 151,
+    "F": 129,
+    "pctF": 85.4,
+    "g_medio": 0.989,
+    "top_ax": [
+     [
+      "A18",
+      24
+     ],
+     [
+      "A23",
+      24
+     ],
+     [
+      "A22",
+      22
+     ]
+    ]
+   },
+   "BR": {
+    "nodos": 150,
+    "F": 132,
+    "pctF": 88.0,
+    "g_medio": 0.989,
+    "top_ax": [
+     [
+      "A18",
+      27
+     ],
+     [
+      "A24",
+      14
+     ],
+     [
+      "A16",
+      13
+     ]
+    ]
+   }
+  },
+  "total_nodes": 752,
+  "total_F": 553,
+  "conv_autismo": 2297,
+  "conv_NT": 54,
+  "ratio": 42.5,
+  "p": 0.000999000999000999,
+  "null_max": 2.78,
+  "hub": {
+   "strict": 0,
+   "lax": 0,
+   "bridge": null
+  },
+  "top_nodes": [
+   {
+    "actor": "MX",
+    "ax": "A17",
+    "degree": 43,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+   },
+   {
+    "actor": "SB",
+    "ax": "A18",
+    "degree": 42,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot automatically detect the implicit social insult"
+   },
+   {
+    "actor": "SB",
+    "ax": "A21",
+    "degree": 40,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism fails to extract learning from the mocking incident"
+   },
+   {
+    "actor": "MO",
+    "ax": "A18",
+    "degree": 40,
+    "n_actors": 3,
+    "text": "ModerateAutism cannot automatically infer social intent behind mockery"
+   },
+   {
+    "actor": "BR",
+    "ax": "A23",
+    "degree": 40,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism cannot apply the implicit social insult meaning"
+   },
+   {
+    "actor": "BR",
+    "ax": "A23",
+    "degree": 39,
+    "n_actors": 3,
+    "text": "BroadlyAffectedAutism cannot apply an implicit social convention here"
+   }
+  ]
+ },
+ "atencion": {
+  "conv": {
+   "NT-SB": 22,
+   "MX-NT": 13,
+   "MO-NT": 20,
+   "BR-NT": 11,
+   "MX-SB": 199,
+   "MO-SB": 285,
+   "BR-SB": 231,
+   "MO-MX": 242,
+   "BR-MX": 178,
+   "BR-MO": 195
+  },
+  "contra": {
+   "NT-SB": 12168,
+   "MX-NT": 5186,
+   "MO-NT": 6761,
+   "BR-NT": 10944,
+   "MX-SB": 2241,
+   "MO-SB": 2435,
+   "BR-SB": 5520,
+   "MO-MX": 2433,
+   "BR-MX": 2965,
+   "BR-MO": 3579
+  },
+  "neutral": {
+   "NT-SB": 7042,
+   "MX-NT": 2556,
+   "MO-NT": 3712,
+   "BR-NT": 7896,
+   "MX-SB": 6753,
+   "MO-SB": 7773,
+   "BR-SB": 14051,
+   "MO-MX": 8413,
+   "BR-MX": 9172,
+   "BR-MO": 11003
+  },
+  "evaluated": {
+   "NT-SB": 19440,
+   "MX-NT": 7886,
+   "MO-NT": 10603,
+   "BR-NT": 19068,
+   "MX-SB": 9834,
+   "MO-SB": 11286,
+   "BR-SB": 20664,
+   "MO-MX": 11873,
+   "BR-MX": 13111,
+   "BR-MO": 15594
+  },
+  "per_actor": {
+   "NT": {
+    "nodos": 150,
+    "F": 35,
+    "pctF": 23.3,
+    "g_medio": 0.791,
+    "top_ax": [
+     [
+      "N11",
+      10
+     ],
+     [
+      "N22",
+      6
+     ],
+     [
+      "N21",
+      4
+     ]
+    ]
+   },
+   "SB": {
+    "nodos": 151,
+    "F": 132,
+    "pctF": 87.4,
+    "g_medio": 0.991,
+    "top_ax": [
+     [
+      "A21",
+      17
+     ],
+     [
+      "A24",
+      15
+     ],
+     [
+      "A11",
+      14
+     ]
+    ]
+   },
+   "MX": {
+    "nodos": 150,
+    "F": 123,
+    "pctF": 82.0,
+    "g_medio": 0.989,
+    "top_ax": [
+     [
+      "A21",
+      18
+     ],
+     [
+      "A1",
+      17
+     ],
+     [
+      "A19",
+      16
+     ]
+    ]
+   },
+   "MO": {
+    "nodos": 152,
+    "F": 128,
+    "pctF": 84.2,
+    "g_medio": 0.992,
+    "top_ax": [
+     [
+      "A20",
+      20
+     ],
+     [
+      "A23",
+      20
+     ],
+     [
+      "A24",
+      15
+     ]
+    ]
+   },
+   "BR": {
+    "nodos": 150,
+    "F": 124,
+    "pctF": 82.7,
+    "g_medio": 0.993,
+    "top_ax": [
+     [
+      "A21",
+      22
+     ],
+     [
+      "A1",
+      14
+     ],
+     [
+      "A20",
+      13
+     ]
+    ]
+   }
+  },
+  "total_nodes": 753,
+  "total_F": 542,
+  "conv_autismo": 1330,
+  "conv_NT": 66,
+  "ratio": 20.2,
+  "p": 0.000999000999000999,
+  "null_max": 2.77,
+  "hub": {
+   "strict": 0,
+   "lax": 0,
+   "bridge": null
+  },
+  "top_nodes": [
+   {
+    "actor": "MX",
+    "ax": "A19",
+    "degree": 21,
+    "n_actors": 3,
+    "text": "MixedASDwithDelay cannot offload cognitive resources without established routine"
+   },
+   {
+    "actor": "MO",
+    "ax": "A24",
+    "degree": 21,
+    "n_actors": 3,
+    "text": "ModerateAutism fails to shift attention without observable feedback"
+   },
+   {
+    "actor": "SB",
+    "ax": "A11",
+    "degree": 19,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot maintain attention automatically on the task"
+   },
+   {
+    "actor": "MO",
+    "ax": "A18",
+    "degree": 19,
+    "n_actors": 3,
+    "text": "ModerateAutism cannot infer redirection from unspoken expectations"
+   },
+   {
+    "actor": "SB",
+    "ax": "A11",
+    "degree": 18,
+    "n_actors": 3,
+    "text": "SocialBehavioralAutism cannot sustain attention on group task automatically"
+   },
+   {
+    "actor": "MO",
+    "ax": "A22",
+    "degree": 18,
+    "n_actors": 3,
+    "text": "ModerateAutism cannot transfer attention rules to this new context"
+   }
+  ]
+ }
+}

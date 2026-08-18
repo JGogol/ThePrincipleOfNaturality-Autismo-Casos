@@ -54,6 +54,9 @@ grafos_certificados/          Capa limpia (CSV) derivada de runs/:
 auditoria/
     null_test.json              Test de permutación de etiquetas (1000×) por problema.
     CONTROL_CRUZADO.md          Verificación de grounding + lógica de cadenas raíz→hoja.
+    problem_stats.json          Estadística por problema: matrices de convergencia y contradicción (5×5),
+                                stats por actor (nodos, F, %F, g medio, axioma dominante) y nodos más convergentes.
+docs/index.html               Visualización interactiva (GitHub Pages).
 ```
 
 ### Diccionario — `grafos_certificados/XX_nodos.csv`
