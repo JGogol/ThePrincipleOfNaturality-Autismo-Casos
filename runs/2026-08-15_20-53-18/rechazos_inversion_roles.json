@@ -1,0 +1,159 @@
+{
+  "total": 14,
+  "items": [
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_193",
+      "node_b_id": "ModerateAutism_4_67",
+      "node_a_texto": "SocialBehavioralAutism cannot sustain attention on generic classroom content",
+      "node_b_texto": "ModerateAutism must expend effort to filter instruction",
+      "nli_score": 0.904045581817627,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_193",
+      "node_b_id": "ModerateAutism_5_102",
+      "node_a_texto": "SocialBehavioralAutism cannot sustain attention on generic classroom content",
+      "node_b_texto": "ModerateAutism has reduced cognitive resources for instruction content",
+      "nli_score": 0.9723128378391266,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_193",
+      "node_b_id": "ModerateAutism_6_104",
+      "node_a_texto": "SocialBehavioralAutism cannot sustain attention on generic classroom content",
+      "node_b_texto": "ModerateAutism cannot reallocate resources to lesson tasks",
+      "nli_score": 0.9852832853794098,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_198",
+      "node_b_id": "ModerateAutism_4_56",
+      "node_a_texto": "SocialBehavioralAutism cannot sustain redirected focus automatically",
+      "node_b_texto": "ModerateAutism loses routine-based cognitive resource allocation",
+      "nli_score": 0.946548730134964,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_198",
+      "node_b_id": "ModerateAutism_7_231",
+      "node_a_texto": "SocialBehavioralAutism cannot sustain redirected focus automatically",
+      "node_b_texto": "ModerateAutism cannot sustain effortful filtering automatically over time",
+      "nli_score": 0.5842688977718353,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_199",
+      "node_b_id": "ModerateAutism_5_116",
+      "node_a_texto": "SocialBehavioralAutism has reduced capacity to filter remaining stimuli",
+      "node_b_texto": "ModerateAutism has fewer cognitive resources for other tasks",
+      "nli_score": 0.6888802349567413,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_202",
+      "node_b_id": "ModerateAutism_2_9",
+      "node_a_texto": "SocialBehavioralAutism loses cognitive resources normally freed by routine",
+      "node_b_texto": "ModerateAutism's cognitive processing goes offline",
+      "nli_score": 0.5977146103978157,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_202",
+      "node_b_id": "ModerateAutism_8_327",
+      "node_a_texto": "SocialBehavioralAutism loses cognitive resources normally freed by routine",
+      "node_b_texto": "ModerateAutism's learning capacity becomes unavailable temporarily",
+      "nli_score": 0.6578412353992462,
+      "rejection_reason": "Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS.",
+      "llm_response": "RECHAZAR: 0, 2, 4, 6, 8, 10, 11, 13 | RAZÓN: Estos pares no representan roles invertidos (no hay agresor/víctima), sino proposiciones semánticamente distintas o no equivalentes que describen mecanismos/causas diferentes (esfuerzo de filtrado, recursos cognitivos, desconexión de procesamiento) en lugar de la misma perspectiva sobre el mismo evento; no deben fusionarse como MISMA_PERSPECTIVA ni corresponden a ROLES_INVERTIDOS."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_3_41",
+      "node_b_id": "BroadlyAffectedAutism_3_44",
+      "node_a_texto": "SocialBehavioralAutism cannot access learning processes now",
+      "node_b_texto": "BroadlyAffectedAutism cannot sustain attention on the lesson",
+      "nli_score": 0.797153502702713,
+      "rejection_reason": "[3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición.",
+      "llm_response": "RECHAZAR: 3, 7, 13 | RAZÓN: [3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_3_41",
+      "node_b_id": "BroadlyAffectedAutism_4_118",
+      "node_a_texto": "SocialBehavioralAutism cannot access learning processes now",
+      "node_b_texto": "BroadlyAffectedAutism cannot execute established classroom routines currently",
+      "nli_score": 0.9643993675708771,
+      "rejection_reason": "[3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición.",
+      "llm_response": "RECHAZAR: 3, 7, 13 | RAZÓN: [3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_3_45",
+      "node_b_id": "BroadlyAffectedAutism_3_29",
+      "node_a_texto": "SocialBehavioralAutism experiences arousal without identifying the emotion",
+      "node_b_texto": "BroadlyAffectedAutism experiences disruption disproportionate to the actual change",
+      "nli_score": 0.6144641190767288,
+      "rejection_reason": "[3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición.",
+      "llm_response": "RECHAZAR: 3, 7, 13 | RAZÓN: [3] y [7] describen procesos específicos diferentes (atención sostenida, rutinas motoras) no equivalentes semánticamente al acceso general a procesos de aprendizaje; [13] describe una respuesta de disregulación desproporcionada, no la falla de identificación/etiquetado emocional descrita en la otra proposición."
+    },
+    {
+      "actor_a": "MixedASDwithDelay",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "MixedASDwithDelay_4_51",
+      "node_b_id": "BroadlyAffectedAutism_5_226",
+      "node_a_texto": "MixedASDwithDelay cannot allocate resources to ongoing tasks",
+      "node_b_texto": "BroadlyAffectedAutism cannot sustain redirected attention automatically",
+      "nli_score": 0.9833649694919586,
+      "rejection_reason": "En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social).",
+      "llm_response": "RECHAZAR: 2, 5, 14 | RAZÓN: En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social)."
+    },
+    {
+      "actor_a": "MixedASDwithDelay",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "MixedASDwithDelay_4_58",
+      "node_b_id": "BroadlyAffectedAutism_5_209",
+      "node_a_texto": "MixedASDwithDelay's behavior remains unmodified by this feedback",
+      "node_b_texto": "BroadlyAffectedAutism's behavior remains unchanged for future sensory events",
+      "nli_score": 0.6287297159433365,
+      "rejection_reason": "En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social).",
+      "llm_response": "RECHAZAR: 2, 5, 14 | RAZÓN: En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social)."
+    },
+    {
+      "actor_a": "MixedASDwithDelay",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "MixedASDwithDelay_5_69",
+      "node_b_id": "BroadlyAffectedAutism_3_24",
+      "node_a_texto": "MixedASDwithDelay cannot process classroom instruction during this state",
+      "node_b_texto": "BroadlyAffectedAutism cannot respond to classroom social exchanges now",
+      "nli_score": 0.927301675081253,
+      "rejection_reason": "En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social).",
+      "llm_response": "RECHAZAR: 2, 5, 14 | RAZÓN: En [2] se compara \"recursos para tareas\" con \"sostener atención redirigida\", conceptos distintos no equivalentes; en [5] el alcance difiere (\"este feedback\" puntual vs \"futuros eventos sensoriales\" generalizado); en [14] se compara \"procesar instrucción académica\" con \"responder a intercambios sociales\", que son dominios funcionales diferentes (cognitivo-académico vs social)."
+    }
+  ]
+}

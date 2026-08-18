@@ -1,0 +1,1873 @@
+{
+  "actor": "BroadlyAffectedAutism",
+  "raiz": {
+    "id": "BroadlyAffectedAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.5919853448867798,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "BroadlyAffectedAutism_1_1",
+        "texto": "BroadlyAffectedAutism experiences disproportionate disruption from the redirection",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.48744481801986694,
+        "sim_con_problema": 0.4045417904853821,
+        "peso_arista": 1.108013391494751,
+        "peso_acumulado": 1.108013391494751,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_16",
+            "texto": "BroadlyAffectedAutism generates a large prediction error signal",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.34647300839424133,
+            "sim_con_problema": 0.274428129196167,
+            "peso_arista": 1.3790988624095917,
+            "peso_acumulado": 2.4871122539043427,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_50",
+                "texto": "BroadlyAffectedAutism's cognitive processing becomes temporarily unavailable",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6332874298095703,
+                "sim_con_problema": 0.5741833448410034,
+                "peso_arista": 0.7925292253494263,
+                "peso_acumulado": 3.279641479253769,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_86",
+                    "texto": "BroadlyAffectedAutism cannot engage in social interaction now",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4139291048049927,
+                    "sim_con_problema": 0.34565696120262146,
+                    "peso_arista": 1.2404139339923859,
+                    "peso_acumulado": 4.520055413246155,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_238",
+                        "texto": "BroadlyAffectedAutism remains unavailable for learning until regulated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4796504080295563,
+                        "sim_con_problema": 0.33292192220687866,
+                        "peso_arista": 1.187427669763565,
+                        "peso_acumulado": 5.70748308300972,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_240",
+                        "texto": "BroadlyAffectedAutism cannot process group task feedback now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4478631317615509,
+                        "sim_con_problema": 0.4759023189544678,
+                        "peso_arista": 1.0762345492839813,
+                        "peso_acumulado": 5.596289962530136,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_87",
+                    "texto": "BroadlyAffectedAutism cannot learn until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4683091938495636,
+                    "sim_con_problema": 0.3831818103790283,
+                    "peso_arista": 1.148508995771408,
+                    "peso_acumulado": 4.428150475025177,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_53",
+                "texto": "BroadlyAffectedAutism's disruption exceeds the change's objective significance",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3732624053955078,
+                "sim_con_problema": 0.37526655197143555,
+                "peso_arista": 1.2514710426330566,
+                "peso_acumulado": 3.7385832965373993,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_117",
+                    "texto": "BroadlyAffectedAutism treats the disruption as a threat",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3002992868423462,
+                    "sim_con_problema": 0.30704692006111145,
+                    "peso_arista": 1.3926537930965424,
+                    "peso_acumulado": 5.131237089633942,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_2",
+        "texto": "BroadlyAffectedAutism requires effortful control to shift attention",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.6327928900718689,
+        "sim_con_problema": 0.6668211221694946,
+        "peso_arista": 0.7003859877586365,
+        "peso_acumulado": 0.7003859877586365,
+        "premise_id": "A11",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_7",
+            "texto": "BroadlyAffectedAutism cannot sustain attention on the group task automatically",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5502133369445801,
+            "sim_con_problema": 0.6924554109573364,
+            "peso_arista": 0.7573312520980835,
+            "peso_acumulado": 1.45771723985672,
+            "premise_id": "A11",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_21",
+                "texto": "BroadlyAffectedAutism must expend effortful control to engage the task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5597636699676514,
+                "sim_con_problema": 0.5803152322769165,
+                "peso_arista": 0.8599210977554321,
+                "peso_acumulado": 2.317638337612152,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_45",
+                    "texto": "BroadlyAffectedAutism depletes limited effortful control resources quickly",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3955094516277313,
+                    "sim_con_problema": 0.436278373003006,
+                    "peso_arista": 1.1682121753692627,
+                    "peso_acumulado": 3.485850512981415,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_109",
+                        "texto": "BroadlyAffectedAutism becomes more vulnerable to prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3811109662055969,
+                        "sim_con_problema": 0.3327794373035431,
+                        "peso_arista": 1.28610959649086,
+                        "peso_acumulado": 4.771960109472275,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_110",
+                        "texto": "BroadlyAffectedAutism approaches processing overload from the task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4854563772678375,
+                        "sim_con_problema": 0.5836082696914673,
+                        "peso_arista": 0.9309353530406952,
+                        "peso_acumulado": 4.41678586602211,
+                        "premise_id": "A6",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_111",
+                        "texto": "BroadlyAffectedAutism treats task difficulty as threatening failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46117082238197327,
+                        "sim_con_problema": 0.52195805311203,
+                        "peso_arista": 1.0168711245059967,
+                        "peso_acumulado": 4.5027216374874115,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_46",
+                    "texto": "BroadlyAffectedAutism transfers knowledge less reliably from the group task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4962463676929474,
+                    "sim_con_problema": 0.5537358522415161,
+                    "peso_arista": 0.9500177800655365,
+                    "peso_acumulado": 3.2676561176776886,
+                    "premise_id": "A13",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_83",
+                        "texto": "BroadlyAffectedAutism needs explicit instruction to reapply this learning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.567145586013794,
+                        "sim_con_problema": 0.458193302154541,
+                        "peso_arista": 0.974661111831665,
+                        "peso_acumulado": 4.242317229509354,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_183",
+                            "texto": "BroadlyAffectedAutism cannot generalize the learning without new instruction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5302504301071167,
+                            "sim_con_problema": 0.47477856278419495,
+                            "peso_arista": 0.9949710071086884,
+                            "peso_acumulado": 5.237288236618042,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_185",
+                            "texto": "BroadlyAffectedAutism stores the rule as explicit database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2802889943122864,
+                            "sim_con_problema": 0.18355828523635864,
+                            "peso_arista": 1.536152720451355,
+                            "peso_acumulado": 5.778469949960709,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_84",
+                        "texto": "BroadlyAffectedAutism generalizes concepts better via special interest tasks",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.560806155204773,
+                        "sim_con_problema": 0.5409415364265442,
+                        "peso_arista": 0.8982523083686829,
+                        "peso_acumulado": 4.1659084260463715,
+                        "premise_id": "A13",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_163",
+                            "texto": "BroadlyAffectedAutism relies on special interest as primary learning gateway",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5873963832855225,
+                            "sim_con_problema": 0.4338722229003906,
+                            "peso_arista": 0.9787313938140869,
+                            "peso_acumulado": 5.144639819860458,
+                            "premise_id": "A13",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_165",
+                            "texto": "BroadlyAffectedAutism does not automatically transfer group-task rules elsewhere",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5289943814277649,
+                            "sim_con_problema": 0.5171861052513123,
+                            "peso_arista": 0.9538195133209229,
+                            "peso_acumulado": 5.119727939367294,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_22",
+                "texto": "BroadlyAffectedAutism remains weakly motivated by the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4827725291252136,
+                "sim_con_problema": 0.5085431337356567,
+                "peso_arista": 1.0086843371391296,
+                "peso_acumulado": 2.4664015769958496,
+                "premise_id": "A12",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_47",
+                    "texto": "BroadlyAffectedAutism disengages from the group task without linkage",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4573485255241394,
+                    "sim_con_problema": 0.5773786902427673,
+                    "peso_arista": 0.9652727842330933,
+                    "peso_acumulado": 3.431674361228943,
+                    "premise_id": "A12",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_103",
+                        "texto": "BroadlyAffectedAutism stays unmotivated by the unlinked group task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.4902769923210144,
+                        "sim_con_problema": 0.5791445374488831,
+                        "peso_arista": 0.9305784702301025,
+                        "peso_acumulado": 4.362252831459045,
+                        "premise_id": "A12",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_202",
+                            "texto": "BroadlyAffectedAutism requires interest-linked incentive to re-engage",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4096647799015045,
+                            "sim_con_problema": 0.4631565809249878,
+                            "peso_arista": 1.1271786391735077,
+                            "peso_acumulado": 5.489431470632553,
+                            "premise_id": "A12",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_203",
+                            "texto": "BroadlyAffectedAutism fails to generalize concepts from the task",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.48128741979599,
+                            "sim_con_problema": 0.5350991487503052,
+                            "peso_arista": 0.9836134314537048,
+                            "peso_acumulado": 5.34586626291275,
+                            "premise_id": "A13",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_104",
+                        "texto": "BroadlyAffectedAutism treats disengagement as failure if socially framed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3480139970779419,
+                        "sim_con_problema": 0.38184812664985657,
+                        "peso_arista": 1.2701378762722015,
+                        "peso_acumulado": 4.701812237501144,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_48",
+                    "texto": "BroadlyAffectedAutism requires continuous effortful control to stay engaged",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4912048578262329,
+                    "sim_con_problema": 0.5281721949577332,
+                    "peso_arista": 0.9806229472160339,
+                    "peso_acumulado": 3.4470245242118835,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_105",
+                        "texto": "BroadlyAffectedAutism's engagement will lapse without renewed effort",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19588792324066162,
+                        "sim_con_problema": 0.2885780334472656,
+                        "peso_arista": 1.5155340433120728,
+                        "peso_acumulado": 4.962558567523956,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_107",
+                        "texto": "BroadlyAffectedAutism seeks return to the special interest",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37643587589263916,
+                        "sim_con_problema": 0.26624664664268494,
+                        "peso_arista": 1.357317477464676,
+                        "peso_acumulado": 4.8043420016765594,
+                        "premise_id": "A12",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_23",
+                "texto": "BroadlyAffectedAutism loses the resource-saving benefit of routine",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40404045581817627,
+                "sim_con_problema": 0.4830605387687683,
+                "peso_arista": 1.1128990054130554,
+                "peso_acumulado": 2.5706162452697754,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_54",
+                    "texto": "BroadlyAffectedAutism experiences disproportionate prediction error signals",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.42618924379348755,
+                    "sim_con_problema": 0.30013662576675415,
+                    "peso_arista": 1.2736741304397583,
+                    "peso_acumulado": 3.8442903757095337,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_130",
+                        "texto": "BroadlyAffectedAutism experiences arousal without identifying the emotion",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4773545265197754,
+                        "sim_con_problema": 0.350102961063385,
+                        "peso_arista": 1.1725425124168396,
+                        "peso_acumulado": 5.016832888126373,
+                        "premise_id": "A14",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_55",
+                    "texto": "BroadlyAffectedAutism has fewer cognitive resources for the task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5825687646865845,
+                    "sim_con_problema": 0.5747061967849731,
+                    "peso_arista": 0.8427250385284424,
+                    "peso_acumulado": 3.4133412837982178,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_97",
+                        "texto": "BroadlyAffectedAutism processes the group task more slowly",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5731487274169922,
+                        "sim_con_problema": 0.5664515495300293,
+                        "peso_arista": 0.8603997230529785,
+                        "peso_acumulado": 4.273741006851196,
+                        "premise_id": "A7",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_190",
+                            "texto": "BroadlyAffectedAutism experiences the group task as overload",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5118690729141235,
+                            "sim_con_problema": 0.5196794271469116,
+                            "peso_arista": 0.9684514999389648,
+                            "peso_acumulado": 5.242192506790161,
+                            "premise_id": "A6",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_191",
+                            "texto": "BroadlyAffectedAutism generates disproportionate error signals from the mismatch",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3533426523208618,
+                            "sim_con_problema": 0.28832152485847473,
+                            "peso_arista": 1.3583358228206635,
+                            "peso_acumulado": 5.63207682967186,
+                            "premise_id": "A20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_192",
+                            "texto": "BroadlyAffectedAutism risks going offline from accumulated demand",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15088586509227753,
+                            "sim_con_problema": 0.2690301537513733,
+                            "peso_arista": 1.5800839811563492,
+                            "peso_acumulado": 5.8538249880075455,
+                            "premise_id": "A1",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_98",
+                        "texto": "BroadlyAffectedAutism cannot sustain effortful attention on the task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4879775643348694,
+                        "sim_con_problema": 0.6345524787902832,
+                        "peso_arista": 0.8774699568748474,
+                        "peso_acumulado": 4.290811240673065,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_100",
+                        "texto": "BroadlyAffectedAutism risks threat-response blocking further learning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5402315855026245,
+                        "sim_con_problema": 0.46680259704589844,
+                        "peso_arista": 0.992965817451477,
+                        "peso_acumulado": 4.406307101249695,
+                        "premise_id": "A21",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_208",
+                            "texto": "BroadlyAffectedAutism stops treating errors as learning input",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4639820456504822,
+                            "sim_con_problema": 0.4338366985321045,
+                            "peso_arista": 1.1021812558174133,
+                            "peso_acumulado": 5.508488357067108,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_56",
+                    "texto": "BroadlyAffectedAutism risks processing overload from the shift",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.39931410551071167,
+                    "sim_con_problema": 0.47263050079345703,
+                    "peso_arista": 1.1280553936958313,
+                    "peso_acumulado": 3.6986716389656067,
+                    "premise_id": "A6",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_8",
+            "texto": "BroadlyAffectedAutism diverts resources away from the special interest",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3048947751522064,
+            "sim_con_problema": 0.4384485185146332,
+            "peso_arista": 1.2566567063331604,
+            "peso_acumulado": 1.9570426940917969,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_32",
+                "texto": "BroadlyAffectedAutism generates disproportionate prediction error from the shift",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3664262592792511,
+                "sim_con_problema": 0.35361015796661377,
+                "peso_arista": 1.2799635827541351,
+                "peso_acumulado": 3.237006276845932,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_80",
+                    "texto": "BroadlyAffectedAutism treats the redirection as highly significant disruption",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4088175296783447,
+                    "sim_con_problema": 0.4085896611213684,
+                    "peso_arista": 1.1825928092002869,
+                    "peso_acumulado": 4.419599086046219,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_217",
+                        "texto": "BroadlyAffectedAutism risks going offline from the disruption",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.22882181406021118,
+                        "sim_con_problema": 0.2922484874725342,
+                        "peso_arista": 1.4789296984672546,
+                        "peso_acumulado": 5.8985287845134735,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_218",
+                        "texto": "BroadlyAffectedAutism experiences unlabeled physiological arousal now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4565979242324829,
+                        "sim_con_problema": 0.3055759072303772,
+                        "peso_arista": 1.23782616853714,
+                        "peso_acumulado": 5.657425254583359,
+                        "premise_id": "A14",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_81",
+                    "texto": "BroadlyAffectedAutism risks cognitive processing going offline",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5427059531211853,
+                    "sim_con_problema": 0.5729801654815674,
+                    "peso_arista": 0.8843138813972473,
+                    "peso_acumulado": 4.121320158243179,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_154",
+                        "texto": "BroadlyAffectedAutism cannot engage socially until regulation restored",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37826231122016907,
+                        "sim_con_problema": 0.324421226978302,
+                        "peso_arista": 1.297316461801529,
+                        "peso_acumulado": 5.418636620044708,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_155",
+                        "texto": "BroadlyAffectedAutism delays its emotional response to the disruption",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5710653066635132,
+                        "sim_con_problema": 0.45335090160369873,
+                        "peso_arista": 0.9755837917327881,
+                        "peso_acumulado": 5.096903949975967,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_82",
+                    "texto": "BroadlyAffectedAutism activates a threat response to the disruption",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3999496102333069,
+                    "sim_con_problema": 0.40049290657043457,
+                    "peso_arista": 1.1995574831962585,
+                    "peso_acumulado": 4.4365637600421906,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_227",
+                        "texto": "BroadlyAffectedAutism blocks learning from this transition",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5733813047409058,
+                        "sim_con_problema": 0.48804613947868347,
+                        "peso_arista": 0.9385725557804108,
+                        "peso_acumulado": 5.375136315822601,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_230",
+                        "texto": "BroadlyAffectedAutism searches for an explicit rule to apply",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3598552942276001,
+                        "sim_con_problema": 0.27908968925476074,
+                        "peso_arista": 1.3610550165176392,
+                        "peso_acumulado": 5.79761877655983,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_3",
+        "texto": "BroadlyAffectedAutism shows weak motivation for the unrelated task",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5048428773880005,
+        "sim_con_problema": 0.6177696585655212,
+        "peso_arista": 0.8773874640464783,
+        "peso_acumulado": 0.8773874640464783,
+        "premise_id": "A12",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_14",
+            "texto": "BroadlyAffectedAutism remains unmotivated by external social prompts",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.43555310368537903,
+            "sim_con_problema": 0.4550701379776001,
+            "peso_arista": 1.1093767583370209,
+            "peso_acumulado": 1.9867642223834991,
+            "premise_id": "A12",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_37",
+                "texto": "BroadlyAffectedAutism ignores redirection lacking causal specific feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4841618239879608,
+                "sim_con_problema": 0.4961313009262085,
+                "peso_arista": 1.0197068750858307,
+                "peso_acumulado": 3.00647109746933,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_72",
+                    "texto": "BroadlyAffectedAutism experiences disproportionate disruption from the interruption",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44792795181274414,
+                    "sim_con_problema": 0.4003654718399048,
+                    "peso_arista": 1.151706576347351,
+                    "peso_acumulado": 4.158177673816681,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_159",
+                        "texto": "BroadlyAffectedAutism's learning capacity becomes temporarily unavailable",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5479245781898499,
+                        "sim_con_problema": 0.46479374170303345,
+                        "peso_arista": 0.9872816801071167,
+                        "peso_acumulado": 5.145459353923798,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_74",
+                    "texto": "BroadlyAffectedAutism cannot reallocate resources without a routine",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.34252750873565674,
+                    "sim_con_problema": 0.4869298040866852,
+                    "peso_arista": 1.170542687177658,
+                    "peso_acumulado": 4.177013784646988,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_175",
+                        "texto": "BroadlyAffectedAutism remains hyperfocused on the special interest detail",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4741135835647583,
+                        "sim_con_problema": 0.44866883754730225,
+                        "peso_arista": 1.0772175788879395,
+                        "peso_acumulado": 5.254231363534927,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_176",
+                        "texto": "BroadlyAffectedAutism lacks a routine to offload prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.271501749753952,
+                        "sim_con_problema": 0.28739112615585327,
+                        "peso_arista": 1.4411071240901947,
+                        "peso_acumulado": 5.618120908737183,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_75",
+                    "texto": "BroadlyAffectedAutism treats forced redirection as threat signal",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.40045857429504395,
+                    "sim_con_problema": 0.43841612339019775,
+                    "peso_arista": 1.1611253023147583,
+                    "peso_acumulado": 4.167596399784088,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_169",
+                        "texto": "BroadlyAffectedAutism's threat framing blocks learning from redirection",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5321639180183411,
+                        "sim_con_problema": 0.5445476770401001,
+                        "peso_arista": 0.9232884049415588,
+                        "peso_acumulado": 5.090884804725647,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_4",
+        "texto": "BroadlyAffectedAutism loses cognitive resources allocated by prior routine",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5569978952407837,
+        "sim_con_problema": 0.6319643259048462,
+        "peso_arista": 0.8110377788543701,
+        "peso_acumulado": 0.8110377788543701,
+        "premise_id": "A19",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_9",
+            "texto": "BroadlyAffectedAutism generates disproportionate prediction error from the redirect",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3794884979724884,
+            "sim_con_problema": 0.34991973638534546,
+            "peso_arista": 1.2705917656421661,
+            "peso_acumulado": 2.0816295444965363,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_39",
+                "texto": "BroadlyAffectedAutism becomes temporarily unavailable for social engagement",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3679891526699066,
+                "sim_con_problema": 0.3353382647037506,
+                "peso_arista": 1.2966725826263428,
+                "peso_acumulado": 3.378302127122879,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_95",
+                    "texto": "BroadlyAffectedAutism's emotional reaction surfaces after a delay",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5529331564903259,
+                    "sim_con_problema": 0.40626853704452515,
+                    "peso_arista": 1.040798306465149,
+                    "peso_acumulado": 4.419100433588028,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_215",
+                        "texto": "BroadlyAffectedAutism cannot link reaction to its trigger without cues",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49165642261505127,
+                        "sim_con_problema": 0.4128902852535248,
+                        "peso_arista": 1.095453292131424,
+                        "peso_acumulado": 5.514553725719452,
+                        "premise_id": "A10",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_216",
+                        "texto": "BroadlyAffectedAutism treats the reaction as threat if shamed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3597385883331299,
+                        "sim_con_problema": 0.2663789391517639,
+                        "peso_arista": 1.3738824725151062,
+                        "peso_acumulado": 5.792982906103134,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_96",
+                    "texto": "BroadlyAffectedAutism needs explicit proximate feedback to re-engage",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5177556872367859,
+                    "sim_con_problema": 0.47996336221694946,
+                    "peso_arista": 1.0022809505462646,
+                    "peso_acumulado": 4.380583077669144,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_205",
+                        "texto": "BroadlyAffectedAutism requires an explicitly stated transition rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4597901701927185,
+                        "sim_con_problema": 0.33812639117240906,
+                        "peso_arista": 1.2020834386348724,
+                        "peso_acumulado": 5.582666516304016,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_206",
+                        "texto": "BroadlyAffectedAutism retrieves matching rule from stored social database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2495507001876831,
+                        "sim_con_problema": 0.16478754580020905,
+                        "peso_arista": 1.5856617540121078,
+                        "peso_acumulado": 5.9662448316812515,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_207",
+                        "texto": "BroadlyAffectedAutism blocks learning if feedback implies failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.513798713684082,
+                        "sim_con_problema": 0.45318925380706787,
+                        "peso_arista": 1.03301203250885,
+                        "peso_acumulado": 5.413595110177994,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_41",
+                "texto": "BroadlyAffectedAutism reacts disproportionately relative to the redirect's significance",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5057355165481567,
+                "sim_con_problema": 0.42067021131515503,
+                "peso_arista": 1.0735942721366882,
+                "peso_acumulado": 3.1552238166332245,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_77",
+                    "texto": "BroadlyAffectedAutism enters threat response if reaction is judged",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3729666769504547,
+                    "sim_con_problema": 0.3278483748435974,
+                    "peso_arista": 1.2991849482059479,
+                    "peso_acumulado": 4.454408764839172,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_231",
+                        "texto": "BroadlyAffectedAutism blocks learning from the redirect experience",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5617311000823975,
+                        "sim_con_problema": 0.5254883170127869,
+                        "peso_arista": 0.9127805829048157,
+                        "peso_acumulado": 5.367189347743988,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_78",
+                    "texto": "BroadlyAffectedAutism requires effortful control to attend outside interest",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5231513977050781,
+                    "sim_con_problema": 0.6055841445922852,
+                    "peso_arista": 0.8712644577026367,
+                    "peso_acumulado": 4.026488274335861,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_150",
+                        "texto": "BroadlyAffectedAutism cannot sustain attention without continuous effort",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4842367470264435,
+                        "sim_con_problema": 0.6683118343353271,
+                        "peso_arista": 0.8474514186382294,
+                        "peso_acumulado": 4.873939692974091,
+                        "premise_id": "A11",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_79",
+                    "texto": "BroadlyAffectedAutism's visible response is delayed from the trigger",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5270840525627136,
+                    "sim_con_problema": 0.44351133704185486,
+                    "peso_arista": 1.0294046103954315,
+                    "peso_acumulado": 4.184628427028656,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_180",
+                        "texto": "BroadlyAffectedAutism's reaction appears disconnected from the redirect event",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3881819546222687,
+                        "sim_con_problema": 0.41095757484436035,
+                        "peso_arista": 1.200860470533371,
+                        "peso_acumulado": 5.385488897562027,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_181",
+                        "texto": "Feedback linked to the delayed reaction arrives non-proximately",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3098277449607849,
+                        "sim_con_problema": 0.30615004897117615,
+                        "peso_arista": 1.384022206068039,
+                        "peso_acumulado": 5.568650633096695,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_182",
+                        "texto": "BroadlyAffectedAutism's delayed reaction risks being framed as misbehavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4916298985481262,
+                        "sim_con_problema": 0.372814804315567,
+                        "peso_arista": 1.1355552971363068,
+                        "peso_acumulado": 5.320183724164963,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_42",
+                "texto": "BroadlyAffectedAutism treats the redirect as threatening if framed negatively",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.41706711053848267,
+                "sim_con_problema": 0.38416141271591187,
+                "peso_arista": 1.1987714767456055,
+                "peso_acumulado": 3.2804010212421417,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_89",
+                    "texto": "BroadlyAffectedAutism activates threat response blocking learning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5014675259590149,
+                    "sim_con_problema": 0.47088655829429626,
+                    "peso_arista": 1.0276459157466888,
+                    "peso_acumulado": 4.308046936988831,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_197",
+                        "texto": "BroadlyAffectedAutism fails to encode the redirect as learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5283555388450623,
+                        "sim_con_problema": 0.4288439154624939,
+                        "peso_arista": 1.0428005456924438,
+                        "peso_acumulado": 5.350847482681274,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_199",
+                        "texto": "BroadlyAffectedAutism delays its reaction to the redirect",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5043237209320068,
+                        "sim_con_problema": 0.4657369554042816,
+                        "peso_arista": 1.0299393236637115,
+                        "peso_acumulado": 5.337986260652542,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_200",
+                        "texto": "BroadlyAffectedAutism exhibits disruption disproportionate to the task change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5658000707626343,
+                        "sim_con_problema": 0.5934142470359802,
+                        "peso_arista": 0.8407856822013855,
+                        "peso_acumulado": 5.148832619190216,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_90",
+                    "texto": "BroadlyAffectedAutism delays its emotional response to the redirect",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6214538812637329,
+                    "sim_con_problema": 0.5115529298782349,
+                    "peso_arista": 0.8669931888580322,
+                    "peso_acumulado": 4.147394210100174,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_156",
+                        "texto": "BroadlyAffectedAutism's emotional reaction surfaces after the redirect ends",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5245935916900635,
+                        "sim_con_problema": 0.3829237222671509,
+                        "peso_arista": 1.0924826860427856,
+                        "peso_acumulado": 5.23987689614296,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_157",
+                        "texto": "BroadlyAffectedAutism cannot label the emotional state involved",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5072625875473022,
+                        "sim_con_problema": 0.3104957938194275,
+                        "peso_arista": 1.1822416186332703,
+                        "peso_acumulado": 5.329635828733444,
+                        "premise_id": "A14",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_158",
+                        "texto": "BroadlyAffectedAutism's delayed reaction breaks temporal link needed for learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6301885843276978,
+                        "sim_con_problema": 0.5506851673126221,
+                        "peso_arista": 0.8191262483596802,
+                        "peso_acumulado": 4.966520458459854,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_91",
+                    "texto": "BroadlyAffectedAutism cannot label its own arousal state",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4856688380241394,
+                    "sim_con_problema": 0.3696048855781555,
+                    "peso_arista": 1.144726276397705,
+                    "peso_acumulado": 4.425127297639847,
+                    "premise_id": "A14",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_223",
+                        "texto": "BroadlyAffectedAutism cannot process the arousal as learning information",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5940475463867188,
+                        "sim_con_problema": 0.5146031379699707,
+                        "peso_arista": 0.8913493156433105,
+                        "peso_acumulado": 5.316476613283157,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_11",
+            "texto": "BroadlyAffectedAutism has fewer resources available for the group task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.42131173610687256,
+            "sim_con_problema": 0.4522196054458618,
+            "peso_arista": 1.1264686584472656,
+            "peso_acumulado": 1.9375064373016357,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_30",
+                "texto": "BroadlyAffectedAutism processes the group task's social complexity slowly",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5933736562728882,
+                "sim_con_problema": 0.5241090059280396,
+                "peso_arista": 0.8825173377990723,
+                "peso_acumulado": 2.820023775100708,
+                "premise_id": "A7",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_61",
+                    "texto": "BroadlyAffectedAutism must consciously retrieve applicable social rules",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44558125734329224,
+                    "sim_con_problema": 0.4040650427341461,
+                    "peso_arista": 1.1503536999225616,
+                    "peso_acumulado": 3.9703774750232697,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_139",
+                        "texto": "BroadlyAffectedAutism delays action while matching stored rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3989810347557068,
+                        "sim_con_problema": 0.3932051956653595,
+                        "peso_arista": 1.2078137695789337,
+                        "peso_acumulado": 5.178191244602203,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_140",
+                        "texto": "BroadlyAffectedAutism cannot detect unspoken group expectations",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4854675233364105,
+                        "sim_con_problema": 0.4013936221599579,
+                        "peso_arista": 1.1131388545036316,
+                        "peso_acumulado": 5.083516329526901,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_141",
+                        "texto": "BroadlyAffectedAutism's rule retrieval slows under social complexity",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5333161354064941,
+                        "sim_con_problema": 0.44945335388183594,
+                        "peso_arista": 1.01723051071167,
+                        "peso_acumulado": 4.98760798573494,
+                        "premise_id": "A7",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_62",
+                    "texto": "BroadlyAffectedAutism fails to detect implicit group task expectations",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5018607378005981,
+                    "sim_con_problema": 0.5508692264556885,
+                    "peso_arista": 0.9472700357437134,
+                    "peso_acumulado": 3.7672938108444214,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_121",
+                        "texto": "BroadlyAffectedAutism does not apply unstated group norms",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37402647733688354,
+                        "sim_con_problema": 0.2644030749797821,
+                        "peso_arista": 1.3615704476833344,
+                        "peso_acumulado": 5.128864258527756,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_122",
+                        "texto": "BroadlyAffectedAutism cannot infer expected behavior without explicit rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43472233414649963,
+                        "sim_con_problema": 0.40595459938049316,
+                        "peso_arista": 1.1593230664730072,
+                        "peso_acumulado": 4.926616877317429,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_63",
+                    "texto": "BroadlyAffectedAutism falls behind the group's task pace",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39337313175201416,
+                    "sim_con_problema": 0.4476068913936615,
+                    "peso_arista": 1.1590199768543243,
+                    "peso_acumulado": 3.9790437519550323,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_142",
+                        "texto": "BroadlyAffectedAutism experiences disproportionate prediction error from the pace mismatch",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4735397696495056,
+                        "sim_con_problema": 0.3924509882926941,
+                        "peso_arista": 1.1340092420578003,
+                        "peso_acumulado": 5.113052994012833,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_143",
+                        "texto": "BroadlyAffectedAutism risks framing the lag as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.45743393898010254,
+                        "sim_con_problema": 0.37325382232666016,
+                        "peso_arista": 1.1693122386932373,
+                        "peso_acumulado": 5.14835599064827,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_144",
+                        "texto": "BroadlyAffectedAutism cannot update behavior from vague group feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36021286249160767,
+                        "sim_con_problema": 0.33024290204048157,
+                        "peso_arista": 1.3095442354679108,
+                        "peso_acumulado": 5.288587987422943,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_145",
+                        "texto": "BroadlyAffectedAutism cannot infer the group's unspoken pace expectations",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4027940034866333,
+                        "sim_con_problema": 0.4241025745868683,
+                        "peso_arista": 1.1731034219264984,
+                        "peso_acumulado": 5.152147173881531,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_64",
+                    "texto": "BroadlyAffectedAutism requires extra steps for indirect instructions",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5704433917999268,
+                    "sim_con_problema": 0.45352470874786377,
+                    "peso_arista": 0.9760318994522095,
+                    "peso_acumulado": 3.7960556745529175,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_124",
+                        "texto": "BroadlyAffectedAutism consciously retrieves matching rules from memory",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5500083565711975,
+                        "sim_con_problema": 0.5151219367980957,
+                        "peso_arista": 0.9348697066307068,
+                        "peso_acumulado": 4.730925381183624,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_247",
+                            "texto": "BroadlyAffectedAutism cannot generalize rule to this new context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4017139673233032,
+                            "sim_con_problema": 0.3475121557712555,
+                            "peso_arista": 1.2507738769054413,
+                            "peso_acumulado": 5.9816992580890656,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_249",
+                            "texto": "BroadlyAffectedAutism applies retrieved rule only if explicitly matching",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.29288917779922485,
+                            "sim_con_problema": 0.22709083557128906,
+                            "peso_arista": 1.480019986629486,
+                            "peso_acumulado": 6.21094536781311,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_250",
+                            "texto": "BroadlyAffectedAutism requires specific feedback to confirm correct rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4885757565498352,
+                            "sim_con_problema": 0.3469349145889282,
+                            "peso_arista": 1.1644893288612366,
+                            "peso_acumulado": 5.895414710044861,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_125",
+                        "texto": "BroadlyAffectedAutism fails to detect unspoken task expectations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5495951175689697,
+                        "sim_con_problema": 0.5935252904891968,
+                        "peso_arista": 0.8568795919418335,
+                        "peso_acumulado": 4.652935266494751,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_241",
+                            "texto": "BroadlyAffectedAutism cannot apply unstated social norms automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3721855878829956,
+                            "sim_con_problema": 0.3103491961956024,
+                            "peso_arista": 1.317465215921402,
+                            "peso_acumulado": 5.970400482416153,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "BroadlyAffectedAutism_6_242",
+                            "texto": "BroadlyAffectedAutism follows only explicitly stated task rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4410794973373413,
+                            "sim_con_problema": 0.46300750970840454,
+                            "peso_arista": 1.0959129929542542,
+                            "peso_acumulado": 5.748848259449005,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_126",
+                        "texto": "BroadlyAffectedAutism delays response until literal meaning decoded",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5088720321655273,
+                        "sim_con_problema": 0.44785934686660767,
+                        "peso_arista": 1.043268620967865,
+                        "peso_acumulado": 4.8393242955207825,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_12",
+            "texto": "BroadlyAffectedAutism experiences processing overload from the abrupt shift",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5146562457084656,
+            "sim_con_problema": 0.5050880908966064,
+            "peso_arista": 0.980255663394928,
+            "peso_acumulado": 1.791293442249298,
+            "premise_id": "A6",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_24",
+                "texto": "BroadlyAffectedAutism becomes unable to engage in the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5169374942779541,
+                "sim_con_problema": 0.5247385501861572,
+                "peso_arista": 0.9583239555358887,
+                "peso_acumulado": 2.7496173977851868,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_57",
+                    "texto": "BroadlyAffectedAutism remains offline until regulation is restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28356245160102844,
+                    "sim_con_problema": 0.2827143371105194,
+                    "peso_arista": 1.4337232112884521,
+                    "peso_acumulado": 4.183340609073639,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_178",
+                        "texto": "BroadlyAffectedAutism cannot acquire new learning during this state",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5417730212211609,
+                        "sim_con_problema": 0.4305524528026581,
+                        "peso_arista": 1.027674525976181,
+                        "peso_acumulado": 5.21101513504982,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_179",
+                        "texto": "BroadlyAffectedAutism cannot use feedback given while offline",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.28476250171661377,
+                        "sim_con_problema": 0.318511426448822,
+                        "peso_arista": 1.3967260718345642,
+                        "peso_acumulado": 5.580066680908203,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_58",
+                    "texto": "BroadlyAffectedAutism reverts attention to the special interest domain",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3824892044067383,
+                    "sim_con_problema": 0.3470032215118408,
+                    "peso_arista": 1.270507574081421,
+                    "peso_acumulado": 4.020124971866608,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_146",
+                        "texto": "BroadlyAffectedAutism sustains attention automatically within the special interest",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5758330821990967,
+                        "sim_con_problema": 0.6111282110214233,
+                        "peso_arista": 0.81303870677948,
+                        "peso_acumulado": 4.833163678646088,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_148",
+                        "texto": "BroadlyAffectedAutism reduces prediction error load through this reversion",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36528533697128296,
+                        "sim_con_problema": 0.3587043881416321,
+                        "peso_arista": 1.276010274887085,
+                        "peso_acumulado": 5.296135246753693,
+                        "premise_id": "A19",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_149",
+                        "texto": "BroadlyAffectedAutism generates disproportionate error if redirected again",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36395952105522156,
+                        "sim_con_problema": 0.40357497334480286,
+                        "peso_arista": 1.2324655055999756,
+                        "peso_acumulado": 5.252590477466583,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_59",
+                    "texto": "BroadlyAffectedAutism's blocked learning if failure is framed as shame",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.49432796239852905,
+                    "sim_con_problema": 0.4002729654312134,
+                    "peso_arista": 1.1053990721702576,
+                    "peso_acumulado": 3.8550164699554443,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_133",
+                        "texto": "BroadlyAffectedAutism's threat response activates instead of learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.506232500076294,
+                        "sim_con_problema": 0.4926992952823639,
+                        "peso_arista": 1.0010682046413422,
+                        "peso_acumulado": 4.8560846745967865,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_135",
+                        "texto": "BroadlyAffectedAutism will not generalize this transition rule later",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.38198477029800415,
+                        "sim_con_problema": 0.34674158692359924,
+                        "peso_arista": 1.2712736427783966,
+                        "peso_acumulado": 5.126290112733841,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_60",
+                    "texto": "BroadlyAffectedAutism fails to update without immediate specific feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.30865538120269775,
+                    "sim_con_problema": 0.2648853063583374,
+                    "peso_arista": 1.4264593124389648,
+                    "peso_acumulado": 4.176076710224152,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_170",
+                        "texto": "BroadlyAffectedAutism repeats the same behavior in future transitions",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4724162220954895,
+                        "sim_con_problema": 0.4119678735733032,
+                        "peso_arista": 1.1156159043312073,
+                        "peso_acumulado": 5.291692614555359,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_171",
+                        "texto": "BroadlyAffectedAutism fails to generalize the group-task expectation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5313242077827454,
+                        "sim_con_problema": 0.5678198337554932,
+                        "peso_arista": 0.9008559584617615,
+                        "peso_acumulado": 5.076932668685913,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_172",
+                        "texto": "BroadlyAffectedAutism requires an explicit stated rule to comply",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.45710617303848267,
+                        "sim_con_problema": 0.31262877583503723,
+                        "peso_arista": 1.23026505112648,
+                        "peso_acumulado": 5.406341761350632,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_173",
+                        "texto": "BroadlyAffectedAutism treats the next similar shift as equally disruptive",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3692170977592468,
+                        "sim_con_problema": 0.37697887420654297,
+                        "peso_arista": 1.2538040280342102,
+                        "peso_acumulado": 5.429880738258362,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_25",
+                "texto": "BroadlyAffectedAutism generates disruption disproportionate to the actual change",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40079909563064575,
+                "sim_con_problema": 0.3880283534526825,
+                "peso_arista": 1.2111725509166718,
+                "peso_acumulado": 3.00246599316597,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_69",
+                    "texto": "BroadlyAffectedAutism becomes cognitively unavailable until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5904902815818787,
+                    "sim_con_problema": 0.49171626567840576,
+                    "peso_arista": 0.9177934527397156,
+                    "peso_acumulado": 3.9202594459056854,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_137",
+                        "texto": "BroadlyAffectedAutism cannot process social interaction demands",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49579134583473206,
+                        "sim_con_problema": 0.43315058946609497,
+                        "peso_arista": 1.071058064699173,
+                        "peso_acumulado": 4.991317510604858,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_71",
+                    "texto": "BroadlyAffectedAutism may interpret the disruption as failure",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4049968719482422,
+                    "sim_con_problema": 0.3471355736255646,
+                    "peso_arista": 1.2478675544261932,
+                    "peso_acumulado": 4.250333547592163,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_187",
+                        "texto": "BroadlyAffectedAutism blocks learning from this error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44398361444473267,
+                        "sim_con_problema": 0.3926505744457245,
+                        "peso_arista": 1.1633658111095428,
+                        "peso_acumulado": 5.413699358701706,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_27",
+                "texto": "BroadlyAffectedAutism fails to flexibly update to the new task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.38569527864456177,
+                "sim_con_problema": 0.4131424129009247,
+                "peso_arista": 1.2011623084545135,
+                "peso_acumulado": 2.9924557507038116,
+                "premise_id": "A6",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_67",
+                    "texto": "BroadlyAffectedAutism needs explicit instruction to redirect focus",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5699218511581421,
+                    "sim_con_problema": 0.5870394110679626,
+                    "peso_arista": 0.8430387377738953,
+                    "peso_acumulado": 3.835494488477707,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_127",
+                        "texto": "BroadlyAffectedAutism ignores implicit or unstated redirection cues",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5264170169830322,
+                        "sim_con_problema": 0.5236312747001648,
+                        "peso_arista": 0.949951708316803,
+                        "peso_acumulado": 4.78544619679451,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_128",
+                        "texto": "BroadlyAffectedAutism requires feedback that is specific and immediate",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5944619178771973,
+                        "sim_con_problema": 0.45373454689979553,
+                        "peso_arista": 0.9518035352230072,
+                        "peso_acumulado": 4.787298023700714,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_129",
+                        "texto": "BroadlyAffectedAutism cannot transfer redirection rule without explicit re-anchoring",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3664976954460144,
+                        "sim_con_problema": 0.392901748418808,
+                        "peso_arista": 1.2406005561351776,
+                        "peso_acumulado": 5.0760950446128845,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_68",
+                    "texto": "BroadlyAffectedAutism lacks routine to reallocate cognitive resources",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5882034301757812,
+                    "sim_con_problema": 0.6392209529876709,
+                    "peso_arista": 0.7725756168365479,
+                    "peso_acumulado": 3.7650313675403595,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_119",
+                        "texto": "BroadlyAffectedAutism requires effortful control to attend",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.538934588432312,
+                        "sim_con_problema": 0.49403107166290283,
+                        "peso_arista": 0.9670343399047852,
+                        "peso_acumulado": 4.732065707445145,
+                        "premise_id": "A11",
+                        "hijos": [
+                          {
+                            "id": "BroadlyAffectedAutism_6_253",
+                            "texto": "BroadlyAffectedAutism processes the socially complex task more slowly",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5894643068313599,
+                            "sim_con_problema": 0.5248955488204956,
+                            "peso_arista": 0.8856401443481445,
+                            "peso_acumulado": 5.617705851793289,
+                            "premise_id": "A7",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_120",
+                        "texto": "BroadlyAffectedAutism cannot offload resources without established routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2322520613670349,
+                        "sim_con_problema": 0.37444669008255005,
+                        "peso_arista": 1.393301248550415,
+                        "peso_acumulado": 5.1583326160907745,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 83,
+  "profundidad_maxima": 6
+}

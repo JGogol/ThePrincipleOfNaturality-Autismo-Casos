@@ -1,0 +1,126 @@
+{
+  "total": 11,
+  "items": [
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_4_52",
+      "node_b_id": "ModerateAutism_5_93",
+      "node_a_texto": "SocialBehavioralAutism consults stored explicit rules for sarcasm",
+      "node_b_texto": "ModerateAutism stores sarcasm correction as explicit rule entry",
+      "nli_score": 0.7198134809732437,
+      "rejection_reason": "En [14] SocialBehavioralAutism consulta reglas ya almacenadas (aplicación), mientras ModerateAutism describe el almacenamiento inicial de la regla (creación/registro); son eventos distintos, no la misma perspectiva del mismo evento.",
+      "llm_response": "RECHAZAR: 14 | RAZÓN: En [14] SocialBehavioralAutism consulta reglas ya almacenadas (aplicación), mientras ModerateAutism describe el almacenamiento inicial de la regla (creación/registro); son eventos distintos, no la misma perspectiva del mismo evento."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_156",
+      "node_b_id": "ModerateAutism_5_143",
+      "node_a_texto": "SocialBehavioralAutism fails to generalize correction to future sarcasm instances",
+      "node_b_texto": "ModerateAutism loses the episodic context of the sarcasm",
+      "nli_score": 0.9725987315177917,
+      "rejection_reason": "En [6] se refiere a pérdida de contexto episódico, no a fallo de generalización (concepto distinto, no equivalente); en [11] se refiere a no poder recuperar una regla pragmática (fallo de recuperación), no a fallo de generalización, por lo que representan mecanismos diferentes, no la misma perspectiva sobre el mismo evento.",
+      "llm_response": "RECHAZAR: 6, 11 | RAZÓN: En [6] se refiere a pérdida de contexto episódico, no a fallo de generalización (concepto distinto, no equivalente); en [11] se refiere a no poder recuperar una regla pragmática (fallo de recuperación), no a fallo de generalización, por lo que representan mecanismos diferentes, no la misma perspectiva sobre el mismo evento."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_5_156",
+      "node_b_id": "ModerateAutism_6_233",
+      "node_a_texto": "SocialBehavioralAutism fails to generalize correction to future sarcasm instances",
+      "node_b_texto": "ModerateAutism cannot retrieve a matching pragmatic rule for irony",
+      "nli_score": 0.9816120266914368,
+      "rejection_reason": "En [6] se refiere a pérdida de contexto episódico, no a fallo de generalización (concepto distinto, no equivalente); en [11] se refiere a no poder recuperar una regla pragmática (fallo de recuperación), no a fallo de generalización, por lo que representan mecanismos diferentes, no la misma perspectiva sobre el mismo evento.",
+      "llm_response": "RECHAZAR: 6, 11 | RAZÓN: En [6] se refiere a pérdida de contexto episódico, no a fallo de generalización (concepto distinto, no equivalente); en [11] se refiere a no poder recuperar una regla pragmática (fallo de recuperación), no a fallo de generalización, por lo que representan mecanismos diferentes, no la misma perspectiva sobre el mismo evento."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_5_165",
+      "node_b_id": "BroadlyAffectedAutism_4_64",
+      "node_a_texto": "SocialBehavioralAutism fails to sustain attention on the conversation",
+      "node_b_texto": "BroadlyAffectedAutism falls behind the ongoing group exchange",
+      "nli_score": 0.9853144884109497,
+      "rejection_reason": "En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos.",
+      "llm_response": "RECHAZAR: 3, 4, 5, 9 | RAZÓN: En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_5_165",
+      "node_b_id": "BroadlyAffectedAutism_4_79",
+      "node_a_texto": "SocialBehavioralAutism fails to sustain attention on the conversation",
+      "node_b_texto": "BroadlyAffectedAutism continues lagging behind the ongoing exchange",
+      "nli_score": 0.9909700751304626,
+      "rejection_reason": "En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos.",
+      "llm_response": "RECHAZAR: 3, 4, 5, 9 | RAZÓN: En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_5_165",
+      "node_b_id": "BroadlyAffectedAutism_5_182",
+      "node_a_texto": "SocialBehavioralAutism fails to sustain attention on the conversation",
+      "node_b_texto": "BroadlyAffectedAutism's response lags behind the ongoing conversation",
+      "nli_score": 0.9910235702991486,
+      "rejection_reason": "En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos.",
+      "llm_response": "RECHAZAR: 3, 4, 5, 9 | RAZÓN: En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_5_167",
+      "node_b_id": "BroadlyAffectedAutism_4_64",
+      "node_a_texto": "SocialBehavioralAutism cannot simultaneously retrieve applicable social rules",
+      "node_b_texto": "BroadlyAffectedAutism falls behind the ongoing group exchange",
+      "nli_score": 0.7035792022943497,
+      "rejection_reason": "En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos.",
+      "llm_response": "RECHAZAR: 3, 4, 5, 9 | RAZÓN: En estas fusiones, SocialBehavioralAutism describe una falla interna de atención propia, mientras que BroadlyAffectedAutism describe una consecuencia relacional (quedar detrás del grupo/intercambio), lo cual no es la misma perspectiva semántica sino un efecto distinto, no un evento equivalente descrito desde ángulos opuestos."
+    },
+    {
+      "actor_a": "ModerateAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "ModerateAutism_4_42",
+      "node_b_id": "BroadlyAffectedAutism_3_33",
+      "node_a_texto": "ModerateAutism cannot generalize this reply error to future sarcasm",
+      "node_b_texto": "BroadlyAffectedAutism responds based on the literal statement content",
+      "nli_score": 0.8592971861362457,
+      "rejection_reason": "En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva.",
+      "llm_response": "RECHAZAR: 0, 3, 5, 8 | RAZÓN: En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva."
+    },
+    {
+      "actor_a": "ModerateAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "ModerateAutism_4_45",
+      "node_b_id": "BroadlyAffectedAutism_3_33",
+      "node_a_texto": "ModerateAutism cannot apply the unspoken sarcastic convention",
+      "node_b_texto": "BroadlyAffectedAutism responds based on the literal statement content",
+      "nli_score": 0.5602882951498032,
+      "rejection_reason": "En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva.",
+      "llm_response": "RECHAZAR: 0, 3, 5, 8 | RAZÓN: En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva."
+    },
+    {
+      "actor_a": "ModerateAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "ModerateAutism_4_45",
+      "node_b_id": "BroadlyAffectedAutism_4_71",
+      "node_a_texto": "ModerateAutism cannot apply the unspoken sarcastic convention",
+      "node_b_texto": "BroadlyAffectedAutism responds using the literal-statement rule entry",
+      "nli_score": 0.8247899115085602,
+      "rejection_reason": "En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva.",
+      "llm_response": "RECHAZAR: 0, 3, 5, 8 | RAZÓN: En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva."
+    },
+    {
+      "actor_a": "ModerateAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "ModerateAutism_4_45",
+      "node_b_id": "BroadlyAffectedAutism_4_99",
+      "node_a_texto": "ModerateAutism cannot apply the unspoken sarcastic convention",
+      "node_b_texto": "BroadlyAffectedAutism produces a reply mismatched to sarcastic intent",
+      "nli_score": 0.8469157218933105,
+      "rejection_reason": "En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva.",
+      "llm_response": "RECHAZAR: 0, 3, 5, 8 | RAZÓN: En estos pares, ModerateAutism describe una incapacidad/fallo cognitivo (no puede aplicar la convención sarcástica), mientras que BroadlyAffectedAutism describe una conducta resultante distinta (responde literalmente, produce respuesta desajustada), no la misma causa/mecanismo, por lo que no son equivalentes semánticos fusionables sino descripciones de diferente nivel (causa vs. efecto observable), similar a una asimetría de roles/perspectiva."
+    }
+  ]
+}

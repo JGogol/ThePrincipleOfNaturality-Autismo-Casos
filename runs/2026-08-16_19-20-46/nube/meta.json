@@ -1,0 +1,18 @@
+{
+  "nodos": [],
+  "nodo_textos": [],
+  "hubs_info": [],
+  "actores": [
+    "BroadlyAffectedAutism",
+    "MixedASDwithDelay",
+    "ModerateAutism",
+    "NeurotypicalCognition",
+    "SocialBehavioralAutism"
+  ],
+  "version": "1.0",
+  "k_max": 10,
+  "cap": 10000,
+  "N": 0,
+  "H": 0,
+  "K": 5
+}

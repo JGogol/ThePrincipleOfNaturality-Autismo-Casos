@@ -1,0 +1,16 @@
+{
+  "total": 1,
+  "items": [
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "MixedASDwithDelay",
+      "node_a_id": "SocialBehavioralAutism_5_229",
+      "node_b_id": "MixedASDwithDelay_0_0",
+      "node_a_texto": "SocialBehavioralAutism repeats the same redirection resistance next time",
+      "node_b_texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+      "nli_score": 0.5599788725376129,
+      "rejection_reason": "En [8] MixedASDwithDelay no expresa una acción/perspectiva equivalente, sino una descripción arquitectónica general no comparable semánticamente con la afirmación conductual específica de SocialBehavioralAutism; no es un caso de roles invertidos sino de fusión inválida por falta de correspondencia semántica.",
+      "llm_response": "RECHAZAR: 8 | RAZÓN: En [8] MixedASDwithDelay no expresa una acción/perspectiva equivalente, sino una descripción arquitectónica general no comparable semánticamente con la afirmación conductual específica de SocialBehavioralAutism; no es un caso de roles invertidos sino de fusión inválida por falta de correspondencia semántica."
+    }
+  ]
+}

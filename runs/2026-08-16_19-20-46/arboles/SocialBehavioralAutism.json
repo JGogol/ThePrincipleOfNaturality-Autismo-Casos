@@ -1,0 +1,1883 @@
+{
+  "actor": "SocialBehavioralAutism",
+  "raiz": {
+    "id": "SocialBehavioralAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.597225546836853,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "SocialBehavioralAutism_1_1",
+        "texto": "SocialBehavioralAutism requires effortful control to redirect attention",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5938363075256348,
+        "sim_con_problema": 0.6544030904769897,
+        "peso_arista": 0.7517606019973755,
+        "peso_acumulado": 0.7517606019973755,
+        "premise_id": "A11",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_5",
+            "texto": "SocialBehavioralAutism cannot sustain attention on group task automatically",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5228394269943237,
+            "sim_con_problema": 0.6634533405303955,
+            "peso_arista": 0.8137072324752808,
+            "peso_acumulado": 1.5654678344726562,
+            "premise_id": "A11",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_21",
+                "texto": "SocialBehavioralAutism generates disproportionate prediction error at redirection",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4616730511188507,
+                "sim_con_problema": 0.4373781085014343,
+                "peso_arista": 1.100948840379715,
+                "peso_acumulado": 2.666416674852371,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_71",
+                    "texto": "SocialBehavioralAutism risks going offline from sensory overload",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4646390676498413,
+                    "sim_con_problema": 0.45981764793395996,
+                    "peso_arista": 1.0755432844161987,
+                    "peso_acumulado": 3.74195995926857,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_174",
+                        "texto": "SocialBehavioralAutism cannot process the group task cognitively",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5651952028274536,
+                        "sim_con_problema": 0.5704217553138733,
+                        "peso_arista": 0.8643830418586731,
+                        "peso_acumulado": 4.606343001127243,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_175",
+                        "texto": "SocialBehavioralAutism treats redirection as threat if shamed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3671214282512665,
+                        "sim_con_problema": 0.34662988781929016,
+                        "peso_arista": 1.2862486839294434,
+                        "peso_acumulado": 5.028208643198013,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_72",
+                    "texto": "SocialBehavioralAutism delays its emotional response to redirection",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5704591274261475,
+                    "sim_con_problema": 0.5075837969779968,
+                    "peso_arista": 0.9219570755958557,
+                    "peso_acumulado": 3.588373750448227,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_159",
+                        "texto": "SocialBehavioralAutism's emotional reaction surfaces after redirection ends",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5080713033676147,
+                        "sim_con_problema": 0.41417133808135986,
+                        "peso_arista": 1.0777573585510254,
+                        "peso_acumulado": 4.666131108999252,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_160",
+                        "texto": "SocialBehavioralAutism cannot label the arousal it experiences",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44846177101135254,
+                        "sim_con_problema": 0.3624805808067322,
+                        "peso_arista": 1.1890576481819153,
+                        "peso_acumulado": 4.777431398630142,
+                        "premise_id": "A14",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_161",
+                        "texto": "SocialBehavioralAutism treats its own reaction as data needing analysis",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4704190492630005,
+                        "sim_con_problema": 0.41626572608947754,
+                        "peso_arista": 1.113315224647522,
+                        "peso_acumulado": 4.701688975095749,
+                        "premise_id": "A15",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_22",
+                "texto": "SocialBehavioralAutism must allocate effortful control to group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5309779644012451,
+                "sim_con_problema": 0.5752505660057068,
+                "peso_arista": 0.8937714695930481,
+                "peso_acumulado": 2.4592393040657043,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_58",
+                    "texto": "SocialBehavioralAutism's effortful attention resource becomes depleted",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.470680296421051,
+                    "sim_con_problema": 0.6397274136543274,
+                    "peso_arista": 0.8895922899246216,
+                    "peso_acumulado": 3.348831593990326,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_134",
+                        "texto": "SocialBehavioralAutism becomes vulnerable to disproportionate prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4286535978317261,
+                        "sim_con_problema": 0.36367636919021606,
+                        "peso_arista": 1.2076700329780579,
+                        "peso_acumulado": 4.556501626968384,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_23",
+                "texto": "SocialBehavioralAutism experiences group task as weakly motivating",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4539497494697571,
+                "sim_con_problema": 0.4947841167449951,
+                "peso_arista": 1.0512661337852478,
+                "peso_acumulado": 2.616733968257904,
+                "premise_id": "A12",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_67",
+                    "texto": "SocialBehavioralAutism does not engage without external reward linked to interest",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4183049201965332,
+                    "sim_con_problema": 0.48074376583099365,
+                    "peso_arista": 1.1009513139724731,
+                    "peso_acumulado": 3.717685282230377,
+                    "premise_id": "A12",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_170",
+                        "texto": "SocialBehavioralAutism fails to transfer skills from group task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47675567865371704,
+                        "sim_con_problema": 0.513946533203125,
+                        "peso_arista": 1.009297788143158,
+                        "peso_acumulado": 4.726983070373535,
+                        "premise_id": "A13",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_171",
+                        "texto": "SocialBehavioralAutism remains unmotivated by praise for task completion",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4196069538593292,
+                        "sim_con_problema": 0.47056034207344055,
+                        "peso_arista": 1.1098327040672302,
+                        "peso_acumulado": 4.827517986297607,
+                        "premise_id": "A12",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_172",
+                        "texto": "SocialBehavioralAutism receives no behavior-linked feedback from task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47292324900627136,
+                        "sim_con_problema": 0.4941651225090027,
+                        "peso_arista": 1.032911628484726,
+                        "peso_acumulado": 4.750596910715103,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_70",
+                    "texto": "SocialBehavioralAutism transfers concepts poorly outside the special interest domain",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3729791045188904,
+                    "sim_con_problema": 0.3822910785675049,
+                    "peso_arista": 1.2447298169136047,
+                    "peso_acumulado": 3.861463785171509,
+                    "premise_id": "A13",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_181",
+                        "texto": "SocialBehavioralAutism cannot apply prior rules to the group task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43757736682891846,
+                        "sim_con_problema": 0.4415765404701233,
+                        "peso_arista": 1.1208460927009583,
+                        "peso_acumulado": 4.982309877872467,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_183",
+                        "texto": "SocialBehavioralAutism learns the group task best via special interest links",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48333513736724854,
+                        "sim_con_problema": 0.4926307797431946,
+                        "peso_arista": 1.0240340828895569,
+                        "peso_acumulado": 4.885497868061066,
+                        "premise_id": "A13",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_24",
+                "texto": "SocialBehavioralAutism loses computational savings from interrupted routine",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.35311347246170044,
+                "sim_con_problema": 0.5127748250961304,
+                "peso_arista": 1.1341117024421692,
+                "peso_acumulado": 2.6995795369148254,
+                "premise_id": "A19",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_6",
+            "texto": "SocialBehavioralAutism generates disproportionate prediction error from the shift",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3858550190925598,
+            "sim_con_problema": 0.379486083984375,
+            "peso_arista": 1.2346588969230652,
+            "peso_acumulado": 1.9864194989204407,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_34",
+                "texto": "SocialBehavioralAutism has fewer resources for the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.41176968812942505,
+                "sim_con_problema": 0.47776955366134644,
+                "peso_arista": 1.1104607582092285,
+                "peso_acumulado": 3.096880257129669,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_105",
+                    "texto": "SocialBehavioralAutism fails to retrieve applicable social rules",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.37689638137817383,
+                    "sim_con_problema": 0.2861305773258209,
+                    "peso_arista": 1.3369730412960052,
+                    "peso_acumulado": 4.433853298425674,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_107",
+                    "texto": "SocialBehavioralAutism processes group task as disconnected local details",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5152478218078613,
+                    "sim_con_problema": 0.5396633148193359,
+                    "peso_arista": 0.9450888633728027,
+                    "peso_acumulado": 4.041969120502472,
+                    "premise_id": "A5",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_222",
+                        "texto": "SocialBehavioralAutism cannot infer the group task's overall goal",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43106383085250854,
+                        "sim_con_problema": 0.529087483882904,
+                        "peso_arista": 1.0398486852645874,
+                        "peso_acumulado": 5.081817805767059,
+                        "premise_id": "A5",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_224",
+                        "texto": "SocialBehavioralAutism cannot generalize prior task rules automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.493083655834198,
+                        "sim_con_problema": 0.5650106072425842,
+                        "peso_arista": 0.9419057369232178,
+                        "peso_acumulado": 4.98387485742569,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_225",
+                        "texto": "SocialBehavioralAutism needs specific immediate feedback to continue",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5105118751525879,
+                        "sim_con_problema": 0.43638038635253906,
+                        "peso_arista": 1.053107738494873,
+                        "peso_acumulado": 5.095076858997345,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_35",
+                "texto": "SocialBehavioralAutism activates a threat response to the shift",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.39860087633132935,
+                "sim_con_problema": 0.3902534246444702,
+                "peso_arista": 1.2111456990242004,
+                "peso_acumulado": 3.197565197944641,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_108",
+                    "texto": "SocialBehavioralAutism cannot process the shift as learning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.48538392782211304,
+                    "sim_con_problema": 0.4606369137763977,
+                    "peso_arista": 1.0539791584014893,
+                    "peso_acumulado": 4.25154435634613,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_109",
+                    "texto": "SocialBehavioralAutism experiences arousal without a labeled emotion",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4643470346927643,
+                    "sim_con_problema": 0.3409654498100281,
+                    "peso_arista": 1.1946875154972076,
+                    "peso_acumulado": 4.392252713441849,
+                    "premise_id": "A14",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_110",
+                    "texto": "SocialBehavioralAutism reverts attention to the special interest",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4353758990764618,
+                    "sim_con_problema": 0.3817354142665863,
+                    "peso_arista": 1.182888686656952,
+                    "peso_acumulado": 4.380453884601593,
+                    "premise_id": "A11",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_36",
+                "texto": "SocialBehavioralAutism cannot automatically re-anchor to the new task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4797481298446655,
+                "sim_con_problema": 0.585809588432312,
+                "peso_arista": 0.9344422817230225,
+                "peso_acumulado": 2.920861780643463,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_89",
+                    "texto": "SocialBehavioralAutism needs explicitly stated rules for the task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5268858671188354,
+                    "sim_con_problema": 0.40823063254356384,
+                    "peso_arista": 1.0648835003376007,
+                    "peso_acumulado": 3.985745280981064,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_206",
+                        "texto": "SocialBehavioralAutism cannot transfer prior rules to this task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4678528308868408,
+                        "sim_con_problema": 0.48889923095703125,
+                        "peso_arista": 1.043247938156128,
+                        "peso_acumulado": 5.028993219137192,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_90",
+                    "texto": "SocialBehavioralAutism cannot infer unspoken group task expectations",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4995637536048889,
+                    "sim_con_problema": 0.5250775218009949,
+                    "peso_arista": 0.9753587245941162,
+                    "peso_acumulado": 3.8962205052375793,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_185",
+                        "texto": "SocialBehavioralAutism cannot retrieve a matching pragmatic rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41256093978881836,
+                        "sim_con_problema": 0.3575517535209656,
+                        "peso_arista": 1.229887306690216,
+                        "peso_acumulado": 5.126107811927795,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_187",
+                        "texto": "SocialBehavioralAutism risks framing task mismatch as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49732011556625366,
+                        "sim_con_problema": 0.5258670449256897,
+                        "peso_arista": 0.9768128395080566,
+                        "peso_acumulado": 4.873033344745636,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_37",
+                "texto": "SocialBehavioralAutism fails to update without immediate specific feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35581016540527344,
+                "sim_con_problema": 0.3218438923358917,
+                "peso_arista": 1.3223459422588348,
+                "peso_acumulado": 3.3087654411792755,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_122",
+                    "texto": "SocialBehavioralAutism cannot generalize the redirection rule later",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.46380406618118286,
+                    "sim_con_problema": 0.46690961718559265,
+                    "peso_arista": 1.0692863166332245,
+                    "peso_acumulado": 4.3780517578125,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_123",
+                    "texto": "SocialBehavioralAutism continues allocating resources to the prior task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4175596833229065,
+                    "sim_con_problema": 0.5735602974891663,
+                    "peso_arista": 1.0088800191879272,
+                    "peso_acumulado": 4.317645460367203,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_124",
+                    "texto": "SocialBehavioralAutism treats the failed shift as a threat",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.29081887006759644,
+                    "sim_con_problema": 0.3140503466129303,
+                    "peso_arista": 1.3951307833194733,
+                    "peso_acumulado": 4.703896224498749,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_8",
+            "texto": "SocialBehavioralAutism needs explicit proximate cues to complete redirect",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.544541597366333,
+            "sim_con_problema": 0.5104153752326965,
+            "peso_arista": 0.9450430274009705,
+            "peso_acumulado": 1.696803629398346,
+            "premise_id": "A24",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_25",
+                "texto": "SocialBehavioralAutism fails to redirect without explicit stated instruction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5002155303955078,
+                "sim_con_problema": 0.4376797378063202,
+                "peso_arista": 1.062104731798172,
+                "peso_acumulado": 2.758908361196518,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_82",
+                    "texto": "SocialBehavioralAutism remains hyperfocused on the special interest detail",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4953339099884033,
+                    "sim_con_problema": 0.4485374093055725,
+                    "peso_arista": 1.0561286807060242,
+                    "peso_acumulado": 3.815037041902542,
+                    "premise_id": "A11",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_83",
+                    "texto": "SocialBehavioralAutism requires an explicit stated rule to switch tasks",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.537590742111206,
+                    "sim_con_problema": 0.5527798533439636,
+                    "peso_arista": 0.9096294045448303,
+                    "peso_acumulado": 3.6685377657413483,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_162",
+                        "texto": "SocialBehavioralAutism fails to switch tasks without stated rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5056716203689575,
+                        "sim_con_problema": 0.5510666370391846,
+                        "peso_arista": 0.9432617425918579,
+                        "peso_acumulado": 4.611799508333206,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_163",
+                        "texto": "Absent explicit rule triggers disproportionate prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20215176045894623,
+                        "sim_con_problema": 0.20632410049438477,
+                        "peso_arista": 1.591524139046669,
+                        "peso_acumulado": 5.260061904788017,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_164",
+                        "texto": "SocialBehavioralAutism cannot generalize prior rule to new context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4782178997993469,
+                        "sim_con_problema": 0.4278637170791626,
+                        "peso_arista": 1.0939183831214905,
+                        "peso_acumulado": 4.762456148862839,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_84",
+                    "texto": "SocialBehavioralAutism treats the redirect demand as a threat if framed as failure",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.30191588401794434,
+                    "sim_con_problema": 0.3578272759914398,
+                    "peso_arista": 1.3402568399906158,
+                    "peso_acumulado": 4.099165201187134,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_226",
+                        "texto": "SocialBehavioralAutism blocks learning from the redirect demand",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4606439471244812,
+                        "sim_con_problema": 0.5088977217674255,
+                        "peso_arista": 1.0304583311080933,
+                        "peso_acumulado": 5.129623532295227,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_227",
+                        "texto": "SocialBehavioralAutism delays its emotional response to the demand",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47932904958724976,
+                        "sim_con_problema": 0.43094563484191895,
+                        "peso_arista": 1.0897253155708313,
+                        "peso_acumulado": 5.188890516757965,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_228",
+                        "texto": "SocialBehavioralAutism generates disproportionate disruption to the request",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3989391028881073,
+                        "sim_con_problema": 0.37971746921539307,
+                        "peso_arista": 1.2213434278964996,
+                        "peso_acumulado": 5.320508629083633,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_26",
+                "texto": "SocialBehavioralAutism ignores vague or delayed redirect prompts",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.44179874658584595,
+                "sim_con_problema": 0.432046115398407,
+                "peso_arista": 1.126155138015747,
+                "peso_acumulado": 2.822958767414093,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_85",
+                    "texto": "SocialBehavioralAutism continues the original task uninterrupted",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.47841307520866394,
+                    "sim_con_problema": 0.42781785130500793,
+                    "peso_arista": 1.0937690734863281,
+                    "peso_acumulado": 3.916727840900421,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_188",
+                        "texto": "SocialBehavioralAutism accumulates unresolved prediction error from group task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4129768908023834,
+                        "sim_con_problema": 0.3929915726184845,
+                        "peso_arista": 1.194031536579132,
+                        "peso_acumulado": 5.110759377479553,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_191",
+                        "texto": "SocialBehavioralAutism remains unmotivated by the group task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4345957636833191,
+                        "sim_con_problema": 0.4831884503364563,
+                        "peso_arista": 1.0822157859802246,
+                        "peso_acumulado": 4.998943626880646,
+                        "premise_id": "A12",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_87",
+                    "texto": "SocialBehavioralAutism generates a prediction error signal from the stalled transition",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.42907312512397766,
+                    "sim_con_problema": 0.39363837242126465,
+                    "peso_arista": 1.1772885024547577,
+                    "peso_acumulado": 4.000247269868851,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_211",
+                        "texto": "SocialBehavioralAutism experiences disruption disproportionate to actual change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37427636981010437,
+                        "sim_con_problema": 0.3725394606590271,
+                        "peso_arista": 1.2531841695308685,
+                        "peso_acumulado": 5.253431439399719,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_214",
+                        "texto": "SocialBehavioralAutism blocks learning if transition framed as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4793017506599426,
+                        "sim_con_problema": 0.430641233921051,
+                        "peso_arista": 1.0900570154190063,
+                        "peso_acumulado": 5.090304285287857,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_27",
+                "texto": "SocialBehavioralAutism experiences disproportionate disruption absent explicit cue",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5125369429588318,
+                "sim_con_problema": 0.43602877855300903,
+                "peso_arista": 1.0514342784881592,
+                "peso_acumulado": 2.748237907886505,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_77",
+                    "texto": "SocialBehavioralAutism treats the redirect as high-magnitude threat",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.40811216831207275,
+                    "sim_con_problema": 0.37581801414489746,
+                    "peso_arista": 1.2160698175430298,
+                    "peso_acumulado": 3.964307725429535,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_78",
+                    "texto": "SocialBehavioralAutism's processing goes offline until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3793414831161499,
+                    "sim_con_problema": 0.42614537477493286,
+                    "peso_arista": 1.1945131421089172,
+                    "peso_acumulado": 3.9427510499954224,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_195",
+                        "texto": "SocialBehavioralAutism cannot join the group task now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36067458987236023,
+                        "sim_con_problema": 0.36838507652282715,
+                        "peso_arista": 1.2709403336048126,
+                        "peso_acumulado": 5.213691383600235,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_196",
+                        "texto": "SocialBehavioralAutism's social interaction remains unavailable until regulated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43010494112968445,
+                        "sim_con_problema": 0.3300490975379944,
+                        "peso_arista": 1.2398459613323212,
+                        "peso_acumulado": 5.1825970113277435,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_198",
+                        "texto": "SocialBehavioralAutism requires restored routine to resume tasks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.455263614654541,
+                        "sim_con_problema": 0.5059806108474731,
+                        "peso_arista": 1.0387557744979858,
+                        "peso_acumulado": 4.981506824493408,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_79",
+                    "texto": "SocialBehavioralAutism experiences unlabeled physiological arousal from disruption",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.45187854766845703,
+                    "sim_con_problema": 0.37142860889434814,
+                    "peso_arista": 1.1766928434371948,
+                    "peso_acumulado": 3.9249307513237,
+                    "premise_id": "A14",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_194",
+                        "texto": "SocialBehavioralAutism blocks learning if arousal framed as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.523690938949585,
+                        "sim_con_problema": 0.4580512046813965,
+                        "peso_arista": 1.0182578563690186,
+                        "peso_acumulado": 4.9431886076927185,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_80",
+                    "texto": "SocialBehavioralAutism's emotional response to disruption is delayed",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5068349838256836,
+                    "sim_con_problema": 0.41320866346359253,
+                    "peso_arista": 1.0799563527107239,
+                    "peso_acumulado": 3.828194260597229,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_179",
+                        "texto": "SocialBehavioralAutism's distress surfaces after the redirect ends",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4084254801273346,
+                        "sim_con_problema": 0.3345724940299988,
+                        "peso_arista": 1.2570020258426666,
+                        "peso_acumulado": 5.085196286439896,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_180",
+                        "texto": "SocialBehavioralAutism cannot link disruption to feedback in time",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4131729006767273,
+                        "sim_con_problema": 0.45510607957839966,
+                        "peso_arista": 1.131721019744873,
+                        "peso_acumulado": 4.959915280342102,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_2",
+        "texto": "SocialBehavioralAutism generates disproportionate prediction error from the interruption",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4403122067451477,
+        "sim_con_problema": 0.4363134801387787,
+        "peso_arista": 1.1233743131160736,
+        "peso_acumulado": 1.1233743131160736,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_18",
+            "texto": "SocialBehavioralAutism risks processing going offline temporarily",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.34642642736434937,
+            "sim_con_problema": 0.42608481645584106,
+            "peso_arista": 1.2274887561798096,
+            "peso_acumulado": 2.350863069295883,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_55",
+                "texto": "SocialBehavioralAutism cannot engage the group task until regulated",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5015597343444824,
+                "sim_con_problema": 0.49160414934158325,
+                "peso_arista": 1.0068361163139343,
+                "peso_acumulado": 3.3576991856098175,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_135",
+                    "texto": "SocialBehavioralAutism requires regulation restored before learning resumes",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.44037991762161255,
+                    "sim_con_problema": 0.38619816303253174,
+                    "peso_arista": 1.1734219193458557,
+                    "peso_acumulado": 4.531121104955673,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_137",
+                    "texto": "SocialBehavioralAutism seeks a routine to reduce prediction error",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4916958212852478,
+                    "sim_con_problema": 0.4124395251274109,
+                    "peso_arista": 1.0958646535873413,
+                    "peso_acumulado": 4.453563839197159,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_138",
+                    "texto": "SocialBehavioralAutism requires immediate specific feedback to reengage",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5406075119972229,
+                    "sim_con_problema": 0.48584121465682983,
+                    "peso_arista": 0.9735512733459473,
+                    "peso_acumulado": 4.331250458955765,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_57",
+                "texto": "SocialBehavioralAutism experiences disproportionate disruption from the redirection",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4590097665786743,
+                "sim_con_problema": 0.43148672580718994,
+                "peso_arista": 1.1095035076141357,
+                "peso_acumulado": 3.460366576910019,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_153",
+                    "texto": "SocialBehavioralAutism cannot automatically transfer focus to new task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5229294300079346,
+                    "sim_con_problema": 0.6981698274612427,
+                    "peso_arista": 0.7789007425308228,
+                    "peso_acumulado": 4.239267319440842,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_155",
+                    "texto": "SocialBehavioralAutism loses the cognitive savings of routine",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5066347122192383,
+                    "sim_con_problema": 0.5216376781463623,
+                    "peso_arista": 0.9717276096343994,
+                    "peso_acumulado": 4.432094186544418,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_19",
+            "texto": "SocialBehavioralAutism cannot automatically map interest task to group task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.46756860613822937,
+            "sim_con_problema": 0.5617908835411072,
+            "peso_arista": 0.9706405103206635,
+            "peso_acumulado": 2.094014823436737,
+            "premise_id": "A22",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_42",
+                "texto": "SocialBehavioralAutism needs effortful control to sustain group attention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5167604684829712,
+                "sim_con_problema": 0.5753545761108398,
+                "peso_arista": 0.907884955406189,
+                "peso_acumulado": 3.001899778842926,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_91",
+                    "texto": "SocialBehavioralAutism disengages without special-interest linked motivation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.49064019322395325,
+                    "sim_con_problema": 0.48911184072494507,
+                    "peso_arista": 1.0202479660511017,
+                    "peso_acumulado": 4.022147744894028,
+                    "premise_id": "A12",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_218",
+                        "texto": "SocialBehavioralAutism remains unmoved by praise-based redirection attempts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44858670234680176,
+                        "sim_con_problema": 0.40211302042007446,
+                        "peso_arista": 1.1493002772331238,
+                        "peso_acumulado": 5.1714480221271515,
+                        "premise_id": "A12",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_219",
+                        "texto": "SocialBehavioralAutism requires an explicit stated rule to rejoin",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4773479998111725,
+                        "sim_con_problema": 0.3247101604938507,
+                        "peso_arista": 1.1979418396949768,
+                        "peso_acumulado": 5.2200895845890045,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_220",
+                        "texto": "SocialBehavioralAutism treats disengagement blame as a threat signal",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3298901915550232,
+                        "sim_con_problema": 0.41212549805641174,
+                        "peso_arista": 1.257984310388565,
+                        "peso_acumulado": 5.280132055282593,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_221",
+                        "texto": "SocialBehavioralAutism ignores vague or delayed redirection cues",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5624696612358093,
+                        "sim_con_problema": 0.5280555486679077,
+                        "peso_arista": 0.909474790096283,
+                        "peso_acumulado": 4.931622534990311,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_93",
+                    "texto": "SocialBehavioralAutism experiences unlabeled physiological arousal during forced attention",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5041004419326782,
+                    "sim_con_problema": 0.48664259910583496,
+                    "peso_arista": 1.0092569589614868,
+                    "peso_acumulado": 4.011156737804413,
+                    "premise_id": "A14",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_217",
+                        "texto": "Framing the redirection as failure would block learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3868131935596466,
+                        "sim_con_problema": 0.500501811504364,
+                        "peso_arista": 1.1126849949359894,
+                        "peso_acumulado": 5.123841732740402,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_43",
+                "texto": "SocialBehavioralAutism requires an explicit stated rule to transition",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5190342664718628,
+                "sim_con_problema": 0.371784508228302,
+                "peso_arista": 1.1091812252998352,
+                "peso_acumulado": 3.2031960487365723,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_112",
+                    "texto": "SocialBehavioralAutism fails to transition without an explicit rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4970082640647888,
+                    "sim_con_problema": 0.36428385972976685,
+                    "peso_arista": 1.1387078762054443,
+                    "peso_acumulado": 4.341903924942017,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_113",
+                    "texto": "SocialBehavioralAutism stores the transition rule as explicit data",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4412870705127716,
+                    "sim_con_problema": 0.36698025465011597,
+                    "peso_arista": 1.1917326748371124,
+                    "peso_acumulado": 4.394928723573685,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_114",
+                    "texto": "SocialBehavioralAutism needs immediate specific feedback to learn the rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5330556631088257,
+                    "sim_con_problema": 0.4338728189468384,
+                    "peso_arista": 1.033071517944336,
+                    "peso_acumulado": 4.236267566680908,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_44",
+                "texto": "SocialBehavioralAutism blocks learning if redirection feels like failure",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4984528720378876,
+                "sim_con_problema": 0.5061612129211426,
+                "peso_arista": 0.9953859150409698,
+                "peso_acumulado": 3.089400738477707,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_100",
+                    "texto": "SocialBehavioralAutism activates threat response instead of learning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44051167368888855,
+                    "sim_con_problema": 0.4224139451980591,
+                    "peso_arista": 1.1370743811130524,
+                    "peso_acumulado": 4.226475119590759,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_233",
+                        "texto": "SocialBehavioralAutism fails to encode redirection as learning information",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5897003412246704,
+                        "sim_con_problema": 0.5284110307693481,
+                        "peso_arista": 0.8818886280059814,
+                        "peso_acumulado": 5.108363747596741,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_235",
+                        "texto": "SocialBehavioralAutism requires conscious retrieval of an explicit rule to comply",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5812695622444153,
+                        "sim_con_problema": 0.4531671702861786,
+                        "peso_arista": 0.9655632674694061,
+                        "peso_acumulado": 5.192038387060165,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_103",
+                    "texto": "SocialBehavioralAutism fails to update behavior without immediate causal feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4432199001312256,
+                    "sim_con_problema": 0.4538117051124573,
+                    "peso_arista": 1.1029683947563171,
+                    "peso_acumulado": 4.192369133234024,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_229",
+                        "texto": "SocialBehavioralAutism repeats the same redirection resistance next time",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.40633687376976013,
+                        "sim_con_problema": 0.4061433672904968,
+                        "peso_arista": 1.187519758939743,
+                        "peso_acumulado": 5.379888892173767,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_231",
+                        "texto": "SocialBehavioralAutism remains unmoved by social praise for compliance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.34720680117607117,
+                        "sim_con_problema": 0.2789613604545593,
+                        "peso_arista": 1.3738318383693695,
+                        "peso_acumulado": 5.5662009716033936,
+                        "premise_id": "A12",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_232",
+                        "texto": "SocialBehavioralAutism relies on prior routine instead of new behavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4815868139266968,
+                        "sim_con_problema": 0.46359914541244507,
+                        "peso_arista": 1.0548140406608582,
+                        "peso_acumulado": 5.247183173894882,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_20",
+            "texto": "SocialBehavioralAutism treats the redirection as threat if framed as failure",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.40445831418037415,
+            "sim_con_problema": 0.4059317708015442,
+            "peso_arista": 1.1896099150180817,
+            "peso_acumulado": 2.3129842281341553,
+            "premise_id": "A21",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_53",
+                "texto": "SocialBehavioralAutism cannot identify the arousal state produced",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4720361828804016,
+                "sim_con_problema": 0.3855019509792328,
+                "peso_arista": 1.1424618661403656,
+                "peso_acumulado": 3.455446094274521,
+                "premise_id": "A14",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_149",
+                    "texto": "SocialBehavioralAutism's emotional response emerges after significant delay",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5338842868804932,
+                    "sim_con_problema": 0.3899615705013275,
+                    "peso_arista": 1.0761541426181793,
+                    "peso_acumulado": 4.5316002368927,
+                    "premise_id": "A16",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_151",
+                    "texto": "SocialBehavioralAutism cannot infer others' reactions without deliberate analysis",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4643183946609497,
+                    "sim_con_problema": 0.4660850763320923,
+                    "peso_arista": 1.069596529006958,
+                    "peso_acumulado": 4.525042623281479,
+                    "premise_id": "A15",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_54",
+                "texto": "SocialBehavioralAutism delays its response to the redirection",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.500444769859314,
+                "sim_con_problema": 0.48779234290122986,
+                "peso_arista": 1.0117628872394562,
+                "peso_acumulado": 3.3247471153736115,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_129",
+                    "texto": "SocialBehavioralAutism reacts to the redirection after the moment passes",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5319404602050781,
+                    "sim_con_problema": 0.5293316841125488,
+                    "peso_arista": 0.938727855682373,
+                    "peso_acumulado": 4.2634749710559845,
+                    "premise_id": "A16",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_130",
+                    "texto": "SocialBehavioralAutism fails to link the redirection to its cause",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.43501487374305725,
+                    "sim_con_problema": 0.4002523124217987,
+                    "peso_arista": 1.164732813835144,
+                    "peso_acumulado": 4.4894799292087555,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_131",
+                    "texto": "SocialBehavioralAutism remains attentionally fixed on the original detail",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5217212438583374,
+                    "sim_con_problema": 0.48529401421546936,
+                    "peso_arista": 0.9929847419261932,
+                    "peso_acumulado": 4.317731857299805,
+                    "premise_id": "A11",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_3",
+        "texto": "SocialBehavioralAutism lacks motivation for the unrelated group task",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4492987096309662,
+        "sim_con_problema": 0.5436800122261047,
+        "peso_arista": 1.007021278142929,
+        "peso_acumulado": 1.007021278142929,
+        "premise_id": "A12",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_12",
+            "texto": "SocialBehavioralAutism requires effortful control to attend",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4996013641357422,
+            "sim_con_problema": 0.48113343119621277,
+            "peso_arista": 1.019265204668045,
+            "peso_acumulado": 2.026286482810974,
+            "premise_id": "A11",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_40",
+                "texto": "SocialBehavioralAutism lacks routine structure to offset the effort",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4613635838031769,
+                "sim_con_problema": 0.5114445686340332,
+                "peso_arista": 1.02719184756279,
+                "peso_acumulado": 3.053478330373764,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_94",
+                    "texto": "SocialBehavioralAutism experiences disproportionate prediction error from the transition",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.43279188871383667,
+                    "sim_con_problema": 0.3542022109031677,
+                    "peso_arista": 1.2130059003829956,
+                    "peso_acumulado": 4.26648423075676,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_96",
+                    "texto": "SocialBehavioralAutism has no freed cognitive resources for the shift",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.38992762565612793,
+                    "sim_con_problema": 0.4138794541358948,
+                    "peso_arista": 1.1961929202079773,
+                    "peso_acumulado": 4.249671250581741,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_14",
+            "texto": "SocialBehavioralAutism resists external social incentives to comply",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.36607375741004944,
+            "sim_con_problema": 0.39316827058792114,
+            "peso_arista": 1.2407579720020294,
+            "peso_acumulado": 2.2477792501449585,
+            "premise_id": "A12",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_48",
+                "texto": "SocialBehavioralAutism sustains focus on the special interest",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.45490244030952454,
+                "sim_con_problema": 0.36204230785369873,
+                "peso_arista": 1.1830552518367767,
+                "peso_acumulado": 3.4308345019817352,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_148",
+                    "texto": "SocialBehavioralAutism resists transfer of focus outside interest domain",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4577472507953644,
+                    "sim_con_problema": 0.6003483533859253,
+                    "peso_arista": 0.9419043958187103,
+                    "peso_acumulado": 4.372738897800446,
+                    "premise_id": "A13",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_49",
+                "texto": "SocialBehavioralAutism disengages unless task links to special interest",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.45191818475723267,
+                "sim_con_problema": 0.5681354999542236,
+                "peso_arista": 0.9799463152885437,
+                "peso_acumulado": 3.227725565433502,
+                "premise_id": "A13",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_121",
+                    "texto": "SocialBehavioralAutism treats forced disengagement as a threat if framed as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.32489052414894104,
+                    "sim_con_problema": 0.3781960606575012,
+                    "peso_arista": 1.2969134151935577,
+                    "peso_acumulado": 4.52463898062706,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_50",
+                "texto": "SocialBehavioralAutism requires an explicit stated rule to redirect",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5150116086006165,
+                "sim_con_problema": 0.4103509187698364,
+                "peso_arista": 1.0746374726295471,
+                "peso_acumulado": 3.3224167227745056,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_126",
+                    "texto": "SocialBehavioralAutism cannot generalize prior redirect rules to this task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.48140615224838257,
+                    "sim_con_problema": 0.5315534472465515,
+                    "peso_arista": 0.9870404005050659,
+                    "peso_acumulado": 4.3094571232795715,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_127",
+                    "texto": "SocialBehavioralAutism must consciously retrieve the matching rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.50356125831604,
+                    "sim_con_problema": 0.43888580799102783,
+                    "peso_arista": 1.0575529336929321,
+                    "peso_acumulado": 4.379969656467438,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_128",
+                    "texto": "SocialBehavioralAutism needs immediate specific feedback to redirect",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5186668634414673,
+                    "sim_con_problema": 0.4687309265136719,
+                    "peso_arista": 1.0126022100448608,
+                    "peso_acumulado": 4.3350189328193665,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_4",
+        "texto": "SocialBehavioralAutism loses cognitive resources allocated by prior routine",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.506438136100769,
+        "sim_con_problema": 0.6067138910293579,
+        "peso_arista": 0.886847972869873,
+        "peso_acumulado": 0.886847972869873,
+        "premise_id": "A19",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_9",
+            "texto": "SocialBehavioralAutism generates a disproportionate prediction error signal",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.41913139820098877,
+            "sim_con_problema": 0.3480231761932373,
+            "peso_arista": 1.232845425605774,
+            "peso_acumulado": 2.119693398475647,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_45",
+                "texto": "SocialBehavioralAutism risks cognitive processing going offline",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.49046266078948975,
+                "sim_con_problema": 0.5492913126945496,
+                "peso_arista": 0.9602460265159607,
+                "peso_acumulado": 3.0799394249916077,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_97",
+                    "texto": "SocialBehavioralAutism becomes unavailable for social engagement",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34889066219329834,
+                    "sim_con_problema": 0.32166561484336853,
+                    "peso_arista": 1.3294437229633331,
+                    "peso_acumulado": 4.409383147954941,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_47",
+                "texto": "SocialBehavioralAutism loses the routine's resource-saving optimization",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3929455876350403,
+                "sim_con_problema": 0.49940675497055054,
+                "peso_arista": 1.1076476573944092,
+                "peso_acumulado": 3.227341055870056,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_115",
+                    "texto": "SocialBehavioralAutism cannot allocate resources to the new task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.35794371366500854,
+                    "sim_con_problema": 0.5117982625961304,
+                    "peso_arista": 1.130258023738861,
+                    "peso_acumulado": 4.357599079608917,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_117",
+                    "texto": "SocialBehavioralAutism must effortfully filter competing task stimuli",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6057212352752686,
+                    "sim_con_problema": 0.6329391002655029,
+                    "peso_arista": 0.7613396644592285,
+                    "peso_acumulado": 3.9886807203292847,
+                    "premise_id": "A2",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_207",
+                        "texto": "SocialBehavioralAutism cannot sustain attention without continued effort",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44315773248672485,
+                        "sim_con_problema": 0.6006944179534912,
+                        "peso_arista": 0.9561478495597839,
+                        "peso_acumulado": 4.944828569889069,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_209",
+                        "texto": "SocialBehavioralAutism must continuously suppress equally-weighted stimuli",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.593849778175354,
+                        "sim_con_problema": 0.5482499599456787,
+                        "peso_arista": 0.8579002618789673,
+                        "peso_acumulado": 4.846580982208252,
+                        "premise_id": "A2",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_210",
+                        "texto": "SocialBehavioralAutism keeps attending to the detail over the group task",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4999200701713562,
+                        "sim_con_problema": 0.5617853403091431,
+                        "peso_arista": 0.9382945895195007,
+                        "peso_acumulado": 4.926975309848785,
+                        "premise_id": "A5",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_10",
+            "texto": "SocialBehavioralAutism requires effortful control to sustain the new task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5279422998428345,
+            "sim_con_problema": 0.549636960029602,
+            "peso_arista": 0.9224207401275635,
+            "peso_acumulado": 1.8092687129974365,
+            "premise_id": "A11",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_31",
+                "texto": "SocialBehavioralAutism cannot maintain attention automatically on the task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5421816110610962,
+                "sim_con_problema": 0.6912522315979004,
+                "peso_arista": 0.7665661573410034,
+                "peso_acumulado": 2.57583487033844,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_66",
+                    "texto": "SocialBehavioralAutism risks attention lapse without continuous effortful control",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5186367034912109,
+                    "sim_con_problema": 0.6475583910942078,
+                    "peso_arista": 0.8338049054145813,
+                    "peso_acumulado": 3.4096397757530212,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_141",
+                        "texto": "SocialBehavioralAutism treats an attention lapse as failure if criticized",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.457297146320343,
+                        "sim_con_problema": 0.5398665070533752,
+                        "peso_arista": 1.0028363466262817,
+                        "peso_acumulado": 4.412476122379303,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_142",
+                        "texto": "SocialBehavioralAutism cannot offload cognitive load without an established routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5076106190681458,
+                        "sim_con_problema": 0.5983909368515015,
+                        "peso_arista": 0.8939984440803528,
+                        "peso_acumulado": 4.303638219833374,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_11",
+            "texto": "SocialBehavioralAutism cannot generalize prior routine structure to task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5667937994003296,
+            "sim_con_problema": 0.5988012552261353,
+            "peso_arista": 0.8344049453735352,
+            "peso_acumulado": 1.7212529182434082,
+            "premise_id": "A22",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_29",
+                "texto": "SocialBehavioralAutism requires explicit instruction to re-anchor task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5842412710189819,
+                "sim_con_problema": 0.5652875900268555,
+                "peso_arista": 0.8504711389541626,
+                "peso_acumulado": 2.571724057197571,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_61",
+                    "texto": "SocialBehavioralAutism ignores redirection unless explicitly stated",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.45854318141937256,
+                    "sim_con_problema": 0.43412721157073975,
+                    "peso_arista": 1.1073296070098877,
+                    "peso_acumulado": 3.6790536642074585,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_168",
+                        "texto": "SocialBehavioralAutism sustains hyperfocus on the fascinating detail",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.513412594795227,
+                        "sim_con_problema": 0.5108268857002258,
+                        "peso_arista": 0.9757605195045471,
+                        "peso_acumulado": 4.654814183712006,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_169",
+                        "texto": "SocialBehavioralAutism requires conscious retrieval of the group-task rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6006158590316772,
+                        "sim_con_problema": 0.5729933381080627,
+                        "peso_arista": 0.82639080286026,
+                        "peso_acumulado": 4.5054444670677185,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_62",
+                    "texto": "SocialBehavioralAutism must consciously retrieve matching task rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5600767135620117,
+                    "sim_con_problema": 0.5903993844985962,
+                    "peso_arista": 0.8495239019393921,
+                    "peso_acumulado": 3.421247959136963,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_143",
+                        "texto": "SocialBehavioralAutism must exert effortful control to disengage",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48002108931541443,
+                        "sim_con_problema": 0.522600531578064,
+                        "peso_arista": 0.9973783791065216,
+                        "peso_acumulado": 4.4186263382434845,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_144",
+                        "texto": "SocialBehavioralAutism experiences delay before applying task rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48435381054878235,
+                        "sim_con_problema": 0.5126024484634399,
+                        "peso_arista": 1.0030437409877777,
+                        "peso_acumulado": 4.424291700124741,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_145",
+                        "texto": "SocialBehavioralAutism follows the retrieved rule once matched",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44520342350006104,
+                        "sim_con_problema": 0.3464028239250183,
+                        "peso_arista": 1.2083937525749207,
+                        "peso_acumulado": 4.6296417117118835,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_63",
+                    "texto": "SocialBehavioralAutism updates behavior only with specific immediate cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5157190561294556,
+                    "sim_con_problema": 0.5041935443878174,
+                    "peso_arista": 0.980087399482727,
+                    "peso_acumulado": 3.551811456680298,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_158",
+                        "texto": "SocialBehavioralAutism resists group task absent special-interest link",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49643877148628235,
+                        "sim_con_problema": 0.5065048933029175,
+                        "peso_arista": 0.9970563352108002,
+                        "peso_acumulado": 4.548867791891098,
+                        "premise_id": "A12",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 151,
+  "total_hojas": 86,
+  "profundidad_maxima": 5
+}

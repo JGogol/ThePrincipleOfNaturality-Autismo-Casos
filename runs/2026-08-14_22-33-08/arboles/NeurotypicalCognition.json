@@ -1,0 +1,1880 @@
+{
+  "actor": "NeurotypicalCognition",
+  "raiz": {
+    "id": "NeurotypicalCognition_0_0",
+    "texto": "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.6190810203552246,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "NeurotypicalCognition_1_1",
+        "texto": "NeurotypicalCognition decodes the sarcasm without additional inferential steps",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5751912593841553,
+        "sim_con_problema": 0.5961752533912659,
+        "peso_arista": 0.8286334872245789,
+        "peso_acumulado": 0.8286334872245789,
+        "premise_id": "N17",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_14",
+            "texto": "NeurotypicalCognition integrates the sarcasm into the conversation's global meaning",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5691554546356201,
+            "sim_con_problema": 0.6908998489379883,
+            "peso_arista": 0.7399446964263916,
+            "peso_acumulado": 1.5685781836509705,
+            "premise_id": "N6",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_27",
+                "texto": "NeurotypicalCognition encodes the exchange as a contextual narrative",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7139178514480591,
+                "sim_con_problema": 0.5606615543365479,
+                "peso_arista": 0.7254205942153931,
+                "peso_acumulado": 2.2939987778663635,
+                "premise_id": "N8",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_63",
+                    "texto": "NeurotypicalCognition can retrieve the exchange using varied cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6318463087081909,
+                    "sim_con_problema": 0.37918952107429504,
+                    "peso_arista": 0.988964170217514,
+                    "peso_acumulado": 3.2829629480838776,
+                    "premise_id": "N10",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_121",
+                        "texto": "NeurotypicalCognition uses the retrieved exchange for future social inference",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.7074320912361145,
+                        "sim_con_problema": 0.5218907594680786,
+                        "peso_arista": 0.7706771492958069,
+                        "peso_acumulado": 4.0536400973796844,
+                        "premise_id": "N23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_122",
+                        "texto": "NeurotypicalCognition retrieves the exchange regardless of memory modality",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5758335590362549,
+                        "sim_con_problema": 0.3102610409259796,
+                        "peso_arista": 1.1139054000377655,
+                        "peso_acumulado": 4.396868348121643,
+                        "premise_id": "N9",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_257",
+                            "texto": "NeurotypicalCognition uses the retrieved exchange as feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6323809027671814,
+                            "sim_con_problema": 0.36184102296829224,
+                            "peso_arista": 1.0057780742645264,
+                            "peso_acumulado": 5.402646422386169,
+                            "premise_id": "N24",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_65",
+                    "texto": "NeurotypicalCognition retains the exchange as semantic knowledge",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7043124437332153,
+                    "sim_con_problema": 0.5749278664588928,
+                    "peso_arista": 0.7207596898078918,
+                    "peso_acumulado": 3.0147584676742554,
+                    "premise_id": "N8",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_109",
+                        "texto": "NeurotypicalCognition can retrieve the exchange without visual cues",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6227342486381531,
+                        "sim_con_problema": 0.41387128829956055,
+                        "peso_arista": 0.9633944630622864,
+                        "peso_acumulado": 3.9781529307365417,
+                        "premise_id": "N10",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_180",
+                            "texto": "NeurotypicalCognition generalizes the sarcasm-decoding rule to new contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6225699186325073,
+                            "sim_con_problema": 0.6508758664131165,
+                            "peso_arista": 0.7265542149543762,
+                            "peso_acumulado": 4.704707145690918,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_181",
+                            "texto": "NeurotypicalCognition computes implicit social expectations from the exchange",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6471125483512878,
+                            "sim_con_problema": 0.5351689457893372,
+                            "peso_arista": 0.817718505859375,
+                            "peso_acumulado": 4.795871436595917,
+                            "premise_id": "N23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_182",
+                            "texto": "NeurotypicalCognition retrieves the exchange equally well via verbal cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6656509637832642,
+                            "sim_con_problema": 0.5008693933486938,
+                            "peso_arista": 0.833479642868042,
+                            "peso_acumulado": 4.811632573604584,
+                            "premise_id": "N9",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_110",
+                        "texto": "NeurotypicalCognition refines social norm expectations from the exchange",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6594851613044739,
+                        "sim_con_problema": 0.48165592551231384,
+                        "peso_arista": 0.8588589131832123,
+                        "peso_acumulado": 3.8736173808574677,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_172",
+                            "texto": "NeurotypicalCognition computes updated behavioral expectations without explicit statement",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6209020614624023,
+                            "sim_con_problema": 0.4679877758026123,
+                            "peso_arista": 0.9111101627349854,
+                            "peso_acumulado": 4.784727543592453,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_29",
+                "texto": "NeurotypicalCognition transfers this sarcasm interpretation to future contexts",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.6221152544021606,
+                "sim_con_problema": 0.6466020345687866,
+                "peso_arista": 0.7312827110290527,
+                "peso_acumulado": 2.299860894680023,
+                "premise_id": "N22",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_2",
+        "texto": "NeurotypicalCognition detects norm relevance of the sarcastic remark automatically",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.6179500818252563,
+        "sim_con_problema": 0.561355471611023,
+        "peso_arista": 0.8206944465637207,
+        "peso_acumulado": 0.8206944465637207,
+        "premise_id": "N18",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_10",
+            "texto": "NeurotypicalCognition computes the implicit social expectation behind the remark",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.681275486946106,
+            "sim_con_problema": 0.7174597978591919,
+            "peso_arista": 0.6012647151947021,
+            "peso_acumulado": 1.4219591617584229,
+            "premise_id": "N23",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_20",
+                "texto": "NeurotypicalCognition decodes the sarcastic remark's intended meaning automatically",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.5995291471481323,
+                "sim_con_problema": 0.6201722025871277,
+                "peso_arista": 0.78029865026474,
+                "peso_acumulado": 2.202257812023163,
+                "premise_id": "N17",
+                "hijos": []
+              },
+              {
+                "id": "NeurotypicalCognition_3_21",
+                "texto": "NeurotypicalCognition checks the remark against acquired social norms",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7141332030296326,
+                "sim_con_problema": 0.5806906223297119,
+                "peso_arista": 0.7051761746406555,
+                "peso_acumulado": 2.1271353363990784,
+                "premise_id": "N18",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_55",
+                    "texto": "NeurotypicalCognition detects whether the remark violates norms",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.6426676511764526,
+                    "sim_con_problema": 0.5936447381973267,
+                    "peso_arista": 0.7636876106262207,
+                    "peso_acumulado": 2.890822947025299,
+                    "premise_id": "N18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_22",
+                "texto": "NeurotypicalCognition integrates the remark's meaning with ongoing conversational context",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.6765334606170654,
+                "sim_con_problema": 0.7254389524459839,
+                "peso_arista": 0.5980275869369507,
+                "peso_acumulado": 2.0199867486953735,
+                "premise_id": "N4",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_11",
+            "texto": "NeurotypicalCognition integrates the sarcasm with ongoing social context",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6520462036132812,
+            "sim_con_problema": 0.666010856628418,
+            "peso_arista": 0.6819429397583008,
+            "peso_acumulado": 1.5026373863220215,
+            "premise_id": "N4",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_24",
+                "texto": "NeurotypicalCognition infers the speaker's implicit social intent",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7008775472640991,
+                "sim_con_problema": 0.7706458568572998,
+                "peso_arista": 0.5284765958786011,
+                "peso_acumulado": 2.0311139822006226,
+                "premise_id": "N23",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_53",
+                    "texto": "NeurotypicalCognition checks the remark against social norms automatically",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7096290588378906,
+                    "sim_con_problema": 0.5470115542411804,
+                    "peso_arista": 0.743359386920929,
+                    "peso_acumulado": 2.7744733691215515,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_92",
+                        "texto": "NeurotypicalCognition detects no social norm violation occurred",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5855594873428345,
+                        "sim_con_problema": 0.39662256836891174,
+                        "peso_arista": 1.0178179442882538,
+                        "peso_acumulado": 3.7922913134098053,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_166",
+                            "texto": "NeurotypicalCognition proceeds with the conversation without disruption",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6733785271644592,
+                            "sim_con_problema": 0.6130598783493042,
+                            "peso_arista": 0.7135615944862366,
+                            "peso_acumulado": 4.505852907896042,
+                            "premise_id": "N19",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_93",
+                        "texto": "NeurotypicalCognition computes the implicit behavioral expectation involved",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6757887601852417,
+                        "sim_con_problema": 0.5346795320510864,
+                        "peso_arista": 0.7895317077636719,
+                        "peso_acumulado": 3.5640050768852234,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_147",
+                            "texto": "NeurotypicalCognition resolves the social expectation without explicit statement",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6844894289970398,
+                            "sim_con_problema": 0.6171835064888,
+                            "peso_arista": 0.6983270645141602,
+                            "peso_acumulado": 4.2623321413993835,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_25",
+                "texto": "NeurotypicalCognition interprets the remark using surrounding context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6968635320663452,
+                "sim_con_problema": 0.6687329411506653,
+                "peso_arista": 0.6344035267829895,
+                "peso_acumulado": 2.137040913105011,
+                "premise_id": "N6",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_58",
+                    "texto": "NeurotypicalCognition derives the intended meaning from global context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7143046855926514,
+                    "sim_con_problema": 0.5476698279380798,
+                    "peso_arista": 0.7380254864692688,
+                    "peso_acumulado": 2.87506639957428,
+                    "premise_id": "N6",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_103",
+                        "texto": "NeurotypicalCognition automatically mirrors the emotional tone conveyed",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6419353485107422,
+                        "sim_con_problema": 0.49905428290367126,
+                        "peso_arista": 0.8590103685855865,
+                        "peso_acumulado": 3.7340767681598663,
+                        "premise_id": "N15",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_160",
+                            "texto": "NeurotypicalCognition detects whether the sarcasm violates social norms",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5580744743347168,
+                            "sim_con_problema": 0.6033753752708435,
+                            "peso_arista": 0.8385501503944397,
+                            "peso_acumulado": 4.572626918554306,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_59",
+                    "texto": "NeurotypicalCognition registers the remark as consistent with social norms",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7219924330711365,
+                    "sim_con_problema": 0.599370539188385,
+                    "peso_arista": 0.6786370277404785,
+                    "peso_acumulado": 2.8156779408454895,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_94",
+                        "texto": "NeurotypicalCognition generates minimal prediction error from the remark",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5397403240203857,
+                        "sim_con_problema": 0.4665498435497284,
+                        "peso_arista": 0.9937098324298859,
+                        "peso_acumulado": 3.8093877732753754,
+                        "premise_id": "N20",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_167",
+                            "texto": "NeurotypicalCognition resolves the discrepancy through rapid contextual updating",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6714795827865601,
+                            "sim_con_problema": 0.4411381483078003,
+                            "peso_arista": 0.8873822689056396,
+                            "peso_acumulado": 4.696770042181015,
+                            "premise_id": "N20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_169",
+                            "texto": "NeurotypicalCognition continues integrating the conversation without disruption",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7244859933853149,
+                            "sim_con_problema": 0.6242036819458008,
+                            "peso_arista": 0.6513103246688843,
+                            "peso_acumulado": 4.46069809794426,
+                            "premise_id": "N4",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_96",
+                        "texto": "NeurotypicalCognition continues social participation without correction needed",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6831120252609253,
+                        "sim_con_problema": 0.4708767533302307,
+                        "peso_arista": 0.846011221408844,
+                        "peso_acumulado": 3.6616891622543335,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_151",
+                            "texto": "NeurotypicalCognition redirects attention to next social signal",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7186342477798462,
+                            "sim_con_problema": 0.5161830186843872,
+                            "peso_arista": 0.7651827335357666,
+                            "peso_acumulado": 4.4268718957901,
+                            "premise_id": "N11",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_262",
+                                "texto": "NeurotypicalCognition integrates new verbal and social information simultaneously",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7775574326515198,
+                                "sim_con_problema": 0.6087123155593872,
+                                "peso_arista": 0.613730251789093,
+                                "peso_acumulado": 5.040602147579193,
+                                "premise_id": "N4",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_263",
+                                "texto": "NeurotypicalCognition binds the new social signal into a unified percept",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7457993626594543,
+                                "sim_con_problema": 0.545172393321991,
+                                "peso_arista": 0.7090282440185547,
+                                "peso_acumulado": 5.135900139808655,
+                                "premise_id": "N3",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_264",
+                                "texto": "NeurotypicalCognition automatically mirrors the next speaker's emotion",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6128506660461426,
+                                "sim_con_problema": 0.545436680316925,
+                                "peso_arista": 0.8417126536369324,
+                                "peso_acumulado": 5.2685845494270325,
+                                "premise_id": "N15",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_265",
+                                "texto": "NeurotypicalCognition continues monitoring for norm violations automatically",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5938178300857544,
+                                "sim_con_problema": 0.2424253672361374,
+                                "peso_arista": 1.1637568026781082,
+                                "peso_acumulado": 5.590628698468208,
+                                "premise_id": "N18",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_152",
+                            "texto": "NeurotypicalCognition sustains behavior aligned with peer affiliation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6632456183433533,
+                            "sim_con_problema": 0.3693252205848694,
+                            "peso_arista": 0.9674291610717773,
+                            "peso_acumulado": 4.629118323326111,
+                            "premise_id": "N12",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_153",
+                            "texto": "NeurotypicalCognition reinforces acquired norm through continued participation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7051180601119995,
+                            "sim_con_problema": 0.3747963309288025,
+                            "peso_arista": 0.920085608959198,
+                            "peso_acumulado": 4.5817747712135315,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_97",
+                        "texto": "NeurotypicalCognition generalizes this norm to future sarcastic remarks",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6170186400413513,
+                        "sim_con_problema": 0.6459209322929382,
+                        "peso_arista": 0.7370604276657104,
+                        "peso_acumulado": 3.5527383685112,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_142",
+                            "texto": "NeurotypicalCognition applies this norm across differing conversational contexts",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7586506605148315,
+                            "sim_con_problema": 0.6653395891189575,
+                            "peso_arista": 0.5760097503662109,
+                            "peso_acumulado": 4.128748118877411,
+                            "premise_id": "N22",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_207",
+                                "texto": "NeurotypicalCognition recognizes future sarcasm without explicit re-anchoring",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5933222770690918,
+                                "sim_con_problema": 0.6141760349273682,
+                                "peso_arista": 0.79250168800354,
+                                "peso_acumulado": 4.921249806880951,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_144",
+                            "texto": "NeurotypicalCognition detects future sarcasm violations through social feedback automatically",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6159873604774475,
+                            "sim_con_problema": 0.5433167219161987,
+                            "peso_arista": 0.8406959176063538,
+                            "peso_acumulado": 4.393434286117554,
+                            "premise_id": "N18",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_254",
+                                "texto": "NeurotypicalCognition updates social expectations for future sarcasm norms",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6000701189041138,
+                                "sim_con_problema": 0.6177277565002441,
+                                "peso_arista": 0.7822021245956421,
+                                "peso_acumulado": 5.175636410713196,
+                                "premise_id": "N18",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_255",
+                                "texto": "NeurotypicalCognition transfers this norm across new social contexts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.8009052872657776,
+                                "sim_con_problema": 0.5636484622955322,
+                                "peso_arista": 0.6354462504386902,
+                                "peso_acumulado": 5.028880536556244,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_12",
+            "texto": "NeurotypicalCognition mirrors the emotional tone of the sarcastic remark",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5380226373672485,
+            "sim_con_problema": 0.6087949275970459,
+            "peso_arista": 0.8531824350357056,
+            "peso_acumulado": 1.6738768815994263,
+            "premise_id": "N15",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_40",
+                "texto": "NeurotypicalCognition labels the identified emotional tone explicitly",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.5691300630569458,
+                "sim_con_problema": 0.468210905790329,
+                "peso_arista": 0.9626590311527252,
+                "peso_acumulado": 2.6365359127521515,
+                "premise_id": "N14",
+                "hijos": []
+              },
+              {
+                "id": "NeurotypicalCognition_3_41",
+                "texto": "NeurotypicalCognition generates its emotional response with minimal delay",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5965063571929932,
+                "sim_con_problema": 0.3710798919200897,
+                "peso_arista": 1.0324137508869171,
+                "peso_acumulado": 2.7062906324863434,
+                "premise_id": "N16",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_89",
+                    "texto": "NeurotypicalCognition labels its emotional reaction as communicable information",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6362206935882568,
+                    "sim_con_problema": 0.49014025926589966,
+                    "peso_arista": 0.8736390471458435,
+                    "peso_acumulado": 3.579929679632187,
+                    "premise_id": "N14",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_149",
+                        "texto": "NeurotypicalCognition's expressed reaction becomes subject to social feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.677214503288269,
+                        "sim_con_problema": 0.5132170915603638,
+                        "peso_arista": 0.8095684051513672,
+                        "peso_acumulado": 4.389498084783554,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_250",
+                            "texto": "NeurotypicalCognition detects whether its reaction violated social norms",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6745845675468445,
+                            "sim_con_problema": 0.4724734425544739,
+                            "peso_arista": 0.8529419898986816,
+                            "peso_acumulado": 5.242440074682236,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_150",
+                        "texto": "NeurotypicalCognition monitors social cues to interpret resulting feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7153936624526978,
+                        "sim_con_problema": 0.49124598503112793,
+                        "peso_arista": 0.7933603525161743,
+                        "peso_acumulado": 4.373290032148361,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_246",
+                            "texto": "NeurotypicalCognition supplements vague feedback through self-monitoring",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6318274140357971,
+                            "sim_con_problema": 0.3695550560951233,
+                            "peso_arista": 0.9986175298690796,
+                            "peso_acumulado": 5.371907562017441,
+                            "premise_id": "N24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_249",
+                            "texto": "NeurotypicalCognition confirms the sarcastic remark's intended meaning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5479167699813843,
+                            "sim_con_problema": 0.5860957503318787,
+                            "peso_arista": 0.8659874796867371,
+                            "peso_acumulado": 5.239277511835098,
+                            "premise_id": "N17",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_3",
+        "texto": "NeurotypicalCognition computes implicit social meaning of the sarcasm",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5887287855148315,
+        "sim_con_problema": 0.6652864217758179,
+        "peso_arista": 0.7459847927093506,
+        "peso_acumulado": 0.7459847927093506,
+        "premise_id": "N23",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_6",
+            "texto": "NeurotypicalCognition generates an emotional response synchronously with the remark",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6021026372909546,
+            "sim_con_problema": 0.5483276844024658,
+            "peso_arista": 0.8495696783065796,
+            "peso_acumulado": 1.5955544710159302,
+            "premise_id": "N16",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_32",
+                "texto": "NeurotypicalCognition anticipates social consequences of its reaction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6996719837188721,
+                "sim_con_problema": 0.5046483874320984,
+                "peso_arista": 0.7956796288490295,
+                "peso_acumulado": 2.3912340998649597,
+                "premise_id": "N12",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_69",
+                    "texto": "NeurotypicalCognition regulates its reaction based on anticipated approval",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6317652463912964,
+                    "sim_con_problema": 0.35328686237335205,
+                    "peso_arista": 1.0149478912353516,
+                    "peso_acumulado": 3.4061819911003113,
+                    "premise_id": "N12",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_130",
+                        "texto": "NeurotypicalCognition aligns its response with acquired social norms",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7800105810165405,
+                        "sim_con_problema": 0.5194293260574341,
+                        "peso_arista": 0.7005600929260254,
+                        "peso_acumulado": 4.106742084026337,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_200",
+                            "texto": "NeurotypicalCognition transfers this norm alignment to future sarcasm instances",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6101731061935425,
+                            "sim_con_problema": 0.586756706237793,
+                            "peso_arista": 0.8030701875686646,
+                            "peso_acumulado": 4.909812271595001,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_131",
+                        "texto": "NeurotypicalCognition infers the expected reaction without explicit statement",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5923985242843628,
+                        "sim_con_problema": 0.45151612162590027,
+                        "peso_arista": 0.9560853540897369,
+                        "peso_acumulado": 4.362267345190048,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_242",
+                            "texto": "NeurotypicalCognition selects a socially appropriate response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7605530023574829,
+                            "sim_con_problema": 0.5609723329544067,
+                            "peso_arista": 0.6784746646881104,
+                            "peso_acumulado": 5.040742009878159,
+                            "premise_id": "N23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_243",
+                            "texto": "NeurotypicalCognition adjusts its reply to gain peer approval",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.66923987865448,
+                            "sim_con_problema": 0.4193575978279114,
+                            "peso_arista": 0.9114025235176086,
+                            "peso_acumulado": 5.273669868707657,
+                            "premise_id": "N12",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_244",
+                            "texto": "NeurotypicalCognition responds in kind to the sarcastic remark",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5748931765556335,
+                            "sim_con_problema": 0.5867143869400024,
+                            "peso_arista": 0.838392436504364,
+                            "peso_acumulado": 5.200659781694412,
+                            "premise_id": "N17",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_70",
+                    "texto": "NeurotypicalCognition computes the socially expected response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7068899869918823,
+                    "sim_con_problema": 0.514162540435791,
+                    "peso_arista": 0.7789474725723267,
+                    "peso_acumulado": 3.1701815724372864,
+                    "premise_id": "N23",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_114",
+                        "texto": "NeurotypicalCognition enacts the socially expected response",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7547100782394409,
+                        "sim_con_problema": 0.5262717604637146,
+                        "peso_arista": 0.7190181612968445,
+                        "peso_acumulado": 3.889199733734131,
+                        "premise_id": "N12",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_176",
+                            "texto": "NeurotypicalCognition integrates social feedback following the enacted response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7402200698852539,
+                            "sim_con_problema": 0.5058057904243469,
+                            "peso_arista": 0.7539741396903992,
+                            "peso_acumulado": 4.64317387342453,
+                            "premise_id": "N24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_177",
+                            "texto": "NeurotypicalCognition generalizes this response pattern to future similar exchanges",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5989899635314941,
+                            "sim_con_problema": 0.3817128539085388,
+                            "peso_arista": 1.019297182559967,
+                            "peso_acumulado": 4.908496916294098,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_115",
+                        "texto": "NeurotypicalCognition monitors social feedback to confirm alignment",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6496439576148987,
+                        "sim_con_problema": 0.4087672233581543,
+                        "peso_arista": 0.941588819026947,
+                        "peso_acumulado": 4.111770391464233,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_205",
+                            "texto": "NeurotypicalCognition treats mismatched feedback as correctable information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5887687802314758,
+                            "sim_con_problema": 0.3926393687725067,
+                            "peso_arista": 1.0185918509960175,
+                            "peso_acumulado": 5.130362242460251,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_206",
+                            "texto": "NeurotypicalCognition adjusts future updating based on feedback volatility",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.48073843121528625,
+                            "sim_con_problema": 0.22861668467521667,
+                            "peso_arista": 1.290644884109497,
+                            "peso_acumulado": 5.4024152755737305,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_116",
+                        "texto": "NeurotypicalCognition expects automatic detection of norm violations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6511516571044922,
+                        "sim_con_problema": 0.3384009003639221,
+                        "peso_arista": 1.0104474425315857,
+                        "peso_acumulado": 4.180629014968872,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_220",
+                            "texto": "NeurotypicalCognition treats any detected violation as correctable information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5550466775894165,
+                            "sim_con_problema": 0.3485702872276306,
+                            "peso_arista": 1.0963830351829529,
+                            "peso_acumulado": 5.277012050151825,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_71",
+                    "texto": "NeurotypicalCognition calibrates its reply to match social norms",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7697746753692627,
+                    "sim_con_problema": 0.5135789513587952,
+                    "peso_arista": 0.7166463732719421,
+                    "peso_acumulado": 3.107880473136902,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_111",
+                        "texto": "NeurotypicalCognition expects automatic social feedback on its reply",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7209026217460632,
+                        "sim_con_problema": 0.5097015500068665,
+                        "peso_arista": 0.7693958282470703,
+                        "peso_acumulado": 3.877276301383972,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_175",
+                            "texto": "NeurotypicalCognition treats resulting feedback as correction information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6110087633132935,
+                            "sim_con_problema": 0.3616785407066345,
+                            "peso_arista": 1.027312695980072,
+                            "peso_acumulado": 4.904588997364044,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_112",
+                        "texto": "NeurotypicalCognition monitors peer reactions to refine its response",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6617709398269653,
+                        "sim_con_problema": 0.3363790214061737,
+                        "peso_arista": 1.001850038766861,
+                        "peso_acumulado": 4.109730511903763,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_201",
+                            "texto": "NeurotypicalCognition integrates peer feedback to adjust its response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6918933391571045,
+                            "sim_con_problema": 0.37708085775375366,
+                            "peso_arista": 0.9310258030891418,
+                            "peso_acumulado": 5.040756314992905,
+                            "premise_id": "N24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_203",
+                            "texto": "NeurotypicalCognition treats reaction mismatches as correction cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5899357199668884,
+                            "sim_con_problema": 0.35730788111686707,
+                            "peso_arista": 1.0527563989162445,
+                            "peso_acumulado": 5.162486910820007,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_113",
+                        "texto": "NeurotypicalCognition treats any misfire as correctable social information",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6032226085662842,
+                        "sim_con_problema": 0.4480035901069641,
+                        "peso_arista": 0.9487738013267517,
+                        "peso_acumulado": 4.056654274463654,
+                        "premise_id": "N21",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_186",
+                            "texto": "NeurotypicalCognition corrects the misfire without system shutdown",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4939032196998596,
+                            "sim_con_problema": 0.24353499710559845,
+                            "peso_arista": 1.262561783194542,
+                            "peso_acumulado": 5.3192160576581955,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_187",
+                            "texto": "NeurotypicalCognition generalizes this correction to future conversations",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6863847970962524,
+                            "sim_con_problema": 0.6372014284133911,
+                            "peso_arista": 0.6764137744903564,
+                            "peso_acumulado": 4.73306804895401,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_7",
+            "texto": "NeurotypicalCognition automatically mirrors the classmate's affective tone",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.6141963005065918,
+            "sim_con_problema": 0.4736897647380829,
+            "peso_arista": 0.9121139347553253,
+            "peso_acumulado": 1.658098727464676,
+            "premise_id": "N15",
+            "hijos": []
+          },
+          {
+            "id": "NeurotypicalCognition_2_8",
+            "texto": "NeurotypicalCognition labels its own emotional reaction to the sarcasm",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5432900190353394,
+            "sim_con_problema": 0.5528876781463623,
+            "peso_arista": 0.9038223028182983,
+            "peso_acumulado": 1.649807095527649,
+            "premise_id": "N14",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_34",
+                "texto": "NeurotypicalCognition regulates its response based on anticipated social consequences",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7093782424926758,
+                "sim_con_problema": 0.46899494528770447,
+                "peso_arista": 0.8216268122196198,
+                "peso_acumulado": 2.4714339077472687,
+                "premise_id": "N12",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_72",
+                    "texto": "NeurotypicalCognition produces a socially calibrated response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7524927854537964,
+                    "sim_con_problema": 0.49309760332107544,
+                    "peso_arista": 0.7544096112251282,
+                    "peso_acumulado": 3.225843518972397,
+                    "premise_id": "N12",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_117",
+                        "texto": "NeurotypicalCognition receives social feedback confirming norm compliance",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7004659175872803,
+                        "sim_con_problema": 0.41873323917388916,
+                        "peso_arista": 0.8808008432388306,
+                        "peso_acumulado": 4.106644362211227,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_195",
+                            "texto": "NeurotypicalCognition reinforces the acquired social norm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.752106249332428,
+                            "sim_con_problema": 0.5003432631492615,
+                            "peso_arista": 0.7475504875183105,
+                            "peso_acumulado": 4.854194849729538,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_118",
+                        "texto": "NeurotypicalCognition monitors classmate reactions to calibrate future responses",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6115750670433044,
+                        "sim_con_problema": 0.380187451839447,
+                        "peso_arista": 1.0082374811172485,
+                        "peso_acumulado": 4.234081000089645,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_225",
+                            "texto": "NeurotypicalCognition supplements ambiguous classmate feedback with social inference",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6515459418296814,
+                            "sim_con_problema": 0.4974554777145386,
+                            "peso_arista": 0.85099858045578,
+                            "peso_acumulado": 5.085079580545425,
+                            "premise_id": "N24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_226",
+                            "texto": "NeurotypicalCognition updates its implicit social norm model",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.774322509765625,
+                            "sim_con_problema": 0.5498741269111633,
+                            "peso_arista": 0.6758033633232117,
+                            "peso_acumulado": 4.909884363412857,
+                            "premise_id": "N23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_227",
+                            "texto": "NeurotypicalCognition detects norm violations through classmate feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6347116231918335,
+                            "sim_con_problema": 0.35912972688674927,
+                            "peso_arista": 1.0061586499214172,
+                            "peso_acumulado": 5.240239650011063,
+                            "premise_id": "N18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_228",
+                            "texto": "NeurotypicalCognition treats mismatched reactions as correctable error",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5085780024528503,
+                            "sim_con_problema": 0.3127771019935608,
+                            "peso_arista": 1.1786448955535889,
+                            "peso_acumulado": 5.412725895643234,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_119",
+                        "texto": "NeurotypicalCognition anticipates continued peer approval from this response",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6160100698471069,
+                        "sim_con_problema": 0.37002110481262207,
+                        "peso_arista": 1.013968825340271,
+                        "peso_acumulado": 4.239812344312668,
+                        "premise_id": "N12",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_229",
+                            "texto": "NeurotypicalCognition reinforces the response as socially rewarded behavior",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6281099319458008,
+                            "sim_con_problema": 0.390201210975647,
+                            "peso_arista": 0.9816888570785522,
+                            "peso_acumulado": 5.22150120139122,
+                            "premise_id": "N12",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_230",
+                            "texto": "NeurotypicalCognition treats the approval as confirmation of norm compliance",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.623555064201355,
+                            "sim_con_problema": 0.3715948760509491,
+                            "peso_arista": 1.004850059747696,
+                            "peso_acumulado": 5.244662404060364,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_73",
+                    "texto": "NeurotypicalCognition monitors social feedback for norm violations",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6588878631591797,
+                    "sim_con_problema": 0.4129799008369446,
+                    "peso_arista": 0.9281322360038757,
+                    "peso_acumulado": 3.3995661437511444,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_127",
+                        "texto": "NeurotypicalCognition experiences mild discomfort motivating correction if erring",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5158216953277588,
+                        "sim_con_problema": 0.3474748134613037,
+                        "peso_arista": 1.1367034912109375,
+                        "peso_acumulado": 4.536269634962082,
+                        "premise_id": "N21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_128",
+                        "texto": "NeurotypicalCognition infers implicit expectations from the social feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6921678781509399,
+                        "sim_con_problema": 0.542502760887146,
+                        "peso_arista": 0.7653293609619141,
+                        "peso_acumulado": 4.1648955047130585,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_213",
+                            "texto": "NeurotypicalCognition generalizes the inferred expectation across contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6872526407241821,
+                            "sim_con_problema": 0.5401289463043213,
+                            "peso_arista": 0.7726184129714966,
+                            "peso_acumulado": 4.937513917684555,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_214",
+                            "texto": "NeurotypicalCognition treats any norm mismatch as correctable information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5949592590332031,
+                            "sim_con_problema": 0.3580322265625,
+                            "peso_arista": 1.0470085144042969,
+                            "peso_acumulado": 5.211904019117355,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_215",
+                            "texto": "NeurotypicalCognition updates its social norm model automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7555001974105835,
+                            "sim_con_problema": 0.42004770040512085,
+                            "peso_arista": 0.8244521021842957,
+                            "peso_acumulado": 4.989347606897354,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_74",
+                    "texto": "NeurotypicalCognition treats resulting error as corrective information",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5682399272918701,
+                    "sim_con_problema": 0.3992898464202881,
+                    "peso_arista": 1.0324702262878418,
+                    "peso_acumulado": 3.5039041340351105,
+                    "premise_id": "N21",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_135",
+                        "texto": "NeurotypicalCognition corrects response without system shutdown",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6042754054069519,
+                        "sim_con_problema": 0.3106535077095032,
+                        "peso_arista": 1.085071086883545,
+                        "peso_acumulado": 4.588975220918655,
+                        "premise_id": "N21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_136",
+                        "texto": "NeurotypicalCognition generalizes the corrected response across future contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7010428309440613,
+                        "sim_con_problema": 0.4767955541610718,
+                        "peso_arista": 0.8221616148948669,
+                        "peso_acumulado": 4.326065748929977,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_239",
+                            "texto": "NeurotypicalCognition applies the sarcasm-response rule without re-anchoring",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6008025407791138,
+                            "sim_con_problema": 0.5787595510482788,
+                            "peso_arista": 0.8204379081726074,
+                            "peso_acumulado": 5.146503657102585,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_137",
+                        "texto": "NeurotypicalCognition updates norm expectations from the social feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6594910621643066,
+                        "sim_con_problema": 0.4248889684677124,
+                        "peso_arista": 0.915619969367981,
+                        "peso_acumulado": 4.419524103403091,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_261",
+                            "texto": "NeurotypicalCognition computes revised social expectations without explicit statement",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6625461578369141,
+                            "sim_con_problema": 0.5682215690612793,
+                            "peso_arista": 0.7692322731018066,
+                            "peso_acumulado": 5.188756376504898,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_35",
+                "texto": "NeurotypicalCognition mirrors the classmate's underlying emotional tone",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.5443593859672546,
+                "sim_con_problema": 0.4716470241546631,
+                "peso_arista": 0.9839935898780823,
+                "peso_acumulado": 2.633800685405731,
+                "premise_id": "N15",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_4",
+        "texto": "NeurotypicalCognition automatically mirrors classmates' emotional reactions to the sarcasm",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5677242875099182,
+        "sim_con_problema": 0.5188077092170715,
+        "peso_arista": 0.9134680032730103,
+        "peso_acumulado": 0.9134680032730103,
+        "premise_id": "N15",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_17",
+            "texto": "NeurotypicalCognition labels its mirrored emotional state explicitly",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6103981137275696,
+            "sim_con_problema": 0.4230937361717224,
+            "peso_arista": 0.966508150100708,
+            "peso_acumulado": 1.8799761533737183,
+            "premise_id": "N14",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_46",
+                "texto": "NeurotypicalCognition can communicate its labeled emotional state",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5988186001777649,
+                "sim_con_problema": 0.46079379320144653,
+                "peso_arista": 0.9403876066207886,
+                "peso_acumulado": 2.820363759994507,
+                "premise_id": "N14",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_98",
+                    "texto": "NeurotypicalCognition regulates its behavior via anticipated peer reactions",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6956567764282227,
+                    "sim_con_problema": 0.3724968731403351,
+                    "peso_arista": 0.9318463504314423,
+                    "peso_acumulado": 3.752210110425949,
+                    "premise_id": "N12",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_162",
+                        "texto": "NeurotypicalCognition suppresses reactions likely to draw peer disapproval",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5813865661621094,
+                        "sim_con_problema": 0.39127683639526367,
+                        "peso_arista": 1.027336597442627,
+                        "peso_acumulado": 4.779546707868576,
+                        "premise_id": "N12",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_99",
+                    "texto": "NeurotypicalCognition receives automatic social feedback on the expressed emotion",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6317087411880493,
+                    "sim_con_problema": 0.45827674865722656,
+                    "peso_arista": 0.9100145101547241,
+                    "peso_acumulado": 3.730378270149231,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_155",
+                        "texto": "NeurotypicalCognition integrates the feedback through self-monitoring and inference",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6870982646942139,
+                        "sim_con_problema": 0.3764834403991699,
+                        "peso_arista": 0.9364182949066162,
+                        "peso_acumulado": 4.666796565055847,
+                        "premise_id": "N24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_156",
+                        "texto": "NeurotypicalCognition detects any norm violation from the feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5965670943260193,
+                        "sim_con_problema": 0.29436707496643066,
+                        "peso_arista": 1.10906583070755,
+                        "peso_acumulado": 4.839444100856781,
+                        "premise_id": "N18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_157",
+                        "texto": "NeurotypicalCognition uses feedback to motivate behavioral correction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6398204565048218,
+                        "sim_con_problema": 0.3912522792816162,
+                        "peso_arista": 0.968927264213562,
+                        "peso_acumulado": 4.699305534362793,
+                        "premise_id": "N21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_19",
+            "texto": "NeurotypicalCognition registers the sarcasm as a normal social exchange",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5656145215034485,
+            "sim_con_problema": 0.5742466449737549,
+            "peso_arista": 0.8601388335227966,
+            "peso_acumulado": 1.7736068367958069,
+            "premise_id": "N18",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_43",
+                "texto": "NeurotypicalCognition continues participating without flagging a norm violation",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6729723215103149,
+                "sim_con_problema": 0.41620415449142456,
+                "peso_arista": 0.9108235239982605,
+                "peso_acumulado": 2.6844303607940674,
+                "premise_id": "N18",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_87",
+                    "texto": "NeurotypicalCognition remains attentive to further social signals",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7325029373168945,
+                    "sim_con_problema": 0.5121666789054871,
+                    "peso_arista": 0.7553303837776184,
+                    "peso_acumulado": 3.439760744571686,
+                    "premise_id": "N11",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_132",
+                        "texto": "NeurotypicalCognition flexibly redirects focus toward new social cues",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7509632110595703,
+                        "sim_con_problema": 0.5297491550445557,
+                        "peso_arista": 0.719287633895874,
+                        "peso_acumulado": 4.15904837846756,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_210",
+                            "texto": "NeurotypicalCognition integrates new verbal and social cues simultaneously",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.77679443359375,
+                            "sim_con_problema": 0.5921274423599243,
+                            "peso_arista": 0.6310781240463257,
+                            "peso_acumulado": 4.7901265025138855,
+                            "premise_id": "N4",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_211",
+                            "texto": "NeurotypicalCognition extracts updated context meaning automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7032909393310547,
+                            "sim_con_problema": 0.4487811326980591,
+                            "peso_arista": 0.8479279279708862,
+                            "peso_acumulado": 5.006976306438446,
+                            "premise_id": "N6",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_212",
+                            "texto": "NeurotypicalCognition computes implicit expectations for the new exchange",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5811973810195923,
+                            "sim_con_problema": 0.46000152826309204,
+                            "peso_arista": 0.9588010907173157,
+                            "peso_acumulado": 5.1178494691848755,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_134",
+                        "texto": "NeurotypicalCognition infers unspoken behavioral expectations from ongoing interaction",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6402816772460938,
+                        "sim_con_problema": 0.4784812927246094,
+                        "peso_arista": 0.8812370300292969,
+                        "peso_acumulado": 4.320997774600983,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_237",
+                            "texto": "NeurotypicalCognition adjusts behavior to match inferred social expectations",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7089846730232239,
+                            "sim_con_problema": 0.48440518975257874,
+                            "peso_arista": 0.8066101372241974,
+                            "peso_acumulado": 5.12760791182518,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_44",
+                "texto": "NeurotypicalCognition applies this sarcasm-decoding pattern to future exchanges",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.576216459274292,
+                "sim_con_problema": 0.6051589250564575,
+                "peso_arista": 0.8186246156692505,
+                "peso_acumulado": 2.5922314524650574,
+                "premise_id": "N22",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_75",
+                    "texto": "NeurotypicalCognition transfers sarcasm-decoding to novel conversational contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6137149930000305,
+                    "sim_con_problema": 0.6815904378890991,
+                    "peso_arista": 0.7046945691108704,
+                    "peso_acumulado": 3.2969260215759277,
+                    "premise_id": "N22",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_123",
+                        "texto": "NeurotypicalCognition decodes sarcasm without explicit re-anchoring in new settings",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6171451807022095,
+                        "sim_con_problema": 0.5973154306411743,
+                        "peso_arista": 0.7855393886566162,
+                        "peso_acumulado": 4.082465410232544,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_192",
+                            "texto": "NeurotypicalCognition extracts the intended meaning from context automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7494133710861206,
+                            "sim_con_problema": 0.5650036334991455,
+                            "peso_arista": 0.6855829954147339,
+                            "peso_acumulado": 4.768048405647278,
+                            "premise_id": "N6",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_193",
+                            "texto": "NeurotypicalCognition responds to the sarcasm with minimal delay",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5749435424804688,
+                            "sim_con_problema": 0.5449471473693848,
+                            "peso_arista": 0.8801093101501465,
+                            "peso_acumulado": 4.96257472038269,
+                            "premise_id": "N16",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_124",
+                        "texto": "NeurotypicalCognition decodes future indirect speech without extra inferential steps",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6189461946487427,
+                        "sim_con_problema": 0.6137832403182983,
+                        "peso_arista": 0.767270565032959,
+                        "peso_acumulado": 4.064196586608887,
+                        "premise_id": "N17",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_189",
+                            "texto": "NeurotypicalCognition integrates the sarcasm smoothly into ongoing conversation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5929160118103027,
+                            "sim_con_problema": 0.6541560888290405,
+                            "peso_arista": 0.7529278993606567,
+                            "peso_acumulado": 4.8171244859695435,
+                            "premise_id": "N4",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_125",
+                        "texto": "NeurotypicalCognition detects norm violations in new sarcastic exchanges automatically",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6008400321006775,
+                        "sim_con_problema": 0.4961748421192169,
+                        "peso_arista": 0.9029851257801056,
+                        "peso_acumulado": 4.199911147356033,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_224",
+                            "texto": "NeurotypicalCognition infers the appropriate social response without explicit rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7560946941375732,
+                            "sim_con_problema": 0.5691311359405518,
+                            "peso_arista": 0.674774169921875,
+                            "peso_acumulado": 4.874685317277908,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_77",
+                    "texto": "NeurotypicalCognition flags atypical sarcasm use as a norm violation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5171983242034912,
+                    "sim_con_problema": 0.5491713881492615,
+                    "peso_arista": 0.9336302876472473,
+                    "peso_acumulado": 3.5258617401123047,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_138",
+                        "texto": "NeurotypicalCognition generates a prediction error from the violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5045657157897949,
+                        "sim_con_problema": 0.304443359375,
+                        "peso_arista": 1.190990924835205,
+                        "peso_acumulado": 4.71685266494751,
+                        "premise_id": "N20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_139",
+                        "texto": "NeurotypicalCognition rapidly updates its social context model",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.8136221170425415,
+                        "sim_con_problema": 0.5361232161521912,
+                        "peso_arista": 0.6502546668052673,
+                        "peso_acumulado": 4.176116406917572,
+                        "premise_id": "N20",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_216",
+                            "texto": "NeurotypicalCognition resolves the prediction error from the atypical sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5062777996063232,
+                            "sim_con_problema": 0.52915358543396,
+                            "peso_arista": 0.9645686149597168,
+                            "peso_acumulado": 5.140685021877289,
+                            "premise_id": "N20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_217",
+                            "texto": "NeurotypicalCognition generalizes the updated norm across future contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.743970513343811,
+                            "sim_con_problema": 0.4854057729244232,
+                            "peso_arista": 0.7706237137317657,
+                            "peso_acumulado": 4.946740120649338,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_218",
+                            "texto": "NeurotypicalCognition consolidates the updated model as volatility decreases",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4360882043838501,
+                            "sim_con_problema": 0.16715103387832642,
+                            "peso_arista": 1.3967607617378235,
+                            "peso_acumulado": 5.5728771686553955,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_140",
+                        "texto": "NeurotypicalCognition experiences mild discomfort motivating social correction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6024715900421143,
+                        "sim_con_problema": 0.44760555028915405,
+                        "peso_arista": 0.9499228596687317,
+                        "peso_acumulado": 4.475784599781036,
+                        "premise_id": "N21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_141",
+                        "texto": "NeurotypicalCognition relies on social feedback to confirm the violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6491063833236694,
+                        "sim_con_problema": 0.4430202841758728,
+                        "peso_arista": 0.9078733325004578,
+                        "peso_acumulado": 4.4337350726127625,
+                        "premise_id": "N18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 76,
+  "profundidad_maxima": 7
+}

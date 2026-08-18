@@ -1,0 +1,1887 @@
+{
+  "actor": "MixedASDwithDelay",
+  "raiz": {
+    "id": "MixedASDwithDelay_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.334542453289032,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "MixedASDwithDelay_1_1",
+        "texto": "MixedASDwithDelay does not automatically decode mockery as ridicule",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.21941721439361572,
+        "sim_con_problema": 0.5793423652648926,
+        "peso_arista": 1.2012404203414917,
+        "peso_acumulado": 1.2012404203414917,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_10",
+            "texto": "MixedASDwithDelay processes the mocking words literally",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.20044869184494019,
+            "sim_con_problema": 0.5444912314414978,
+            "peso_arista": 1.255060076713562,
+            "peso_acumulado": 2.4563004970550537,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_32",
+                "texto": "MixedASDwithDelay does not infer hostile intent behind words",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.22441844642162323,
+                "sim_con_problema": 0.32097381353378296,
+                "peso_arista": 1.4546077400445938,
+                "peso_acumulado": 3.9109082370996475,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_86",
+                    "texto": "MixedASDwithDelay does not activate a threat response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17757472395896912,
+                    "sim_con_problema": 0.16962233185768127,
+                    "peso_arista": 1.6528029441833496,
+                    "peso_acumulado": 5.563711181282997,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_194",
+                        "texto": "MixedASDwithDelay remains cognitively online and available",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3548538088798523,
+                        "sim_con_problema": 0.1655901074409485,
+                        "peso_arista": 1.4795560836791992,
+                        "peso_acumulado": 7.043267264962196,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_195",
+                        "texto": "MixedASDwithDelay can process the event as learning information",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3806873559951782,
+                        "sim_con_problema": 0.22747072577476501,
+                        "peso_arista": 1.3918419182300568,
+                        "peso_acumulado": 6.955553099513054,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_196",
+                        "texto": "MixedASDwithDelay attempts explicit retrieval of stored social rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2582732141017914,
+                        "sim_con_problema": 0.2251264452934265,
+                        "peso_arista": 1.516600340604782,
+                        "peso_acumulado": 7.080311521887779,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_33",
+                "texto": "MixedASDwithDelay cannot classify the words as social insult automatically",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.15427136421203613,
+                "sim_con_problema": 0.46110790967941284,
+                "peso_arista": 1.384620726108551,
+                "peso_acumulado": 3.8409212231636047,
+                "premise_id": "A18",
+                "hijos": []
+              },
+              {
+                "id": "MixedASDwithDelay_3_34",
+                "texto": "MixedASDwithDelay fails to detect the implicit social norm violation",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.22664988040924072,
+                "sim_con_problema": 0.3762558400630951,
+                "peso_arista": 1.3970942795276642,
+                "peso_acumulado": 3.853394776582718,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_82",
+                    "texto": "MixedASDwithDelay does not adjust behavior to the unspoken expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3468429148197174,
+                    "sim_con_problema": 0.2683037519454956,
+                    "peso_arista": 1.384853333234787,
+                    "peso_acumulado": 5.238248109817505,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_149",
+                        "texto": "MixedASDwithDelay cannot generalize this norm to future contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3275301456451416,
+                        "sim_con_problema": 0.22689785063266754,
+                        "peso_arista": 1.4455720037221909,
+                        "peso_acumulado": 6.683820113539696,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_281",
+                            "texto": "MixedASDwithDelay only follows explicitly stated social rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2719985842704773,
+                            "sim_con_problema": 0.1945631057024002,
+                            "peso_arista": 1.5334383100271225,
+                            "peso_acumulado": 8.217258423566818,
+                            "premise_id": "A23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_282",
+                            "texto": "MixedASDwithDelay needs conscious retrieval to apply this norm again",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.37509721517562866,
+                            "sim_con_problema": 0.19200798869132996,
+                            "peso_arista": 1.4328947961330414,
+                            "peso_acumulado": 8.116714909672737,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_11",
+            "texto": "MixedASDwithDelay requires explicit retrieval to identify mockery",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.23450152575969696,
+            "sim_con_problema": 0.4671696126461029,
+            "peso_arista": 1.2983288615942001,
+            "peso_acumulado": 2.499569281935692,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_35",
+                "texto": "MixedASDwithDelay must consciously match mockery to stored social rules",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.27796268463134766,
+                "sim_con_problema": 0.5975004434585571,
+                "peso_arista": 1.1245368719100952,
+                "peso_acumulado": 3.624106153845787,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_61",
+                    "texto": "MixedASDwithDelay experiences delayed response to the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2850748300552368,
+                    "sim_con_problema": 0.5538198947906494,
+                    "peso_arista": 1.1611052751541138,
+                    "peso_acumulado": 4.785211428999901,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_127",
+                        "texto": "MixedASDwithDelay applies retrieved rule after social window closes",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.15622693300247192,
+                        "sim_con_problema": 0.1557263433933258,
+                        "peso_arista": 1.6880467236042023,
+                        "peso_acumulado": 6.473258152604103,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_244",
+                            "texto": "MixedASDwithDelay cannot generalize this rule to future similar events",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.26606738567352295,
+                            "sim_con_problema": 0.16021466255187988,
+                            "peso_arista": 1.5737179517745972,
+                            "peso_acumulado": 8.0469761043787,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_62",
+                    "texto": "MixedASDwithDelay cannot match mockery to unfamiliar surface variants",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1303706169128418,
+                    "sim_con_problema": 0.25813567638397217,
+                    "peso_arista": 1.611493706703186,
+                    "peso_acumulado": 5.235599860548973,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_144",
+                        "texto": "MixedASDwithDelay needs explicit instruction to recognize this mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.30225494503974915,
+                        "sim_con_problema": 0.40589791536331177,
+                        "peso_arista": 1.291847139596939,
+                        "peso_acumulado": 6.527447000145912,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_255",
+                            "texto": "MixedASDwithDelay fails to retrieve a matching social rule now",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.18521693348884583,
+                            "sim_con_problema": 0.16032394766807556,
+                            "peso_arista": 1.6544591188430786,
+                            "peso_acumulado": 8.18190611898899,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_256",
+                            "texto": "MixedASDwithDelay retains this social event poorly afterward",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16944915056228638,
+                            "sim_con_problema": 0.3391188085079193,
+                            "peso_arista": 1.4914320409297943,
+                            "peso_acumulado": 8.018879041075706,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_64",
+                    "texto": "MixedASDwithDelay cannot classify mockery without an explicit rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2105092853307724,
+                    "sim_con_problema": 0.47913992404937744,
+                    "peso_arista": 1.3103507906198502,
+                    "peso_acumulado": 4.934456944465637,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_129",
+                        "texto": "MixedASDwithDelay finds no matching stored rule for mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.11190387606620789,
+                        "sim_con_problema": 0.3293912410736084,
+                        "peso_arista": 1.5587048828601837,
+                        "peso_acumulado": 6.493161827325821,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_247",
+                            "texto": "MixedASDwithDelay cannot reliably apply any social response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.24254512786865234,
+                            "sim_con_problema": 0.3467596173286438,
+                            "peso_arista": 1.4106952548027039,
+                            "peso_acumulado": 7.903857082128525,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_36",
+                "texto": "MixedASDwithDelay identifies the mockery only after a processing delay",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2935560345649719,
+                "sim_con_problema": 0.3801562190055847,
+                "peso_arista": 1.3262877464294434,
+                "peso_acumulado": 3.825857028365135,
+                "premise_id": "A7",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_80",
+                    "texto": "MixedASDwithDelay cannot reliably retain the event without visual cues",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3312690854072571,
+                    "sim_con_problema": 0.15451908111572266,
+                    "peso_arista": 1.5142118334770203,
+                    "peso_acumulado": 5.3400688618421555,
+                    "premise_id": "A10",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_12",
+            "texto": "MixedASDwithDelay fails to detect the implicit ridicule cue",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.26078876852989197,
+            "sim_con_problema": 0.49573490023612976,
+            "peso_arista": 1.2434763312339783,
+            "peso_acumulado": 2.44471675157547,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_29",
+                "texto": "MixedASDwithDelay interprets the classmate's words literally",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2326112985610962,
+                "sim_con_problema": 0.3874164819717407,
+                "peso_arista": 1.379972219467163,
+                "peso_acumulado": 3.824688971042633,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_75",
+                    "texto": "MixedASDwithDelay treats the classmate's statement as factual content",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.23279495537281036,
+                    "sim_con_problema": 0.32654619216918945,
+                    "peso_arista": 1.4406588524580002,
+                    "peso_acumulado": 5.265347823500633,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_157",
+                        "texto": "MixedASDwithDelay stores the statement as a semantic fact",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.26407915353775024,
+                        "sim_con_problema": 0.18388843536376953,
+                        "peso_arista": 1.5520324110984802,
+                        "peso_acumulado": 6.8173802345991135,
+                        "premise_id": "A8",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_301",
+                            "texto": "MixedASDwithDelay loses the social-emotional context of the event",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.20178967714309692,
+                            "sim_con_problema": 0.42101171612739563,
+                            "peso_arista": 1.3771986067295074,
+                            "peso_acumulado": 8.194578841328621,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_302",
+                            "texto": "MixedASDwithDelay fails to recognize future mockery as similar",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21255242824554443,
+                            "sim_con_problema": 0.4644239544868469,
+                            "peso_arista": 1.3230236172676086,
+                            "peso_acumulado": 8.140403851866722,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_158",
+                        "texto": "MixedASDwithDelay retrieves no social rule for ridicule",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1521565467119217,
+                        "sim_con_problema": 0.48648756742477417,
+                        "peso_arista": 1.3613558858633041,
+                        "peso_acumulado": 6.626703709363937,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_271",
+                            "texto": "MixedASDwithDelay cannot apply any social response rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21180102229118347,
+                            "sim_con_problema": 0.2906253933906555,
+                            "peso_arista": 1.497573584318161,
+                            "peso_acumulado": 8.124277293682098,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_272",
+                            "texto": "MixedASDwithDelay treats the mockery as socially neutral",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.12280388176441193,
+                            "sim_con_problema": 0.5687460899353027,
+                            "peso_arista": 1.3084500283002853,
+                            "peso_acumulado": 7.935153737664223,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_159",
+                        "texto": "MixedASDwithDelay does not flag this as a mockery pattern",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.15383899211883545,
+                        "sim_con_problema": 0.2968999147415161,
+                        "peso_arista": 1.5492610931396484,
+                        "peso_acumulado": 6.814608916640282,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_298",
+                            "texto": "MixedASDwithDelay fails to encode this as socially significant memory",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3499598801136017,
+                            "sim_con_problema": 0.3211013376712799,
+                            "peso_arista": 1.3289387822151184,
+                            "peso_acumulado": 8.1435476988554,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_77",
+                    "texto": "MixedASDwithDelay does not register the remark as social threat",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.11131887137889862,
+                    "sim_con_problema": 0.38244831562042236,
+                    "peso_arista": 1.506232813000679,
+                    "peso_acumulado": 5.330921784043312,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_164",
+                        "texto": "MixedASDwithDelay is unlikely to encode the event as episodic memory",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3201746642589569,
+                        "sim_con_problema": 0.1665187031030655,
+                        "peso_arista": 1.5133066326379776,
+                        "peso_acumulado": 6.84422841668129,
+                        "premise_id": "A8",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_31",
+                "texto": "MixedASDwithDelay does not flag the remark as a violation",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.1580752730369568,
+                "sim_con_problema": 0.2709839940071106,
+                "peso_arista": 1.5709407329559326,
+                "peso_acumulado": 4.015657484531403,
+                "premise_id": "A23",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_2",
+        "texto": "MixedASDwithDelay must consciously retrieve rules to interpret this",
+        "nivel": 1,
+        "es_hoja": true,
+        "sim_con_raiz": 0.36897730827331543,
+        "sim_con_problema": 0.1793333888053894,
+        "peso_arista": 1.4516893029212952,
+        "peso_acumulado": 1.4516893029212952,
+        "premise_id": "A18",
+        "hijos": []
+      },
+      {
+        "id": "MixedASDwithDelay_1_3",
+        "texto": "MixedASDwithDelay processes this socially complex event slowly",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.37916043400764465,
+        "sim_con_problema": 0.365305632352829,
+        "peso_arista": 1.2555339336395264,
+        "peso_acumulado": 1.2555339336395264,
+        "premise_id": "A7",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_14",
+            "texto": "MixedASDwithDelay cannot intuitively retrieve a matching social rule",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.2927570939064026,
+            "sim_con_problema": 0.2452697902917862,
+            "peso_arista": 1.4619731158018112,
+            "peso_acumulado": 2.7175070494413376,
+            "premise_id": "A18",
+            "hijos": []
+          },
+          {
+            "id": "MixedASDwithDelay_2_15",
+            "texto": "MixedASDwithDelay responds only after the social moment ends",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2038649618625641,
+            "sim_con_problema": 0.3234812021255493,
+            "peso_arista": 1.4726538360118866,
+            "peso_acumulado": 2.728187769651413,
+            "premise_id": "A7",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_49",
+                "texto": "MixedASDwithDelay retains unreliable memory of the mocking event",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.21270640194416046,
+                "sim_con_problema": 0.3621445894241333,
+                "peso_arista": 1.4251490086317062,
+                "peso_acumulado": 4.153336778283119,
+                "premise_id": "A10",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_100",
+                    "texto": "MixedASDwithDelay fails to convert the incident into learning feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28952568769454956,
+                    "sim_con_problema": 0.22746942937374115,
+                    "peso_arista": 1.4830048829317093,
+                    "peso_acumulado": 5.6363416612148285,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_200",
+                        "texto": "MixedASDwithDelay forms no routine to handle future mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1679108440876007,
+                        "sim_con_problema": 0.35990068316459656,
+                        "peso_arista": 1.4721884727478027,
+                        "peso_acumulado": 7.108530133962631,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_101",
+                    "texto": "MixedASDwithDelay retains isolated facts rather than the social narrative",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2121623307466507,
+                    "sim_con_problema": 0.2755298316478729,
+                    "peso_arista": 1.5123078376054764,
+                    "peso_acumulado": 5.665644615888596,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_205",
+                        "texto": "MixedASDwithDelay cannot infer the social meaning of the mocking",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1550425887107849,
+                        "sim_con_problema": 0.6717265248298645,
+                        "peso_arista": 1.1732308864593506,
+                        "peso_acumulado": 6.838875502347946,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_310",
+                            "texto": "MixedASDwithDelay cannot generalize this event to prior contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2701687216758728,
+                            "sim_con_problema": 0.15241210162639618,
+                            "peso_arista": 1.577419176697731,
+                            "peso_acumulado": 8.416294679045677,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_206",
+                        "texto": "MixedASDwithDelay cannot generalize this social rule to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.30172091722488403,
+                        "sim_con_problema": 0.32133185863494873,
+                        "peso_arista": 1.3769472241401672,
+                        "peso_acumulado": 7.042591840028763,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_50",
+                "texto": "MixedASDwithDelay must consciously retrieve a stored social rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3643095791339874,
+                "sim_con_problema": 0.35149675607681274,
+                "peso_arista": 1.2841936647891998,
+                "peso_acumulado": 4.012381434440613,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_87",
+                    "texto": "MixedASDwithDelay cannot generalize the rule to this new context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3110174536705017,
+                    "sim_con_problema": 0.1514790654182434,
+                    "peso_arista": 1.5375034809112549,
+                    "peso_acumulado": 5.549884915351868,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_192",
+                        "texto": "MixedASDwithDelay registers this context as unanticipated change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25778529047966003,
+                        "sim_con_problema": 0.18016506731510162,
+                        "peso_arista": 1.5620496422052383,
+                        "peso_acumulado": 7.111934557557106,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_193",
+                        "texto": "MixedASDwithDelay treats this situation as lacking an explicit rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2516615092754364,
+                        "sim_con_problema": 0.22790800034999847,
+                        "peso_arista": 1.5204304903745651,
+                        "peso_acumulado": 7.070315405726433,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_89",
+                    "texto": "MixedASDwithDelay finds no explicit rule for indirect mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.18973731994628906,
+                    "sim_con_problema": 0.46475422382354736,
+                    "peso_arista": 1.3455084562301636,
+                    "peso_acumulado": 5.357889890670776,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_170",
+                        "texto": "MixedASDwithDelay cannot reliably apply an unspoken social convention",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2332172840833664,
+                        "sim_con_problema": 0.378582239151001,
+                        "peso_arista": 1.3882004767656326,
+                        "peso_acumulado": 6.746090367436409,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_284",
+                            "texto": "MixedASDwithDelay experiences the social reaction as unanticipated change",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19834962487220764,
+                            "sim_con_problema": 0.43866193294525146,
+                            "peso_arista": 1.362988442182541,
+                            "peso_acumulado": 8.10907880961895,
+                            "premise_id": "A20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_285",
+                            "texto": "MixedASDwellay cannot extract learning without explicit feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.33230969309806824,
+                            "sim_con_problema": 0.1917303055524826,
+                            "peso_arista": 1.4759600013494492,
+                            "peso_acumulado": 8.222050368785858,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_286",
+                            "texto": "MixedASDwithDelay risks framing the incident as personal failure",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16988056898117065,
+                            "sim_con_problema": 0.3332037329673767,
+                            "peso_arista": 1.4969156980514526,
+                            "peso_acumulado": 8.243006065487862,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_90",
+                    "texto": "MixedASDwithDelay requires conscious matching before responding",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3836224377155304,
+                    "sim_con_problema": 0.19617575407028198,
+                    "peso_arista": 1.4202018082141876,
+                    "peso_acumulado": 5.4325832426548,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_176",
+                        "texto": "MixedASDwithDelay searches its explicit social rule database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21549752354621887,
+                        "sim_con_problema": 0.16730836033821106,
+                        "peso_arista": 1.61719411611557,
+                        "peso_acumulado": 7.0497773587703705,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_179",
+                        "texto": "MixedASDwithDelay cannot learn if mockery framed as shame",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.20591017603874207,
+                        "sim_con_problema": 0.6188056468963623,
+                        "peso_arista": 1.1752841770648956,
+                        "peso_acumulado": 6.607867419719696,
+                        "premise_id": "A21",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_264",
+                            "texto": "MixedASDwithDelay's threat response activates instead of learning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3337710201740265,
+                            "sim_con_problema": 0.26914235949516296,
+                            "peso_arista": 1.3970866203308105,
+                            "peso_acumulado": 8.004954040050507,
+                            "premise_id": "A21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_266",
+                            "texto": "MixedASDwithDelay cannot generalize this mockery event elsewhere",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.18420960009098053,
+                            "sim_con_problema": 0.4326635003089905,
+                            "peso_arista": 1.383126899600029,
+                            "peso_acumulado": 7.990994319319725,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_267",
+                            "texto": "MixedASDwithDelay's social rule remains unupdated without explicit feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21459197998046875,
+                            "sim_con_problema": 0.2611604630947113,
+                            "peso_arista": 1.52424755692482,
+                            "peso_acumulado": 8.132114976644516,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_4",
+        "texto": "MixedASDwithDelay generates disproportionate prediction error from mockery",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.22183573246002197,
+        "sim_con_problema": 0.4067837595939636,
+        "peso_arista": 1.3713805079460144,
+        "peso_acumulado": 1.3713805079460144,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_17",
+            "texto": "MixedASDwithDelay's cognitive and social processing goes offline",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.41451266407966614,
+            "sim_con_problema": 0.40389129519462585,
+            "peso_arista": 1.181596040725708,
+            "peso_acumulado": 2.5529765486717224,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_39",
+                "texto": "MixedASDwithDelay cannot engage in social interaction now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.23986783623695374,
+                "sim_con_problema": 0.2749592661857605,
+                "peso_arista": 1.4851728975772858,
+                "peso_acumulado": 4.038149446249008,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_96",
+                    "texto": "MixedASDwithDelay cannot retrieve applicable social rules now",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1602717936038971,
+                    "sim_con_problema": 0.15386874973773956,
+                    "peso_arista": 1.6858594566583633,
+                    "peso_acumulado": 5.7240089029073715,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_216",
+                        "texto": "MixedASDwithDelay fails to detect the implicit social insult",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2163698375225067,
+                        "sim_con_problema": 0.5313965082168579,
+                        "peso_arista": 1.2522336542606354,
+                        "peso_acumulado": 6.976242557168007,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_217",
+                        "texto": "MixedASDwithDelay processes the event as threat, not learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2815122604370117,
+                        "sim_con_problema": 0.28211385011672974,
+                        "peso_arista": 1.4363738894462585,
+                        "peso_acumulado": 7.16038279235363,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_40",
+                "texto": "MixedASDwithDelay processes mockery as threat not learning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.28129470348358154,
+                "sim_con_problema": 0.4486168920993805,
+                "peso_arista": 1.270088404417038,
+                "peso_acumulado": 3.8230649530887604,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_72",
+                    "texto": "MixedASDwithDelay cannot intuitively retrieve a social rule for mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.24301926791667938,
+                    "sim_con_problema": 0.6141445636749268,
+                    "peso_arista": 1.1428361684083939,
+                    "peso_acumulado": 4.965901121497154,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_133",
+                        "texto": "MixedASDwithDelay requires extra steps to infer mockery's intent",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2767186164855957,
+                        "sim_con_problema": 0.49007314443588257,
+                        "peso_arista": 1.2332082390785217,
+                        "peso_acumulado": 6.199109360575676,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_231",
+                            "texto": "MixedASDwithDelay defaults to literal interpretation of mockery",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2192147672176361,
+                            "sim_con_problema": 0.563476026058197,
+                            "peso_arista": 1.2173092067241669,
+                            "peso_acumulado": 7.416418567299843,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_232",
+                            "texto": "MixedASDwithDelay fails to reliably detect implicit hostile intent",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21089358627796173,
+                            "sim_con_problema": 0.24703684449195862,
+                            "peso_arista": 1.5420695692300797,
+                            "peso_acumulado": 7.741178929805756,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_73",
+                    "texto": "MixedASDwithDelay poorly encodes this socially embedded event",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27562057971954346,
+                    "sim_con_problema": 0.3533436357975006,
+                    "peso_arista": 1.371035784482956,
+                    "peso_acumulado": 5.194100737571716,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_143",
+                        "texto": "MixedASDwithDelay cannot generalize this incident to future social contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.20904821157455444,
+                        "sim_con_problema": 0.39876866340637207,
+                        "peso_arista": 1.3921831250190735,
+                        "peso_acumulado": 6.58628386259079,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_260",
+                            "texto": "MixedASDwithDelay fails to detect similar mockery without explicit rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19310173392295837,
+                            "sim_con_problema": 0.389646053314209,
+                            "peso_arista": 1.4172522127628326,
+                            "peso_acumulado": 8.003536075353622,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_74",
+                    "texto": "MixedASDwithDelay cannot later recall mockery without visual cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.36789846420288086,
+                    "sim_con_problema": 0.47188255190849304,
+                    "peso_arista": 1.160218983888626,
+                    "peso_acumulado": 4.9832839369773865,
+                    "premise_id": "A10",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_134",
+                        "texto": "MixedASDwithDelay cannot reconstruct the mockery event narrative",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1965775489807129,
+                        "sim_con_problema": 0.41246992349624634,
+                        "peso_arista": 1.3909525275230408,
+                        "peso_acumulado": 6.374236464500427,
+                        "premise_id": "A10",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_240",
+                            "texto": "MixedASDwithDelay cannot retrieve social rule from this event",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.1540120244026184,
+                            "sim_con_problema": 0.2385917752981186,
+                            "peso_arista": 1.607396200299263,
+                            "peso_acumulado": 7.98163266479969,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_135",
+                        "texto": "MixedASDwithDelay retains no social details of the mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.07083172351121902,
+                        "sim_con_problema": 0.4094659984111786,
+                        "peso_arista": 1.5197022780776024,
+                        "peso_acumulado": 6.502986215054989,
+                        "premise_id": "A8",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_251",
+                            "texto": "MixedASDwithDelay cannot use this event as learning feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.27868908643722534,
+                            "sim_con_problema": 0.1702331155538559,
+                            "peso_arista": 1.5510777980089188,
+                            "peso_acumulado": 8.054064013063908,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_137",
+                        "texto": "MixedASDwithDelay cannot use delayed feedback referencing the mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21807876229286194,
+                        "sim_con_problema": 0.4117244482040405,
+                        "peso_arista": 1.3701967895030975,
+                        "peso_acumulado": 6.353480726480484,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_18",
+            "texto": "MixedASDwithDelay's disruption is disproportionate to the mockery's actual significance",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.18392519652843475,
+            "sim_con_problema": 0.5158577561378479,
+            "peso_arista": 1.3002170473337173,
+            "peso_acumulado": 2.6715975552797318,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_42",
+                "texto": "MixedASDwithDelay processes mockery as moral threat, blocking learning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3241526186466217,
+                "sim_con_problema": 0.6133415102958679,
+                "peso_arista": 1.0625058710575104,
+                "peso_acumulado": 3.734103426337242,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_65",
+                    "texto": "MixedASDwithDelay's social engagement becomes unavailable until regulated",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.20701611042022705,
+                    "sim_con_problema": 0.2773038148880005,
+                    "peso_arista": 1.5156800746917725,
+                    "peso_acumulado": 5.249783501029015,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_152",
+                        "texto": "MixedASDwithDelay's threat response continues blocking learning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3373735547065735,
+                        "sim_con_problema": 0.23860949277877808,
+                        "peso_arista": 1.4240169525146484,
+                        "peso_acumulado": 6.673800453543663,
+                        "premise_id": "A21",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_277",
+                            "texto": "MixedASDwithDelay remains unavailable for social engagement",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.12070085853338242,
+                            "sim_con_problema": 0.1756305694580078,
+                            "peso_arista": 1.7036685720086098,
+                            "peso_acumulado": 8.377469025552273,
+                            "premise_id": "A1",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_279",
+                            "texto": "MixedASDwithDelay fails to encode mockery as episodic memory",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2787929177284241,
+                            "sim_con_problema": 0.38796350359916687,
+                            "peso_arista": 1.333243578672409,
+                            "peso_acumulado": 8.007044032216072,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_20",
+            "texto": "MixedASDwithDelay's threat response blocks learning from this event",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.25624847412109375,
+            "sim_con_problema": 0.2438562512397766,
+            "peso_arista": 1.4998952746391296,
+            "peso_acumulado": 2.871275782585144,
+            "premise_id": "A21",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_57",
+                "texto": "MixedASDwithDelay stores no new behavioral rule from mockery",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2295510172843933,
+                "sim_con_problema": 0.4372078776359558,
+                "peso_arista": 1.3332411050796509,
+                "peso_acumulado": 4.204516887664795,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_106",
+                    "texto": "MixedASDwithDelay will again generate disproportionate error next mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1840507686138153,
+                    "sim_con_problema": 0.30895859003067017,
+                    "peso_arista": 1.5069906413555145,
+                    "peso_acumulado": 5.7115075290203094,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_207",
+                        "texto": "MixedASDwithDelay goes offline again during next mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.07851892709732056,
+                        "sim_con_problema": 0.25276613235473633,
+                        "peso_arista": 1.6687149405479431,
+                        "peso_acumulado": 7.380222469568253,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_208",
+                        "texto": "MixedASDwithDelay's disruption remains disproportionate to actual significance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23576214909553528,
+                        "sim_con_problema": 0.22474540770053864,
+                        "peso_arista": 1.539492443203926,
+                        "peso_acumulado": 7.2509999722242355,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_210",
+                        "texto": "MixedASDwithDelay never forms a routine reducing mockery prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19590690732002258,
+                        "sim_con_problema": 0.2632067799568176,
+                        "peso_arista": 1.5408863127231598,
+                        "peso_acumulado": 7.252393841743469,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_107",
+                    "texto": "MixedASDwithDelay lacks explicit database entry for mockery response",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.12818828225135803,
+                    "sim_con_problema": 0.3460645377635956,
+                    "peso_arista": 1.5257471799850464,
+                    "peso_acumulado": 5.730264067649841,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_108",
+                    "texto": "MixedASDwithDelay cannot generalize any response across mockery contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.23462532460689545,
+                    "sim_con_problema": 0.49847838282585144,
+                    "peso_arista": 1.2668962925672531,
+                    "peso_acumulado": 5.471413180232048,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_180",
+                        "texto": "MixedASDwithDelay treats each new mockery instance as unanticipated",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1744554489850998,
+                        "sim_con_problema": 0.42550307512283325,
+                        "peso_arista": 1.400041475892067,
+                        "peso_acumulado": 6.871454656124115,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_317",
+                            "texto": "MixedASDwithDelay's cognitive processing goes offline during mockery",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.37608975172042847,
+                            "sim_con_problema": 0.5697872638702393,
+                            "peso_arista": 1.0541229844093323,
+                            "peso_acumulado": 7.925577640533447,
+                            "premise_id": "A1",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_181",
+                        "texto": "MixedASDwithDelay requires explicit re-instruction for each mockery context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3166840970516205,
+                        "sim_con_problema": 0.38236603140830994,
+                        "peso_arista": 1.3009498715400696,
+                        "peso_acumulado": 6.772363051772118,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_291",
+                            "texto": "MixedASDwithDelay cannot infer social response without explicit rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.34083831310272217,
+                            "sim_con_problema": 0.38088810443878174,
+                            "peso_arista": 1.278273582458496,
+                            "peso_acumulado": 8.050636634230614,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_292",
+                            "texto": "MixedASDwithDelay depends on external teaching for every mockery context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3221963346004486,
+                            "sim_con_problema": 0.565340518951416,
+                            "peso_arista": 1.1124631464481354,
+                            "peso_acumulado": 7.884826198220253,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_293",
+                            "texto": "MixedASDwithDelay follows only explicitly stated mockery-response rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21307504177093506,
+                            "sim_con_problema": 0.38927173614501953,
+                            "peso_arista": 1.3976532220840454,
+                            "peso_acumulado": 8.170016273856163,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_182",
+                        "texto": "MixedASDwithDelay cannot infer unspoken responses to mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23949366807937622,
+                        "sim_con_problema": 0.6019713878631592,
+                        "peso_arista": 1.1585349440574646,
+                        "peso_acumulado": 6.629948124289513,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_109",
+                    "texto": "MixedASDwithDelay cannot apply an unstated behavioral rule here",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.336919367313385,
+                    "sim_con_problema": 0.20960435271263123,
+                    "peso_arista": 1.4534762799739838,
+                    "peso_acumulado": 5.657993167638779,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_203",
+                        "texto": "MixedASDwithDelay fails to detect the unspoken social expectation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.26989302039146423,
+                        "sim_con_problema": 0.4325748085975647,
+                        "peso_arista": 1.297532171010971,
+                        "peso_acumulado": 6.95552533864975,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_60",
+                "texto": "MixedASDwithDelay fails to link mockery to actionable feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.20373395085334778,
+                "sim_con_problema": 0.4441026449203491,
+                "peso_arista": 1.352163404226303,
+                "peso_acumulado": 4.223439186811447,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_110",
+                    "texto": "MixedASDwithDelay does not update behavior from mockery",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.12454758584499359,
+                    "sim_con_problema": 0.3507659435272217,
+                    "peso_arista": 1.5246864706277847,
+                    "peso_acumulado": 5.748125657439232,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_111",
+                    "texto": "MixedASDwithDelay retains only weak episodic memory of mockery",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2902805209159851,
+                    "sim_con_problema": 0.44250068068504333,
+                    "peso_arista": 1.2672187983989716,
+                    "peso_acumulado": 5.490657985210419,
+                    "premise_id": "A8",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_113",
+                    "texto": "MixedASDwithDelay cannot generalize this experience to future mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.23850330710411072,
+                    "sim_con_problema": 0.5714188814163208,
+                    "peso_arista": 1.1900778114795685,
+                    "peso_acumulado": 5.413516998291016,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_173",
+                        "texto": "MixedASDwithDelay treats future mockery as unanticipated change again",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15980298817157745,
+                        "sim_con_problema": 0.4607153534889221,
+                        "peso_arista": 1.3794816583395004,
+                        "peso_acumulado": 6.792998656630516,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_5",
+        "texto": "MixedASDwithDelay's learning is blocked by perceived shame",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.37185966968536377,
+        "sim_con_problema": 0.5040086507797241,
+        "peso_arista": 1.124131679534912,
+        "peso_acumulado": 1.124131679534912,
+        "premise_id": "A21",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_6",
+            "texto": "MixedASDwithDelay cannot process the mockery as learning information",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.31714874505996704,
+            "sim_con_problema": 0.48722147941589355,
+            "peso_arista": 1.1956297755241394,
+            "peso_acumulado": 2.3197614550590515,
+            "premise_id": "A21",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_26",
+                "texto": "MixedASDwithDelay retains the mockery event poorly",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.14540736377239227,
+                "sim_con_problema": 0.39387550950050354,
+                "peso_arista": 1.4607171267271042,
+                "peso_acumulado": 3.7804785817861557,
+                "premise_id": "A8",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_68",
+                    "texto": "MixedASDwithDelay cannot retrieve the mockery event without visual cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.25577235221862793,
+                    "sim_con_problema": 0.39983904361724854,
+                    "peso_arista": 1.3443886041641235,
+                    "peso_acumulado": 5.124867185950279,
+                    "premise_id": "A10",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_139",
+                        "texto": "MixedASDwithDelay cannot generalize mockery lesson to new contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2746164798736572,
+                        "sim_con_problema": 0.5222710371017456,
+                        "peso_arista": 1.2031124830245972,
+                        "peso_acumulado": 6.327979668974876,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_233",
+                            "texto": "MixedASDwithDelay requires explicit instruction to reapply mockery lesson",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.30907920002937317,
+                            "sim_con_problema": 0.4500047266483307,
+                            "peso_arista": 1.2409160733222961,
+                            "peso_acumulado": 7.5688957422971725,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_234",
+                            "texto": "MixedASDwithDelay treats new mockery incidents as unprecedented events",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.06868652999401093,
+                            "sim_con_problema": 0.4037916958332062,
+                            "peso_arista": 1.527521774172783,
+                            "peso_acumulado": 7.855501443147659,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_140",
+                        "texto": "MixedASDwithDelay cannot match social rule without recalled event",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.20839110016822815,
+                        "sim_con_problema": 0.16669520735740662,
+                        "peso_arista": 1.6249136924743652,
+                        "peso_acumulado": 6.7497808784246445,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_287",
+                            "texto": "MixedASDwithDelay cannot apply stored social rule now",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.17350704967975616,
+                            "sim_con_problema": 0.1810779869556427,
+                            "peso_arista": 1.6454149633646011,
+                            "peso_acumulado": 8.395195841789246,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_289",
+                            "texto": "MixedASDwithDelay produces no rule-based response to mockery",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21228589117527008,
+                            "sim_con_problema": 0.45978593826293945,
+                            "peso_arista": 1.3279281705617905,
+                            "peso_acumulado": 8.077709048986435,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_69",
+                    "texto": "MixedASDwithDelay cannot generalize a social rule from this event",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22318050265312195,
+                    "sim_con_problema": 0.299568235874176,
+                    "peso_arista": 1.477251261472702,
+                    "peso_acumulado": 5.257729843258858,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_155",
+                        "texto": "MixedASDwithDelay lacks an explicit rule for future mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2039557546377182,
+                        "sim_con_problema": 0.4361283779144287,
+                        "peso_arista": 1.359915867447853,
+                        "peso_acumulado": 6.617645710706711,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_270",
+                            "texto": "MixedASDwithDelay has no stored entry for mockery response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.08395092189311981,
+                            "sim_con_problema": 0.33946964144706726,
+                            "peso_arista": 1.576579436659813,
+                            "peso_acumulado": 8.194225147366524,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_156",
+                        "texto": "Future similar mockery will trigger high prediction error",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1793895661830902,
+                        "sim_con_problema": 0.4804472327232361,
+                        "peso_arista": 1.3401632010936737,
+                        "peso_acumulado": 6.597893044352531,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_263",
+                            "texto": "MixedASDwithDelay experiences processing overload rather than adaptation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.40306025743484497,
+                            "sim_con_problema": 0.21897730231285095,
+                            "peso_arista": 1.377962440252304,
+                            "peso_acumulado": 7.9758554846048355,
+                            "premise_id": "A6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_70",
+                    "texto": "MixedASDwithDelay retains only isolated facts about the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.11433461308479309,
+                    "sim_con_problema": 0.37198469042778015,
+                    "peso_arista": 1.5136806964874268,
+                    "peso_acumulado": 5.2941592782735825,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_160",
+                        "texto": "MixedASDwithDelay cannot reliably retrieve the mockery episode later",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.12459331750869751,
+                        "sim_con_problema": 0.2999141812324524,
+                        "peso_arista": 1.57549250125885,
+                        "peso_acumulado": 6.869651779532433,
+                        "premise_id": "A10",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_313",
+                            "texto": "MixedASDwithDelay cannot apply this experience to new contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3200015425682068,
+                            "sim_con_problema": 0.2032729983329773,
+                            "peso_arista": 1.476725459098816,
+                            "peso_acumulado": 8.346377238631248,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_314",
+                            "texto": "MixedASDwithDelay cannot use this episode to anticipate future mockery",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16476985812187195,
+                            "sim_con_problema": 0.40548044443130493,
+                            "peso_arista": 1.4297496974468231,
+                            "peso_acumulado": 8.299401476979256,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_315",
+                            "texto": "MixedASDwelayDelay must rely on stored explicit social rules instead",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.26140186190605164,
+                            "sim_con_problema": 0.24436230957508087,
+                            "peso_arista": 1.4942358285188675,
+                            "peso_acumulado": 8.3638876080513,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_7",
+            "texto": "MixedASDwithDelay's threat response overrides available feedback",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.18091890215873718,
+            "sim_con_problema": 0.19245243072509766,
+            "peso_arista": 1.6266286671161652,
+            "peso_acumulado": 2.7507603466510773,
+            "premise_id": "A21",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_51",
+                "texto": "MixedASDwithDelay cannot process this incident as learning information",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2659725844860077,
+                "sim_con_problema": 0.19931966066360474,
+                "peso_arista": 1.5347077548503876,
+                "peso_acumulado": 4.285468101501465,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_120",
+                    "texto": "MixedASDwithDelay does not add this as explicit social rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2228490114212036,
+                    "sim_con_problema": 0.2665621042251587,
+                    "peso_arista": 1.5105888843536377,
+                    "peso_acumulado": 5.7960569858551025,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_226",
+                        "texto": "MixedASDwithDelay cannot reliably respond to future mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20652472972869873,
+                        "sim_con_problema": 0.44204238057136536,
+                        "peso_arista": 1.351432889699936,
+                        "peso_acumulado": 7.1474898755550385,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_53",
+                "texto": "MixedASDwithDelay's social engagement becomes unavailable",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.11730848252773285,
+                "sim_con_problema": 0.2634100317955017,
+                "peso_arista": 1.6192814856767654,
+                "peso_acumulado": 4.370041832327843,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_122",
+                    "texto": "MixedASDwithDelay's cognitive processing also becomes unavailable",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4406958222389221,
+                    "sim_con_problema": 0.21771684288978577,
+                    "peso_arista": 1.3415873348712921,
+                    "peso_acumulado": 5.711629167199135,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_124",
+                    "texto": "MixedASDwithDelay cannot retrieve pragmatic social rules now",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19720986485481262,
+                    "sim_con_problema": 0.2675614356994629,
+                    "peso_arista": 1.5352286994457245,
+                    "peso_acumulado": 5.905270531773567,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_229",
+                        "texto": "MixedASDwithDelay cannot select a matching behavioral response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3385027348995209,
+                        "sim_con_problema": 0.17854420840740204,
+                        "peso_arista": 1.482953056693077,
+                        "peso_acumulado": 7.388223588466644,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_9",
+            "texto": "MixedASDwithDelay cannot retrieve stored social rules under threat",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.12541669607162476,
+            "sim_con_problema": 0.16680502891540527,
+            "peso_arista": 1.70777827501297,
+            "peso_acumulado": 2.831909954547882,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_54",
+                "texto": "MixedASDwithDelay cannot select an appropriate social response",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2667962312698364,
+                "sim_con_problema": 0.3817073106765747,
+                "peso_arista": 1.3514964580535889,
+                "peso_acumulado": 4.183406412601471,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_104",
+                    "texto": "MixedASDwithDelay fails to extract learning from the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.24106916785240173,
+                    "sim_con_problema": 0.4320621192455292,
+                    "peso_arista": 1.326868712902069,
+                    "peso_acumulado": 5.51027512550354,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_190",
+                        "texto": "No new routine forms for handling social mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.06926752626895905,
+                        "sim_con_problema": 0.6155500411987305,
+                        "peso_arista": 1.3151824325323105,
+                        "peso_acumulado": 6.8254575580358505,
+                        "premise_id": "A19",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_304",
+                            "texto": "MixedASDwithDelay cannot offload future mockery handling to routine",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15440303087234497,
+                            "sim_con_problema": 0.32774099707603455,
+                            "peso_arista": 1.5178559720516205,
+                            "peso_acumulado": 8.343313530087471,
+                            "premise_id": "A19",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_56",
+                "texto": "MixedASDwithDelay cannot infer the unspoken expected reaction",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.29433131217956543,
+                "sim_con_problema": 0.2665591239929199,
+                "peso_arista": 1.4391095638275146,
+                "peso_acumulado": 4.271019518375397,
+                "premise_id": "A23",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 69,
+  "profundidad_maxima": 6
+}

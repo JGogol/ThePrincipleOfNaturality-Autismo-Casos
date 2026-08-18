@@ -1,0 +1,1890 @@
+{
+  "actor": "ModerateAutism",
+  "raiz": {
+    "id": "ModerateAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.3414681553840637,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "ModerateAutism_1_1",
+        "texto": "ModerateAutism does not automatically decode the mockery's intent",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.2188476026058197,
+        "sim_con_problema": 0.544072151184082,
+        "peso_arista": 1.2370802462100983,
+        "peso_acumulado": 1.2370802462100983,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_11",
+            "texto": "ModerateAutism must consciously retrieve a matching social rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24642609059810638,
+            "sim_con_problema": 0.2866685688495636,
+            "peso_arista": 1.46690534055233,
+            "peso_acumulado": 2.7039855867624283,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_44",
+                "texto": "ModerateAutism cannot automatically generalize prior rules to this context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2919324040412903,
+                "sim_con_problema": 0.19876834750175476,
+                "peso_arista": 1.509299248456955,
+                "peso_acumulado": 4.213284835219383,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_102",
+                    "texto": "ModerateAutism requires explicit instruction to re-anchor the rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.31717753410339355,
+                    "sim_con_problema": 0.1625351458787918,
+                    "peso_arista": 1.5202873200178146,
+                    "peso_acumulado": 5.733572155237198,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_220",
+                        "texto": "ModerateAutism blocks learning if instruction implies moral failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2679198980331421,
+                        "sim_con_problema": 0.37681564688682556,
+                        "peso_arista": 1.3552644550800323,
+                        "peso_acumulado": 7.08883661031723,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_104",
+                    "texto": "ModerateAutism needs observable specific feedback to update behavior",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.352443665266037,
+                    "sim_con_problema": 0.18586117029190063,
+                    "peso_arista": 1.4616951644420624,
+                    "peso_acumulado": 5.674979999661446,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_193",
+                        "texto": "ModerateAutism cannot update behavior from vague mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16647869348526,
+                        "sim_con_problema": 0.41705387830734253,
+                        "peso_arista": 1.4164674282073975,
+                        "peso_acumulado": 7.091447427868843,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_194",
+                        "texto": "ModerateAutism awaits explicit causal link to the act",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2545979619026184,
+                        "sim_con_problema": 0.17512719333171844,
+                        "peso_arista": 1.5702748447656631,
+                        "peso_acumulado": 7.245254844427109,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_12",
+            "texto": "ModerateAutism cannot detect the unspoken insult convention",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.1814613938331604,
+            "sim_con_problema": 0.44952327013015747,
+            "peso_arista": 1.3690153360366821,
+            "peso_acumulado": 2.6060955822467804,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_38",
+                "texto": "ModerateAutism interprets the classmate's words at face value",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2585471272468567,
+                "sim_con_problema": 0.4612315893173218,
+                "peso_arista": 1.2802212834358215,
+                "peso_acumulado": 3.886316865682602,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_63",
+                    "texto": "ModerateAutism accepts the statement as literally true",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.14852429926395416,
+                    "sim_con_problema": 0.18097975850105286,
+                    "peso_arista": 1.670495942234993,
+                    "peso_acumulado": 5.556812807917595,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_159",
+                        "texto": "ModerateAutism stores the mockery as a factual statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19222865998744965,
+                        "sim_con_problema": 0.47145241498947144,
+                        "peso_arista": 1.336318925023079,
+                        "peso_acumulado": 6.893131732940674,
+                        "premise_id": "A8",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_160",
+                        "texto": "ModerateAutism does not flag the utterance as a social rule violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1608954668045044,
+                        "sim_con_problema": 0.3463432192802429,
+                        "peso_arista": 1.4927613139152527,
+                        "peso_acumulado": 7.049574121832848,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_161",
+                        "texto": "ModerateAutism cannot correct the belief without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2654934823513031,
+                        "sim_con_problema": 0.32485729455947876,
+                        "peso_arista": 1.4096492230892181,
+                        "peso_acumulado": 6.966462031006813,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_162",
+                        "texto": "ModerateAutism cannot later reinterpret the event without visual cues",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3787976801395416,
+                        "sim_con_problema": 0.28945714235305786,
+                        "peso_arista": 1.3317451775074005,
+                        "peso_acumulado": 6.888557985424995,
+                        "premise_id": "A10",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_261",
+                            "texto": "ModerateAutism retains the mockery as isolated fact not narrative",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15677538514137268,
+                            "sim_con_problema": 0.40919220447540283,
+                            "peso_arista": 1.4340324103832245,
+                            "peso_acumulado": 8.32259039580822,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_262",
+                            "texto": "ModerateAutism cannot retrieve the episode without explicit visual cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.32360607385635376,
+                            "sim_con_problema": 0.21290813386440277,
+                            "peso_arista": 1.4634857922792435,
+                            "peso_acumulado": 8.352043777704239,
+                            "premise_id": "A10",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_263",
+                            "texto": "ModerateAutism does not generalize this interpretation to similar events",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19631537795066833,
+                            "sim_con_problema": 0.23085324466228485,
+                            "peso_arista": 1.5728313773870468,
+                            "peso_acumulado": 8.461389362812042,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_264",
+                            "texto": "ModerateAutism stores the statement as literal concrete referent",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2634417712688446,
+                            "sim_con_problema": 0.22949138283729553,
+                            "peso_arista": 1.5070668458938599,
+                            "peso_acumulado": 8.395624831318855,
+                            "premise_id": "A4",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_64",
+                    "texto": "ModerateAutism does not retrieve a social insult rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1259271502494812,
+                    "sim_con_problema": 0.40282994508743286,
+                    "peso_arista": 1.471242904663086,
+                    "peso_acumulado": 5.357559770345688,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_127",
+                        "texto": "ModerateAutism cannot apply a social rule to the event",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12413811683654785,
+                        "sim_con_problema": 0.3158213496208191,
+                        "peso_arista": 1.560040533542633,
+                        "peso_acumulado": 6.917600303888321,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_128",
+                        "texto": "ModerateAutism does not classify the remark as hostile",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1457802653312683,
+                        "sim_con_problema": 0.32226207852363586,
+                        "peso_arista": 1.5319576561450958,
+                        "peso_acumulado": 6.889517426490784,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_129",
+                        "texto": "ModerateAutism generates no threat-based response to the remark",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12255619466304779,
+                        "sim_con_problema": 0.26959389448165894,
+                        "peso_arista": 1.6078499108552933,
+                        "peso_acumulado": 6.965409681200981,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_39",
+                "texto": "ModerateAutism finds no matching explicit social rule entry",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.17249467968940735,
+                "sim_con_problema": 0.2119145691394806,
+                "peso_arista": 1.615590751171112,
+                "peso_acumulado": 4.2216863334178925,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_105",
+                    "texto": "ModerateAutism cannot retrieve a matching social response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1945001631975174,
+                    "sim_con_problema": 0.3653573989868164,
+                    "peso_arista": 1.4401424378156662,
+                    "peso_acumulado": 5.661828771233559,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_187",
+                        "texto": "ModerateAutism produces no observable social reply",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1387942135334015,
+                        "sim_con_problema": 0.3333688974380493,
+                        "peso_arista": 1.5278368890285492,
+                        "peso_acumulado": 7.189665660262108,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_106",
+                    "texto": "ModerateAutism fails to apply an unstated behavioral convention",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.26119914650917053,
+                    "sim_con_problema": 0.27148422598838806,
+                    "peso_arista": 1.4673166275024414,
+                    "peso_acumulado": 5.689002960920334,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_200",
+                        "texto": "ModerateAutism cannot generate a socially adaptive reply",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2942183017730713,
+                        "sim_con_problema": 0.42511802911758423,
+                        "peso_arista": 1.2806636691093445,
+                        "peso_acumulado": 6.969666630029678,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_201",
+                        "texto": "ModerateAutism cannot update behavior without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2284046709537506,
+                        "sim_con_problema": 0.15355119109153748,
+                        "peso_arista": 1.618044137954712,
+                        "peso_acumulado": 7.307047098875046,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_107",
+                    "texto": "ModerateAutism defaults to literal interpretation of the words spoken",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22704993188381195,
+                    "sim_con_problema": 0.3461741805076599,
+                    "peso_arista": 1.4267758876085281,
+                    "peso_acumulado": 5.648462221026421,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_180",
+                        "texto": "ModerateAutism treats the mocking words as literal factual content",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1628512740135193,
+                        "sim_con_problema": 0.4775174856185913,
+                        "peso_arista": 1.3596312403678894,
+                        "peso_acumulado": 7.00809346139431,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_181",
+                        "texto": "ModerateAutism does not register the intended derogatory meaning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14837749302387238,
+                        "sim_con_problema": 0.2911437749862671,
+                        "peso_arista": 1.5604787319898605,
+                        "peso_acumulado": 7.208940953016281,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_182",
+                        "texto": "ModerateAutism receives no explicit feedback signaling social violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19136448204517365,
+                        "sim_con_problema": 0.2983074188232422,
+                        "peso_arista": 1.5103280991315842,
+                        "peso_acumulado": 7.158790320158005,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_40",
+                "texto": "ModerateAutism fails to register an implicit social threat",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.12174816429615021,
+                "sim_con_problema": 0.3048091530799866,
+                "peso_arista": 1.5734426826238632,
+                "peso_acumulado": 4.179538264870644,
+                "premise_id": "A23",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_2",
+        "texto": "ModerateAutism cannot infer the implicit social rule violated",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.17550048232078552,
+        "sim_con_problema": 0.338040828704834,
+        "peso_arista": 1.4864586889743805,
+        "peso_acumulado": 1.4864586889743805,
+        "premise_id": "A18",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_22",
+            "texto": "ModerateAutism cannot apply any behavioral response rule",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.24617049098014832,
+            "sim_con_problema": 0.20780563354492188,
+            "peso_arista": 1.5460238754749298,
+            "peso_acumulado": 3.0324825644493103,
+            "premise_id": "A23",
+            "hijos": []
+          },
+          {
+            "id": "ModerateAutism_2_23",
+            "texto": "ModerateAutism encodes this social event poorly in memory",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.25801631808280945,
+            "sim_con_problema": 0.416885107755661,
+            "peso_arista": 1.3250985741615295,
+            "peso_acumulado": 2.81155726313591,
+            "premise_id": "A8",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_51",
+                "texto": "ModerateAutism retains isolated facts but not the narrative",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.18482841551303864,
+                "sim_con_problema": 0.21357855200767517,
+                "peso_arista": 1.6015930324792862,
+                "peso_acumulado": 4.413150295615196,
+                "premise_id": "A8",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_121",
+                    "texto": "ModerateAutism cannot later retrieve the mocking event without visual cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.30263611674308777,
+                    "sim_con_problema": 0.5145553350448608,
+                    "peso_arista": 1.1828085482120514,
+                    "peso_acumulado": 5.595958843827248,
+                    "premise_id": "A10",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_178",
+                        "texto": "ModerateAutism cannot later match event to stored social rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.18460613489151,
+                        "sim_con_problema": 0.18417011201381683,
+                        "peso_arista": 1.6312237530946732,
+                        "peso_acumulado": 7.227182596921921,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_122",
+                    "texto": "ModerateAutism cannot use delayed feedback about this incident to learn",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.18244412541389465,
+                    "sim_con_problema": 0.2726685404777527,
+                    "peso_arista": 1.5448873341083527,
+                    "peso_acumulado": 5.958037629723549,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_228",
+                        "texto": "ModerateAutism's response pattern to mocking remains unchanged",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20073595643043518,
+                        "sim_con_problema": 0.48475486040115356,
+                        "peso_arista": 1.3145091831684113,
+                        "peso_acumulado": 7.27254681289196,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_229",
+                        "texto": "ModerateAutism cannot store this incident as explicit rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16242128610610962,
+                        "sim_con_problema": 0.20809242129325867,
+                        "peso_arista": 1.6294862926006317,
+                        "peso_acumulado": 7.587523922324181,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_230",
+                        "texto": "Future similar mocking will trigger equally disproportionate prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.18127122521400452,
+                        "sim_con_problema": 0.4943496584892273,
+                        "peso_arista": 1.3243791162967682,
+                        "peso_acumulado": 7.282416746020317,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_123",
+                    "texto": "ModerateAutism cannot add this incident to its social rule database",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.06718911975622177,
+                    "sim_con_problema": 0.20953360199928284,
+                    "peso_arista": 1.7232772782444954,
+                    "peso_acumulado": 6.136427573859692,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_237",
+                        "texto": "ModerateAutism cannot apply this social rule later",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.13573166728019714,
+                        "sim_con_problema": 0.2722510099411011,
+                        "peso_arista": 1.5920173227787018,
+                        "peso_acumulado": 7.728444896638393,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_239",
+                        "texto": "ModerateAutism requires explicit instruction to recognize future mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.31060078740119934,
+                        "sim_con_problema": 0.5180222988128662,
+                        "peso_arista": 1.1713769137859344,
+                        "peso_acumulado": 7.307804487645626,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_3",
+        "texto": "ModerateAutism's threat response activates from perceived shame",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.21002472937107086,
+        "sim_con_problema": 0.5521882772445679,
+        "peso_arista": 1.2377869933843613,
+        "peso_acumulado": 1.2377869933843613,
+        "premise_id": "A21",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_13",
+            "texto": "ModerateAutism blocks learning from this social error",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.28298914432525635,
+            "sim_con_problema": 0.4259028136730194,
+            "peso_arista": 1.2911080420017242,
+            "peso_acumulado": 2.5288950353860855,
+            "premise_id": "A21",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_34",
+                "texto": "ModerateAutism stores this event as threat, not information",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.16392961144447327,
+                "sim_con_problema": 0.290876567363739,
+                "peso_arista": 1.5451938211917877,
+                "peso_acumulado": 4.074088856577873,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_80",
+                    "texto": "ModerateAutism will activate threat response to similar future events",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2217683643102646,
+                    "sim_con_problema": 0.26296812295913696,
+                    "peso_arista": 1.5152635127305984,
+                    "peso_acumulado": 5.589352369308472,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_175",
+                        "texto": "ModerateAutism's threat response does not generalize to differently framed teasing",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.21367138624191284,
+                        "sim_con_problema": 0.48716193437576294,
+                        "peso_arista": 1.2991666793823242,
+                        "peso_acumulado": 6.888519048690796,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_258",
+                            "texto": "ModerateAutism experiences differently framed teasing as unpredicted event",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.17879028618335724,
+                            "sim_con_problema": 0.5544317960739136,
+                            "peso_arista": 1.2667779177427292,
+                            "peso_acumulado": 8.155296966433525,
+                            "premise_id": "A20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_259",
+                            "texto": "ModerateAutism requires explicit instruction to re-anchor threat category",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2730083465576172,
+                            "sim_con_problema": 0.15734125673770905,
+                            "peso_arista": 1.5696503967046738,
+                            "peso_acumulado": 8.45816944539547,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_260",
+                            "texto": "ModerateAutism fails to detect implicit similarity across teasing instances",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2050325721502304,
+                            "sim_con_problema": 0.3495297431945801,
+                            "peso_arista": 1.4454376846551895,
+                            "peso_acumulado": 8.333956733345985,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_176",
+                        "texto": "ModerateAutism continues blocking learning whenever event is threat-framed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3365960419178009,
+                        "sim_con_problema": 0.28759056329727173,
+                        "peso_arista": 1.3758133947849274,
+                        "peso_acumulado": 6.965165764093399,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_36",
+                "texto": "ModerateAutism cannot generalize this incident to new contexts",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.18843206763267517,
+                "sim_con_problema": 0.29553502798080444,
+                "peso_arista": 1.5160329043865204,
+                "peso_acumulado": 4.044927939772606,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_69",
+                    "texto": "ModerateAutism requires explicit instruction to re-anchor this incident",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.29626893997192383,
+                    "sim_con_problema": 0.21057412028312683,
+                    "peso_arista": 1.4931569397449493,
+                    "peso_acumulado": 5.538084879517555,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_148",
+                        "texto": "ModerateAutism treats future mockery as unrelated new event",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.10343742370605469,
+                        "sim_con_problema": 0.48841553926467896,
+                        "peso_arista": 1.4081470370292664,
+                        "peso_acumulado": 6.946231916546822,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_150",
+                        "texto": "ModerateAutism stores this incident as explicit social-rule entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20014077425003052,
+                        "sim_con_problema": 0.32376062870025635,
+                        "peso_arista": 1.4760985970497131,
+                        "peso_acumulado": 7.014183476567268,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_70",
+                    "texto": "ModerateAutism treats similar mockery elsewhere as unanticipated change",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.13800707459449768,
+                    "sim_con_problema": 0.4931034445762634,
+                    "peso_arista": 1.368889480829239,
+                    "peso_acumulado": 5.413817420601845,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_134",
+                        "texto": "ModerateAutism generates disproportionate prediction error each new occurrence",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19304108619689941,
+                        "sim_con_problema": 0.17418918013572693,
+                        "peso_arista": 1.6327697336673737,
+                        "peso_acumulado": 7.0465871542692184,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_135",
+                        "texto": "ModerateAutism risks going offline if threshold exceeded",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12417806684970856,
+                        "sim_con_problema": 0.191194087266922,
+                        "peso_arista": 1.6846278458833694,
+                        "peso_acumulado": 7.098445266485214,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_71",
+                    "texto": "ModerateAutism cannot retrieve this incident as a social rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.07215024530887604,
+                    "sim_con_problema": 0.2688101530075073,
+                    "peso_arista": 1.6590396016836166,
+                    "peso_acumulado": 5.7039675414562225,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_205",
+                        "texto": "ModerateAutism lacks an explicit database entry for this mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.11610834300518036,
+                        "sim_con_problema": 0.28802844882011414,
+                        "peso_arista": 1.5958632081747055,
+                        "peso_acumulado": 7.299830749630928,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_206",
+                        "texto": "ModerateAutism fails to detect future mockery as rule violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15582138299942017,
+                        "sim_con_problema": 0.44185760617256165,
+                        "peso_arista": 1.4023210108280182,
+                        "peso_acumulado": 7.106288552284241,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_72",
+                    "texto": "ModerateAutism will not apply an unstated rule from this incident",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.14065366983413696,
+                    "sim_con_problema": 0.22607433795928955,
+                    "peso_arista": 1.6332719922065735,
+                    "peso_acumulado": 5.678199931979179,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_197",
+                        "texto": "ModerateAutism stores no new explicit social-rule entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15729549527168274,
+                        "sim_con_problema": 0.16816368699073792,
+                        "peso_arista": 1.6745408177375793,
+                        "peso_acumulado": 7.352740749716759,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_198",
+                        "texto": "ModerateAutism will treat similar future mockery as unanticipated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14085204899311066,
+                        "sim_con_problema": 0.5246928930282593,
+                        "peso_arista": 1.33445505797863,
+                        "peso_acumulado": 7.0126549899578094,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_37",
+                "texto": "ModerateAutism receives no causally linked corrective feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2796785831451416,
+                "sim_con_problema": 0.1766912192106247,
+                "peso_arista": 1.5436301976442337,
+                "peso_acumulado": 4.072525233030319,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_79",
+                    "texto": "ModerateAutism retains disproportionate prediction error from this incident",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1602858603000641,
+                    "sim_con_problema": 0.1894010305404663,
+                    "peso_arista": 1.6503131091594696,
+                    "peso_acumulado": 5.722838342189789,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_215",
+                        "texto": "ModerateAutism reacts disproportionately to similar future events",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23370322585105896,
+                        "sim_con_problema": 0.2835463285446167,
+                        "peso_arista": 1.4827504456043243,
+                        "peso_acumulado": 7.205588787794113,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_216",
+                        "texto": "ModerateAutism cannot generalize this error to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2471596896648407,
+                        "sim_con_problema": 0.15698397159576416,
+                        "peso_arista": 1.5958563387393951,
+                        "peso_acumulado": 7.318694680929184,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_217",
+                        "texto": "ModerateAutism diverts cognitive resources away from other tasks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37785565853118896,
+                        "sim_con_problema": 0.30349451303482056,
+                        "peso_arista": 1.3186498284339905,
+                        "peso_acumulado": 7.041488170623779,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_14",
+            "texto": "ModerateAutism's cognitive processing goes offline temporarily",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.394989937543869,
+            "sim_con_problema": 0.3214775323867798,
+            "peso_arista": 1.2835325300693512,
+            "peso_acumulado": 2.5213195234537125,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_30",
+                "texto": "ModerateAutism cannot engage socially until regulation restored",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.18523621559143066,
+                "sim_con_problema": 0.2723084092140198,
+                "peso_arista": 1.5424553751945496,
+                "peso_acumulado": 4.063774898648262,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_73",
+                    "texto": "ModerateAutism requires regulation restored before learning resumes",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3052287697792053,
+                    "sim_con_problema": 0.1974184811115265,
+                    "peso_arista": 1.4973527491092682,
+                    "peso_acumulado": 5.56112764775753,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_164",
+                        "texto": "ModerateAutism requires observable specific feedback to resume learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4397313594818115,
+                        "sim_con_problema": 0.22060947120189667,
+                        "peso_arista": 1.3396591693162918,
+                        "peso_acumulado": 6.900786817073822,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_165",
+                        "texto": "ModerateAutism cannot process the mockery as learning information",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.27598631381988525,
+                        "sim_con_problema": 0.5664716958999634,
+                        "peso_arista": 1.1575419902801514,
+                        "peso_acumulado": 6.718669638037682,
+                        "premise_id": "A21",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_240",
+                            "texto": "ModerateAutism encodes the mockery event unreliably",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2104012370109558,
+                            "sim_con_problema": 0.5344066619873047,
+                            "peso_arista": 1.2551921010017395,
+                            "peso_acumulado": 7.973861739039421,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_243",
+                            "texto": "ModerateAutism's threat response remains active without resolution",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.13229338824748993,
+                            "sim_con_problema": 0.19034002721309662,
+                            "peso_arista": 1.6773665845394135,
+                            "peso_acumulado": 8.396036222577095,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_32",
+                "texto": "ModerateAutism cannot use this event as learning now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.22060155868530273,
+                "sim_con_problema": 0.1958712935447693,
+                "peso_arista": 1.583527147769928,
+                "peso_acumulado": 4.10484667122364,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_88",
+                    "texto": "ModerateAutism retains this event poorly as episodic narrative",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.16121503710746765,
+                    "sim_con_problema": 0.2241688221693039,
+                    "peso_arista": 1.6146161407232285,
+                    "peso_acumulado": 5.719462811946869,
+                    "premise_id": "A8",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_90",
+                    "texto": "ModerateAutism does not generalize this event to other contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22075366973876953,
+                    "sim_con_problema": 0.22943003475666046,
+                    "peso_arista": 1.54981629550457,
+                    "peso_acumulado": 5.6546629667282104,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_183",
+                        "texto": "ModerateAutism will not recognize mockery in new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15850667655467987,
+                        "sim_con_problema": 0.5543562173843384,
+                        "peso_arista": 1.2871371060609818,
+                        "peso_acumulado": 6.941800072789192,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_186",
+                        "texto": "ModerateAutism cannot infer unspoken mockery cues elsewhere",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21507926285266876,
+                        "sim_con_problema": 0.5083575248718262,
+                        "peso_arista": 1.276563212275505,
+                        "peso_acumulado": 6.9312261790037155,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_33",
+                "texto": "ModerateAutism cannot retrieve social rule responses currently",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1419283151626587,
+                "sim_con_problema": 0.2492702454328537,
+                "peso_arista": 1.6088014394044876,
+                "peso_acumulado": 4.1301209628582,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_92",
+                    "texto": "ModerateAutism remains socially unavailable until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17512796819210052,
+                    "sim_con_problema": 0.21116554737091064,
+                    "peso_arista": 1.6137064844369888,
+                    "peso_acumulado": 5.743827447295189,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_222",
+                        "texto": "ModerateAutism cannot learn from this incident now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.09514662623405457,
+                        "sim_con_problema": 0.26963892579078674,
+                        "peso_arista": 1.6352144479751587,
+                        "peso_acumulado": 7.379041895270348,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_93",
+                    "texto": "ModerateAutism cannot infer the unspoken social expectation now",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.16512493789196014,
+                    "sim_con_problema": 0.4024815261363983,
+                    "peso_arista": 1.4323935359716415,
+                    "peso_acumulado": 5.562514498829842,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_166",
+                        "texto": "ModerateAutism processes the classmate's words only literally",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.22365188598632812,
+                        "sim_con_problema": 0.3807303309440613,
+                        "peso_arista": 1.3956177830696106,
+                        "peso_acumulado": 6.958132281899452,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_167",
+                        "texto": "ModerateAutism searches only for explicit stated behavioral rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35266825556755066,
+                        "sim_con_problema": 0.1606384813785553,
+                        "peso_arista": 1.486693263053894,
+                        "peso_acumulado": 7.049207761883736,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_15",
+            "texto": "ModerateAutism cannot automatically infer social intent behind mockery",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.18358907103538513,
+            "sim_con_problema": 0.6373686790466309,
+            "peso_arista": 1.179042249917984,
+            "peso_acumulado": 2.4168292433023453,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_25",
+                "texto": "ModerateAutism must consciously retrieve a matching stored rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3320147395133972,
+                "sim_con_problema": 0.158058762550354,
+                "peso_arista": 1.5099264979362488,
+                "peso_acumulado": 3.926755741238594,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_66",
+                    "texto": "ModerateAutism searches its explicit social rule database",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.21957005560398102,
+                    "sim_con_problema": 0.18433305621147156,
+                    "peso_arista": 1.5960968881845474,
+                    "peso_acumulado": 5.5228526294231415,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_145",
+                        "texto": "ModerateAutism may fail to generalize rule to this context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25449734926223755,
+                        "sim_con_problema": 0.24815668165683746,
+                        "peso_arista": 1.497345969080925,
+                        "peso_acumulado": 7.0201985985040665,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_146",
+                        "texto": "ModerateAutism can apply only explicit stated social rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25554120540618896,
+                        "sim_con_problema": 0.20693212747573853,
+                        "peso_arista": 1.5375266671180725,
+                        "peso_acumulado": 7.060379296541214,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_67",
+                    "texto": "ModerateAutism cannot generalize rules from surface-different past contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.25617825984954834,
+                    "sim_con_problema": 0.19036896526813507,
+                    "peso_arista": 1.5534527748823166,
+                    "peso_acumulado": 5.480208516120911,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_141",
+                        "texto": "ModerateAutism finds no matching stored rule for mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12969952821731567,
+                        "sim_con_problema": 0.39724811911582947,
+                        "peso_arista": 1.4730523526668549,
+                        "peso_acumulado": 6.9532608687877655,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_4",
+        "texto": "ModerateAutism cannot extract learning from vague mockery cues",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.29117298126220703,
+        "sim_con_problema": 0.47738543152809143,
+        "peso_arista": 1.2314415872097015,
+        "peso_acumulado": 1.2314415872097015,
+        "premise_id": "A24",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_7",
+            "texto": "ModerateAutism fails to detect the implicit social violation",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.17197751998901367,
+            "sim_con_problema": 0.37824368476867676,
+            "peso_arista": 1.4497787952423096,
+            "peso_acumulado": 2.681220382452011,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_41",
+                "texto": "ModerateAutism continues prior behavior without adjustment",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2639462649822235,
+                "sim_con_problema": 0.15902116894721985,
+                "peso_arista": 1.5770325660705566,
+                "peso_acumulado": 4.258252948522568,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_112",
+                    "texto": "ModerateAutism repeats the same behavior in similar contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27530637383461,
+                    "sim_con_problema": 0.2901833653450012,
+                    "peso_arista": 1.4345102608203888,
+                    "peso_acumulado": 5.6927632093429565,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_202",
+                        "texto": "ModerateAutism treats the repeated behavior as a stable routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3116891086101532,
+                        "sim_con_problema": 0.19902971386909485,
+                        "peso_arista": 1.489281177520752,
+                        "peso_acumulado": 7.1820443868637085,
+                        "premise_id": "A19",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_203",
+                        "texto": "ModerateAutism cannot apply the unlearned rule in new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.24356113374233246,
+                        "sim_con_problema": 0.25331687927246094,
+                        "peso_arista": 1.5031219869852066,
+                        "peso_acumulado": 7.195885196328163,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_113",
+                    "texto": "ModerateAutism preserves routine to conserve cognitive resources",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39790141582489014,
+                    "sim_con_problema": 0.19205792248249054,
+                    "peso_arista": 1.4100406616926193,
+                    "peso_acumulado": 5.668293610215187,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_191",
+                        "texto": "ModerateAutism does not update behavior for new social context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23797661066055298,
+                        "sim_con_problema": 0.30453771352767944,
+                        "peso_arista": 1.4574856758117676,
+                        "peso_acumulado": 7.125779286026955,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_192",
+                        "texto": "ModerateAutism remains vulnerable to disproportionate disruption later",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16455253958702087,
+                        "sim_con_problema": 0.23516768217086792,
+                        "peso_arista": 1.6002797782421112,
+                        "peso_acumulado": 7.268573388457298,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_114",
+                    "texto": "ModerateAutism awaits an explicit rule before changing behavior",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3148118257522583,
+                    "sim_con_problema": 0.2375253140926361,
+                    "peso_arista": 1.4476628601551056,
+                    "peso_acumulado": 5.705915808677673,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_8",
+            "texto": "ModerateAutism processes the mocking words literally",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.15737494826316833,
+            "sim_con_problema": 0.5845977067947388,
+            "peso_arista": 1.258027344942093,
+            "peso_acumulado": 2.4894689321517944,
+            "premise_id": "A17",
+            "hijos": []
+          },
+          {
+            "id": "ModerateAutism_2_9",
+            "texto": "ModerateAutism cannot retrieve a matching stored social rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.20185136795043945,
+            "sim_con_problema": 0.2552378475666046,
+            "peso_arista": 1.542910784482956,
+            "peso_acumulado": 2.7743523716926575,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_47",
+                "texto": "ModerateAutism cannot select an appropriate social response",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.19649559259414673,
+                "sim_con_problema": 0.40230417251586914,
+                "peso_arista": 1.4012002348899841,
+                "peso_acumulado": 4.175552606582642,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_95",
+                    "texto": "ModerateAutism experiences disproportionate prediction error from the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19102436304092407,
+                    "sim_con_problema": 0.4396079182624817,
+                    "peso_arista": 1.3693677186965942,
+                    "peso_acumulado": 5.544920325279236,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_157",
+                        "texto": "ModerateAutism's disruption magnitude exceeds the mockery's objective significance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.13700391352176666,
+                        "sim_con_problema": 0.4700276851654053,
+                        "peso_arista": 1.392968401312828,
+                        "peso_acumulado": 6.937888726592064,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_158",
+                        "texto": "ModerateAutism activates a threat response instead of learning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3029129207134247,
+                        "sim_con_problema": 0.3619673252105713,
+                        "peso_arista": 1.335119754076004,
+                        "peso_acumulado": 6.88004007935524,
+                        "premise_id": "A21",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_256",
+                            "texto": "ModerateAutism poorly encodes the mockery as episodic memory",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3236100971698761,
+                            "sim_con_problema": 0.5392602682113647,
+                            "peso_arista": 1.1371296346187592,
+                            "peso_acumulado": 8.017169713973999,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_96",
+                    "texto": "ModerateAutism risks sensory-social system going offline",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3528493642807007,
+                    "sim_con_problema": 0.35637354850769043,
+                    "peso_arista": 1.2907770872116089,
+                    "peso_acumulado": 5.4663296937942505,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_137",
+                        "texto": "ModerateAutism becomes unavailable for social interaction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1856447160243988,
+                        "sim_con_problema": 0.3579213321208954,
+                        "peso_arista": 1.4564339518547058,
+                        "peso_acumulado": 6.922763645648956,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_139",
+                        "texto": "ModerateAutism suspends learning until regulation restored",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36561688780784607,
+                        "sim_con_problema": 0.17461514472961426,
+                        "peso_arista": 1.4597679674625397,
+                        "peso_acumulado": 6.92609766125679,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_97",
+                    "texto": "ModerateAutism frames the failed response as personal failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.20617152750492096,
+                    "sim_con_problema": 0.3984261453151703,
+                    "peso_arista": 1.3954023271799088,
+                    "peso_acumulado": 5.57095493376255,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_98",
+                    "texto": "ModerateAutism defaults to a previously established routine response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22745561599731445,
+                    "sim_con_problema": 0.16546514630317688,
+                    "peso_arista": 1.6070792376995087,
+                    "peso_acumulado": 5.78263184428215,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_226",
+                        "texto": "ModerateAutism's routine response fails to fit the mockery context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19224804639816284,
+                        "sim_con_problema": 0.49243277311325073,
+                        "peso_arista": 1.3153191804885864,
+                        "peso_acumulado": 7.097951024770737,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_49",
+                "texto": "ModerateAutism processes only the literal words spoken",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.20677021145820618,
+                "sim_con_problema": 0.2538287043571472,
+                "peso_arista": 1.5394010841846466,
+                "peso_acumulado": 4.313753455877304,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_119",
+                    "texto": "ModerateAutism fails to detect the intended insult",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.165883868932724,
+                    "sim_con_problema": 0.41286200284957886,
+                    "peso_arista": 1.4212541282176971,
+                    "peso_acumulado": 5.735007584095001,
+                    "premise_id": "A17",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_5",
+        "texto": "ModerateAutism poorly encodes this socially embedded event",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.25149965286254883,
+        "sim_con_problema": 0.44754770398139954,
+        "peso_arista": 1.3009526431560516,
+        "peso_acumulado": 1.3009526431560516,
+        "premise_id": "A8",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_16",
+            "texto": "ModerateAutism will not reliably recall this event later",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.10508838295936584,
+            "sim_con_problema": 0.1984354853630066,
+            "peso_arista": 1.6964761316776276,
+            "peso_acumulado": 2.997428774833679,
+            "premise_id": "A8",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_57",
+                "texto": "ModerateAutism cannot apply this event to future contexts",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1966657191514969,
+                "sim_con_problema": 0.21673309803009033,
+                "peso_arista": 1.5866011828184128,
+                "peso_acumulado": 4.584029957652092,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_124",
+                    "texto": "ModerateAutism requires explicit instruction to reapply this experience",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3657609224319458,
+                    "sim_con_problema": 0.2101101279258728,
+                    "peso_arista": 1.4241289496421814,
+                    "peso_acumulado": 6.008158907294273,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_233",
+                        "texto": "ModerateAutism cannot infer the mockery rule implicitly",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1773499995470047,
+                        "sim_con_problema": 0.514693021774292,
+                        "peso_arista": 1.3079569786787033,
+                        "peso_acumulado": 7.316115885972977,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_126",
+                    "texto": "ModerateAutism will not infer an unspoken social expectation here",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.16973426938056946,
+                    "sim_con_problema": 0.39431264996528625,
+                    "peso_arista": 1.4359530806541443,
+                    "peso_acumulado": 6.019983038306236,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_236",
+                        "texto": "ModerateAutism does not register an unspoken norm being violated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.199873149394989,
+                        "sim_con_problema": 0.29476335644721985,
+                        "peso_arista": 1.5053634941577911,
+                        "peso_acumulado": 7.525346532464027,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_59",
+                "texto": "ModerateAutism requires explicit visual cues to recall this",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4605175852775574,
+                "sim_con_problema": 0.2865382730960846,
+                "peso_arista": 1.252944141626358,
+                "peso_acumulado": 4.250372916460037,
+                "premise_id": "A10",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_109",
+                    "texto": "ModerateAutism cannot classify mocking as a social rule violation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.13775508105754852,
+                    "sim_con_problema": 0.5441165566444397,
+                    "peso_arista": 1.3181283622980118,
+                    "peso_acumulado": 5.568501278758049,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_170",
+                        "texto": "ModerateAutism applies no corrective behavioral rule to the mocking",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.16866202652454376,
+                        "sim_con_problema": 0.5207822918891907,
+                        "peso_arista": 1.3105556815862656,
+                        "peso_acumulado": 6.879056960344315,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_253",
+                            "texto": "ModerateAutism cannot generalize a response to future mocking",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19804301857948303,
+                            "sim_con_problema": 0.5695785284042358,
+                            "peso_arista": 1.2323784530162811,
+                            "peso_acumulado": 8.111435413360596,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_254",
+                            "texto": "ModerateAutism forms no routine for handling mocking",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.11255975812673569,
+                            "sim_con_problema": 0.5103332996368408,
+                            "peso_arista": 1.3771069422364235,
+                            "peso_acumulado": 8.256163902580738,
+                            "premise_id": "A19",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_171",
+                        "texto": "ModerateAutism does not activate a threat response to the mocking",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16601699590682983,
+                        "sim_con_problema": 0.5107522010803223,
+                        "peso_arista": 1.323230803012848,
+                        "peso_acumulado": 6.891732081770897,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_17",
+            "texto": "Without visual cues ModerateAutism cannot retrieve this event",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3043575882911682,
+            "sim_con_problema": 0.17639568448066711,
+            "peso_arista": 1.5192467272281647,
+            "peso_acumulado": 2.8201993703842163,
+            "premise_id": "A10",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_53",
+                "texto": "ModerateAutism retains only isolated facts about the mocking",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.11914809048175812,
+                "sim_con_problema": 0.4115963578224182,
+                "peso_arista": 1.4692555516958237,
+                "peso_acumulado": 4.28945492208004,
+                "premise_id": "A8",
+                "hijos": []
+              },
+              {
+                "id": "ModerateAutism_3_56",
+                "texto": "ModerateAutism requires explicit rules to interpret the mockery",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.24181509017944336,
+                "sim_con_problema": 0.4777483344078064,
+                "peso_arista": 1.2804365754127502,
+                "peso_acumulado": 4.1006359457969666,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_86",
+                    "texto": "ModerateAutism cannot detect the implicit social insult",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17504937946796417,
+                    "sim_con_problema": 0.5280218124389648,
+                    "peso_arista": 1.296928808093071,
+                    "peso_acumulado": 5.3975647538900375,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_133",
+                        "texto": "ModerateAutism does not flag the interaction as socially adverse",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.18636131286621094,
+                        "sim_con_problema": 0.3743051588535309,
+                        "peso_arista": 1.4393335282802582,
+                        "peso_acumulado": 6.836898282170296,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_250",
+                            "texto": "ModerateAutism does not re-anchor behavior for future mockery",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19659383594989777,
+                            "sim_con_problema": 0.48266205191612244,
+                            "peso_arista": 1.3207441121339798,
+                            "peso_acumulado": 8.157642394304276,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_251",
+                            "texto": "ModerateAutism does not retrieve a social response rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.17661352455615997,
+                            "sim_con_problema": 0.33151721954345703,
+                            "peso_arista": 1.491869255900383,
+                            "peso_acumulado": 8.328767538070679,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_87",
+                    "texto": "ModerateAutism cannot generalize prior rules to this mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1805053949356079,
+                    "sim_con_problema": 0.3789920210838318,
+                    "peso_arista": 1.4405025839805603,
+                    "peso_acumulado": 5.541138529777527,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_152",
+                        "texto": "ModerateAutism requires explicit new instruction for mockery",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2659207880496979,
+                        "sim_con_problema": 0.4595430791378021,
+                        "peso_arista": 1.2745361328125,
+                        "peso_acumulado": 6.815674662590027,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_244",
+                            "texto": "ModerateAutism cannot classify mockery without explicit database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16226975619792938,
+                            "sim_con_problema": 0.43015870451927185,
+                            "peso_arista": 1.4075715392827988,
+                            "peso_acumulado": 8.223246201872826,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_245",
+                            "texto": "ModerateAutism fails to detect mockery as unspoken social violation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.13290837407112122,
+                            "sim_con_problema": 0.58289635181427,
+                            "peso_arista": 1.2841952741146088,
+                            "peso_acumulado": 8.099869936704636,
+                            "premise_id": "A23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_246",
+                            "texto": "ModerateAutism requires observable specific feedback to learn mockery response",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3797440528869629,
+                            "sim_con_problema": 0.5938557386398315,
+                            "peso_arista": 1.0264002084732056,
+                            "peso_acumulado": 7.842074871063232,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_247",
+                            "texto": "ModerateAutism does not apply prior social rules to this context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16015370190143585,
+                            "sim_con_problema": 0.274814248085022,
+                            "peso_arista": 1.5650320500135422,
+                            "peso_acumulado": 8.380706712603569,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 151,
+  "total_hojas": 79,
+  "profundidad_maxima": 6
+}

@@ -1,0 +1,59 @@
+{
+  "nodos": [
+    "BroadlyAffectedAutism_0_0",
+    "BroadlyAffectedAutism_1_1",
+    "MixedASDwithDelay_0_0",
+    "MixedASDwithDelay_1_1",
+    "ModerateAutism_0_0",
+    "ModerateAutism_1_1",
+    "ModerateAutism_2_4",
+    "ModerateAutism_3_14",
+    "ModerateAutism_4_51",
+    "ModerateAutism_5_92",
+    "NeurotypicalCognition_0_0",
+    "NeurotypicalCognition_1_1",
+    "SocialBehavioralAutism_0_0",
+    "SocialBehavioralAutism_1_3",
+    "SocialBehavioralAutism_2_8"
+  ],
+  "nodo_textos": [
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing.",
+    "BroadlyAffectedAutism processes the sarcastic statement as literal meaning",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+    "MixedASDwithDelay decodes the sarcasm as literal statement",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+    "ModerateAutism processes the sarcastic utterance literally by default",
+    "ModerateAutism misinterprets the sarcastic statement as truthful",
+    "ModerateAutism cannot infer the classmate's actual intended meaning",
+    "ModerateAutism requires explicit feedback to reinterpret the sarcasm",
+    "ModerateAutism retains literal meaning absent proximate corrective feedback",
+    "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+    "NeurotypicalCognition decodes the sarcasm without additional inferential steps",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "SocialBehavioralAutism treats classmate's tone as data needing inference",
+    "SocialBehavioralAutism first interprets the sarcasm literally"
+  ],
+  "hubs_info": [
+    {
+      "clase_id": "NeurotypicalCognition_5_109",
+      "tipo": "lax",
+      "closure_size": 549,
+      "core_size": 41,
+      "ftt_sum": 11.438720092177391,
+      "ftt_max": 6.216048553586006
+    }
+  ],
+  "actores": [
+    "BroadlyAffectedAutism",
+    "MixedASDwithDelay",
+    "ModerateAutism",
+    "NeurotypicalCognition",
+    "SocialBehavioralAutism"
+  ],
+  "version": "1.0",
+  "k_max": 10,
+  "cap": 10000,
+  "N": 15,
+  "H": 1,
+  "K": 5
+}

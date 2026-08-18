@@ -1,0 +1,1882 @@
+{
+  "actor": "SocialBehavioralAutism",
+  "raiz": {
+    "id": "SocialBehavioralAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.39060622453689575,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "SocialBehavioralAutism_1_1",
+        "texto": "SocialBehavioralAutism processes the sarcastic statement literally by default",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.368868887424469,
+        "sim_con_problema": 0.6275150775909424,
+        "peso_arista": 1.0036160349845886,
+        "peso_acumulado": 1.0036160349845886,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_5",
+            "texto": "SocialBehavioralAutism requires extra inferential steps to detect sarcasm",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4237060546875,
+            "sim_con_problema": 0.5345526337623596,
+            "peso_arista": 1.0417413115501404,
+            "peso_acumulado": 2.045357346534729,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_30",
+                "texto": "SocialBehavioralAutism first registers the literal meaning as true",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3994593024253845,
+                "sim_con_problema": 0.5113060474395752,
+                "peso_arista": 1.0892346501350403,
+                "peso_acumulado": 3.1345919966697693,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_65",
+                    "texto": "SocialBehavioralAutism must consciously retrieve pragmatic rules for sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3951365351676941,
+                    "sim_con_problema": 0.6057950258255005,
+                    "peso_arista": 0.9990684390068054,
+                    "peso_acumulado": 4.133660435676575,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_128",
+                        "texto": "SocialBehavioralAutism searches stored rules for matching sarcasm entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.27663666009902954,
+                        "sim_con_problema": 0.4576755166053772,
+                        "peso_arista": 1.2656878232955933,
+                        "peso_acumulado": 5.399348258972168,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_129",
+                        "texto": "SocialBehavioralAutism's recognition of the sarcasm is delayed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36564627289772034,
+                        "sim_con_problema": 0.5624333620071411,
+                        "peso_arista": 1.0719203650951385,
+                        "peso_acumulado": 5.205580800771713,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_6",
+            "texto": "SocialBehavioralAutism must consciously retrieve a stored pragmatic rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5288034081459045,
+            "sim_con_problema": 0.5129916667938232,
+            "peso_arista": 0.9582049250602722,
+            "peso_acumulado": 1.9618209600448608,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_19",
+                "texto": "SocialBehavioralAutism requires effortful conscious matching to interpret sarcasm",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4507979154586792,
+                "sim_con_problema": 0.5654113292694092,
+                "peso_arista": 0.9837907552719116,
+                "peso_acumulado": 2.9456117153167725,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_41",
+                    "texto": "SocialBehavioralAutism responds to the sarcasm after a delay",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.36963891983032227,
+                    "sim_con_problema": 0.5275688767433167,
+                    "peso_arista": 1.102792203426361,
+                    "peso_acumulado": 4.0484039187431335,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_85",
+                        "texto": "SocialBehavioralAutism's reply arrives after the conversational moment passes",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3335117697715759,
+                        "sim_con_problema": 0.6062371730804443,
+                        "peso_arista": 1.0602510571479797,
+                        "peso_acumulado": 5.108654975891113,
+                        "premise_id": "A16",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_224",
+                            "texto": "SocialBehavioralAutism retains few episodic details of this exchange",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.37952351570129395,
+                            "sim_con_problema": 0.46663743257522583,
+                            "peso_arista": 1.1538390517234802,
+                            "peso_acumulado": 6.2624940276145935,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_225",
+                            "texto": "SocialBehavioralAutism cannot automatically apply this decoding to new sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3251849114894867,
+                            "sim_con_problema": 0.6322569847106934,
+                            "peso_arista": 1.04255810379982,
+                            "peso_acumulado": 6.151213079690933,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_226",
+                            "texto": "SocialBehavioralAutism's social response is decoupled from real-time exchange",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4252767562866211,
+                            "sim_con_problema": 0.456611692905426,
+                            "peso_arista": 1.1181115508079529,
+                            "peso_acumulado": 6.226766526699066,
+                            "premise_id": "A16",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_86",
+                        "texto": "SocialBehavioralAutism cannot apply this sarcasm interpretation to new contexts automatically",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.33453047275543213,
+                        "sim_con_problema": 0.6180344820022583,
+                        "peso_arista": 1.0474350452423096,
+                        "peso_acumulado": 5.095838963985443,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_218",
+                            "texto": "SocialBehavioralAutism must re-retrieve the pragmatic rule each new instance",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4503443241119385,
+                            "sim_con_problema": 0.46955201029777527,
+                            "peso_arista": 1.0801036655902863,
+                            "peso_acumulado": 6.175942629575729,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_219",
+                            "texto": "SocialBehavioralAutism relies on explicit rules rather than inferred conventions",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.47523820400238037,
+                            "sim_con_problema": 0.5219935178756714,
+                            "peso_arista": 1.0027682781219482,
+                            "peso_acumulado": 6.098607242107391,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_87",
+                        "texto": "SocialBehavioralAutism depletes effortful attention resources during this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4663987457752228,
+                        "sim_con_problema": 0.4013795852661133,
+                        "peso_arista": 1.132221668958664,
+                        "peso_acumulado": 5.1806255877017975,
+                        "premise_id": "A11",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_42",
+                    "texto": "SocialBehavioralAutism fails to interpret sarcasm without a stored rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3873446583747864,
+                    "sim_con_problema": 0.6062792539596558,
+                    "peso_arista": 1.0063760876655579,
+                    "peso_acumulado": 3.9519878029823303,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_77",
+                        "texto": "SocialBehavioralAutism accepts the sarcastic statement as literally true",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.274633526802063,
+                        "sim_con_problema": 0.5775539875030518,
+                        "peso_arista": 1.1478124856948853,
+                        "peso_acumulado": 5.099800288677216,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_221",
+                            "texto": "SocialBehavioralAutism recognizes the mismatch only after a delay",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.44597864151000977,
+                            "sim_con_problema": 0.3637169599533081,
+                            "peso_arista": 1.1903043985366821,
+                            "peso_acumulado": 6.290104687213898,
+                            "premise_id": "A16",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_223",
+                            "texto": "SocialBehavioralAutism retains the literal interpretation without corrective feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.48983535170555115,
+                            "sim_con_problema": 0.5880951881408691,
+                            "peso_arista": 0.9220694601535797,
+                            "peso_acumulado": 6.021869748830795,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_79",
+                        "texto": "SocialBehavioralAutism will misinterpret sarcasm in future differing contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.34643059968948364,
+                        "sim_con_problema": 0.6429000496864319,
+                        "peso_arista": 1.0106693506240845,
+                        "peso_acumulado": 4.962657153606415,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_195",
+                            "texto": "SocialBehavioralAutism requires explicit re-instruction for each new context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5778782367706299,
+                            "sim_con_problema": 0.43612849712371826,
+                            "peso_arista": 0.9859932661056519,
+                            "peso_acumulado": 5.948650419712067,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_196",
+                            "texto": "SocialBehavioralAutism stores each sarcasm instance as separate rule entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.32929372787475586,
+                            "sim_con_problema": 0.4675770103931427,
+                            "peso_arista": 1.2031292617321014,
+                            "peso_acumulado": 6.165786415338516,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_197",
+                            "texto": "SocialBehavioralAutism blocks learning if misinterpretation is framed as failure",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.523733913898468,
+                            "sim_con_problema": 0.46482256054878235,
+                            "peso_arista": 1.0114435255527496,
+                            "peso_acumulado": 5.974100679159164,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_80",
+                        "texto": "SocialBehavioralAutism requires explicit instruction to reinterpret the remark",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5644521117210388,
+                        "sim_con_problema": 0.5817337036132812,
+                        "peso_arista": 0.8538141846656799,
+                        "peso_acumulado": 4.80580198764801,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_183",
+                            "texto": "SocialBehavioralAutism retains the literal meaning of the remark",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.39333245158195496,
+                            "sim_con_problema": 0.6053367853164673,
+                            "peso_arista": 1.0013307631015778,
+                            "peso_acumulado": 5.807132750749588,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_184",
+                            "texto": "SocialBehavioralAutism does not update its pragmatic rule database",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2574477791786194,
+                            "sim_con_problema": 0.34555715322494507,
+                            "peso_arista": 1.3969950675964355,
+                            "peso_acumulado": 6.202797055244446,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_43",
+                    "texto": "SocialBehavioralAutism expends significant effortful control sustaining this analysis",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5155857801437378,
+                    "sim_con_problema": 0.35370534658432007,
+                    "peso_arista": 1.1307088732719421,
+                    "peso_acumulado": 4.076320588588715,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_107",
+                        "texto": "SocialBehavioralAutism cannot sustain this effortful attention indefinitely",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.42113029956817627,
+                        "sim_con_problema": 0.30777832865715027,
+                        "peso_arista": 1.2710913717746735,
+                        "peso_acumulado": 5.347411960363388,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_109",
+                        "texto": "SocialBehavioralAutism applies the matched rule to respond",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4907613694667816,
+                        "sim_con_problema": 0.4466036558151245,
+                        "peso_arista": 1.0626349747180939,
+                        "peso_acumulado": 5.1389555633068085,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_20",
+                "texto": "SocialBehavioralAutism fails if sarcasm context differs from prior instruction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3822982907295227,
+                "sim_con_problema": 0.5750864744186401,
+                "peso_arista": 1.0426152348518372,
+                "peso_acumulado": 3.004436194896698,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_47",
+                    "texto": "SocialBehavioralAutism cannot generalize the sarcasm rule further",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28757283091545105,
+                    "sim_con_problema": 0.5306098461151123,
+                    "peso_arista": 1.1818173229694366,
+                    "peso_acumulado": 4.186253517866135,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_138",
+                        "texto": "SocialBehavioralAutism requires explicit re-instruction for this sarcasm context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46704578399658203,
+                        "sim_con_problema": 0.5605913400650024,
+                        "peso_arista": 0.9723628759384155,
+                        "peso_acumulado": 5.15861639380455,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_139",
+                        "texto": "SocialBehavioralAutism treats sarcasm as an incomplete database entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2518329620361328,
+                        "sim_con_problema": 0.5674647688865662,
+                        "peso_arista": 1.180702269077301,
+                        "peso_acumulado": 5.366955786943436,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_140",
+                        "texto": "SocialBehavioralAutism needs specific proximate feedback to update the rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46490323543548584,
+                        "sim_con_problema": 0.40812262892723083,
+                        "peso_arista": 1.1269741356372833,
+                        "peso_acumulado": 5.313227653503418,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_48",
+                    "texto": "SocialBehavioralAutism learning halts if failure framed as shame",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4346417784690857,
+                    "sim_con_problema": 0.34246787428855896,
+                    "peso_arista": 1.2228903472423553,
+                    "peso_acumulado": 4.227326542139053,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_152",
+                        "texto": "SocialBehavioralAutism activates threat response instead of learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44051167368888855,
+                        "sim_con_problema": 0.39217329025268555,
+                        "peso_arista": 1.167315036058426,
+                        "peso_acumulado": 5.394641578197479,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_154",
+                        "texto": "SocialBehavioralAutism's feedback fails to update its behavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36550888419151306,
+                        "sim_con_problema": 0.3590552508831024,
+                        "peso_arista": 1.2754358649253845,
+                        "peso_acumulado": 5.502762407064438,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_49",
+                    "texto": "SocialBehavioralAutism requires immediate explicit feedback to update rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4463072419166565,
+                    "sim_con_problema": 0.3536578416824341,
+                    "peso_arista": 1.2000349164009094,
+                    "peso_acumulado": 4.204471111297607,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_142",
+                        "texto": "SocialBehavioralAutism fails to update the sarcasm rule now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.22011211514472961,
+                        "sim_con_problema": 0.46966269612312317,
+                        "peso_arista": 1.3102251887321472,
+                        "peso_acumulado": 5.514696300029755,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_144",
+                        "texto": "SocialBehavioralAutism blocks learning if correction implies shame",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4497603178024292,
+                        "sim_con_problema": 0.40291905403137207,
+                        "peso_arista": 1.1473206281661987,
+                        "peso_acumulado": 5.351791739463806,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_50",
+                    "texto": "SocialBehavioralAutism interprets the sarcastic statement as sincere",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3090251684188843,
+                    "sim_con_problema": 0.6431553363800049,
+                    "peso_arista": 1.0478194952011108,
+                    "peso_acumulado": 4.052255690097809,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_89",
+                        "texto": "SocialBehavioralAutism's reply mismatches the group's intended social meaning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.27445676922798157,
+                        "sim_con_problema": 0.6053749322891235,
+                        "peso_arista": 1.120168298482895,
+                        "peso_acumulado": 5.172423988580704,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_90",
+                        "texto": "SocialBehavioralAutism cannot update without explicit corrective feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3547564744949341,
+                        "sim_con_problema": 0.3528447151184082,
+                        "peso_arista": 1.2923988103866577,
+                        "peso_acumulado": 5.3446545004844666,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_91",
+                        "texto": "SocialBehavioralAutism's emotional reaction surfaces well after the exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4428381323814392,
+                        "sim_con_problema": 0.3647761940956116,
+                        "peso_arista": 1.1923856735229492,
+                        "peso_acumulado": 5.244641363620758,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_92",
+                        "texto": "SocialBehavioralAutism encodes this social exchange weakly in memory",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5202844142913818,
+                        "sim_con_problema": 0.4727519452571869,
+                        "peso_arista": 1.0069636404514313,
+                        "peso_acumulado": 5.05921933054924,
+                        "premise_id": "A8",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_211",
+                            "texto": "SocialBehavioralAutism cannot retrieve this exchange without visual cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.48594939708709717,
+                            "sim_con_problema": 0.4838387966156006,
+                            "peso_arista": 1.0302118062973022,
+                            "peso_acumulado": 6.089431136846542,
+                            "premise_id": "A10",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_213",
+                            "texto": "SocialBehavioralAutism retains the underlying fact, not the social narrative",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.40075111389160156,
+                            "sim_con_problema": 0.4913821816444397,
+                            "peso_arista": 1.1078667044639587,
+                            "peso_acumulado": 6.167086035013199,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_7",
+            "texto": "SocialBehavioralAutism fails to detect the unspoken sarcastic intent",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.41973599791526794,
+            "sim_con_problema": 0.5767188668251038,
+            "peso_arista": 1.0035451352596283,
+            "peso_acumulado": 2.007161170244217,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_22",
+                "texto": "SocialBehavioralAutism accepts the literal meaning as true",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35619086027145386,
+                "sim_con_problema": 0.5249796509742737,
+                "peso_arista": 1.1188294887542725,
+                "peso_acumulado": 3.1259906589984894,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_58",
+                    "texto": "SocialBehavioralAutism responds according to the literal statement",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.48207658529281616,
+                    "sim_con_problema": 0.582294225692749,
+                    "peso_arista": 0.9356291890144348,
+                    "peso_acumulado": 4.061619848012924,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_100",
+                        "texto": "SocialBehavioralAutism produces a response mismatched with unspoken expectations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.529697597026825,
+                        "sim_con_problema": 0.47603440284729004,
+                        "peso_arista": 0.994268000125885,
+                        "peso_acumulado": 5.055887848138809,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_207",
+                            "texto": "SocialBehavioralAutism cannot register the mismatch without explicit feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4113125205039978,
+                            "sim_con_problema": 0.3731591999530792,
+                            "peso_arista": 1.215528279542923,
+                            "peso_acumulado": 6.271416127681732,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_208",
+                            "texto": "SocialBehavioralAutism lacks a stored rule for this exchange",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.31666457653045654,
+                            "sim_con_problema": 0.38086581230163574,
+                            "peso_arista": 1.3024696111679077,
+                            "peso_acumulado": 6.358357459306717,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_101",
+                        "texto": "SocialBehavioralAutism cannot learn from indirect peer feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41214555501937866,
+                        "sim_con_problema": 0.3979724943637848,
+                        "peso_arista": 1.1898819506168365,
+                        "peso_acumulado": 5.251501798629761,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_102",
+                        "texto": "SocialBehavioralAutism's emotional reaction to the mismatch is delayed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5044560432434082,
+                        "sim_con_problema": 0.38256707787513733,
+                        "peso_arista": 1.1129768788814545,
+                        "peso_acumulado": 5.174596726894379,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_59",
+                    "texto": "SocialBehavioralAutism produces a socially mismatched response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44855207204818726,
+                    "sim_con_problema": 0.4291713535785675,
+                    "peso_arista": 1.1222765743732452,
+                    "peso_acumulado": 4.248267233371735,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_162",
+                        "texto": "SocialBehavioralAutism cannot self-correct without explicit rule retrieval",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5484036207199097,
+                        "sim_con_problema": 0.4077371060848236,
+                        "peso_arista": 1.0438592731952667,
+                        "peso_acumulado": 5.292126506567001,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_163",
+                        "texto": "SocialBehavioralAutism blocks learning if mismatch framed as shameful",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4612259864807129,
+                        "sim_con_problema": 0.4467398226261139,
+                        "peso_arista": 1.0920341908931732,
+                        "peso_acumulado": 5.340301424264908,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_164",
+                        "texto": "SocialBehavioralAutism registers the social error only after delay",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3663193881511688,
+                        "sim_con_problema": 0.31142401695251465,
+                        "peso_arista": 1.3222565948963165,
+                        "peso_acumulado": 5.570523828268051,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_60",
+                    "texto": "SocialBehavioralAutism retains the false belief absent explicit correction",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39223039150238037,
+                    "sim_con_problema": 0.5002761483192444,
+                    "peso_arista": 1.1074934601783752,
+                    "peso_acumulado": 4.233484119176865,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_155",
+                        "texto": "SocialBehavioralAutism encodes the false belief as stable semantic fact",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4235391616821289,
+                        "sim_con_problema": 0.6348593235015869,
+                        "peso_arista": 0.9416015148162842,
+                        "peso_acumulado": 5.175085633993149,
+                        "premise_id": "A8",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_156",
+                        "texto": "SocialBehavioralAutism fails to generalize correction to future sarcasm instances",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3691156804561615,
+                        "sim_con_problema": 0.5539464950561523,
+                        "peso_arista": 1.0769378244876862,
+                        "peso_acumulado": 5.310421943664551,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_25",
+                "texto": "SocialBehavioralAutism cannot reliably apply the unspoken sarcasm norm",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3496510684490204,
+                "sim_con_problema": 0.5512717962265015,
+                "peso_arista": 1.0990771353244781,
+                "peso_acumulado": 3.106238305568695,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_55",
+                    "texto": "SocialBehavioralAutism cannot update the misinterpretation without explicit feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39199352264404297,
+                    "sim_con_problema": 0.4884772300720215,
+                    "peso_arista": 1.1195292472839355,
+                    "peso_acumulado": 4.225767552852631,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_151",
+                        "texto": "SocialBehavioralAutism requires explicit correction to revise the rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4683564305305481,
+                        "sim_con_problema": 0.39135289192199707,
+                        "peso_arista": 1.1402906775474548,
+                        "peso_acumulado": 5.3660582304000854,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_56",
+                    "texto": "SocialBehavioralAutism requires explicit instruction to encode this sarcasm rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4803658723831177,
+                    "sim_con_problema": 0.5659267902374268,
+                    "peso_arista": 0.9537073373794556,
+                    "peso_acumulado": 4.059945642948151,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_96",
+                        "texto": "SocialBehavioralAutism will not generalize this rule to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4028695821762085,
+                        "sim_con_problema": 0.4289860129356384,
+                        "peso_arista": 1.168144404888153,
+                        "peso_acumulado": 5.228090047836304,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_97",
+                        "texto": "SocialBehavioralAutism stores sarcasm interpretation only as explicit rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3515712022781372,
+                        "sim_con_problema": 0.5941898226737976,
+                        "peso_arista": 1.0542389750480652,
+                        "peso_acumulado": 5.114184617996216,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_98",
+                        "texto": "SocialBehavioralAutism needs immediate specific feedback to encode rule",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5818892121315002,
+                        "sim_con_problema": 0.4234955608844757,
+                        "peso_arista": 0.994615226984024,
+                        "peso_acumulado": 5.054560869932175,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_206",
+                            "texto": "SocialBehavioralAutism stores sarcasm interpretation as explicit database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2925579249858856,
+                            "sim_con_problema": 0.5677280426025391,
+                            "peso_arista": 1.1397140324115753,
+                            "peso_acumulado": 6.19427490234375,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_57",
+                    "texto": "SocialBehavioralAutism will not generalize sarcasm detection to new contexts",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.35489141941070557,
+                    "sim_con_problema": 0.5657415390014648,
+                    "peso_arista": 1.0793670415878296,
+                    "peso_acumulado": 4.185605347156525,
+                    "premise_id": "A22",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_2",
+        "texto": "SocialBehavioralAutism requires explicit rule retrieval to detect sarcasm",
+        "nivel": 1,
+        "es_hoja": true,
+        "sim_con_raiz": 0.47220849990844727,
+        "sim_con_problema": 0.544353723526001,
+        "peso_arista": 0.9834377765655518,
+        "peso_acumulado": 0.9834377765655518,
+        "premise_id": "A18",
+        "hijos": []
+      },
+      {
+        "id": "SocialBehavioralAutism_1_3",
+        "texto": "SocialBehavioralAutism treats classmate's tone as data needing inference",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.41341233253479004,
+        "sim_con_problema": 0.5649302005767822,
+        "peso_arista": 1.0216574668884277,
+        "peso_acumulado": 1.0216574668884277,
+        "premise_id": "A15",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_8",
+            "texto": "SocialBehavioralAutism first interprets the sarcasm literally",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2907741367816925,
+            "sim_con_problema": 0.5915830135345459,
+            "peso_arista": 1.1176428496837616,
+            "peso_acumulado": 2.1393003165721893,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_32",
+                "texto": "SocialBehavioralAutism derives the statement's opposite meaning inaccurately",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.36725902557373047,
+                "sim_con_problema": 0.5743208527565002,
+                "peso_arista": 1.0584201216697693,
+                "peso_acumulado": 3.1977204382419586,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_67",
+                    "texto": "SocialBehavioralAutism responds based on the inaccurate literal meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44221317768096924,
+                    "sim_con_problema": 0.5767434239387512,
+                    "peso_arista": 0.9810433983802795,
+                    "peso_acumulado": 4.178763836622238,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_131",
+                        "texto": "SocialBehavioralAutism's response mismatches the group's social expectations",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3829057216644287,
+                        "sim_con_problema": 0.4506146311759949,
+                        "peso_arista": 1.1664796471595764,
+                        "peso_acumulado": 5.345243483781815,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_132",
+                        "texto": "SocialBehavioralAutism repeats the literal-response error in new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5052879452705383,
+                        "sim_con_problema": 0.5435580611228943,
+                        "peso_arista": 0.9511539936065674,
+                        "peso_acumulado": 5.1299178302288055,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_133",
+                        "texto": "SocialBehavioralAutism needs immediate specific feedback to correct the error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4535363018512726,
+                        "sim_con_problema": 0.34664386510849,
+                        "peso_arista": 1.1998198330402374,
+                        "peso_acumulado": 5.378583669662476,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_134",
+                        "texto": "Feedback framed as shame blocks SocialBehavioralAutism from learning the error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39398759603500366,
+                        "sim_con_problema": 0.4161902070045471,
+                        "peso_arista": 1.1898221969604492,
+                        "peso_acumulado": 5.368586033582687,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_68",
+                    "texto": "SocialBehavioralAutism cannot retrieve a matching rule for sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.30268239974975586,
+                    "sim_con_problema": 0.4571772813796997,
+                    "peso_arista": 1.2401403188705444,
+                    "peso_acumulado": 4.437860757112503,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_177",
+                        "texto": "SocialBehavioralAutism flags the sarcasm as an unmatched database entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25102928280830383,
+                        "sim_con_problema": 0.5022062063217163,
+                        "peso_arista": 1.2467645108699799,
+                        "peso_acumulado": 5.684625267982483,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_178",
+                        "texto": "SocialBehavioralAutism risks a threat response if the error is shamed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3555484712123871,
+                        "sim_con_problema": 0.3971136212348938,
+                        "peso_arista": 1.2473379075527191,
+                        "peso_acumulado": 5.685198664665222,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_69",
+                    "texto": "SocialBehavioralAutism fails to generalize prior sarcasm exposure here",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3147619366645813,
+                    "sim_con_problema": 0.5522925853729248,
+                    "peso_arista": 1.132945477962494,
+                    "peso_acumulado": 4.3306659162044525,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_174",
+                        "texto": "SocialBehavioralAutism misses the unspoken sarcastic expectation entirely",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3859883248806,
+                        "sim_con_problema": 0.5352385640144348,
+                        "peso_arista": 1.0787731111049652,
+                        "peso_acumulado": 5.409439027309418,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_33",
+                "texto": "SocialBehavioralAutism requires additional inferential steps to reinterpret",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5549439191818237,
+                "sim_con_problema": 0.48179665207862854,
+                "peso_arista": 0.9632594287395477,
+                "peso_acumulado": 3.102559745311737,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_52",
+                    "texto": "SocialBehavioralAutism consults stored explicit rules for sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3883803188800812,
+                    "sim_con_problema": 0.5963785648345947,
+                    "peso_arista": 1.015241116285324,
+                    "peso_acumulado": 4.117800861597061,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_116",
+                        "texto": "SocialBehavioralAutism applies retrieved rule via conscious matching process",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5088616013526917,
+                        "sim_con_problema": 0.41780704259872437,
+                        "peso_arista": 1.073331356048584,
+                        "peso_acumulado": 5.191132217645645,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_118",
+                        "texto": "SocialBehavioralAutism delays response until inference completes",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.499673992395401,
+                        "sim_con_problema": 0.4345533549785614,
+                        "peso_arista": 1.0657726526260376,
+                        "peso_acumulado": 5.183573514223099,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_53",
+                    "texto": "SocialBehavioralAutism cannot generalize this interpretation to new contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.43059486150741577,
+                    "sim_con_problema": 0.5454320907592773,
+                    "peso_arista": 1.0239730477333069,
+                    "peso_acumulado": 4.126532793045044,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_127",
+                        "texto": "SocialBehavioralAutism misses sarcasm cues in unstated new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.38893964886665344,
+                        "sim_con_problema": 0.6186556220054626,
+                        "peso_arista": 0.9924047291278839,
+                        "peso_acumulado": 5.118937522172928,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_10",
+            "texto": "SocialBehavioralAutism's interpretive response lags behind the utterance",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5536508560180664,
+            "sim_con_problema": 0.6813291907310486,
+            "peso_arista": 0.765019953250885,
+            "peso_acumulado": 1.7866774201393127,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_17",
+                "texto": "SocialBehavioralAutism's reaction arrives after conversation has moved on",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.38663336634635925,
+                "sim_con_problema": 0.5334634780883789,
+                "peso_arista": 1.0799031555652618,
+                "peso_acumulado": 2.8665805757045746,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_35",
+                    "texto": "SocialBehavioralAutism responds to a topic already abandoned",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.34074562788009644,
+                    "sim_con_problema": 0.5013747215270996,
+                    "peso_arista": 1.157879650592804,
+                    "peso_acumulado": 4.0244602262973785,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_81",
+                        "texto": "SocialBehavioralAutism receives feedback too delayed to update responding",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.335279643535614,
+                        "sim_con_problema": 0.3415234386920929,
+                        "peso_arista": 1.323196917772293,
+                        "peso_acumulado": 5.347657144069672,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_82",
+                        "texto": "SocialBehavioralAutism fails to detect the resulting social mismatch",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3966244161128998,
+                        "sim_con_problema": 0.38949698209762573,
+                        "peso_arista": 1.2138786017894745,
+                        "peso_acumulado": 5.238338828086853,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_83",
+                        "texto": "SocialBehavioralAutism must now infer classmates' confused reactions",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41140952706336975,
+                        "sim_con_problema": 0.467355877161026,
+                        "peso_arista": 1.1212345957756042,
+                        "peso_acumulado": 5.145694822072983,
+                        "premise_id": "A15",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_84",
+                        "texto": "SocialBehavioralAutism cannot retrieve a rule for this mismatch",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3418724536895752,
+                        "sim_con_problema": 0.28357428312301636,
+                        "peso_arista": 1.3745532631874084,
+                        "peso_acumulado": 5.399013489484787,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_36",
+                    "texto": "SocialBehavioralAutism registers the conversational shift as prediction error",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4097059965133667,
+                    "sim_con_problema": 0.5896627902984619,
+                    "peso_arista": 1.0006312131881714,
+                    "peso_acumulado": 3.867211788892746,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_73",
+                        "texto": "SocialBehavioralAutism generates disruption disproportionate to the sarcasm's significance",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3333730697631836,
+                        "sim_con_problema": 0.5454784631729126,
+                        "peso_arista": 1.1211484670639038,
+                        "peso_acumulado": 4.98836025595665,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_200",
+                            "texto": "SocialBehavioralAutism's ongoing conversational routine becomes disrupted",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.41918742656707764,
+                            "sim_con_problema": 0.5117734670639038,
+                            "peso_arista": 1.0690391063690186,
+                            "peso_acumulado": 6.057399362325668,
+                            "premise_id": "A19",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_201",
+                            "texto": "SocialBehavioralAutism must consciously retrieve a stored social rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5194584727287292,
+                            "sim_con_problema": 0.447655588388443,
+                            "peso_arista": 1.0328859388828278,
+                            "peso_acumulado": 6.0212461948394775,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_74",
+                        "texto": "SocialBehavioralAutism searches explicit rule database for matching response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35386142134666443,
+                        "sim_con_problema": 0.3025582432746887,
+                        "peso_arista": 1.3435803353786469,
+                        "peso_acumulado": 5.210792124271393,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_75",
+                        "texto": "SocialBehavioralAutism cannot generalize prior conversational shifts to this instance",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.40531042218208313,
+                        "sim_con_problema": 0.5807331204414368,
+                        "peso_arista": 1.01395645737648,
+                        "peso_acumulado": 4.881168246269226,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_186",
+                            "texto": "SocialBehavioralAutism registers disproportionate disruption from this conversational shift",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.396260142326355,
+                            "sim_con_problema": 0.5250496864318848,
+                            "peso_arista": 1.0786901712417603,
+                            "peso_acumulado": 5.959858417510986,
+                            "premise_id": "A20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_187",
+                            "texto": "SocialBehavioralAutism requires explicit instruction to re-anchor this context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5837241411209106,
+                            "sim_con_problema": 0.5259779095649719,
+                            "peso_arista": 0.8902979493141174,
+                            "peso_acumulado": 5.7714661955833435,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_76",
+                        "texto": "SocialBehavioralAutism still processes the sarcastic statement literally",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3260396122932434,
+                        "sim_con_problema": 0.6070126891136169,
+                        "peso_arista": 1.0669476985931396,
+                        "peso_acumulado": 4.934159487485886,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_37",
+                    "texto": "SocialBehavioralAutism searches stored rules for a delayed reply",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2949802279472351,
+                    "sim_con_problema": 0.3252097964286804,
+                    "peso_arista": 1.3798099756240845,
+                    "peso_acumulado": 4.246390551328659,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_18",
+                "texto": "SocialBehavioralAutism cannot use the delayed cue to update meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.37624821066856384,
+                "sim_con_problema": 0.46972206234931946,
+                "peso_arista": 1.1540297269821167,
+                "peso_acumulado": 2.9407071471214294,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_38",
+                    "texto": "SocialBehavioralAutism retains the literal meaning as final",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.37047016620635986,
+                    "sim_con_problema": 0.4962534010410309,
+                    "peso_arista": 1.1332764327526093,
+                    "peso_acumulado": 4.073983579874039,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_103",
+                        "texto": "SocialBehavioralAutism misidentifies classmate's true communicative intent",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.4467853307723999,
+                        "sim_con_problema": 0.5456515550613403,
+                        "peso_arista": 1.0075631141662598,
+                        "peso_acumulado": 5.0815466940402985,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_215",
+                            "texto": "SocialBehavioralAutism cannot match this exchange to stored rules",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2946377396583557,
+                            "sim_con_problema": 0.33662062883377075,
+                            "peso_arista": 1.3687416315078735,
+                            "peso_acumulado": 6.450288325548172,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_216",
+                            "texto": "SocialBehavioralAutism fails to generalize this exchange to future ones",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.34409773349761963,
+                            "sim_con_problema": 0.4815840721130371,
+                            "peso_arista": 1.1743181943893433,
+                            "peso_acumulado": 6.255864888429642,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_39",
+                    "texto": "SocialBehavioralAutism cannot retrieve a matching pragmatic rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.41256093978881836,
+                    "sim_con_problema": 0.4503205418586731,
+                    "peso_arista": 1.1371185183525085,
+                    "peso_acumulado": 4.077825665473938,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_111",
+                        "texto": "SocialBehavioralAutism fails to detect the implicit intended meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.44999411702156067,
+                        "sim_con_problema": 0.6469020843505859,
+                        "peso_arista": 0.9031037986278534,
+                        "peso_acumulado": 4.980929464101791,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_199",
+                            "texto": "SocialBehavioralAutism responds only to the explicit stated words",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4815734624862671,
+                            "sim_con_problema": 0.5728587508201599,
+                            "peso_arista": 0.945567786693573,
+                            "peso_acumulado": 5.926497250795364,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_4",
+        "texto": "SocialBehavioralAutism's recognition of the sarcasm may occur later",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.36456626653671265,
+        "sim_con_problema": 0.5851595401763916,
+        "peso_arista": 1.0502741932868958,
+        "peso_acumulado": 1.0502741932868958,
+        "premise_id": "A16",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_12",
+            "texto": "SocialBehavioralAutism produces a delayed reaction to the remark",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4735427498817444,
+            "sim_con_problema": 0.5369262099266052,
+            "peso_arista": 0.9895310401916504,
+            "peso_acumulado": 2.039805233478546,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_26",
+                "texto": "SocialBehavioralAutism's reaction arrives after the topic changes",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4204482436180115,
+                "sim_con_problema": 0.4887142479419708,
+                "peso_arista": 1.0908375084400177,
+                "peso_acumulado": 3.130642741918564,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_61",
+                    "texto": "SocialBehavioralAutism cannot receive temporally proximate feedback on the remark",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.46947991847991943,
+                    "sim_con_problema": 0.5372095704078674,
+                    "peso_arista": 0.9933105111122131,
+                    "peso_acumulado": 4.123953253030777,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_122",
+                        "texto": "SocialBehavioralAutism fails to update its behavior from the remark",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3268479108810425,
+                        "sim_con_problema": 0.4753463566303253,
+                        "peso_arista": 1.1978057324886322,
+                        "peso_acumulado": 5.321758985519409,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_123",
+                        "texto": "SocialBehavioralAutism does not add sarcasm to its rule database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23960775136947632,
+                        "sim_con_problema": 0.44161662459373474,
+                        "peso_arista": 1.318775624036789,
+                        "peso_acumulado": 5.442728877067566,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_62",
+                    "texto": "SocialBehavioralAutism applies a stored social rule to the wrong context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4488039016723633,
+                    "sim_con_problema": 0.5650202631950378,
+                    "peso_arista": 0.9861758351325989,
+                    "peso_acumulado": 4.116818577051163,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_113",
+                        "texto": "SocialBehavioralAutism fails to update the stored rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.30300527811050415,
+                        "sim_con_problema": 0.28967946767807007,
+                        "peso_arista": 1.4073152542114258,
+                        "peso_acumulado": 5.5241338312625885,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_114",
+                        "texto": "SocialBehavioralAutism treats the mismatch as a social threat",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3204813599586487,
+                        "sim_con_problema": 0.42079612612724304,
+                        "peso_arista": 1.2587225139141083,
+                        "peso_acumulado": 5.375541090965271,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_115",
+                        "texto": "SocialBehavioralAutism cannot re-anchor the rule to this context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4467441439628601,
+                        "sim_con_problema": 0.4844013750553131,
+                        "peso_arista": 1.0688544809818268,
+                        "peso_acumulado": 5.1856730580329895,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_63",
+                    "texto": "SocialBehavioralAutism's response fails to fit the now-changed context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.424099326133728,
+                    "sim_con_problema": 0.501498818397522,
+                    "peso_arista": 1.07440185546875,
+                    "peso_acumulado": 4.205044597387314,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_145",
+                        "texto": "SocialBehavioralAutism generates a disproportionate prediction error signal",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41913139820098877,
+                        "sim_con_problema": 0.3989277482032776,
+                        "peso_arista": 1.1819408535957336,
+                        "peso_acumulado": 5.3869854509830475,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_146",
+                        "texto": "SocialBehavioralAutism receives feedback that is not temporally proximate",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5218248963356018,
+                        "sim_con_problema": 0.4793091118335724,
+                        "peso_arista": 0.9988659918308258,
+                        "peso_acumulado": 5.20391058921814,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_147",
+                        "texto": "SocialBehavioralAutism risks the mismatch being framed as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43619275093078613,
+                        "sim_con_problema": 0.393229603767395,
+                        "peso_arista": 1.1705776453018188,
+                        "peso_acumulado": 5.375622242689133,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_27",
+                "texto": "SocialBehavioralAutism registers disproportionate prediction error from the shift",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3892626166343689,
+                "sim_con_problema": 0.34515833854675293,
+                "peso_arista": 1.2655790448188782,
+                "peso_acumulado": 3.3053842782974243,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_70",
+                    "texto": "SocialBehavioralAutism cannot generalize sarcasm interpretation without explicit instruction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.39248889684677124,
+                    "sim_con_problema": 0.6300307512283325,
+                    "peso_arista": 0.9774803519248962,
+                    "peso_acumulado": 4.282864630222321,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_71",
+                    "texto": "SocialBehavioralAutism diverts cognitive resources away from ongoing conversation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4608539342880249,
+                    "sim_con_problema": 0.5868790149688721,
+                    "peso_arista": 0.952267050743103,
+                    "peso_acumulado": 4.257651329040527,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_165",
+                        "texto": "SocialBehavioralAutism fails to sustain attention on the conversation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39333170652389526,
+                        "sim_con_problema": 0.5200395584106445,
+                        "peso_arista": 1.0866287350654602,
+                        "peso_acumulado": 5.3442800641059875,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_166",
+                        "texto": "SocialBehavioralAutism processes the remark in isolation from context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5183624029159546,
+                        "sim_con_problema": 0.629382312297821,
+                        "peso_arista": 0.8522552847862244,
+                        "peso_acumulado": 5.109906613826752,
+                        "premise_id": "A5",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_167",
+                        "texto": "SocialBehavioralAutism cannot simultaneously retrieve applicable social rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36508020758628845,
+                        "sim_con_problema": 0.37406018376350403,
+                        "peso_arista": 1.2608596086502075,
+                        "peso_acumulado": 5.518510937690735,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_72",
+                    "texto": "SocialBehavioralAutism attempts explicit rule retrieval to interpret remark",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5417962074279785,
+                    "sim_con_problema": 0.6440366506576538,
+                    "peso_arista": 0.8141671419143677,
+                    "peso_acumulado": 4.119551420211792,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_119",
+                        "texto": "SocialBehavioralAutism defaults to literal interpretation of remark",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.46899688243865967,
+                        "sim_con_problema": 0.6972676515579224,
+                        "peso_arista": 0.833735466003418,
+                        "peso_acumulado": 4.95328688621521,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "SocialBehavioralAutism_6_192",
+                            "texto": "SocialBehavioralAutism misses the intended non-literal meaning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.42293781042099,
+                            "sim_con_problema": 0.5948578119277954,
+                            "peso_arista": 0.9822043776512146,
+                            "peso_acumulado": 5.935491263866425,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "SocialBehavioralAutism_6_194",
+                            "texto": "SocialBehavioralAutism fails to detect the unspoken social intent",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4681052267551422,
+                            "sim_con_problema": 0.5590214133262634,
+                            "peso_arista": 0.9728733599185944,
+                            "peso_acumulado": 5.926160246133804,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_120",
+                        "texto": "SocialBehavioralAutism finds no explicit database entry for sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1896001398563385,
+                        "sim_con_problema": 0.46122437715530396,
+                        "peso_arista": 1.3491754829883575,
+                        "peso_acumulado": 5.4687269032001495,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_28",
+                "texto": "SocialBehavioralAutism must consciously retrieve a stored response rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.611711859703064,
+                "sim_con_problema": 0.4533465504646301,
+                "peso_arista": 0.9349415898323059,
+                "peso_acumulado": 2.974746823310852,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_44",
+                    "texto": "SocialBehavioralAutism searches its rule database for a match",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2448524832725525,
+                    "sim_con_problema": 0.24586156010627747,
+                    "peso_arista": 1.50928595662117,
+                    "peso_acumulado": 4.484032779932022,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_179",
+                        "texto": "SocialBehavioralAutism finds no reliable match for implicit sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25790148973464966,
+                        "sim_con_problema": 0.5522979497909546,
+                        "peso_arista": 1.1898005604743958,
+                        "peso_acumulado": 5.673833340406418,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_180",
+                        "texto": "SocialBehavioralAutism requires additional inferential steps to decode remark",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5375252366065979,
+                        "sim_con_problema": 0.6392278671264648,
+                        "peso_arista": 0.8232468962669373,
+                        "peso_acumulado": 5.307279676198959,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_182",
+                        "texto": "SocialBehavioralAutism relies on conscious retrieval rather than intuition",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5829726457595825,
+                        "sim_con_problema": 0.45400914549827576,
+                        "peso_arista": 0.9630182087421417,
+                        "peso_acumulado": 5.447050988674164,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_45",
+                    "texto": "SocialBehavioralAutism fails to generalize rule to this new context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4325791001319885,
+                    "sim_con_problema": 0.4865526854991913,
+                    "peso_arista": 1.0808682143688202,
+                    "peso_acumulado": 4.055615037679672,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_95",
+                        "texto": "SocialBehavioralAutism treats the misinterpretation as a personal failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.40761974453926086,
+                        "sim_con_problema": 0.4428834915161133,
+                        "peso_arista": 1.1494967639446259,
+                        "peso_acumulado": 5.205111801624298,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 151,
+  "total_hojas": 87,
+  "profundidad_maxima": 6
+}

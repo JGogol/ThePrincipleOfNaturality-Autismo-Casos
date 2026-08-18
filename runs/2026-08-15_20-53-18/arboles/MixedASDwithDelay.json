@@ -1,0 +1,1894 @@
+{
+  "actor": "MixedASDwithDelay",
+  "raiz": {
+    "id": "MixedASDwithDelay_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.5713635683059692,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "MixedASDwithDelay_1_1",
+        "texto": "MixedASDwithDelay's cognitive processing goes offline",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.40871715545654297,
+        "sim_con_problema": 0.38751789927482605,
+        "peso_arista": 1.203764945268631,
+        "peso_acumulado": 1.203764945268631,
+        "premise_id": "A1",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_6",
+            "texto": "MixedASDwithDelay cannot engage in learning tasks",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3718898594379425,
+            "sim_con_problema": 0.2617220878601074,
+            "peso_arista": 1.36638805270195,
+            "peso_acumulado": 2.570152997970581,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_20",
+                "texto": "MixedASDwithDelay cannot receive temporally proximate feedback now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.297366201877594,
+                "sim_con_problema": 0.27844494581222534,
+                "peso_arista": 1.4241888523101807,
+                "peso_acumulado": 3.9943418502807617,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_43",
+                    "texto": "MixedASDwithDelay cannot update behavior without proximate feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.22427353262901306,
+                    "sim_con_problema": 0.17041625082492828,
+                    "peso_arista": 1.6053102165460587,
+                    "peso_acumulado": 5.59965206682682,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_21",
+                "texto": "MixedASDwithDelay accumulates processing overload from environmental change",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2297416478395462,
+                "sim_con_problema": 0.2916044294834137,
+                "peso_arista": 1.47865392267704,
+                "peso_acumulado": 4.048806920647621,
+                "premise_id": "A6",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_48",
+                    "texto": "MixedASDwithDelay remains offline until sensory regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3773704767227173,
+                    "sim_con_problema": 0.3713955879211426,
+                    "peso_arista": 1.2512339353561401,
+                    "peso_acumulado": 5.300040856003761,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_75",
+                        "texto": "MixedASDwithDelay misses feedback that requires temporal proximity",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.36259037256240845,
+                        "sim_con_problema": 0.34248632192611694,
+                        "peso_arista": 1.2949233055114746,
+                        "peso_acumulado": 6.594964161515236,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_102",
+                            "texto": "MixedASDwithDelay cannot form a new routine optimization",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.25891661643981934,
+                            "sim_con_problema": 0.1777995228767395,
+                            "peso_arista": 1.5632838606834412,
+                            "peso_acumulado": 8.158248022198677,
+                            "premise_id": "A19",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_148",
+                                "texto": "MixedASDwithDelay treats the lighting change as ongoing overload",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.19465209543704987,
+                                "sim_con_problema": 0.27326256036758423,
+                                "peso_arista": 1.532085344195366,
+                                "peso_acumulado": 9.690333366394043,
+                                "premise_id": "A6",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_7",
+            "texto": "MixedASDwithDelay cannot engage in social interaction",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.26505690813064575,
+            "sim_con_problema": 0.2485496997833252,
+            "peso_arista": 1.486393392086029,
+            "peso_acumulado": 2.69015833735466,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_25",
+                "texto": "MixedASDwithDelay cannot access learning processes",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3347795009613037,
+                "sim_con_problema": 0.18529538810253143,
+                "peso_arista": 1.4799251109361649,
+                "peso_acumulado": 4.170083448290825,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_52",
+                    "texto": "MixedASDwithDelay's learning remains unavailable until sensory regulation restores",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5504812002182007,
+                    "sim_con_problema": 0.4984315037727356,
+                    "peso_arista": 0.9510872960090637,
+                    "peso_acumulado": 5.121170744299889,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_67",
+                        "texto": "MixedASDwithDelay registers the new lighting as unanticipated change",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.17285111546516418,
+                        "sim_con_problema": 0.25992274284362793,
+                        "peso_arista": 1.5672261416912079,
+                        "peso_acumulado": 6.6883968859910965,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_109",
+                            "texto": "MixedASDwithDelay weights buzzing and brightness as equally salient",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.15123337507247925,
+                            "sim_con_problema": 0.32743656635284424,
+                            "peso_arista": 1.5213300585746765,
+                            "peso_acumulado": 8.209726944565773,
+                            "premise_id": "A2",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_153",
+                                "texto": "MixedASDwithDelay experiences interference integrating buzzing and brightness",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.22145265340805054,
+                                "sim_con_problema": 0.41921380162239075,
+                                "peso_arista": 1.3593335449695587,
+                                "peso_acumulado": 9.569060489535332,
+                                "premise_id": "A3",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_189",
+                                    "texto": "MixedASDwithDelay cannot form coherent multisensory percept",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.4412209987640381,
+                                    "sim_con_problema": 0.3974388837814331,
+                                    "peso_arista": 1.1613401174545288,
+                                    "peso_acumulado": 10.73040060698986,
+                                    "premise_id": "A3",
+                                    "hijos": []
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_190",
+                                    "texto": "MixedASDwithDelay cannot filter buzzing from brightness by relevance",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.20688378810882568,
+                                    "sim_con_problema": 0.2781122326850891,
+                                    "peso_arista": 1.5150039792060852,
+                                    "peso_acumulado": 11.084064468741417,
+                                    "premise_id": "A2",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_249",
+                                        "texto": "MixedASDwithDelay treats the lighting change as environmental volatility",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.17181938886642456,
+                                        "sim_con_problema": 0.27529460191726685,
+                                        "peso_arista": 1.5528860092163086,
+                                        "peso_acumulado": 12.636950477957726,
+                                        "premise_id": "A6",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_313",
+                                            "texto": "MixedASDwithDelay experiences processing overload rather than adaptation",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.40306025743484497,
+                                            "sim_con_problema": 0.4043608605861664,
+                                            "peso_arista": 1.1925788819789886,
+                                            "peso_acumulado": 13.829529359936714,
+                                            "premise_id": "A6",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_315",
+                                            "texto": "MixedASDwithDelay risks exceeding its regulatory threshold",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.19842225313186646,
+                                            "sim_con_problema": 0.15064920485019684,
+                                            "peso_arista": 1.6509285420179367,
+                                            "peso_acumulado": 14.287879019975662,
+                                            "premise_id": "A1",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_154",
+                                "texto": "MixedASDwithDelay must expend effort filtering both stimuli",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.3926261067390442,
+                                "sim_con_problema": 0.3965878486633301,
+                                "peso_arista": 1.2107860445976257,
+                                "peso_acumulado": 9.420512989163399,
+                                "premise_id": "A2",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_184",
+                                    "texto": "MixedASDwithDelay's filtering effort depletes resources for other processing",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.243410125374794,
+                                    "sim_con_problema": 0.18728910386562347,
+                                    "peso_arista": 1.5693007707595825,
+                                    "peso_acumulado": 10.989813759922981,
+                                    "premise_id": "A2",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_243",
+                                        "texto": "MixedASDwithDelay's sensory input risks exceeding regulatory threshold",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.413955420255661,
+                                        "sim_con_problema": 0.5190755724906921,
+                                        "peso_arista": 1.0669690072536469,
+                                        "peso_acumulado": 12.056782767176628,
+                                        "premise_id": "A1",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_244",
+                                        "texto": "MixedASDwithDelay's processing speed for complex information decreases further",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.3759578466415405,
+                                        "sim_con_problema": 0.23596903681755066,
+                                        "peso_arista": 1.3880731165409088,
+                                        "peso_acumulado": 12.37788687646389,
+                                        "premise_id": "A7",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_308",
+                                            "texto": "MixedASDwithDelay experiences further overload from environmental volatility",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.12404356896877289,
+                                            "sim_con_problema": 0.22453244030475616,
+                                            "peso_arista": 1.651423990726471,
+                                            "peso_acumulado": 14.029310867190361,
+                                            "premise_id": "A6",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_245",
+                                        "texto": "MixedASDwithDelay's cross-modal integration produces greater interference",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.2845306098461151,
+                                        "sim_con_problema": 0.2971141040325165,
+                                        "peso_arista": 1.4183552861213684,
+                                        "peso_acumulado": 12.40816904604435,
+                                        "premise_id": "A3",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_68",
+                        "texto": "Feedback given now fails to update MixedASDwithDelay's learning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.24113208055496216,
+                        "sim_con_problema": 0.15168984234333038,
+                        "peso_arista": 1.6071780771017075,
+                        "peso_acumulado": 6.728348821401596,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_114",
+                            "texto": "MixedASDwithDelay's learning state remains unchanged by current input",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.33831894397735596,
+                            "sim_con_problema": 0.1843423694372177,
+                            "peso_arista": 1.4773386865854263,
+                            "peso_acumulado": 8.205687507987022,
+                            "premise_id": "A24",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_150",
+                                "texto": "MixedASDwithDelay continues treating buzzing light as high-priority input",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.26939770579338074,
+                                "sim_con_problema": 0.33787763118743896,
+                                "peso_arista": 1.3927246630191803,
+                                "peso_acumulado": 9.598412171006203,
+                                "premise_id": "A2",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_191",
+                                    "texto": "MixedASDwithDelay remains offline until light input reduces",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.19637808203697205,
+                                    "sim_con_problema": 0.17428138852119446,
+                                    "peso_arista": 1.6293405294418335,
+                                    "peso_acumulado": 11.227752700448036,
+                                    "premise_id": "A1",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_256",
+                                        "texto": "MixedASDwithDelay receives no causally linked feedback now",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.23096683621406555,
+                                        "sim_con_problema": 0.2101012021303177,
+                                        "peso_arista": 1.5589319616556168,
+                                        "peso_acumulado": 12.786684662103653,
+                                        "premise_id": "A24",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_192",
+                                    "texto": "MixedASDwithDelay generates disproportionate prediction error from lights",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.2127697765827179,
+                                    "sim_con_problema": 0.19911929965019226,
+                                    "peso_arista": 1.5881109237670898,
+                                    "peso_acumulado": 11.186523094773293,
+                                    "premise_id": "A20",
+                                    "hijos": []
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_193",
+                                    "texto": "MixedASDwithDelay cannot deprioritize the buzzing light stimulus",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.25089070200920105,
+                                    "sim_con_problema": 0.3963633179664612,
+                                    "peso_arista": 1.3527459800243378,
+                                    "peso_acumulado": 10.95115815103054,
+                                    "premise_id": "A2",
+                                    "hijos": []
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_194",
+                                    "texto": "MixedASDwithDelay experiences the classroom as rapidly changing environment",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.2877073884010315,
+                                    "sim_con_problema": 0.2670387625694275,
+                                    "peso_arista": 1.445253849029541,
+                                    "peso_acumulado": 11.043666020035744,
+                                    "premise_id": "A6",
+                                    "hijos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_151",
+                                "texto": "MixedASDwithDelay's prediction error signal remains disproportionately elevated",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.24338887631893158,
+                                "sim_con_problema": 0.2483733892440796,
+                                "peso_arista": 1.5082377344369888,
+                                "peso_acumulado": 9.713925242424011,
+                                "premise_id": "A20",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_202",
+                                    "texto": "MixedASDwithDelay treats the light change as highly disruptive",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.23073115944862366,
+                                    "sim_con_problema": 0.34131136536598206,
+                                    "peso_arista": 1.4279574751853943,
+                                    "peso_acumulado": 11.141882717609406,
+                                    "premise_id": "A20",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_252",
+                                        "texto": "MixedASDwithDelay allocates equal weight to buzzing sound",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.20090702176094055,
+                                        "sim_con_problema": 0.30799564719200134,
+                                        "peso_arista": 1.491097331047058,
+                                        "peso_acumulado": 12.632980048656464,
+                                        "premise_id": "A2",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_116",
+                            "texto": "Any framing of this moment as failure blocks learning further",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.317013680934906,
+                            "sim_con_problema": 0.2571512758731842,
+                            "peso_arista": 1.4258350431919098,
+                            "peso_acumulado": 8.154183864593506,
+                            "premise_id": "A21",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_143",
+                                "texto": "MixedASDwithDelay's threat response activates instead of learning",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.3337710201740265,
+                                "sim_con_problema": 0.35239607095718384,
+                                "peso_arista": 1.3138329088687897,
+                                "peso_acumulado": 9.468016773462296,
+                                "premise_id": "A21",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_187",
+                                    "texto": "MixedASDwithDelay's learning stays blocked by threat activation",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.3537761867046356,
+                                    "sim_con_problema": 0.2854078710079193,
+                                    "peso_arista": 1.360815942287445,
+                                    "peso_acumulado": 10.82883271574974,
+                                    "premise_id": "A21",
+                                    "hijos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_145",
+                                "texto": "MixedASDwithDelay's cognitive processing stays offline regardless",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.3972139060497284,
+                                "sim_con_problema": 0.3367905020713806,
+                                "peso_arista": 1.265995591878891,
+                                "peso_acumulado": 9.420179456472397,
+                                "premise_id": "A1",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_178",
+                                    "texto": "MixedASDwithDelay's regulation must be restored before processing resumes",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.27063852548599243,
+                                    "sim_con_problema": 0.15081441402435303,
+                                    "peso_arista": 1.5785470604896545,
+                                    "peso_acumulado": 10.998726516962051,
+                                    "premise_id": "A1",
+                                    "hijos": []
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_179",
+                                    "texto": "MixedASDwithDelay continues weighting all sensory input equally",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.3875733017921448,
+                                    "sim_con_problema": 0.404008150100708,
+                                    "peso_arista": 1.2084185481071472,
+                                    "peso_acumulado": 10.628598004579544,
+                                    "premise_id": "A2",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_227",
+                                        "texto": "MixedASDwithDelay's sensory threshold remains exceeded",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.3907042443752289,
+                                        "sim_con_problema": 0.525933563709259,
+                                        "peso_arista": 1.083362191915512,
+                                        "peso_acumulado": 11.711960196495056,
+                                        "premise_id": "A1",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_274",
+                                            "texto": "MixedASDwithDelay's overload blocks adaptive learning rate updates",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.4113807678222656,
+                                            "sim_con_problema": 0.27887532114982605,
+                                            "peso_arista": 1.3097439110279083,
+                                            "peso_acumulado": 13.021704107522964,
+                                            "premise_id": "A6",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_69",
+                        "texto": "MixedASDwithDelay cannot process classroom instruction during this state",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.32968994975090027,
+                        "sim_con_problema": 0.19128066301345825,
+                        "peso_arista": 1.4790293872356415,
+                        "peso_acumulado": 6.60020013153553,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_70",
+                        "texto": "MixedASDwithDelay cannot offset disruption with prior routine",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2336207628250122,
+                        "sim_con_problema": 0.18437519669532776,
+                        "peso_arista": 1.58200404047966,
+                        "peso_acumulado": 6.703174784779549,
+                        "premise_id": "A19",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_113",
+                            "texto": "MixedASDwithDelay lacks freed cognitive resources without routine support",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.41496121883392334,
+                            "sim_con_problema": 0.3685993254184723,
+                            "peso_arista": 1.2164394557476044,
+                            "peso_acumulado": 7.919614240527153,
+                            "premise_id": "A19",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_140",
+                                "texto": "MixedASDwithDelay remains unable to resume cognitive processing",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.40315088629722595,
+                                "sim_con_problema": 0.3476536273956299,
+                                "peso_arista": 1.2491954863071442,
+                                "peso_acumulado": 9.168809726834297,
+                                "premise_id": "A1",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_54",
+                    "texto": "MixedASDwithDelay's learning rate cannot adjust to this change",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3675376772880554,
+                    "sim_con_problema": 0.2262716442346573,
+                    "peso_arista": 1.4061906784772873,
+                    "peso_acumulado": 5.576274126768112,
+                    "premise_id": "A6",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_86",
+                        "texto": "MixedASDwithDelay loses the routine's computational optimization",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2594894766807556,
+                        "sim_con_problema": 0.192415252327919,
+                        "peso_arista": 1.5480952709913254,
+                        "peso_acumulado": 7.124369397759438,
+                        "premise_id": "A19",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_121",
+                            "texto": "MixedASDwithDelay must reallocate cognitive resources to the disruption",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.40953367948532104,
+                            "sim_con_problema": 0.457071989774704,
+                            "peso_arista": 1.133394330739975,
+                            "peso_acumulado": 8.257763728499413,
+                            "premise_id": "A19",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_157",
+                                "texto": "MixedASDwithDelay treats buzzing and brightness as equally salient",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.19062957167625427,
+                                "sim_con_problema": 0.3763101100921631,
+                                "peso_arista": 1.4330603182315826,
+                                "peso_acumulado": 9.690824046730995,
+                                "premise_id": "A2",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_200",
+                                    "texto": "MixedASDwithDelay requires effortful filtering to prioritize either stimulus",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.4158328175544739,
+                                    "sim_con_problema": 0.3538483679294586,
+                                    "peso_arista": 1.2303188145160675,
+                                    "peso_acumulado": 10.921142861247063,
+                                    "premise_id": "A2",
+                                    "hijos": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_2",
+        "texto": "MixedASDwithDelay cannot automatically filter out buzzing sound",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.17805105447769165,
+        "sim_con_problema": 0.28780484199523926,
+        "peso_arista": 1.534144103527069,
+        "peso_acumulado": 1.534144103527069,
+        "premise_id": "A2",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_12",
+            "texto": "MixedASDwithDelay risks going offline from sensory overload",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3454926311969757,
+            "sim_con_problema": 0.447559118270874,
+            "peso_arista": 1.2069482505321503,
+            "peso_acumulado": 2.7410923540592194,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_27",
+                "texto": "MixedASDwithDelay cannot access learning until regulated",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.41451597213745117,
+                "sim_con_problema": 0.18837371468544006,
+                "peso_arista": 1.3971103131771088,
+                "peso_acumulado": 4.138202667236328,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_51",
+                    "texto": "MixedASDwithDelay cannot allocate resources to ongoing tasks",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2557813227176666,
+                    "sim_con_problema": 0.2055673897266388,
+                    "peso_arista": 1.5386512875556946,
+                    "peso_acumulado": 5.676853954792023,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_90",
+                        "texto": "MixedASDwithDelay disengages from the current classroom task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2744544744491577,
+                        "sim_con_problema": 0.19340050220489502,
+                        "peso_arista": 1.5321450233459473,
+                        "peso_acumulado": 7.20899897813797,
+                        "premise_id": "A1",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_124",
+                            "texto": "MixedASDwithDelay loses the resource-saving structure of routine task engagement",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.3046073317527771,
+                            "sim_con_problema": 0.2708868682384491,
+                            "peso_arista": 1.4245058000087738,
+                            "peso_acumulado": 8.633504778146744,
+                            "premise_id": "A19",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_160",
+                                "texto": "MixedASDwithDelay must allocate resources to rebuilding routine",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.27896690368652344,
+                                "sim_con_problema": 0.1993476152420044,
+                                "peso_arista": 1.5216854810714722,
+                                "peso_acumulado": 10.155190259218216,
+                                "premise_id": "A19",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_204",
+                                    "texto": "MixedASDwithDelay has fewer resources for other tasks",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.26057168841362,
+                                    "sim_con_problema": 0.20868447422981262,
+                                    "peso_arista": 1.5307438373565674,
+                                    "peso_acumulado": 11.685934096574783,
+                                    "premise_id": "A19",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_264",
+                                        "texto": "MixedASDwithDelay has reduced capacity to maintain sensory regulation",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.49280020594596863,
+                                        "sim_con_problema": 0.5385661125183105,
+                                        "peso_arista": 0.9686336815357208,
+                                        "peso_acumulado": 12.654567778110504,
+                                        "premise_id": "A1",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_205",
+                                    "texto": "MixedASDwithDelay needs explicit instruction to re-anchor routine",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.29837119579315186,
+                                    "sim_con_problema": 0.15906521677970886,
+                                    "peso_arista": 1.5425635874271393,
+                                    "peso_acumulado": 11.697753846645355,
+                                    "premise_id": "A22",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_265",
+                                        "texto": "MixedASDwithDelay cannot generalize old routine without explicit instruction",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.3198525905609131,
+                                        "sim_con_problema": 0.18731264770030975,
+                                        "peso_arista": 1.4928347617387772,
+                                        "peso_acumulado": 13.190588608384132,
+                                        "premise_id": "A22",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_266",
+                                        "texto": "MixedASDwithDelay follows the new routine only if explicitly stated",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.2869218587875366,
+                                        "sim_con_problema": 0.16856437921524048,
+                                        "peso_arista": 1.544513761997223,
+                                        "peso_acumulado": 13.242267608642578,
+                                        "premise_id": "A23",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_267",
+                                        "texto": "MixedASDwithDelay requires observable, specific feedback to relearn routine",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.4280094504356384,
+                                        "sim_con_problema": 0.31154748797416687,
+                                        "peso_arista": 1.2604430615901947,
+                                        "peso_acumulado": 12.95819690823555,
+                                        "premise_id": "A24",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_325",
+                                            "texto": "MixedASDwithDelay fails to relearn routine without proximate feedback",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.3023187518119812,
+                                            "sim_con_problema": 0.21116642653942108,
+                                            "peso_arista": 1.4865148216485977,
+                                            "peso_acumulado": 14.444711729884148,
+                                            "premise_id": "A24",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_326",
+                                            "texto": "MixedASDwithDelay blocks learning if feedback implies failure",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.3476882576942444,
+                                            "sim_con_problema": 0.20120349526405334,
+                                            "peso_arista": 1.4511082470417023,
+                                            "peso_acumulado": 14.409305155277252,
+                                            "premise_id": "A21",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_28",
+                "texto": "MixedASDwithDelay cannot engage socially while overloaded",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.22277623414993286,
+                "sim_con_problema": 0.25174105167388916,
+                "peso_arista": 1.525482714176178,
+                "peso_acumulado": 4.266575068235397,
+                "premise_id": "A1",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_13",
+            "texto": "MixedASDwithDelay treats buzzing sound as equally salient input",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24349065124988556,
+            "sim_con_problema": 0.40833425521850586,
+            "peso_arista": 1.3481750935316086,
+            "peso_acumulado": 2.8823191970586777,
+            "premise_id": "A2",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_33",
+                "texto": "MixedASDwithDelay approaches sensory regulatory threshold from buzzing input",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.42197078466415405,
+                "sim_con_problema": 0.5867464542388916,
+                "peso_arista": 0.9912827610969543,
+                "peso_acumulado": 3.873601958155632,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_41",
+                    "texto": "MixedASDwithDelay risks social engagement becoming unavailable",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.15034930408000946,
+                    "sim_con_problema": 0.1530393660068512,
+                    "peso_arista": 1.6966113299131393,
+                    "peso_acumulado": 5.570213288068771,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_42",
+                    "texto": "MixedASDwithDelay processes classroom information at reduced speed",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39977601170539856,
+                    "sim_con_problema": 0.24029698967933655,
+                    "peso_arista": 1.359926998615265,
+                    "peso_acumulado": 5.233528956770897,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_73",
+                        "texto": "MixedASDwithDelay experiences overload from ongoing classroom pace",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3140568733215332,
+                        "sim_con_problema": 0.28968822956085205,
+                        "peso_arista": 1.3962548971176147,
+                        "peso_acumulado": 6.629783853888512,
+                        "premise_id": "A6",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_14",
+            "texto": "MixedASDwithDelay's learning becomes unavailable during this exposure",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3849566578865051,
+            "sim_con_problema": 0.31844109296798706,
+            "peso_arista": 1.2966022491455078,
+            "peso_acumulado": 2.830746352672577,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_32",
+                "texto": "MixedASDwithDelay cannot integrate feedback given during this exposure",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2653931975364685,
+                "sim_con_problema": 0.2952624559402466,
+                "peso_arista": 1.439344346523285,
+                "peso_acumulado": 4.270090699195862,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_58",
+                    "texto": "MixedASDwithDelay's behavior remains unmodified by this feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.24765729904174805,
+                    "sim_con_problema": 0.1739932894706726,
+                    "peso_arista": 1.5783494114875793,
+                    "peso_acumulado": 5.848440110683441,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_92",
+                        "texto": "MixedASDwithDelay will repeat the same unmodified response",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2375577837228775,
+                        "sim_con_problema": 0.1621721237897873,
+                        "peso_arista": 1.6002700924873352,
+                        "peso_acumulado": 7.448710203170776,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_126",
+                            "texto": "MixedASDwithDelay's unmodified response fails to generalize to other contexts",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.3146156072616577,
+                            "sim_con_problema": 0.22704733908176422,
+                            "peso_arista": 1.458337053656578,
+                            "peso_acumulado": 8.907047256827354,
+                            "premise_id": "A22",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_164",
+                                "texto": "MixedASDwithDelay requires explicit instruction to re-anchor each new context",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.3328443169593811,
+                                "sim_con_problema": 0.22631481289863586,
+                                "peso_arista": 1.440840870141983,
+                                "peso_acumulado": 10.347888126969337,
+                                "premise_id": "A22",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_213",
+                                    "texto": "MixedASDwithDelay cannot adapt to the buzzing lights without new instruction",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.25650012493133545,
+                                    "sim_con_problema": 0.3092673718929291,
+                                    "peso_arista": 1.4342325031757355,
+                                    "peso_acumulado": 11.782120630145073,
+                                    "premise_id": "A22",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_279",
+                                        "texto": "MixedASDwithDelay cannot free cognitive resources for other tasks",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.36302924156188965,
+                                        "sim_con_problema": 0.34971797466278076,
+                                        "peso_arista": 1.2872527837753296,
+                                        "peso_acumulado": 13.069373413920403,
+                                        "premise_id": "A19",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_334",
+                                            "texto": "MixedASDwithDelay processes socially complex information more slowly",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.42385736107826233,
+                                            "sim_con_problema": 0.28649282455444336,
+                                            "peso_arista": 1.2896498143672943,
+                                            "peso_acumulado": 14.359023228287697,
+                                            "premise_id": "A7",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_336",
+                                            "texto": "MixedASDwithDelay experiences overload from the ongoing change",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.25378066301345825,
+                                            "sim_con_problema": 0.29622140526771545,
+                                            "peso_arista": 1.4499979317188263,
+                                            "peso_acumulado": 14.519371345639229,
+                                            "premise_id": "A6",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_281",
+                                        "texto": "MixedASDwithDelay awaits an explicit stated rule for lights",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.23329795897006989,
+                                        "sim_con_problema": 0.17286507785320282,
+                                        "peso_arista": 1.5938369631767273,
+                                        "peso_acumulado": 13.3759575933218,
+                                        "premise_id": "A23",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_215",
+                                    "texto": "MixedASDwithDelay does not infer the new expectation on its own",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.26491332054138184,
+                                    "sim_con_problema": 0.2425059825181961,
+                                    "peso_arista": 1.492580696940422,
+                                    "peso_acumulado": 11.84046882390976,
+                                    "premise_id": "A18",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_282",
+                                        "texto": "MixedASDwithDelay fails to detect the implicit expectation",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.25480249524116516,
+                                        "sim_con_problema": 0.20266400277614594,
+                                        "peso_arista": 1.542533501982689,
+                                        "peso_acumulado": 13.383002325892448,
+                                        "premise_id": "A23",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_165",
+                                "texto": "MixedASDwithDelay experiences new contexts as unanticipated prediction errors",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.28315943479537964,
+                                "sim_con_problema": 0.20874124765396118,
+                                "peso_arista": 1.5080993175506592,
+                                "peso_acumulado": 10.415146574378014,
+                                "premise_id": "A20",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_216",
+                                    "texto": "MixedASDwithDelay generates disproportionate disruption signals from new contexts",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.29491862654685974,
+                                    "sim_con_problema": 0.35590651631355286,
+                                    "peso_arista": 1.3491748571395874,
+                                    "peso_acumulado": 11.764321431517601,
+                                    "premise_id": "A20",
+                                    "hijos": []
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_217",
+                                    "texto": "MixedASDwithDelay experiences processing overload from the new context",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.349337637424469,
+                                    "sim_con_problema": 0.3623025715351105,
+                                    "peso_arista": 1.2883597910404205,
+                                    "peso_acumulado": 11.703506365418434,
+                                    "premise_id": "A6",
+                                    "hijos": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_93",
+                        "texto": "MixedASDwithDelay forms no routine to offset the disruption",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.19863420724868774,
+                        "sim_con_problema": 0.17825034260749817,
+                        "peso_arista": 1.623115450143814,
+                        "peso_acumulado": 7.471555560827255,
+                        "premise_id": "A19",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_129",
+                            "texto": "MixedASDwithDelay's cognitive resources remain unavailable for other tasks",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.3675273656845093,
+                            "sim_con_problema": 0.3265618085861206,
+                            "peso_arista": 1.3059108257293701,
+                            "peso_acumulado": 8.777466386556625,
+                            "premise_id": "A19",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_161",
+                                "texto": "MixedASDwithDelay's social engagement remains unavailable during exposure",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.16767331957817078,
+                                "sim_con_problema": 0.1614840030670166,
+                                "peso_arista": 1.6708426773548126,
+                                "peso_acumulado": 10.448309063911438,
+                                "premise_id": "A1",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_219",
+                                    "texto": "MixedASDwithDelay cannot retrieve pragmatic social rules during exposure",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.28425103425979614,
+                                    "sim_con_problema": 0.23704949021339417,
+                                    "peso_arista": 1.4786994755268097,
+                                    "peso_acumulado": 11.927008539438248,
+                                    "premise_id": "A18",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_285",
+                                        "texto": "MixedASDwithDelay cannot detect unspoken social expectations during exposure",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.35037460923194885,
+                                        "sim_con_problema": 0.36237430572509766,
+                                        "peso_arista": 1.2872510850429535,
+                                        "peso_acumulado": 13.214259624481201,
+                                        "premise_id": "A23",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_286",
+                                        "texto": "MixedASDwithDelay's social responses remain unmatched to context",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.28496649861335754,
+                                        "sim_con_problema": 0.23767147958278656,
+                                        "peso_arista": 1.477362021803856,
+                                        "peso_acumulado": 13.404370561242104,
+                                        "premise_id": "A18",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_287",
+                                        "texto": "MixedASDwithDelay defaults to literal interpretation of speech now",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.3224238157272339,
+                                        "sim_con_problema": 0.2718774676322937,
+                                        "peso_arista": 1.4056987166404724,
+                                        "peso_acumulado": 13.33270725607872,
+                                        "premise_id": "A17",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_163",
+                                "texto": "MixedASDwithDelay's disruption exceeds the change's objective significance",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.2276468575000763,
+                                "sim_con_problema": 0.32327720522880554,
+                                "peso_arista": 1.4490759372711182,
+                                "peso_acumulado": 10.226542323827744,
+                                "premise_id": "A20",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_208",
+                                    "texto": "MixedASDwithDelay fixates on buzzing detail over classroom whole",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.3270062208175659,
+                                    "sim_con_problema": 0.3217903971672058,
+                                    "peso_arista": 1.3512033820152283,
+                                    "peso_acumulado": 11.577745705842972,
+                                    "premise_id": "A5",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_257",
+                                        "texto": "MixedASDwithDelay fails to integrate classroom as coherent whole",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.3080484867095947,
+                                        "sim_con_problema": 0.17854967713356018,
+                                        "peso_arista": 1.513401836156845,
+                                        "peso_acumulado": 13.091147541999817,
+                                        "premise_id": "A5",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_337",
+                                            "texto": "MixedASDwithDelay cannot infer classroom's overall purpose from parts",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.33556216955184937,
+                                            "sim_con_problema": 0.22811618447303772,
+                                            "peso_arista": 1.436321645975113,
+                                            "peso_acumulado": 14.52746918797493,
+                                            "premise_id": "A5",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_338",
+                                            "texto": "MixedASDwithDelay retains fragmented visual details with high fidelity",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.3157545328140259,
+                                            "sim_con_problema": 0.21470427513122559,
+                                            "peso_arista": 1.4695411920547485,
+                                            "peso_acumulado": 14.560688734054565,
+                                            "premise_id": "A9",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_339",
+                                            "texto": "MixedASDwithDelay requires explicit anchoring to reconceive classroom whole",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.34764188528060913,
+                                            "sim_con_problema": 0.19760186970233917,
+                                            "peso_arista": 1.4547562450170517,
+                                            "peso_acumulado": 14.545903787016869,
+                                            "premise_id": "A4",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_340",
+                                            "texto": "MixedASDwithDelay cannot apply implicit classroom norms automatically",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.3440109193325043,
+                                            "sim_con_problema": 0.17662551999092102,
+                                            "peso_arista": 1.4793635606765747,
+                                            "peso_acumulado": 14.570511102676392,
+                                            "premise_id": "A18",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_258",
+                                        "texto": "MixedASDwithDelay expends effort suppressing buzzing stimulus",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.3151205778121948,
+                                        "sim_con_problema": 0.4515455365180969,
+                                        "peso_arista": 1.2333338856697083,
+                                        "peso_acumulado": 12.81107959151268,
+                                        "premise_id": "A2",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_322",
+                                            "texto": "MixedASDwithDelay has no cognitive effort left for filtering other stimuli",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.4239024519920349,
+                                            "sim_con_problema": 0.456845223903656,
+                                            "peso_arista": 1.119252324104309,
+                                            "peso_acumulado": 13.93033191561699,
+                                            "premise_id": "A2",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_259",
+                                        "texto": "MixedASDwithDelay experiences overload from persistent buzzing detail",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.22188089787960052,
+                                        "sim_con_problema": 0.33764928579330444,
+                                        "peso_arista": 1.440469816327095,
+                                        "peso_acumulado": 13.018215522170067,
+                                        "premise_id": "A6",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_333",
+                                            "texto": "MixedASDwithDelay's processing speed drops further under overload",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.2315206527709961,
+                                            "sim_con_problema": 0.15008720755577087,
+                                            "peso_arista": 1.618392139673233,
+                                            "peso_acumulado": 14.6366076618433,
+                                            "premise_id": "A7",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_209",
+                                    "texto": "MixedASDwledDelay treats classroom as unstable, overload-prone environment",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.2908635139465332,
+                                    "sim_con_problema": 0.26697081327438354,
+                                    "peso_arista": 1.4421656727790833,
+                                    "peso_acumulado": 11.668707996606827,
+                                    "premise_id": "A6",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_260",
+                                        "texto": "MixedASDwithDelay's deep learning in classroom is impaired",
+                                        "nivel": 9,
+                                        "es_hoja": false,
+                                        "sim_con_raiz": 0.3945370316505432,
+                                        "sim_con_problema": 0.2662101089954376,
+                                        "peso_arista": 1.3392528593540192,
+                                        "peso_acumulado": 13.007960855960846,
+                                        "premise_id": "A6",
+                                        "hijos": [
+                                          {
+                                            "id": "MixedASDwithDelay_10_329",
+                                            "texto": "MixedASDwithDelay's classroom learning fails to generalize elsewhere",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.3533156216144562,
+                                            "sim_con_problema": 0.2109338492155075,
+                                            "peso_arista": 1.4357505291700363,
+                                            "peso_acumulado": 14.443711385130882,
+                                            "premise_id": "A22",
+                                            "hijos": []
+                                          },
+                                          {
+                                            "id": "MixedASDwithDelay_10_330",
+                                            "texto": "MixedASDwithDelay's classroom episodic retrieval becomes unreliable without cues",
+                                            "nivel": 10,
+                                            "es_hoja": true,
+                                            "sim_con_raiz": 0.37443381547927856,
+                                            "sim_con_problema": 0.2914994955062866,
+                                            "peso_arista": 1.3340666890144348,
+                                            "peso_acumulado": 14.34202754497528,
+                                            "premise_id": "A10",
+                                            "hijos": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_261",
+                                        "texto": "MixedASDwithDelay anticipates disproportionate disruption from future classroom changes",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.2889038920402527,
+                                        "sim_con_problema": 0.2550552487373352,
+                                        "peso_arista": 1.456040859222412,
+                                        "peso_acumulado": 13.124748855829239,
+                                        "premise_id": "A20",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_262",
+                                        "texto": "MixedASDwithDelay allocates fewer resources to classroom tasks",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.327761173248291,
+                                        "sim_con_problema": 0.20392543077468872,
+                                        "peso_arista": 1.4683133959770203,
+                                        "peso_acumulado": 13.137021392583847,
+                                        "premise_id": "A19",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_130",
+                            "texto": "MixedASDwithDelay's processing overload persists under continued light change",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.2490403950214386,
+                            "sim_con_problema": 0.25600701570510864,
+                            "peso_arista": 1.4949525892734528,
+                            "peso_acumulado": 8.966508150100708,
+                            "premise_id": "A6",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_169",
+                                "texto": "MixedASDwithDelay's disruption stays disproportionate to actual change",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.23759636282920837,
+                                "sim_con_problema": 0.22978028655052185,
+                                "peso_arista": 1.5326233506202698,
+                                "peso_acumulado": 10.499131500720978,
+                                "premise_id": "A20",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_224",
+                                    "texto": "MixedASDwithDelay treats classroom environment as volatile ongoing",
+                                    "nivel": 8,
+                                    "es_hoja": true,
+                                    "sim_con_raiz": 0.22344672679901123,
+                                    "sim_con_problema": 0.22976940870285034,
+                                    "peso_arista": 1.5467838644981384,
+                                    "peso_acumulado": 12.045915365219116,
+                                    "premise_id": "A6",
+                                    "hijos": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_94",
+                        "texto": "MixedASDwithDelay continues generating prediction error to buzzing lights",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.128408282995224,
+                        "sim_con_problema": 0.17643991112709045,
+                        "peso_arista": 1.6951518058776855,
+                        "peso_acumulado": 7.543591916561127,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_135",
+                            "texto": "MixedASDwithDelay's disruption stays disproportionate to the lights' change",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.20425188541412354,
+                            "sim_con_problema": 0.25964659452438354,
+                            "peso_arista": 1.536101520061493,
+                            "peso_acumulado": 9.07969343662262,
+                            "premise_id": "A20",
+                            "hijos": [
+                              {
+                                "id": "MixedASDwithDelay_7_172",
+                                "texto": "MixedASDwithDelay's cognitive processing remains offline under fluorescent buzzing",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.3864098787307739,
+                                "sim_con_problema": 0.44512009620666504,
+                                "peso_arista": 1.168470025062561,
+                                "peso_acumulado": 10.24816346168518,
+                                "premise_id": "A1",
+                                "hijos": []
+                              },
+                              {
+                                "id": "MixedASDwithDelay_7_174",
+                                "texto": "MixedASDwithDelay cannot allocate resources to classroom tasks",
+                                "nivel": 7,
+                                "es_hoja": false,
+                                "sim_con_raiz": 0.2809240221977234,
+                                "sim_con_problema": 0.15958485007286072,
+                                "peso_arista": 1.559491127729416,
+                                "peso_acumulado": 10.639184564352036,
+                                "premise_id": "A19",
+                                "hijos": [
+                                  {
+                                    "id": "MixedASDwithDelay_8_228",
+                                    "texto": "MixedASDwithDelay's learning stays unavailable during classroom tasks",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.32544398307800293,
+                                    "sim_con_problema": 0.1810188740491867,
+                                    "peso_arista": 1.4935371428728104,
+                                    "peso_acumulado": 12.132721707224846,
+                                    "premise_id": "A1",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_300",
+                                        "texto": "MixedASDwithDelay's social engagement remains unavailable during classroom tasks",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.22576045989990234,
+                                        "sim_con_problema": 0.16146747767925262,
+                                        "peso_arista": 1.612772062420845,
+                                        "peso_acumulado": 13.745493769645691,
+                                        "premise_id": "A1",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_301",
+                                        "texto": "MixedASDwithDelay fails to encode classroom feedback as learning",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.35192930698394775,
+                                        "sim_con_problema": 0.20865187048912048,
+                                        "peso_arista": 1.4394188225269318,
+                                        "peso_acumulado": 13.572140529751778,
+                                        "premise_id": "A24",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_302",
+                                        "texto": "MixedASDwithDelay cannot form new routines from classroom tasks",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.30065202713012695,
+                                        "sim_con_problema": 0.21621058881282806,
+                                        "peso_arista": 1.483137384057045,
+                                        "peso_acumulado": 13.61585909128189,
+                                        "premise_id": "A19",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_229",
+                                    "texto": "MixedASDwithDelay's established routines lose their resource-saving benefit",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.21769264340400696,
+                                    "sim_con_problema": 0.1634475439786911,
+                                    "peso_arista": 1.618859812617302,
+                                    "peso_acumulado": 12.258044376969337,
+                                    "premise_id": "A19",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_303",
+                                        "texto": "MixedASDwellDelay requires more cognitive resources for routine tasks",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.4576125144958496,
+                                        "sim_con_problema": 0.4547615051269531,
+                                        "peso_arista": 1.0876259803771973,
+                                        "peso_acumulado": 13.345670357346535,
+                                        "premise_id": "A19",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_305",
+                                        "texto": "MixedASDwithDelay's processing speed drops for classroom tasks",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.3557039499282837,
+                                        "sim_con_problema": 0.2462199330329895,
+                                        "peso_arista": 1.3980761170387268,
+                                        "peso_acumulado": 13.656120494008064,
+                                        "premise_id": "A7",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_230",
+                                    "texto": "MixedASDwithDelay cannot process complex instructions at normal speed",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.3292773365974426,
+                                    "sim_con_problema": 0.2198271006345749,
+                                    "peso_arista": 1.4508955627679825,
+                                    "peso_acumulado": 12.090080127120018,
+                                    "premise_id": "A7",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_297",
+                                        "texto": "MixedASDwithDelay misses temporally proximate feedback during instruction delay",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.39146316051483154,
+                                        "sim_con_problema": 0.28789740800857544,
+                                        "peso_arista": 1.320639431476593,
+                                        "peso_acumulado": 13.410719558596611,
+                                        "premise_id": "A24",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_298",
+                                        "texto": "MixedASDwithDelay delays conscious retrieval of matching social rules",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.3868409991264343,
+                                        "sim_con_problema": 0.24537767469882965,
+                                        "peso_arista": 1.367781326174736,
+                                        "peso_acumulado": 13.457861453294754,
+                                        "premise_id": "A18",
+                                        "hijos": []
+                                      },
+                                      {
+                                        "id": "MixedASDwithDelay_9_299",
+                                        "texto": "MixedASDwithDelay falls behind classroom's socially complex task pace",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.33077168464660645,
+                                        "sim_con_problema": 0.20075641572475433,
+                                        "peso_arista": 1.4684718996286392,
+                                        "peso_acumulado": 13.558552026748657,
+                                        "premise_id": "A7",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "MixedASDwithDelay_8_231",
+                                    "texto": "MixedASDwithDelay experiences the classroom as overload, not adaptation",
+                                    "nivel": 8,
+                                    "es_hoja": false,
+                                    "sim_con_raiz": 0.3327696919441223,
+                                    "sim_con_problema": 0.28422510623931885,
+                                    "peso_arista": 1.3830052018165588,
+                                    "peso_acumulado": 12.022189766168594,
+                                    "premise_id": "A6",
+                                    "hijos": [
+                                      {
+                                        "id": "MixedASDwithDelay_9_289",
+                                        "texto": "MixedASDwithDelay's cognitive processing stays offline in classroom",
+                                        "nivel": 9,
+                                        "es_hoja": true,
+                                        "sim_con_raiz": 0.4411501884460449,
+                                        "sim_con_problema": 0.35942894220352173,
+                                        "peso_arista": 1.1994208693504333,
+                                        "peso_acumulado": 13.221610635519028,
+                                        "premise_id": "A1",
+                                        "hijos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_3",
+        "texto": "MixedASDwithDelay generates disproportionate prediction error signals",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.2538941204547882,
+        "sim_con_problema": 0.1837160289287567,
+        "peso_arista": 1.562389850616455,
+        "peso_acumulado": 1.562389850616455,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_18",
+            "texto": "MixedASDwithDelay reacts disproportionately to the lighting change",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24082714319229126,
+            "sim_con_problema": 0.3323741853237152,
+            "peso_arista": 1.4267986714839935,
+            "peso_acumulado": 2.9891885221004486,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_37",
+                "texto": "MixedASDwithDelay weighs buzzing sound equal to brightness",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.16711556911468506,
+                "sim_con_problema": 0.3895200490951538,
+                "peso_arista": 1.4433643817901611,
+                "peso_acumulado": 4.43255290389061,
+                "premise_id": "A2",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_63",
+                    "texto": "MixedASDwithDelay approaches sensory regulatory threshold",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5369506478309631,
+                    "sim_con_problema": 0.5855594277381897,
+                    "peso_arista": 0.8774899244308472,
+                    "peso_acumulado": 5.310042828321457,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_78",
+                        "texto": "MixedASDwithDelay's cognitive processing capacity begins shutting down",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.4664599895477295,
+                        "sim_con_problema": 0.4365496039390564,
+                        "peso_arista": 1.0969904065132141,
+                        "peso_acumulado": 6.407033234834671,
+                        "premise_id": "A1",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_98",
+                            "texto": "MixedASDwithDelay's social interaction becomes unavailable",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2028599977493286,
+                            "sim_con_problema": 0.17836853861808777,
+                            "peso_arista": 1.6187714636325836,
+                            "peso_acumulado": 8.025804698467255,
+                            "premise_id": "A1",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_80",
+                        "texto": "MixedASDwithDelay's learning capacity becomes unavailable",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3289955258369446,
+                        "sim_con_problema": 0.1937720775604248,
+                        "peso_arista": 1.4772323966026306,
+                        "peso_acumulado": 6.7872752249240875,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_39",
+                "texto": "MixedASDwithDelay's processing becomes overloaded by the change",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2501903772354126,
+                "sim_con_problema": 0.27901992201805115,
+                "peso_arista": 1.4707897007465363,
+                "peso_acumulado": 4.459978222846985,
+                "premise_id": "A6",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_65",
+                    "texto": "MixedASDwithDelay's learning is unavailable until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3541455566883087,
+                    "sim_con_problema": 0.17014099657535553,
+                    "peso_arista": 1.4757134467363358,
+                    "peso_acumulado": 5.935691669583321,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_97",
+                        "texto": "MixedASDwithDelay cannot register feedback given during this period",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2161674052476883,
+                        "sim_con_problema": 0.1840163767337799,
+                        "peso_arista": 1.5998162180185318,
+                        "peso_acumulado": 7.535507887601852,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_132",
+                            "texto": "MixedASDwithDelay fails to link feedback to the triggering action",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.25228047370910645,
+                            "sim_con_problema": 0.30984652042388916,
+                            "peso_arista": 1.4378730058670044,
+                            "peso_acumulado": 8.973380893468857,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_134",
+                            "texto": "MixedASDwithDelay requires renewed feedback after regulation restored",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2649087607860565,
+                            "sim_con_problema": 0.16316106915473938,
+                            "peso_arista": 1.571930170059204,
+                            "peso_acumulado": 9.107438057661057,
+                            "premise_id": "A1",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_4",
+        "texto": "MixedASDwithDelay experiences interference from combined light-sound input",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.21152648329734802,
+        "sim_con_problema": 0.3507171869277954,
+        "peso_arista": 1.4377563297748566,
+        "peso_acumulado": 1.4377563297748566,
+        "premise_id": "A3",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_9",
+            "texto": "MixedASDwithDelay's cognitive processing becomes unavailable",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.44216862320899963,
+            "sim_con_problema": 0.3962048888206482,
+            "peso_arista": 1.1616264879703522,
+            "peso_acumulado": 2.5993828177452087,
+            "premise_id": "A1",
+            "hijos": []
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 62,
+  "profundidad_maxima": 10
+}

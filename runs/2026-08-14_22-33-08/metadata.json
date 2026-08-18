@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-08-14T22:33:08.497363",
+  "version": "7.5",
+  "caso": {
+    "nombre": "FINAL 03_sarcasmo — 5 actors",
+    "actores": [
+      "NeurotypicalCognition",
+      "SocialBehavioralAutism",
+      "MixedASDwithDelay",
+      "ModerateAutism",
+      "BroadlyAffectedAutism"
+    ],
+    "hash_descripcion": "e2598300"
+  },
+  "config": {
+    "embeddings_model": "paraphrase-multilingual-mpnet-base-v2",
+    "claude_model": "claude-sonnet-5",
+    "nli_model": "cross-encoder/nli-deberta-v3-base",
+    "nli_threshold": 0.55,
+    "nli_criterion": "avg",
+    "normalize_actors": true,
+    "contradiction_threshold": 0.3,
+    "nli_batch_size": 128,
+    "embedding_prefilter_threshold": 0.35,
+    "nli_device": -1,
+    "max_depth": 10,
+    "max_nodes_per_tree": 150,
+    "redundancy_threshold": 0.9,
+    "umbral_admision": 0.15,
+    "human_validation_mode": false,
+    "strict_mode": true,
+    "verify_fusions_llm": true,
+    "verify_fusions_batch_size": 15,
+    "visualization": "normal",
+    "save_audit": true,
+    "prompt_mode": "multidominio"
+  },
+  "versiones": {
+    "anthropic": "0.96.0",
+    "sentence_transformers": "5.4.1",
+    "networkx": "3.6.1",
+    "numpy": "2.4.4"
+  },
+  "python_version": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]"
+}

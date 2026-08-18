@@ -1,0 +1,1891 @@
+{
+  "actor": "SocialBehavioralAutism",
+  "raiz": {
+    "id": "SocialBehavioralAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.35193395614624023,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "SocialBehavioralAutism_1_1",
+        "texto": "SocialBehavioralAutism requires inferential analysis to interpret the mockery",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4377325177192688,
+        "sim_con_problema": 0.6890687346458435,
+        "peso_arista": 0.8731987476348877,
+        "peso_acumulado": 0.8731987476348877,
+        "premise_id": "A15",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_6",
+            "texto": "SocialBehavioralAutism retrieves stored social rules to interpret mockery",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.43971875309944153,
+            "sim_con_problema": 0.6786401271820068,
+            "peso_arista": 0.8816411197185516,
+            "peso_acumulado": 1.7548398673534393,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_34",
+                "texto": "SocialBehavioralAutism cannot generalize prior rules to this mockery",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35931360721588135,
+                "sim_con_problema": 0.5766805410385132,
+                "peso_arista": 1.0640058517456055,
+                "peso_acumulado": 2.818845719099045,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_96",
+                    "texto": "SocialBehavioralAutism requires explicit new instruction for this mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4816989302635193,
+                    "sim_con_problema": 0.5594468712806702,
+                    "peso_arista": 0.9588541984558105,
+                    "peso_acumulado": 3.7776999175548553,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_197",
+                        "texto": "SocialBehavioralAutism cannot update behavior without observable specific feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4380572438240051,
+                        "sim_con_problema": 0.3593898415565491,
+                        "peso_arista": 1.2025529146194458,
+                        "peso_acumulado": 4.980252832174301,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_198",
+                        "texto": "SocialBehavioralAutism cannot reliably respond without an explicit stated rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5305941104888916,
+                        "sim_con_problema": 0.3998534083366394,
+                        "peso_arista": 1.069552481174469,
+                        "peso_acumulado": 4.847252398729324,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_97",
+                    "texto": "SocialBehavioralAutism registers the mockery as a large prediction error",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.36453157663345337,
+                    "sim_con_problema": 0.6022295355796814,
+                    "peso_arista": 1.0332388877868652,
+                    "peso_acumulado": 3.85208460688591,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_211",
+                        "texto": "SocialBehavioralAutism's disruption exceeds the incident's objective significance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37430518865585327,
+                        "sim_con_problema": 0.4769487679004669,
+                        "peso_arista": 1.1487460434436798,
+                        "peso_acumulado": 5.00083065032959,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_214",
+                        "texto": "SocialBehavioralAutism processes mockery as threat, blocking learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.44188547134399414,
+                        "sim_con_problema": 0.6926517486572266,
+                        "peso_arista": 0.8654627799987793,
+                        "peso_acumulado": 4.717547386884689,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_98",
+                    "texto": "SocialBehavioralAutism cannot reliably infer the mockery's social meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27204227447509766,
+                    "sim_con_problema": 0.6840092539787292,
+                    "peso_arista": 1.043948471546173,
+                    "peso_acumulado": 3.862794190645218,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_221",
+                        "texto": "SocialBehavioralAutism treats the mockery as unresolved behavioral data",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3496846556663513,
+                        "sim_con_problema": 0.6792938709259033,
+                        "peso_arista": 0.9710214734077454,
+                        "peso_acumulado": 4.833815664052963,
+                        "premise_id": "A15",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_35",
+                "texto": "SocialBehavioralAutism fails to interpret mockery if no matching rule exists",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3924306035041809,
+                "sim_con_problema": 0.6149827837944031,
+                "peso_arista": 0.992586612701416,
+                "peso_acumulado": 2.7474264800548553,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_89",
+                    "texto": "SocialBehavioralAutism fails to detect the implicit hostile intent",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.41785359382629395,
+                    "sim_con_problema": 0.5157417058944702,
+                    "peso_arista": 1.0664047002792358,
+                    "peso_acumulado": 3.813831180334091,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_91",
+                    "texto": "SocialBehavioralAutism treats the unresolved mockery as a threat signal",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.32988864183425903,
+                    "sim_con_problema": 0.7097148299217224,
+                    "peso_arista": 0.9603965282440186,
+                    "peso_acumulado": 3.707823008298874,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_189",
+                        "texto": "SocialBehavioralAutism blocks learning if mockery triggers shame framing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4132233262062073,
+                        "sim_con_problema": 0.7368732690811157,
+                        "peso_arista": 0.849903404712677,
+                        "peso_acumulado": 4.557726413011551,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_7",
+            "texto": "SocialBehavioralAutism analyzes classmate behavior as data patterns",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4226022958755493,
+            "sim_con_problema": 0.4331955313682556,
+            "peso_arista": 1.144202172756195,
+            "peso_acumulado": 2.0174009203910828,
+            "premise_id": "A15",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_53",
+                "texto": "SocialBehavioralAutism searches stored rules for matching behavior",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3996167778968811,
+                "sim_con_problema": 0.2836292088031769,
+                "peso_arista": 1.316754013299942,
+                "peso_acumulado": 3.334154933691025,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_173",
+                    "texto": "SocialBehavioralAutism requires conscious retrieval to match this behavior",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5976167321205139,
+                    "sim_con_problema": 0.39098408818244934,
+                    "peso_arista": 1.0113991796970367,
+                    "peso_acumulado": 4.3455541133880615,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_174",
+                    "texto": "SocialBehavioralAutism cannot reliably detect this unspoken social violation",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3431108891963959,
+                    "sim_con_problema": 0.436734139919281,
+                    "peso_arista": 1.2201549708843231,
+                    "peso_acumulado": 4.554309904575348,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_56",
+                "texto": "SocialBehavioralAutism interprets mocking words literally as statements",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.2902236580848694,
+                "sim_con_problema": 0.743867039680481,
+                "peso_arista": 0.9659093022346497,
+                "peso_acumulado": 2.9833102226257324,
+                "premise_id": "A17",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_8",
+            "texto": "SocialBehavioralAutism initially processes the mockery literally",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.40388572216033936,
+            "sim_con_problema": 0.7593215703964233,
+            "peso_arista": 0.8367927074432373,
+            "peso_acumulado": 1.709991455078125,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_31",
+                "texto": "SocialBehavioralAutism requires additional analysis to infer intent",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.5038398504257202,
+                "sim_con_problema": 0.4441165626049042,
+                "peso_arista": 1.0520435869693756,
+                "peso_acumulado": 2.7620350420475006,
+                "premise_id": "A15",
+                "hijos": []
+              },
+              {
+                "id": "SocialBehavioralAutism_3_33",
+                "texto": "SocialBehavioralAutism searches stored rules for social meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3922959268093109,
+                "sim_con_problema": 0.37835559248924255,
+                "peso_arista": 1.2293484807014465,
+                "peso_acumulado": 2.9393399357795715,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_117",
+                    "texto": "SocialBehavioralAutism cannot reliably classify the implicit mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3398682475090027,
+                    "sim_con_problema": 0.6777811646461487,
+                    "peso_arista": 0.9823505878448486,
+                    "peso_acumulado": 3.92169052362442,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_232",
+                        "texto": "SocialBehavioralAutism treats the unclassified event as high prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.334441602230072,
+                        "sim_con_problema": 0.3947482407093048,
+                        "peso_arista": 1.2708101570606232,
+                        "peso_acumulado": 5.192500680685043,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_233",
+                        "texto": "SocialBehavioralAutism defaults to searching explicit behavioral rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4673032760620117,
+                        "sim_con_problema": 0.3579369783401489,
+                        "peso_arista": 1.1747597455978394,
+                        "peso_acumulado": 5.0964502692222595,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_118",
+                    "texto": "SocialBehavioralAutism cannot generalize rules to this new context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4176490902900696,
+                    "sim_con_problema": 0.41607266664505005,
+                    "peso_arista": 1.1662782430648804,
+                    "peso_acumulado": 4.105618178844452,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_249",
+                        "texto": "SocialBehavioralAutism searches for a different explicit rule to match",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4316112697124481,
+                        "sim_con_problema": 0.34049543738365173,
+                        "peso_arista": 1.2278932929039001,
+                        "peso_acumulado": 5.333511471748352,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_9",
+            "texto": "SocialBehavioralAutism delays its emotional response to mockery",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4795415997505188,
+            "sim_con_problema": 0.6919752359390259,
+            "peso_arista": 0.8284831643104553,
+            "peso_acumulado": 1.701681911945343,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_27",
+                "texto": "SocialBehavioralAutism's reaction surfaces later, disconnected from the mockery",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4461396038532257,
+                "sim_con_problema": 0.6370022296905518,
+                "peso_arista": 0.9168581664562225,
+                "peso_acumulado": 2.6185400784015656,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_84",
+                    "texto": "SocialBehavioralAutism's response appears unrelated to observers",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.46379685401916504,
+                    "sim_con_problema": 0.3937970697879791,
+                    "peso_arista": 1.1424060761928558,
+                    "peso_acumulado": 3.7609461545944214,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_194",
+                        "texto": "SocialBehavioralAutism receives no temporally linked feedback for reaction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4884493947029114,
+                        "sim_con_problema": 0.3354017734527588,
+                        "peso_arista": 1.1761488318443298,
+                        "peso_acumulado": 4.937094986438751,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_195",
+                        "texto": "SocialBehavioralAutism cannot match delayed reaction to stored rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4789292812347412,
+                        "sim_con_problema": 0.3293408751487732,
+                        "peso_arista": 1.1917298436164856,
+                        "peso_acumulado": 4.952675998210907,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_196",
+                        "texto": "SocialBehavioralAutism's reaction risks being framed as misbehavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4313550591468811,
+                        "sim_con_problema": 0.4500332474708557,
+                        "peso_arista": 1.1186116933822632,
+                        "peso_acumulado": 4.879557847976685,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_29",
+                "texto": "SocialBehavioralAutism fails to link mockery causally to its reaction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4139940142631531,
+                "sim_con_problema": 0.6536916494369507,
+                "peso_arista": 0.9323143362998962,
+                "peso_acumulado": 2.6339962482452393,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_85",
+                    "texto": "SocialBehavioralAutism does not update behavior from the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3135392367839813,
+                    "sim_con_problema": 0.5945720672607422,
+                    "peso_arista": 1.0918886959552765,
+                    "peso_acumulado": 3.7258849442005157,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_190",
+                        "texto": "SocialBehavioralAutism cannot generalize this incident to other contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3798035979270935,
+                        "sim_con_problema": 0.4715443253517151,
+                        "peso_arista": 1.1486520767211914,
+                        "peso_acumulado": 4.874537020921707,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_193",
+                        "texto": "SocialBehavioralAutism will react disproportionately to future mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39542442560195923,
+                        "sim_con_problema": 0.7120420336723328,
+                        "peso_arista": 0.892533540725708,
+                        "peso_acumulado": 4.618418484926224,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_86",
+                    "texto": "SocialBehavioralAutism cannot retrieve a matching social rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.38375985622406006,
+                    "sim_con_problema": 0.3611351251602173,
+                    "peso_arista": 1.2551050186157227,
+                    "peso_acumulado": 3.889101266860962,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_226",
+                        "texto": "SocialBehavioralAutism defaults to explicit rule retrieval attempts repeatedly",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4523841142654419,
+                        "sim_con_problema": 0.326301634311676,
+                        "peso_arista": 1.221314251422882,
+                        "peso_acumulado": 5.110415518283844,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_227",
+                        "texto": "SocialBehavioralAutism cannot apply an implicit social norm here",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3589460253715515,
+                        "sim_con_problema": 0.46331456303596497,
+                        "peso_arista": 1.1777394115924835,
+                        "peso_acumulado": 5.066840678453445,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_228",
+                        "texto": "SocialBehavioralAutism cannot generalize prior social rules to this context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3997457027435303,
+                        "sim_con_problema": 0.430306077003479,
+                        "peso_arista": 1.1699482202529907,
+                        "peso_acumulado": 5.059049487113953,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_2",
+        "texto": "SocialBehavioralAutism processes the mocking words literally by default",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.3650470972061157,
+        "sim_con_problema": 0.7219062447547913,
+        "peso_arista": 0.913046658039093,
+        "peso_acumulado": 0.913046658039093,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_11",
+            "texto": "SocialBehavioralAutism does not automatically detect the mocking intent",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.40280354022979736,
+            "sim_con_problema": 0.6588548421859741,
+            "peso_arista": 0.9383416175842285,
+            "peso_acumulado": 1.8513882756233215,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_42",
+                "texto": "SocialBehavioralAutism treats the mockery as neutral behavioral data",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.33637142181396484,
+                "sim_con_problema": 0.6832165718078613,
+                "peso_arista": 0.9804120063781738,
+                "peso_acumulado": 2.8318002820014954,
+                "premise_id": "A15",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_104",
+                    "texto": "SocialBehavioralAutism cannot label the arousal the incident produces",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.39985543489456177,
+                    "sim_con_problema": 0.43516039848327637,
+                    "peso_arista": 1.1649841666221619,
+                    "peso_acumulado": 3.9967844486236572,
+                    "premise_id": "A14",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_105",
+                    "texto": "SocialBehavioralAutism does not automatically retrieve the mockery social rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3933331072330475,
+                    "sim_con_problema": 0.5988014936447144,
+                    "peso_arista": 1.0078653991222382,
+                    "peso_acumulado": 3.8396656811237335,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_207",
+                        "texto": "SocialBehavioralAutism cannot produce a socially matched response automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4540707468986511,
+                        "sim_con_problema": 0.42850181460380554,
+                        "peso_arista": 1.1174274384975433,
+                        "peso_acumulado": 4.957093119621277,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_43",
+                "texto": "SocialBehavioralAutism requires explicit rule retrieval to interpret intent",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5899868011474609,
+                "sim_con_problema": 0.38411733508110046,
+                "peso_arista": 1.0258958637714386,
+                "peso_acumulado": 2.87728413939476,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_107",
+                    "texto": "SocialBehavioralAutism fails to interpret intent without a stored rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.497617244720459,
+                    "sim_con_problema": 0.39341211318969727,
+                    "peso_arista": 1.1089706420898438,
+                    "peso_acumulado": 3.986254781484604,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_12",
+            "texto": "SocialBehavioralAutism requires explicit rule retrieval to interpret the insult",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5231987833976746,
+            "sim_con_problema": 0.5490447282791138,
+            "peso_arista": 0.9277564883232117,
+            "peso_acumulado": 1.8408031463623047,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_38",
+                "texto": "SocialBehavioralAutism searches stored database for matching social rule",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.30578386783599854,
+                "sim_con_problema": 0.24549530446529388,
+                "peso_arista": 1.4487208276987076,
+                "peso_acumulado": 3.2895239740610123,
+                "premise_id": "A18",
+                "hijos": []
+              },
+              {
+                "id": "SocialBehavioralAutism_3_39",
+                "texto": "SocialBehavioralAutism fails to classify insult without explicit stated rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.37312549352645874,
+                "sim_con_problema": 0.5415797829627991,
+                "peso_arista": 1.0852947235107422,
+                "peso_acumulado": 2.926097869873047,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_113",
+                    "texto": "SocialBehavioralAutism cannot label the physiological arousal as emotion",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4541510045528412,
+                    "sim_con_problema": 0.3662634491920471,
+                    "peso_arista": 1.1795855462551117,
+                    "peso_acumulado": 4.105683416128159,
+                    "premise_id": "A14",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_116",
+                    "texto": "SocialBehavioralAutism treats the mocking event as behaviorally ambiguous",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.33528202772140503,
+                    "sim_con_problema": 0.7251888513565063,
+                    "peso_arista": 0.9395291209220886,
+                    "peso_acumulado": 3.8656269907951355,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_41",
+                "texto": "SocialBehavioralAutism cannot label the arousal caused by mocking",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.36504966020584106,
+                "sim_con_problema": 0.653349757194519,
+                "peso_arista": 0.9816005825996399,
+                "peso_acumulado": 2.8224037289619446,
+                "premise_id": "A14",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_100",
+                    "texto": "SocialBehavioralAutism must infer classmate intent as behavioral data",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4400760531425476,
+                    "sim_con_problema": 0.4320334196090698,
+                    "peso_arista": 1.1278905272483826,
+                    "peso_acumulado": 3.950294256210327,
+                    "premise_id": "A15",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_234",
+                        "texto": "SocialBehavioralAutism retrieves explicit social rules to classify mocking",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3457798659801483,
+                        "sim_con_problema": 0.6692893505096436,
+                        "peso_arista": 0.9849307835102081,
+                        "peso_acumulado": 4.935225039720535,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_236",
+                        "texto": "SocialBehavioralAutism registers the mocking as unanticipated disruptive event",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3113390803337097,
+                        "sim_con_problema": 0.7376680970191956,
+                        "peso_arista": 0.9509928226470947,
+                        "peso_acumulado": 4.901287078857422,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_101",
+                    "texto": "SocialBehavioralAutism treats unlabeled arousal as threat, blocking learning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5159263014793396,
+                    "sim_con_problema": 0.451906681060791,
+                    "peso_arista": 1.0321670174598694,
+                    "peso_acumulado": 3.854570746421814,
+                    "premise_id": "A21",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_215",
+                        "texto": "SocialBehavioralAutism fails to extract learning from the mocking incident",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3124200403690338,
+                        "sim_con_problema": 0.6435827016830444,
+                        "peso_arista": 1.0439972579479218,
+                        "peso_acumulado": 4.898568004369736,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_216",
+                        "texto": "SocialBehavioralAutism produces an emotional reaction well after the mocking",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4129946231842041,
+                        "sim_con_problema": 0.7199073433876038,
+                        "peso_arista": 0.8670980334281921,
+                        "peso_acumulado": 4.721668779850006,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_217",
+                        "texto": "SocialBehavioralAutism searches stored rules for an appropriate response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4516523778438568,
+                        "sim_con_problema": 0.38459789752960205,
+                        "peso_arista": 1.1637497246265411,
+                        "peso_acumulado": 5.018320471048355,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_13",
+            "texto": "SocialBehavioralAutism analyzes the classmate's mockery as behavioral data",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.35536742210388184,
+            "sim_con_problema": 0.7062519788742065,
+            "peso_arista": 0.9383805990219116,
+            "peso_acumulado": 1.8514272570610046,
+            "premise_id": "A15",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_47",
+                "texto": "SocialBehavioralAutism searches explicit rule entries for this scenario",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3899245262145996,
+                "sim_con_problema": 0.32739850878715515,
+                "peso_arista": 1.2826769649982452,
+                "peso_acumulado": 3.13410422205925,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_138",
+                    "texto": "SocialBehavioralAutism finds no stored rule for mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.32013586163520813,
+                    "sim_con_problema": 0.6163064241409302,
+                    "peso_arista": 1.0635577142238617,
+                    "peso_acumulado": 4.197661936283112,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_269",
+                        "texto": "SocialBehavioralAutism cannot retrieve a matching response pattern",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4432411193847656,
+                        "sim_con_problema": 0.3139588236808777,
+                        "peso_arista": 1.2428000569343567,
+                        "peso_acumulado": 5.440461993217468,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_270",
+                        "texto": "SocialBehavioralAutism fails to apply an implicit social response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.45067518949508667,
+                        "sim_con_problema": 0.49409449100494385,
+                        "peso_arista": 1.0552303194999695,
+                        "peso_acumulado": 5.252892255783081,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_140",
+                    "texto": "SocialBehavioralAutism cannot transfer prior rules to this context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4537614583969116,
+                    "sim_con_problema": 0.40905818343162537,
+                    "peso_arista": 1.137180358171463,
+                    "peso_acumulado": 4.271284580230713,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_290",
+                        "texto": "SocialBehavioralAutism requires explicit new instruction to respond",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6008322834968567,
+                        "sim_con_problema": 0.38970693945884705,
+                        "peso_arista": 1.0094607770442963,
+                        "peso_acumulado": 5.280745357275009,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_292",
+                        "texto": "SocialBehavioralAutism cannot apply an unlisted social rule now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.32113832235336304,
+                        "sim_con_problema": 0.36689820885658264,
+                        "peso_arista": 1.3119634687900543,
+                        "peso_acumulado": 5.583248049020767,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_3",
+        "texto": "SocialBehavioralAutism cannot immediately label its own arousal state",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4774567782878876,
+        "sim_con_problema": 0.3623191714286804,
+        "peso_arista": 1.160224050283432,
+        "peso_acumulado": 1.160224050283432,
+        "premise_id": "A14",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_23",
+            "texto": "SocialBehavioralAutism will respond to the mockery after a delay",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.4019124209880829,
+            "sim_con_problema": 0.6317553520202637,
+            "peso_arista": 0.9663322269916534,
+            "peso_acumulado": 2.1265562772750854,
+            "premise_id": "A16",
+            "hijos": []
+          },
+          {
+            "id": "SocialBehavioralAutism_2_26",
+            "texto": "SocialBehavioralAutism requires explicit rule retrieval to respond socially",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5849700570106506,
+            "sim_con_problema": 0.45966795086860657,
+            "peso_arista": 0.9553619921207428,
+            "peso_acumulado": 2.115586042404175,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_68",
+                "texto": "SocialBehavioralAutism searches memory for a matching social rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.49878039956092834,
+                "sim_con_problema": 0.36297520995140076,
+                "peso_arista": 1.138244390487671,
+                "peso_acumulado": 3.2538304328918457,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_161",
+                    "texto": "SocialBehavioralAutism cannot respond until an exact rule match is found",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.43889594078063965,
+                    "sim_con_problema": 0.28759509325027466,
+                    "peso_arista": 1.2735089659690857,
+                    "peso_acumulado": 4.527339398860931,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_71",
+                "texto": "SocialBehavioralAutism delays its social response beyond the triggering moment",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.49207156896591187,
+                "sim_con_problema": 0.4582872986793518,
+                "peso_arista": 1.0496411323547363,
+                "peso_acumulado": 3.165227174758911,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_144",
+                    "texto": "SocialBehavioralAutism responds to the mockery after the group has moved on",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3307587504386902,
+                    "sim_con_problema": 0.6883028745651245,
+                    "peso_arista": 0.9809383749961853,
+                    "peso_acumulado": 4.146165549755096,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_266",
+                        "texto": "SocialBehavioralAutism's delayed response fails as usable feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.461933434009552,
+                        "sim_con_problema": 0.40736401081085205,
+                        "peso_arista": 1.130702555179596,
+                        "peso_acumulado": 5.276868104934692,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_267",
+                        "texto": "SocialBehavioralAutism applies a retrieved rule to an absent context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4737359881401062,
+                        "sim_con_problema": 0.4345160722732544,
+                        "peso_arista": 1.0917479395866394,
+                        "peso_acumulado": 5.237913489341736,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_268",
+                        "texto": "SocialBehavioralAutism registers unresolved prediction error from the incident",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.33561110496520996,
+                        "sim_con_problema": 0.33450114727020264,
+                        "peso_arista": 1.3298877477645874,
+                        "peso_acumulado": 5.476053297519684,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_145",
+                    "texto": "SocialBehavioralAutism must match the situation to a stored explicit rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5471460819244385,
+                    "sim_con_problema": 0.3968438506126404,
+                    "peso_arista": 1.0560100674629211,
+                    "peso_acumulado": 4.221237242221832,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_146",
+                    "texto": "SocialBehavioralAutism may fail to apply a prior rule to this context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4487021565437317,
+                    "sim_con_problema": 0.4315009117126465,
+                    "peso_arista": 1.1197969317436218,
+                    "peso_acumulado": 4.285024106502533,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_293",
+                        "texto": "SocialBehavioralAutism cannot re-anchor the rule without explicit instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4752752184867859,
+                        "sim_con_problema": 0.3707829713821411,
+                        "peso_arista": 1.153941810131073,
+                        "peso_acumulado": 5.438965916633606,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_294",
+                        "texto": "SocialBehavioralAutism must consciously retrieve a matching database entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3638973832130432,
+                        "sim_con_problema": 0.2402700036764145,
+                        "peso_arista": 1.3958326131105423,
+                        "peso_acumulado": 5.680856719613075,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_296",
+                        "texto": "SocialBehavioralAutism risks framing this failure as shameful",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3542614281177521,
+                        "sim_con_problema": 0.541113018989563,
+                        "peso_arista": 1.104625552892685,
+                        "peso_acumulado": 5.389649659395218,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_4",
+        "texto": "SocialBehavioralAutism's emotional response occurs after a delay",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5193013548851013,
+        "sim_con_problema": 0.39764219522476196,
+        "peso_arista": 1.0830564498901367,
+        "peso_acumulado": 1.0830564498901367,
+        "premise_id": "A16",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_19",
+            "texto": "SocialBehavioralAutism shows no visible reaction at the moment of mocking",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.37868398427963257,
+            "sim_con_problema": 0.652442455291748,
+            "peso_arista": 0.9688735604286194,
+            "peso_acumulado": 2.051930010318756,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_62",
+                "texto": "SocialBehavioralAutism must infer the mocking's meaning behaviorally",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3708896040916443,
+                "sim_con_problema": 0.7618399262428284,
+                "peso_arista": 0.8672704696655273,
+                "peso_acumulado": 2.9192004799842834,
+                "premise_id": "A15",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_111",
+                    "texto": "SocialBehavioralAutism does not automatically decode the mocking tone",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4013268053531647,
+                    "sim_con_problema": 0.6793535947799683,
+                    "peso_arista": 0.9193195998668671,
+                    "peso_acumulado": 3.8385200798511505,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_205",
+                        "texto": "SocialBehavioralAutism searches explicit rules for social conflict",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3547663986682892,
+                        "sim_con_problema": 0.3784955143928528,
+                        "peso_arista": 1.266738086938858,
+                        "peso_acumulado": 5.1052581667900085,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_206",
+                        "texto": "SocialBehavioralAutism first interprets the words literally",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3971656560897827,
+                        "sim_con_problema": 0.47890505194664,
+                        "peso_arista": 1.1239292919635773,
+                        "peso_acumulado": 4.962449371814728,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_63",
+                "texto": "SocialBehavioralAutism may not decode the mockery's intent",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.3643280267715454,
+                "sim_con_problema": 0.717406153678894,
+                "peso_arista": 0.9182658195495605,
+                "peso_acumulado": 2.9701958298683167,
+                "premise_id": "A17",
+                "hijos": []
+              },
+              {
+                "id": "SocialBehavioralAutism_3_64",
+                "texto": "SocialBehavioralAutism cannot label its current internal state",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4019530415534973,
+                "sim_con_problema": 0.3649110794067383,
+                "peso_arista": 1.2331358790397644,
+                "peso_acumulado": 3.2850658893585205,
+                "premise_id": "A14",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_168",
+                    "texto": "SocialBehavioralAutism will produce an emotional response later",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5519559979438782,
+                    "sim_con_problema": 0.4819290041923523,
+                    "peso_arista": 0.9661149978637695,
+                    "peso_acumulado": 4.25118088722229,
+                    "premise_id": "A16",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_20",
+            "texto": "SocialBehavioralAutism must infer the classmate's intent analytically",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.47654491662979126,
+            "sim_con_problema": 0.48307114839553833,
+            "peso_arista": 1.0403839349746704,
+            "peso_acumulado": 2.123440384864807,
+            "premise_id": "A15",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_73",
+                "texto": "SocialBehavioralAutism must retrieve a stored social rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4799899756908417,
+                "sim_con_problema": 0.4317001402378082,
+                "peso_arista": 1.08830988407135,
+                "peso_acumulado": 3.2117502689361572,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_148",
+                    "texto": "SocialBehavioralAutism engages in conscious effortful rule matching",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.521968424320221,
+                    "sim_con_problema": 0.3985203802585602,
+                    "peso_arista": 1.0795111954212189,
+                    "peso_acumulado": 4.291261464357376,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_74",
+                "texto": "SocialBehavioralAutism may fail to detect the implicit insult",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4168967604637146,
+                "sim_con_problema": 0.6377298831939697,
+                "peso_arista": 0.9453733563423157,
+                "peso_acumulado": 3.068813741207123,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_128",
+                    "texto": "SocialBehavioralAutism continues interacting as if no violation occurred",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3755621314048767,
+                    "sim_con_problema": 0.3727870583534241,
+                    "peso_arista": 1.2516508102416992,
+                    "peso_acumulado": 4.320464551448822,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_129",
+                    "texto": "SocialBehavioralAutism finds no matching pragmatic rule entry",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.30912044644355774,
+                    "sim_con_problema": 0.3581276535987854,
+                    "peso_arista": 1.3327518999576569,
+                    "peso_acumulado": 4.40156564116478,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_130",
+                    "texto": "SocialBehavioralAutism receives no specific causal feedback to process",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4809448719024658,
+                    "sim_con_problema": 0.3702832758426666,
+                    "peso_arista": 1.1487718522548676,
+                    "peso_acumulado": 4.21758559346199,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_273",
+                        "texto": "SocialBehavioralAutism does not update its behavior from this incident",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.282633513212204,
+                        "sim_con_problema": 0.30962446331977844,
+                        "peso_arista": 1.4077420234680176,
+                        "peso_acumulado": 5.625327616930008,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_275",
+                        "texto": "SocialBehavioralAutism cannot match this event to a stored rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.33874163031578064,
+                        "sim_con_problema": 0.2927123010158539,
+                        "peso_arista": 1.3685460686683655,
+                        "peso_acumulado": 5.586131662130356,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_131",
+                    "texto": "SocialBehavioralAutism registers physiological arousal without identifying its cause",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.46290066838264465,
+                    "sim_con_problema": 0.33886703848838806,
+                    "peso_arista": 1.1982322931289673,
+                    "peso_acumulado": 4.26704603433609,
+                    "premise_id": "A14",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_288",
+                        "texto": "SocialBehavioralAutism blocks learning if arousal framed as shame",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47531023621559143,
+                        "sim_con_problema": 0.5360603332519531,
+                        "peso_arista": 0.9886294305324554,
+                        "peso_acumulado": 5.2556754648685455,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_21",
+            "texto": "SocialBehavioralAutism cannot name the arousal it is experiencing",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4178486764431,
+            "sim_con_problema": 0.3617596924304962,
+            "peso_arista": 1.2203916311264038,
+            "peso_acumulado": 2.3034480810165405,
+            "premise_id": "A14",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_79",
+                "texto": "SocialBehavioralAutism's reaction to the mockery is further delayed",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.38219863176345825,
+                "sim_con_problema": 0.670001208782196,
+                "peso_arista": 0.9478001594543457,
+                "peso_acumulado": 3.2512482404708862,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_156",
+                    "texto": "SocialBehavioralAutism's response emerges after the social moment has passed",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3973843455314636,
+                    "sim_con_problema": 0.49566781520843506,
+                    "peso_arista": 1.1069478392601013,
+                    "peso_acumulado": 4.3581960797309875,
+                    "premise_id": "A16",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_157",
+                    "texto": "SocialBehavioralAutism must consciously retrieve a rule for mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4162033498287201,
+                    "sim_con_problema": 0.7083751559257507,
+                    "peso_arista": 0.8754214942455292,
+                    "peso_acumulado": 4.126669734716415,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_261",
+                        "texto": "SocialBehavioralAutism fails to respond if no explicit rule exists",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.474115788936615,
+                        "sim_con_problema": 0.36869004368782043,
+                        "peso_arista": 1.1571941673755646,
+                        "peso_acumulado": 5.28386390209198,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_80",
+                "texto": "SocialBehavioralAutism cannot intuitively retrieve a response rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5016355514526367,
+                "sim_con_problema": 0.406974732875824,
+                "peso_arista": 1.0913897156715393,
+                "peso_acumulado": 3.39483779668808,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_179",
+                    "texto": "SocialBehavioralAutism must consciously search stored explicit rules",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4910246729850769,
+                    "sim_con_problema": 0.34925577044487,
+                    "peso_arista": 1.159719556570053,
+                    "peso_acumulado": 4.554557353258133,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_180",
+                    "texto": "SocialBehavioralAutism fails to detect the implicit social expectation",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4293406009674072,
+                    "sim_con_problema": 0.49591368436813354,
+                    "peso_arista": 1.0747457146644592,
+                    "peso_acumulado": 4.469583511352539,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_181",
+                    "texto": "SocialBehavioralAutism treats the mockery as data requiring analysis",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.354896605014801,
+                    "sim_con_problema": 0.7131068110466003,
+                    "peso_arista": 0.9319965839385986,
+                    "peso_acumulado": 4.3268343806266785,
+                    "premise_id": "A15",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_22",
+            "texto": "SocialBehavioralAutism's reaction will surface at a later time",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4702080488204956,
+            "sim_con_problema": 0.4796092212200165,
+            "peso_arista": 1.050182729959488,
+            "peso_acumulado": 2.1332391798496246,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_76",
+                "texto": "SocialBehavioralAutism's reaction is decoupled from the mocking event",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3355584442615509,
+                "sim_con_problema": 0.670081377029419,
+                "peso_arista": 0.9943601787090302,
+                "peso_acumulado": 3.127599358558655,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_135",
+                    "texto": "SocialBehavioralAutism cannot use the mocking event as feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3180246353149414,
+                    "sim_con_problema": 0.7160434126853943,
+                    "peso_arista": 0.9659319519996643,
+                    "peso_acumulado": 4.093531310558319,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_245",
+                        "texto": "SocialBehavioralAutism's behavior remains unchanged by the mocking event",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.32335418462753296,
+                        "sim_con_problema": 0.5350490212440491,
+                        "peso_arista": 1.141596794128418,
+                        "peso_acumulado": 5.235128104686737,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_246",
+                        "texto": "SocialBehavioralAutism does not update its social rule database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20385387539863586,
+                        "sim_con_problema": 0.20967763662338257,
+                        "peso_arista": 1.5864684879779816,
+                        "peso_acumulado": 5.679999798536301,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_247",
+                        "texto": "SocialBehavioralAutism cannot generalize this event to future contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3758125901222229,
+                        "sim_con_problema": 0.46866410970687866,
+                        "peso_arista": 1.1555233001708984,
+                        "peso_acumulado": 5.2490546107292175,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_136",
+                    "texto": "SocialBehavioralAutism's delayed reaction appears unlinked to mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.48637789487838745,
+                    "sim_con_problema": 0.5276840925216675,
+                    "peso_arista": 0.9859380125999451,
+                    "peso_acumulado": 4.1135373711586,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_257",
+                        "texto": "SocialBehavioralAutism receives no causally linked feedback for mockery",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3918495178222656,
+                        "sim_con_problema": 0.6056302785873413,
+                        "peso_arista": 1.002520203590393,
+                        "peso_acumulado": 5.116057574748993,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_5",
+        "texto": "SocialBehavioralAutism cannot automatically detect the implicit social insult",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.39398902654647827,
+        "sim_con_problema": 0.6203724145889282,
+        "peso_arista": 0.9856385588645935,
+        "peso_acumulado": 0.9856385588645935,
+        "premise_id": "A18",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_15",
+            "texto": "SocialBehavioralAutism processes the mockery as raw behavioral data",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3833463191986084,
+            "sim_con_problema": 0.7046730518341064,
+            "peso_arista": 0.9119806289672852,
+            "peso_acumulado": 1.8976191878318787,
+            "premise_id": "A15",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_49",
+                "texto": "SocialBehavioralAutism must run explicit inferential analysis on the behavior",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5181339383125305,
+                "sim_con_problema": 0.4337378740310669,
+                "peso_arista": 1.0481281876564026,
+                "peso_acumulado": 2.9457473754882812,
+                "premise_id": "A15",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_121",
+                    "texto": "SocialBehavioralAutism retrieves stored social rule entries",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3792322874069214,
+                    "sim_con_problema": 0.331545889377594,
+                    "peso_arista": 1.2892218232154846,
+                    "peso_acumulado": 4.234969198703766,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_279",
+                        "texto": "SocialBehavioralAutism attempts to match behavior against stored rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4771689176559448,
+                        "sim_con_problema": 0.3967586159706116,
+                        "peso_arista": 1.1260724663734436,
+                        "peso_acumulado": 5.3610416650772095,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_280",
+                        "texto": "SocialBehavioralAutism cannot classify the mockery without an explicit rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3611428439617157,
+                        "sim_con_problema": 0.6600993871688843,
+                        "peso_arista": 0.9787577688694,
+                        "peso_acumulado": 5.213726967573166,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_52",
+                "texto": "SocialBehavioralAutism searches stored rules for matching social scripts",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2701069116592407,
+                "sim_con_problema": 0.2526215612888336,
+                "peso_arista": 1.4772715270519257,
+                "peso_acumulado": 3.3748907148838043,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_176",
+                    "texto": "SocialBehavioralAutism fails to find a matching prior rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4173852801322937,
+                    "sim_con_problema": 0.28796064853668213,
+                    "peso_arista": 1.2946540713310242,
+                    "peso_acumulado": 4.6695447862148285,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_177",
+                    "texto": "SocialBehavioralAutism cannot detect the implicit unspoken norm",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.49610525369644165,
+                    "sim_con_problema": 0.48251211643218994,
+                    "peso_arista": 1.0213826298713684,
+                    "peso_acumulado": 4.396273344755173,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_16",
+            "texto": "SocialBehavioralAutism interprets the classmate's words literally",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3891794681549072,
+            "sim_con_problema": 0.552904486656189,
+            "peso_arista": 1.0579160451889038,
+            "peso_acumulado": 2.0435546040534973,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_57",
+                "texto": "SocialBehavioralAutism does not register that an insult occurred",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.34287238121032715,
+                "sim_con_problema": 0.47569000720977783,
+                "peso_arista": 1.181437611579895,
+                "peso_acumulado": 3.2249922156333923,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_151",
+                    "texto": "SocialBehavioralAutism does not retrieve any social rule response",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3750585615634918,
+                    "sim_con_problema": 0.3306822180747986,
+                    "peso_arista": 1.2942592203617096,
+                    "peso_acumulado": 4.519251435995102,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_152",
+                    "texto": "SocialBehavioralAutism continues its current routine unaffected",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.35208702087402344,
+                    "sim_con_problema": 0.2320246398448944,
+                    "peso_arista": 1.4158883392810822,
+                    "peso_acumulado": 4.6408805549144745,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_154",
+                    "texto": "SocialBehavioralAutism registers arousal without labeling it as insult",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4515649080276489,
+                    "sim_con_problema": 0.47272342443466187,
+                    "peso_arista": 1.0757116675376892,
+                    "peso_acumulado": 4.3007038831710815,
+                    "premise_id": "A14",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_59",
+                "texto": "SocialBehavioralAutism cannot label the emotional state triggered",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4868246912956238,
+                "sim_con_problema": 0.3918655216693878,
+                "peso_arista": 1.1213097870349884,
+                "peso_acumulado": 3.1648643910884857,
+                "premise_id": "A14",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_142",
+                    "texto": "SocialBehavioralAutism experiences unlabeled physiological arousal after the mockery",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4194986820220947,
+                    "sim_con_problema": 0.6018478870391846,
+                    "peso_arista": 0.9786534309387207,
+                    "peso_acumulado": 4.143517822027206,
+                    "premise_id": "A14",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_264",
+                        "texto": "SocialBehavioralAutism cannot automatically retrieve a social response rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43588703870773315,
+                        "sim_con_problema": 0.3984905481338501,
+                        "peso_arista": 1.1656224131584167,
+                        "peso_acumulado": 5.309140235185623,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_143",
+                    "texto": "SocialBehavioralAutism cannot retrieve a matching social rule for this insult",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.32356375455856323,
+                    "sim_con_problema": 0.5224045515060425,
+                    "peso_arista": 1.1540316939353943,
+                    "peso_acumulado": 4.31889608502388,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_60",
+                "texto": "SocialBehavioralAutism delays its emotional response to the event",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.48162180185317993,
+                "sim_con_problema": 0.4803783893585205,
+                "peso_arista": 1.0379998087882996,
+                "peso_acumulado": 3.081554412841797,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_132",
+                    "texto": "SocialBehavioralAutism exhibits emotional reaction at a later, disconnected moment",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5201221108436584,
+                    "sim_con_problema": 0.45187270641326904,
+                    "peso_arista": 1.0280051827430725,
+                    "peso_acumulado": 4.109559595584869,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_254",
+                        "texto": "SocialBehavioralAutism cannot use the delayed reaction as learning feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5127370953559875,
+                        "sim_con_problema": 0.4140806496143341,
+                        "peso_arista": 1.0731822550296783,
+                        "peso_acumulado": 5.182741850614548,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_18",
+            "texto": "SocialBehavioralAutism must consciously retrieve a matching social rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.49558931589126587,
+            "sim_con_problema": 0.41292604804039,
+            "peso_arista": 1.0914846360683441,
+            "peso_acumulado": 2.0771231949329376,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_65",
+                "texto": "SocialBehavioralAutism searches its explicit rule database for a match",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2622935175895691,
+                "sim_con_problema": 0.21178878843784332,
+                "peso_arista": 1.5259176939725876,
+                "peso_acumulado": 3.603040888905525,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_183",
+                    "texto": "SocialBehavioralAutism finds no explicit rule for implicit mockery",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.32766634225845337,
+                    "sim_con_problema": 0.6443796157836914,
+                    "peso_arista": 1.0279540419578552,
+                    "peso_acumulado": 4.63099493086338,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_185",
+                    "texto": "SocialBehavioralAutism cannot retrieve an intuitive matching response",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.49068981409072876,
+                    "sim_con_problema": 0.3740241527557373,
+                    "peso_arista": 1.135286033153534,
+                    "peso_acumulado": 4.738326922059059,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_66",
+                "texto": "SocialBehavioralAutism fails to retrieve a rule for this novel context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4360949993133545,
+                "sim_con_problema": 0.3603702485561371,
+                "peso_arista": 1.2035347521305084,
+                "peso_acumulado": 3.280657947063446,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_162",
+                    "texto": "SocialBehavioralAutism generates disproportionate prediction error signal",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.42333129048347473,
+                    "sim_con_problema": 0.4051046371459961,
+                    "peso_arista": 1.1715640723705292,
+                    "peso_acumulado": 4.452222019433975,
+                    "premise_id": "A20",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 151,
+  "total_hojas": 78,
+  "profundidad_maxima": 5
+}

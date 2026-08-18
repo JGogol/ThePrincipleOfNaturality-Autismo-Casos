@@ -1,0 +1,1896 @@
+{
+  "actor": "SocialBehavioralAutism",
+  "raiz": {
+    "id": "SocialBehavioralAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.5893203020095825,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "SocialBehavioralAutism_1_1",
+        "texto": "SocialBehavioralAutism's cognitive processing goes offline from overload",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.520137369632721,
+        "sim_con_problema": 0.465825617313385,
+        "peso_arista": 1.014037013053894,
+        "peso_acumulado": 1.014037013053894,
+        "premise_id": "A1",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_5",
+            "texto": "SocialBehavioralAutism cannot engage in social interaction now",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3801637291908264,
+            "sim_con_problema": 0.27083268761634827,
+            "peso_arista": 1.3490035831928253,
+            "peso_acumulado": 2.3630405962467194,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_41",
+                "texto": "SocialBehavioralAutism cannot access learning processes now",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.46510928869247437,
+                "sim_con_problema": 0.292467325925827,
+                "peso_arista": 1.2424233853816986,
+                "peso_acumulado": 3.605463981628418,
+                "premise_id": "A1",
+                "hijos": []
+              },
+              {
+                "id": "SocialBehavioralAutism_3_42",
+                "texto": "SocialBehavioralAutism cannot retrieve stored pragmatic social rules",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3712369501590729,
+                "sim_con_problema": 0.18755215406417847,
+                "peso_arista": 1.4412108957767487,
+                "peso_acumulado": 3.804251492023468,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_107",
+                    "texto": "SocialBehavioralAutism cannot match behavior to current social context",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4547068774700165,
+                    "sim_con_problema": 0.3419063687324524,
+                    "peso_arista": 1.2033867537975311,
+                    "peso_acumulado": 5.007638245820999,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_108",
+                    "texto": "SocialBehavioralAutism cannot detect unspoken classroom behavioral expectations",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.47616925835609436,
+                    "sim_con_problema": 0.28531768918037415,
+                    "peso_arista": 1.2385130524635315,
+                    "peso_acumulado": 5.0427645444869995,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_109",
+                    "texto": "SocialBehavioralAutism remains unable to process classroom social cues",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5114223957061768,
+                    "sim_con_problema": 0.33930957317352295,
+                    "peso_arista": 1.1492680311203003,
+                    "peso_acumulado": 4.953519523143768,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_43",
+                "texto": "SocialBehavioralAutism cannot analyze others' behavioral cues now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.48184934258461,
+                "sim_con_problema": 0.37450066208839417,
+                "peso_arista": 1.1436499953269958,
+                "peso_acumulado": 3.506690591573715,
+                "premise_id": "A15",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_83",
+                    "texto": "SocialBehavioralAutism cannot detect implicit social expectations now",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.42010194063186646,
+                    "sim_con_problema": 0.30919501185417175,
+                    "peso_arista": 1.2707030475139618,
+                    "peso_acumulado": 4.777393639087677,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_189",
+                        "texto": "SocialBehavioralAutism relies only on explicitly stated classroom rules now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.431848406791687,
+                        "sim_con_problema": 0.1675083190202713,
+                        "peso_arista": 1.4006432741880417,
+                        "peso_acumulado": 6.178036913275719,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_190",
+                        "texto": "SocialBehavioralAutism requires conscious retrieval of stored social rules now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5345743298530579,
+                        "sim_con_problema": 0.32886895537376404,
+                        "peso_arista": 1.136556714773178,
+                        "peso_acumulado": 5.913950353860855,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_191",
+                        "texto": "SocialBehavioralAutism cannot update behavior without explicit corrective feedback now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36714303493499756,
+                        "sim_con_problema": 0.24474580585956573,
+                        "peso_arista": 1.3881111592054367,
+                        "peso_acumulado": 6.165504798293114,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_84",
+                    "texto": "SocialBehavioralAutism delays any emotional response to this event",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.43564319610595703,
+                    "sim_con_problema": 0.3023618459701538,
+                    "peso_arista": 1.2619949579238892,
+                    "peso_acumulado": 4.768685549497604,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_184",
+                        "texto": "SocialBehavioralAutism cannot label the eventual emotional state",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4555913805961609,
+                        "sim_con_problema": 0.2737082839012146,
+                        "peso_arista": 1.2707003355026245,
+                        "peso_acumulado": 6.039385885000229,
+                        "premise_id": "A14",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_185",
+                        "texto": "SocialBehavioralAutism's emotional reaction surfaces later, decoupled from trigger",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5229744911193848,
+                        "sim_con_problema": 0.39604026079177856,
+                        "peso_arista": 1.0809852480888367,
+                        "peso_acumulado": 5.849670797586441,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_6",
+            "texto": "SocialBehavioralAutism cannot process new learning content now",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.425581157207489,
+            "sim_con_problema": 0.2895772159099579,
+            "peso_arista": 1.284841626882553,
+            "peso_acumulado": 2.298878639936447,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_38",
+                "texto": "SocialBehavioralAutism cannot register feedback delivered during this period",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40113747119903564,
+                "sim_con_problema": 0.3019583821296692,
+                "peso_arista": 1.2969041466712952,
+                "peso_acumulado": 3.5957827866077423,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_89",
+                    "texto": "SocialBehavioralAutism's behavior remains unaffected by this feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.46376991271972656,
+                    "sim_con_problema": 0.28290843963623047,
+                    "peso_arista": 1.253321647644043,
+                    "peso_acumulado": 4.849104434251785,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_204",
+                        "texto": "SocialBehavioralAutism continues operating under its prior established routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4034499526023865,
+                        "sim_con_problema": 0.1744793951511383,
+                        "peso_arista": 1.4220706522464752,
+                        "peso_acumulado": 6.2711750864982605,
+                        "premise_id": "A19",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_205",
+                        "texto": "SocialBehavioralAutism will need new proximate feedback to change behavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4866258502006531,
+                        "sim_con_problema": 0.3883817195892334,
+                        "peso_arista": 1.1249924302101135,
+                        "peso_acumulado": 5.974096864461899,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_206",
+                        "texto": "SocialBehavioralAutism cannot generalize this feedback to other contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4730105698108673,
+                        "sim_con_problema": 0.3353128433227539,
+                        "peso_arista": 1.1916765868663788,
+                        "peso_acumulado": 6.040781021118164,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_91",
+                    "texto": "SocialBehavioralAutism cannot allocate resources to other tasks now",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3643949329853058,
+                    "sim_con_problema": 0.28946420550346375,
+                    "peso_arista": 1.3461408615112305,
+                    "peso_acumulado": 4.941923648118973,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_40",
+                "texto": "SocialBehavioralAutism defaults to prior established routine actions",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4826045632362366,
+                "sim_con_problema": 0.3301266133785248,
+                "peso_arista": 1.1872688233852386,
+                "peso_acumulado": 3.486147463321686,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_75",
+                    "texto": "SocialBehavioralAutism allocates minimal cognitive resources to routine execution",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5292298793792725,
+                    "sim_con_problema": 0.42985063791275024,
+                    "peso_arista": 1.0409194827079773,
+                    "peso_acumulado": 4.527066946029663,
+                    "premise_id": "A19",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_149",
+                        "texto": "SocialBehavioralAutism frees remaining resources for other processing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4015807509422302,
+                        "sim_con_problema": 0.3852778673171997,
+                        "peso_arista": 1.21314138174057,
+                        "peso_acumulado": 5.740208327770233,
+                        "premise_id": "A19",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_150",
+                        "texto": "SocialBehavioralAutism stays unavailable for learning despite routine execution",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4380110502243042,
+                        "sim_con_problema": 0.24302133917808533,
+                        "peso_arista": 1.3189676105976105,
+                        "peso_acumulado": 5.846034556627274,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_151",
+                        "texto": "SocialBehavioralAutism would show disproportionate disruption if routine changes",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4098939299583435,
+                        "sim_con_problema": 0.3345075249671936,
+                        "peso_arista": 1.255598545074463,
+                        "peso_acumulado": 5.782665491104126,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_76",
+                    "texto": "SocialBehavioralAutism remains offline despite performing routine actions",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2900104522705078,
+                    "sim_con_problema": 0.1946667581796646,
+                    "peso_arista": 1.5153227895498276,
+                    "peso_acumulado": 5.001470252871513,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_77",
+                    "texto": "SocialBehavioralAutism's routine fails to account for the new lighting",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.36597710847854614,
+                    "sim_con_problema": 0.35696959495544434,
+                    "peso_arista": 1.2770532965660095,
+                    "peso_acumulado": 4.763200759887695,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_182",
+                        "texto": "SocialBehavioralAutism cannot generalize prior rules to new lighting",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3545679450035095,
+                        "sim_con_problema": 0.3078843951225281,
+                        "peso_arista": 1.3375476598739624,
+                        "peso_acumulado": 6.100748419761658,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_7",
+            "texto": "SocialBehavioralAutism remains offline until sensory regulation restored",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.48911136388778687,
+            "sim_con_problema": 0.42146146297454834,
+            "peso_arista": 1.0894271731376648,
+            "peso_acumulado": 2.103464186191559,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_18",
+                "texto": "SocialBehavioralAutism cannot engage socially until regulated",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4056505560874939,
+                "sim_con_problema": 0.2319362759590149,
+                "peso_arista": 1.3624131679534912,
+                "peso_acumulado": 3.46587735414505,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_66",
+                    "texto": "SocialBehavioralAutism cannot process classroom instruction while offline",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34140342473983765,
+                    "sim_con_problema": 0.19362352788448334,
+                    "peso_arista": 1.464973047375679,
+                    "peso_acumulado": 4.930850401520729,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_67",
+                    "texto": "SocialBehavioralAutism fails to register feedback given during this state",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.43978044390678406,
+                    "sim_con_problema": 0.323794424533844,
+                    "peso_arista": 1.236425131559372,
+                    "peso_acumulado": 4.702302485704422,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_165",
+                        "texto": "SocialBehavioralAutism does not store the intended explicit rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46039101481437683,
+                        "sim_con_problema": 0.27131354808807373,
+                        "peso_arista": 1.2682954370975494,
+                        "peso_acumulado": 5.970597922801971,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_166",
+                        "texto": "SocialBehavioralAutism cannot form a new routine from it",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4102667272090912,
+                        "sim_con_problema": 0.266536682844162,
+                        "peso_arista": 1.3231965899467468,
+                        "peso_acumulado": 6.025499075651169,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_68",
+                    "texto": "SocialBehavioralAutism cannot retrieve social rules while unregulated",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.357671856880188,
+                    "sim_con_problema": 0.18525338172912598,
+                    "peso_arista": 1.457074761390686,
+                    "peso_acumulado": 4.922952115535736,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_214",
+                        "texto": "SocialBehavioralAutism cannot apply explicit pragmatic rules now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35259243845939636,
+                        "sim_con_problema": 0.22003617882728577,
+                        "peso_arista": 1.4273713827133179,
+                        "peso_acumulado": 6.350323498249054,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_215",
+                        "texto": "SocialBehavioralAutism cannot follow stated classroom expectations currently",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3968031704425812,
+                        "sim_con_problema": 0.19406355917453766,
+                        "peso_arista": 1.4091332703828812,
+                        "peso_acumulado": 6.332085385918617,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_216",
+                        "texto": "SocialBehavioralAutism remains unable to learn during offline state",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4118930399417877,
+                        "sim_con_problema": 0.22472655773162842,
+                        "peso_arista": 1.3633804023265839,
+                        "peso_acumulado": 6.28633251786232,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_217",
+                        "texto": "SocialBehavioralAutism cannot integrate feedback while rules unretrieved",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43799206614494324,
+                        "sim_con_problema": 0.2715347409248352,
+                        "peso_arista": 1.2904731929302216,
+                        "peso_acumulado": 6.213425308465958,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_19",
+                "texto": "SocialBehavioralAutism cannot process classroom instruction now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4035545587539673,
+                "sim_con_problema": 0.22136855125427246,
+                "peso_arista": 1.3750768899917603,
+                "peso_acumulado": 3.478541076183319,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_70",
+                    "texto": "SocialBehavioralAutism registers a disproportionate prediction error from the change",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3818880319595337,
+                    "sim_con_problema": 0.2655624747276306,
+                    "peso_arista": 1.3525494933128357,
+                    "peso_acumulado": 4.831090569496155,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_202",
+                        "texto": "SocialBehavioralAutism loses cognitive resources normally freed by routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5070867538452148,
+                        "sim_con_problema": 0.42544668912887573,
+                        "peso_arista": 1.0674665570259094,
+                        "peso_acumulado": 5.898557126522064,
+                        "premise_id": "A19",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_203",
+                        "texto": "SocialBehavioralAutism's emotional response to the change is delayed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49498504400253296,
+                        "sim_con_problema": 0.3345049023628235,
+                        "peso_arista": 1.1705100536346436,
+                        "peso_acumulado": 6.001600623130798,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_71",
+                    "texto": "SocialBehavioralAutism loses the resource-saving benefit of routine",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.38724762201309204,
+                    "sim_con_problema": 0.29256317019462585,
+                    "peso_arista": 1.320189207792282,
+                    "peso_acumulado": 4.798730283975601,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_20",
+                "texto": "SocialBehavioralAutism cannot sustain attention outside special interest",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40359699726104736,
+                "sim_con_problema": 0.21959933638572693,
+                "peso_arista": 1.3768036663532257,
+                "peso_acumulado": 3.4802678525447845,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_72",
+                    "texto": "SocialBehavioralAutism requires effortful control to reengage the task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.55446457862854,
+                    "sim_con_problema": 0.3471854329109192,
+                    "peso_arista": 1.0983499884605408,
+                    "peso_acumulado": 4.578617841005325,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_152",
+                        "texto": "SocialBehavioralAutism's reengagement lapses without continued effortful control",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46800756454467773,
+                        "sim_con_problema": 0.2925722301006317,
+                        "peso_arista": 1.2394202053546906,
+                        "peso_acumulado": 5.818038046360016,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_153",
+                        "texto": "SocialBehavioralAutism stays offline if sensory threshold remains exceeded",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4531022906303406,
+                        "sim_con_problema": 0.4274895191192627,
+                        "peso_arista": 1.1194081902503967,
+                        "peso_acumulado": 5.698026031255722,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_154",
+                        "texto": "SocialBehavioralAutism's prediction error remains elevated from the light change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4096621870994568,
+                        "sim_con_problema": 0.39050763845443726,
+                        "peso_arista": 1.199830174446106,
+                        "peso_acumulado": 5.778448015451431,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_73",
+                    "texto": "SocialBehavioralAutism remains unmotivated by external praise now",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34337282180786133,
+                    "sim_con_problema": 0.17657609283924103,
+                    "peso_arista": 1.4800510853528976,
+                    "peso_acumulado": 4.960318937897682,
+                    "premise_id": "A12",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_74",
+                    "texto": "SocialBehavioralAutism cannot learn unless routed through special interest",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.47175267338752747,
+                    "sim_con_problema": 0.22893568873405457,
+                    "peso_arista": 1.299311637878418,
+                    "peso_acumulado": 4.7795794904232025,
+                    "premise_id": "A13",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_192",
+                        "texto": "SocialBehavioralAutism disregards classroom instruction lacking special interest link",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4134868383407593,
+                        "sim_con_problema": 0.20173604786396027,
+                        "peso_arista": 1.3847771137952805,
+                        "peso_acumulado": 6.164356604218483,
+                        "premise_id": "A12",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_193",
+                        "texto": "SocialBehavioralAutism cannot sustain attention on generic classroom content",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39865395426750183,
+                        "sim_con_problema": 0.2487839013338089,
+                        "peso_arista": 1.3525621443986893,
+                        "peso_acumulado": 6.132141634821892,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_194",
+                        "texto": "SocialBehavioralAutism fails to generalize lessons outside special interest",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4196423888206482,
+                        "sim_con_problema": 0.2009550929069519,
+                        "peso_arista": 1.3794025182724,
+                        "peso_acumulado": 6.158982008695602,
+                        "premise_id": "A13",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_195",
+                        "texto": "SocialBehavioralAutism ignores feedback disconnected from special interest activity",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4097830653190613,
+                        "sim_con_problema": 0.2896178364753723,
+                        "peso_arista": 1.3005990982055664,
+                        "peso_acumulado": 6.080178588628769,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_2",
+        "texto": "SocialBehavioralAutism weights buzzing sound equal to instruction",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4328749179840088,
+        "sim_con_problema": 0.47308439016342163,
+        "peso_arista": 1.0940406918525696,
+        "peso_acumulado": 1.0940406918525696,
+        "premise_id": "A2",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_8",
+            "texto": "SocialBehavioralAutism requires effortful filtering to prioritize instruction",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5783628225326538,
+            "sim_con_problema": 0.29982709884643555,
+            "peso_arista": 1.1218100786209106,
+            "peso_acumulado": 2.2158507704734802,
+            "premise_id": "A2",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_31",
+                "texto": "SocialBehavioralAutism cannot sustain filtering effort indefinitely",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40265730023384094,
+                "sim_con_problema": 0.24897611141204834,
+                "peso_arista": 1.3483665883541107,
+                "peso_acumulado": 3.564217358827591,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_87",
+                    "texto": "SocialBehavioralAutism's sensory input eventually exceeds regulatory threshold",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5981860160827637,
+                    "sim_con_problema": 0.5889607667922974,
+                    "peso_arista": 0.812853217124939,
+                    "peso_acumulado": 4.37707057595253,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_131",
+                        "texto": "SocialBehavioralAutism's learning becomes unavailable until regulated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5320266485214233,
+                        "sim_con_problema": 0.2848668694496155,
+                        "peso_arista": 1.1831064820289612,
+                        "peso_acumulado": 5.560177057981491,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_32",
+                "texto": "SocialBehavioralAutism risks going offline if buzzing persists",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1927655041217804,
+                "sim_con_problema": 0.23516373336315155,
+                "peso_arista": 1.572070762515068,
+                "peso_acumulado": 3.7879215329885483,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_105",
+                    "texto": "SocialBehavioralAutism loses access to learning and social engagement",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.39901235699653625,
+                    "sim_con_problema": 0.22601385414600372,
+                    "peso_arista": 1.37497378885746,
+                    "peso_acumulado": 5.162895321846008,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_106",
+                    "texto": "SocialBehavioralAutism cannot resume processing until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.41511112451553345,
+                    "sim_con_problema": 0.2936946153640747,
+                    "peso_arista": 1.2911942601203918,
+                    "peso_acumulado": 5.07911579310894,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_9",
+            "texto": "SocialBehavioralAutism risks going offline from sensory overload",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4646390676498413,
+            "sim_con_problema": 0.46753567457199097,
+            "peso_arista": 1.0678252577781677,
+            "peso_acumulado": 2.1618659496307373,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_22",
+                "texto": "SocialBehavioralAutism loses access to cognitive processing capacity",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5884674787521362,
+                "sim_con_problema": 0.44086703658103943,
+                "peso_arista": 0.9706654846668243,
+                "peso_acumulado": 3.1325314342975616,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_55",
+                    "texto": "SocialBehavioralAutism cannot learn until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.45064038038253784,
+                    "sim_con_problema": 0.2592359781265259,
+                    "peso_arista": 1.2901236414909363,
+                    "peso_acumulado": 4.422655075788498,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_133",
+                        "texto": "SocialBehavioralAutism requires observable specific feedback to resume learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5643723011016846,
+                        "sim_con_problema": 0.387941837310791,
+                        "peso_arista": 1.0476858615875244,
+                        "peso_acumulado": 5.470340937376022,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_134",
+                        "texto": "SocialBehavioralAutism depends on restored routine to reallocate resources",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4146602153778076,
+                        "sim_con_problema": 0.3087987005710602,
+                        "peso_arista": 1.2765410840511322,
+                        "peso_acumulado": 5.69919615983963,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_56",
+                    "texto": "SocialBehavioralAutism remains offline until stimulus decreases",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.40685901045799255,
+                    "sim_con_problema": 0.27794349193573,
+                    "peso_arista": 1.3151974976062775,
+                    "peso_acumulado": 4.447728931903839,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_142",
+                        "texto": "SocialBehavioralAutism cannot resume the established classroom routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35548487305641174,
+                        "sim_con_problema": 0.20629817247390747,
+                        "peso_arista": 1.4382169544696808,
+                        "peso_acumulado": 5.88594588637352,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_24",
+                "texto": "SocialBehavioralAutism cannot acquire new learning currently",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.42411118745803833,
+                "sim_con_problema": 0.23640640079975128,
+                "peso_arista": 1.3394824117422104,
+                "peso_acumulado": 3.5013483613729477,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_78",
+                    "texto": "SocialBehavioralAutism cannot encode current classroom instruction",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.48223423957824707,
+                    "sim_con_problema": 0.2570485472679138,
+                    "peso_arista": 1.2607172131538391,
+                    "peso_acumulado": 4.762065574526787,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_177",
+                        "texto": "SocialBehavioralAutism will retrieve this lesson unreliably without visual cues",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5364609956741333,
+                        "sim_con_problema": 0.37999677658081055,
+                        "peso_arista": 1.0835422277450562,
+                        "peso_acumulado": 5.845607802271843,
+                        "premise_id": "A10",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_178",
+                        "texto": "SocialBehavioralAutism forms no episodic record of this instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4035071134567261,
+                        "sim_con_problema": 0.2395784854888916,
+                        "peso_arista": 1.3569144010543823,
+                        "peso_acumulado": 6.118979975581169,
+                        "premise_id": "A8",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_179",
+                        "texto": "SocialBehavioralAutism cannot use feedback tied to missed instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47087880969047546,
+                        "sim_con_problema": 0.3161970376968384,
+                        "peso_arista": 1.2129241526126862,
+                        "peso_acumulado": 5.974989727139473,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_180",
+                        "texto": "SocialBehavioralAutism remains unable to engage until regulation restored",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4102352559566498,
+                        "sim_con_problema": 0.2158789485692978,
+                        "peso_arista": 1.3738857954740524,
+                        "peso_acumulado": 6.135951370000839,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_79",
+                    "texto": "SocialBehavioralAutism ignores feedback given during this period",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4451153576374054,
+                    "sim_con_problema": 0.31062474846839905,
+                    "peso_arista": 1.2442598938941956,
+                    "peso_acumulado": 4.745608255267143,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_167",
+                        "texto": "SocialBehavioralAutism shows no behavioral update from that feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3646199703216553,
+                        "sim_con_problema": 0.28615814447402954,
+                        "peso_arista": 1.3492218852043152,
+                        "peso_acumulado": 6.094830140471458,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_168",
+                        "texto": "SocialBehavioralAutism requires feedback repeated after regulation restored",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48946258425712585,
+                        "sim_con_problema": 0.3302707076072693,
+                        "peso_arista": 1.1802667081356049,
+                        "peso_acumulado": 5.925874963402748,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_169",
+                        "texto": "SocialBehavioralAutism treats the light change as ongoing prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3870790898799896,
+                        "sim_con_problema": 0.3356727361679077,
+                        "peso_arista": 1.2772481739521027,
+                        "peso_acumulado": 6.022856429219246,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_80",
+                    "texto": "SocialBehavioralAutism requires regulation restoration before learning resumes",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4703481197357178,
+                    "sim_con_problema": 0.2771216034889221,
+                    "peso_arista": 1.25253027677536,
+                    "peso_acumulado": 4.753878638148308,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_174",
+                        "texto": "SocialBehavioralAutism suspends cognitive processing until regulation restored",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5807902812957764,
+                        "sim_con_problema": 0.4689096212387085,
+                        "peso_arista": 0.9503000974655151,
+                        "peso_acumulado": 5.704178735613823,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_175",
+                        "texto": "SocialBehavioralAutism seeks a restored predictable routine",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5108994245529175,
+                        "sim_con_problema": 0.3020130693912506,
+                        "peso_arista": 1.187087506055832,
+                        "peso_acumulado": 5.94096614420414,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_81",
+                    "texto": "SocialBehavioralAutism cannot retrieve applicable social rules now",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.29570937156677246,
+                    "sim_con_problema": 0.15164387226104736,
+                    "peso_arista": 1.5526467561721802,
+                    "peso_acumulado": 5.053995117545128,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_10",
+            "texto": "SocialBehavioralAutism experiences interference between buzzing and instruction",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4632083475589752,
+            "sim_con_problema": 0.43274807929992676,
+            "peso_arista": 1.104043573141098,
+            "peso_acumulado": 2.1980842649936676,
+            "premise_id": "A3",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_25",
+                "texto": "SocialBehavioralAutism risks going offline for learning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3270303010940552,
+                "sim_con_problema": 0.18383967876434326,
+                "peso_arista": 1.4891300201416016,
+                "peso_acumulado": 3.687214285135269,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_99",
+                    "texto": "SocialBehavioralAutism cannot process classroom instruction until regulated",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4472898840904236,
+                    "sim_con_problema": 0.20361623167991638,
+                    "peso_arista": 1.34909388422966,
+                    "peso_acumulado": 5.036308169364929,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_100",
+                    "texto": "SocialBehavioralAutism suspends social engagement during sensory overload",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4846643805503845,
+                    "sim_con_problema": 0.5245991945266724,
+                    "peso_arista": 0.9907364249229431,
+                    "peso_acumulado": 4.677950710058212,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_162",
+                        "texto": "SocialBehavioralAutism halts cognitive processing during the overload",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5964977741241455,
+                        "sim_con_problema": 0.49391210079193115,
+                        "peso_arista": 0.9095901250839233,
+                        "peso_acumulado": 5.587540835142136,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_26",
+                "texto": "SocialBehavioralAutism cannot form coherent cross-modal representation",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5541637539863586,
+                "sim_con_problema": 0.3628957271575928,
+                "peso_arista": 1.0829405188560486,
+                "peso_acumulado": 3.281024783849716,
+                "premise_id": "A3",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_58",
+                    "texto": "SocialBehavioralAutism processes buzzing as isolated detail from instruction",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5302104949951172,
+                    "sim_con_problema": 0.45257019996643066,
+                    "peso_arista": 1.0172193050384521,
+                    "peso_acumulado": 4.298244088888168,
+                    "premise_id": "A5",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_123",
+                        "texto": "SocialBehavioralAutism risks exceeding regulatory threshold from buzzing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3133070468902588,
+                        "sim_con_problema": 0.31505337357521057,
+                        "peso_arista": 1.3716395795345306,
+                        "peso_acumulado": 5.669883668422699,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_124",
+                        "texto": "SocialBehavioralAutism fails to integrate instruction into coherent whole",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5492726564407349,
+                        "sim_con_problema": 0.27742108702659607,
+                        "peso_arista": 1.173306256532669,
+                        "peso_acumulado": 5.471550345420837,
+                        "premise_id": "A5",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_59",
+                    "texto": "SocialBehavioralAutism cannot resolve simultaneous cross-modal inputs into coherence",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4767618179321289,
+                    "sim_con_problema": 0.3586963713169098,
+                    "peso_arista": 1.1645418107509613,
+                    "peso_acumulado": 4.4455665946006775,
+                    "premise_id": "A3",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_137",
+                        "texto": "SocialBehavioralAutism defaults to isolated detail processing of the room",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5640041828155518,
+                        "sim_con_problema": 0.44797173142433167,
+                        "peso_arista": 0.9880240857601166,
+                        "peso_acumulado": 5.433590680360794,
+                        "premise_id": "A5",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_11",
+            "texto": "SocialBehavioralAutism cannot sustain attention on instruction automatically",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5400174856185913,
+            "sim_con_problema": 0.34912538528442383,
+            "peso_arista": 1.1108571290969849,
+            "peso_acumulado": 2.2048978209495544,
+            "premise_id": "A11",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_28",
+                "texto": "SocialBehavioralAutism requires effortful control to attend to instruction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5645257234573364,
+                "sim_con_problema": 0.3025791645050049,
+                "peso_arista": 1.1328951120376587,
+                "peso_acumulado": 3.337792932987213,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_60",
+                    "texto": "SocialBehavioralAutism cannot sustain this effortful attention automatically",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.48649927973747253,
+                    "sim_con_problema": 0.3517493009567261,
+                    "peso_arista": 1.1617514193058014,
+                    "peso_acumulado": 4.4995443522930145,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_147",
+                        "texto": "SocialBehavioralAutism's attention to instruction eventually lapses",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4998316168785095,
+                        "sim_con_problema": 0.28367477655410767,
+                        "peso_arista": 1.2164936065673828,
+                        "peso_acumulado": 5.716037958860397,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_148",
+                        "texto": "SocialBehavioralAutism registers disproportionate prediction error from buzzing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.33561286330223083,
+                        "sim_con_problema": 0.34928447008132935,
+                        "peso_arista": 1.3151026666164398,
+                        "peso_acumulado": 5.814647018909454,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_61",
+                    "texto": "SocialBehavioralAutism risks going offline if effort fails",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27459514141082764,
+                    "sim_con_problema": 0.15398533642292023,
+                    "peso_arista": 1.5714195221662521,
+                    "peso_acumulado": 4.909212455153465,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_213",
+                        "texto": "SocialBehavioralAutism suspends learning until sensory regulation returns",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5894376039505005,
+                        "sim_con_problema": 0.5096891522407532,
+                        "peso_arista": 0.9008732438087463,
+                        "peso_acumulado": 5.810085698962212,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_62",
+                    "texto": "SocialBehavioralAutism continuously expends resources filtering the buzzing",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3550945818424225,
+                    "sim_con_problema": 0.3694457411766052,
+                    "peso_arista": 1.2754596769809723,
+                    "peso_acumulado": 4.613252609968185,
+                    "premise_id": "A2",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_157",
+                        "texto": "SocialBehavioralAutism has fewer resources left for instructional tasks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4061098098754883,
+                        "sim_con_problema": 0.24256452918052673,
+                        "peso_arista": 1.351325660943985,
+                        "peso_acumulado": 5.96457827091217,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_30",
+                "texto": "SocialBehavioralAutism must effortfully filter buzzing from instruction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.47883403301239014,
+                "sim_con_problema": 0.3411295413970947,
+                "peso_arista": 1.1800364255905151,
+                "peso_acumulado": 3.3849342465400696,
+                "premise_id": "A2",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_63",
+                    "texto": "SocialBehavioralAutism depletes effortful attention control resources rapidly",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5064709186553955,
+                    "sim_con_problema": 0.3847823739051819,
+                    "peso_arista": 1.1087467074394226,
+                    "peso_acumulado": 4.493680953979492,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_144",
+                        "texto": "SocialBehavioralAutism fails to sustain attention on instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4949025809764862,
+                        "sim_con_problema": 0.26277583837509155,
+                        "peso_arista": 1.2423215806484222,
+                        "peso_acumulado": 5.736002534627914,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_145",
+                        "texto": "SocialBehavioralAutism cannot automatically suppress buzzing stimulus",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4797884225845337,
+                        "sim_con_problema": 0.5325489640235901,
+                        "peso_arista": 0.9876626133918762,
+                        "peso_acumulado": 5.481343567371368,
+                        "premise_id": "A2",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_64",
+                    "texto": "SocialBehavioralAutism risks exceeding sensory regulatory threshold",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5365685224533081,
+                    "sim_con_problema": 0.47516685724258423,
+                    "peso_arista": 0.9882646203041077,
+                    "peso_acumulado": 4.373198866844177,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_126",
+                        "texto": "SocialBehavioralAutism goes offline for cognitive processing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48298609256744385,
+                        "sim_con_problema": 0.3703918755054474,
+                        "peso_arista": 1.1466220319271088,
+                        "peso_acumulado": 5.519820898771286,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_128",
+                        "texto": "SocialBehavioralAutism loses access to learning capacity",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48404020071029663,
+                        "sim_con_problema": 0.28900015354156494,
+                        "peso_arista": 1.2269596457481384,
+                        "peso_acumulado": 5.600158512592316,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_65",
+                    "texto": "SocialBehavioralAutism continues treating buzzing as equally salient",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3206581175327301,
+                    "sim_con_problema": 0.2892463505268097,
+                    "peso_arista": 1.3900955319404602,
+                    "peso_acumulado": 4.77502977848053,
+                    "premise_id": "A2",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_186",
+                        "texto": "SocialBehavioralAutism risks exceeding regulatory threshold soon",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35307586193084717,
+                        "sim_con_problema": 0.21984273195266724,
+                        "peso_arista": 1.4270814061164856,
+                        "peso_acumulado": 6.202111184597015,
+                        "premise_id": "A1",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_3",
+        "texto": "SocialBehavioralAutism generates disproportionate prediction error signals",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4240192770957947,
+        "sim_con_problema": 0.2881733775138855,
+        "peso_arista": 1.2878073453903198,
+        "peso_acumulado": 1.2878073453903198,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "SocialBehavioralAutism_2_12",
+            "texto": "SocialBehavioralAutism goes offline for learning and social engagement",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.274667888879776,
+            "sim_con_problema": 0.15936999022960663,
+            "peso_arista": 1.5659621208906174,
+            "peso_acumulado": 2.853769466280937,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_47",
+                "texto": "SocialBehavioralAutism remains unavailable until sensory regulation restores",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.540001630783081,
+                "sim_con_problema": 0.43404069542884827,
+                "peso_arista": 1.0259576737880707,
+                "peso_acumulado": 3.879727140069008,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_111",
+                    "texto": "SocialBehavioralAutism cannot sustain attention on classroom tasks",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.44363975524902344,
+                    "sim_con_problema": 0.27988213300704956,
+                    "peso_arista": 1.276478111743927,
+                    "peso_acumulado": 5.156205251812935,
+                    "premise_id": "A11",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_48",
+                "texto": "SocialBehavioralAutism cannot retrieve stored pragmatic rules now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35704416036605835,
+                "sim_con_problema": 0.20163792371749878,
+                "peso_arista": 1.4413179159164429,
+                "peso_acumulado": 4.29508738219738,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_122",
+                    "texto": "SocialBehavioralAutism remains unavailable for social interaction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3941074311733246,
+                    "sim_con_problema": 0.18624651432037354,
+                    "peso_arista": 1.4196460545063019,
+                    "peso_acumulado": 5.714733436703682,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_49",
+                "texto": "SocialBehavioralAutism cannot integrate teacher feedback during this state",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4469292163848877,
+                "sim_con_problema": 0.21923932433128357,
+                "peso_arista": 1.3338314592838287,
+                "peso_acumulado": 4.187600925564766,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_117",
+                    "texto": "SocialBehavioralAutism will not update from delayed feedback later",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.28861576318740845,
+                    "sim_con_problema": 0.1864573359489441,
+                    "peso_arista": 1.5249269008636475,
+                    "peso_acumulado": 5.712527826428413,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_50",
+                "texto": "SocialBehavioralAutism cannot sustain attention outside sensory disruption",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5511221289634705,
+                "sim_con_problema": 0.5218919515609741,
+                "peso_arista": 0.9269859194755554,
+                "peso_acumulado": 3.7807553857564926,
+                "premise_id": "A11",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_102",
+                    "texto": "SocialBehavioralAutism cannot engage in learning tasks now",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4631764888763428,
+                    "sim_con_problema": 0.30526044964790344,
+                    "peso_arista": 1.2315630614757538,
+                    "peso_acumulado": 5.012318447232246,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_104",
+                    "texto": "SocialBehavioralAutism requires effortful control to redirect focus",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5834970474243164,
+                    "sim_con_problema": 0.3702011704444885,
+                    "peso_arista": 1.046301782131195,
+                    "peso_acumulado": 4.827057167887688,
+                    "premise_id": "A11",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_198",
+                        "texto": "SocialBehavioralAutism cannot sustain redirected focus automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5118845105171204,
+                        "sim_con_problema": 0.373473197221756,
+                        "peso_arista": 1.1146422922611237,
+                        "peso_acumulado": 5.941699460148811,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_199",
+                        "texto": "SocialBehavioralAutism has reduced capacity to filter remaining stimuli",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6014058589935303,
+                        "sim_con_problema": 0.494365930557251,
+                        "peso_arista": 0.9042282104492188,
+                        "peso_acumulado": 5.731285378336906,
+                        "premise_id": "A2",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_13",
+            "texto": "SocialBehavioralAutism cannot filter the buzzing light input",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.38442498445510864,
+            "sim_con_problema": 0.4527766704559326,
+            "peso_arista": 1.1627983450889587,
+            "peso_acumulado": 2.4506056904792786,
+            "premise_id": "A2",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_45",
+                "texto": "SocialBehavioralAutism experiences arousal without identifying the emotion",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4647323489189148,
+                "sim_con_problema": 0.47249194979667664,
+                "peso_arista": 1.0627757012844086,
+                "peso_acumulado": 3.513381391763687,
+                "premise_id": "A14",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_85",
+                    "texto": "SocialBehavioralAutism becomes unavailable for learning and interaction",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4881020784378052,
+                    "sim_con_problema": 0.2744003236293793,
+                    "peso_arista": 1.2374975979328156,
+                    "peso_acumulado": 4.750878989696503,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_172",
+                        "texto": "SocialBehavioralAutism fails to encode explicit rules stated now",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4547145962715149,
+                        "sim_con_problema": 0.24749994277954102,
+                        "peso_arista": 1.297785460948944,
+                        "peso_acumulado": 6.048664450645447,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_86",
+                    "texto": "SocialBehavioralAutism will show emotional response after a delay",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5105365514755249,
+                    "sim_con_problema": 0.37516117095947266,
+                    "peso_arista": 1.1143022775650024,
+                    "peso_acumulado": 4.62768366932869,
+                    "premise_id": "A16",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "SocialBehavioralAutism_2_14",
+            "texto": "SocialBehavioralAutism loses the prior routine's cognitive optimization",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5778888463973999,
+            "sim_con_problema": 0.45060285925865173,
+            "peso_arista": 0.9715082943439484,
+            "peso_acumulado": 2.259315639734268,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "SocialBehavioralAutism_3_35",
+                "texto": "SocialBehavioralAutism must reallocate cognitive resources to sensory processing",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.659669041633606,
+                "sim_con_problema": 0.6308224201202393,
+                "peso_arista": 0.7095085382461548,
+                "peso_acumulado": 2.968824177980423,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_51",
+                    "texto": "SocialBehavioralAutism cannot engage in learning or social interaction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.45744383335113525,
+                    "sim_con_problema": 0.265462726354599,
+                    "peso_arista": 1.2770934402942657,
+                    "peso_acumulado": 4.245917618274689,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_52",
+                    "texto": "SocialBehavioralAutism expends effort filtering the buzzing light stimulus",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5077807903289795,
+                    "sim_con_problema": 0.5532511472702026,
+                    "peso_arista": 0.9389680624008179,
+                    "peso_acumulado": 3.907792240381241,
+                    "premise_id": "A2",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_113",
+                        "texto": "SocialBehavioralAutism has reduced attentional resources for classroom tasks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47960877418518066,
+                        "sim_con_problema": 0.31516897678375244,
+                        "peso_arista": 1.205222249031067,
+                        "peso_acumulado": 5.113014489412308,
+                        "premise_id": "A11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_115",
+                        "texto": "SocialBehavioralAutism still processes buzzing as equal-weight stimulus",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4736211895942688,
+                        "sim_con_problema": 0.4409308433532715,
+                        "peso_arista": 1.0854479670524597,
+                        "peso_acumulado": 4.993240207433701,
+                        "premise_id": "A2",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "SocialBehavioralAutism_3_36",
+                "texto": "SocialBehavioralAutism cannot generalize old classroom rules to new lighting",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3708541989326477,
+                "sim_con_problema": 0.2691182494163513,
+                "peso_arista": 1.360027551651001,
+                "peso_acumulado": 3.619343191385269,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "SocialBehavioralAutism_4_95",
+                    "texto": "SocialBehavioralAutism requires explicit instruction to re-anchor classroom rules",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5117253065109253,
+                    "sim_con_problema": 0.22486194968223572,
+                    "peso_arista": 1.263412743806839,
+                    "peso_acumulado": 4.882755935192108,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_207",
+                        "texto": "SocialBehavioralAutism cannot infer new rules without explicit statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39306044578552246,
+                        "sim_con_problema": 0.275881290435791,
+                        "peso_arista": 1.3310582637786865,
+                        "peso_acumulado": 6.213814198970795,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_208",
+                        "texto": "SocialBehavioralAutism requires conscious retrieval of new rule entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5335453152656555,
+                        "sim_con_problema": 0.3495972454547882,
+                        "peso_arista": 1.1168574392795563,
+                        "peso_acumulado": 5.999613374471664,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_209",
+                        "texto": "SocialBehavioralAutism needs immediate specific feedback to update rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4398169219493866,
+                        "sim_con_problema": 0.2682662308216095,
+                        "peso_arista": 1.291916847229004,
+                        "peso_acumulado": 6.174672782421112,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_210",
+                        "texto": "SocialBehavioralAutism keeps old rule until new context explicitly taught",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.45643770694732666,
+                        "sim_con_problema": 0.263879656791687,
+                        "peso_arista": 1.2796826362609863,
+                        "peso_acumulado": 6.1624385714530945,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_96",
+                    "texto": "SocialBehavioralAutism follows only explicitly restated rules for new lighting",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.363644003868103,
+                    "sim_con_problema": 0.2407558560371399,
+                    "peso_arista": 1.395600140094757,
+                    "peso_acumulado": 5.014943331480026,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_97",
+                    "texto": "SocialBehavioralAutism risks sensory overload from buzzing fluorescent lights",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.41051942110061646,
+                    "sim_con_problema": 0.557208776473999,
+                    "peso_arista": 1.0322718024253845,
+                    "peso_acumulado": 4.651614993810654,
+                    "premise_id": "A1",
+                    "hijos": [
+                      {
+                        "id": "SocialBehavioralAutism_5_159",
+                        "texto": "SocialBehavioralAutism cannot automatically filter out the buzzing sound",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3457411527633667,
+                        "sim_con_problema": 0.4515939950942993,
+                        "peso_arista": 1.202664852142334,
+                        "peso_acumulado": 5.854279845952988,
+                        "premise_id": "A2",
+                        "hijos": []
+                      },
+                      {
+                        "id": "SocialBehavioralAutism_5_160",
+                        "texto": "SocialBehavioralAutism experiences interference integrating light and sound",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47106850147247314,
+                        "sim_con_problema": 0.5164432525634766,
+                        "peso_arista": 1.0124882459640503,
+                        "peso_acumulado": 5.664103239774704,
+                        "premise_id": "A3",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "SocialBehavioralAutism_4_98",
+                    "texto": "SocialBehavioralAutism needs new explicit rule entries for classroom lighting",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3927445411682129,
+                    "sim_con_problema": 0.2861919701099396,
+                    "peso_arista": 1.3210634887218475,
+                    "peso_acumulado": 4.940406680107117,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SocialBehavioralAutism_1_4",
+        "texto": "SocialBehavioralAutism loses established routine resource allocation",
+        "nivel": 1,
+        "es_hoja": true,
+        "sim_con_raiz": 0.3175645172595978,
+        "sim_con_problema": 0.21014678478240967,
+        "peso_arista": 1.4722886979579926,
+        "peso_acumulado": 1.4722886979579926,
+        "premise_id": "A19",
+        "hijos": []
+      }
+    ]
+  },
+  "total_nodos": 152,
+  "total_hojas": 86,
+  "profundidad_maxima": 5
+}

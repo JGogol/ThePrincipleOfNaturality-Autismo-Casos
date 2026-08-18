@@ -1,0 +1,1874 @@
+{
+  "actor": "ModerateAutism",
+  "raiz": {
+    "id": "ModerateAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.4130634665489197,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "ModerateAutism_1_1",
+        "texto": "ModerateAutism processes the sarcastic utterance literally by default",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.24390080571174622,
+        "sim_con_problema": 0.5856425166130066,
+        "peso_arista": 1.1704566776752472,
+        "peso_acumulado": 1.1704566776752472,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_4",
+            "texto": "ModerateAutism misinterprets the sarcastic statement as truthful",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.1622670292854309,
+            "sim_con_problema": 0.5770926475524902,
+            "peso_arista": 1.2606403231620789,
+            "peso_acumulado": 2.431097000837326,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_14",
+                "texto": "ModerateAutism cannot infer the classmate's actual intended meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2021131068468094,
+                "sim_con_problema": 0.509233295917511,
+                "peso_arista": 1.2886535972356796,
+                "peso_acumulado": 3.7197505980730057,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_50",
+                    "texto": "ModerateAutism fails to detect the unspoken social expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19931092858314514,
+                    "sim_con_problema": 0.5515434741973877,
+                    "peso_arista": 1.2491455972194672,
+                    "peso_acumulado": 4.968896195292473,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_99",
+                        "texto": "ModerateAutism cannot retrieve a matching explicit social rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21113543212413788,
+                        "sim_con_problema": 0.3935428857803345,
+                        "peso_arista": 1.3953216820955276,
+                        "peso_acumulado": 6.3642178773880005,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_100",
+                        "texto": "ModerateAutism continues responding to the literal statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1838531792163849,
+                        "sim_con_problema": 0.4421488046646118,
+                        "peso_arista": 1.3739980161190033,
+                        "peso_acumulado": 6.342894211411476,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_51",
+                    "texto": "ModerateAutism requires explicit feedback to reinterpret the sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28360000252723694,
+                    "sim_con_problema": 0.5259631872177124,
+                    "peso_arista": 1.1904368102550507,
+                    "peso_acumulado": 4.910187408328056,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_92",
+                        "texto": "ModerateAutism retains literal meaning absent proximate corrective feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.27560025453567505,
+                        "sim_con_problema": 0.4185386002063751,
+                        "peso_arista": 1.3058611452579498,
+                        "peso_acumulado": 6.216048553586006,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_220",
+                            "texto": "ModerateAutism cannot generalize this literal meaning to future sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15915073454380035,
+                            "sim_con_problema": 0.5407083034515381,
+                            "peso_arista": 1.3001409620046616,
+                            "peso_acumulado": 7.516189515590668,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_221",
+                            "texto": "ModerateAutism retains the literal statement as a stable fact",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.1897781640291214,
+                            "sim_con_problema": 0.37661507725715637,
+                            "peso_arista": 1.4336067587137222,
+                            "peso_acumulado": 7.649655312299728,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_222",
+                            "texto": "ModerateAutism cannot access sarcasm as a social norm entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15214139223098755,
+                            "sim_con_problema": 0.5125033855438232,
+                            "peso_arista": 1.3353552222251892,
+                            "peso_acumulado": 7.551403775811195,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_93",
+                        "texto": "ModerateAutism stores sarcasm correction as explicit rule entry",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2759801745414734,
+                        "sim_con_problema": 0.510772705078125,
+                        "peso_arista": 1.2132471203804016,
+                        "peso_acumulado": 6.123434528708458,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_210",
+                            "texto": "ModerateAutism cannot generalize this rule to new speakers",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2603902518749237,
+                            "sim_con_problema": 0.4795907735824585,
+                            "peso_arista": 1.2600189745426178,
+                            "peso_acumulado": 7.383453503251076,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_212",
+                            "texto": "ModerateAutism reliably applies this explicit sarcasm rule going forward",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21775440871715546,
+                            "sim_con_problema": 0.42842093110084534,
+                            "peso_arista": 1.3538246601819992,
+                            "peso_acumulado": 7.477259188890457,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_94",
+                        "texto": "ModerateAutism cannot generalize this correction to new sarcastic contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.22791504859924316,
+                        "sim_con_problema": 0.510225772857666,
+                        "peso_arista": 1.2618591785430908,
+                        "peso_acumulado": 6.172046586871147,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_214",
+                            "texto": "ModerateAutism again processes future sarcastic remarks literally",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16642040014266968,
+                            "sim_con_problema": 0.5560210347175598,
+                            "peso_arista": 1.2775585651397705,
+                            "peso_acumulado": 7.449605152010918,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_215",
+                            "texto": "ModerateAutism must store each sarcasm instance as separate rule entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.25633543729782104,
+                            "sim_con_problema": 0.3320491313934326,
+                            "peso_arista": 1.4116154313087463,
+                            "peso_acumulado": 7.5836620181798935,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_95",
+                        "texto": "ModerateAutism applies the rule only when explicitly matched again",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19878816604614258,
+                        "sim_con_problema": 0.20649226009845734,
+                        "peso_arista": 1.5947195738554,
+                        "peso_acumulado": 6.504906982183456,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_15",
+                "texto": "ModerateAutism responds based on the literal false content",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.20140224695205688,
+                "sim_con_problema": 0.5028436183929443,
+                "peso_arista": 1.2957541346549988,
+                "peso_acumulado": 3.726851135492325,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_52",
+                    "texto": "ModerateAutism cannot detect the pragmatic mismatch itself",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.17419931292533875,
+                    "sim_con_problema": 0.4064808189868927,
+                    "peso_arista": 1.4193198680877686,
+                    "peso_acumulado": 5.146171003580093,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_53",
+                    "texto": "ModerateAutism requires explicit feedback to correct the response",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3379567563533783,
+                    "sim_con_problema": 0.37367719411849976,
+                    "peso_arista": 1.288366049528122,
+                    "peso_acumulado": 5.015217185020447,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_107",
+                        "texto": "ModerateAutism blocks learning if feedback implies moral fault",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3155876100063324,
+                        "sim_con_problema": 0.38631075620651245,
+                        "peso_arista": 1.2981016337871552,
+                        "peso_acumulado": 6.313318818807602,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_54",
+                    "texto": "ModerateAutism will repeat the error in similar contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22551694512367249,
+                    "sim_con_problema": 0.3082307279109955,
+                    "peso_arista": 1.466252326965332,
+                    "peso_acumulado": 5.193103462457657,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_159",
+                        "texto": "ModerateAutism cannot generalize the correction without explicit instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3493715524673462,
+                        "sim_con_problema": 0.34413838386535645,
+                        "peso_arista": 1.3064900636672974,
+                        "peso_acumulado": 6.499593526124954,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_16",
+                "texto": "ModerateAutism does not flag the statement as ironic",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.15048938989639282,
+                "sim_con_problema": 0.5213765501976013,
+                "peso_arista": 1.3281340599060059,
+                "peso_acumulado": 3.759231060743332,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_55",
+                    "texto": "ModerateAutism responds based on the statement's literal meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22725385427474976,
+                    "sim_con_problema": 0.5007710456848145,
+                    "peso_arista": 1.2719751000404358,
+                    "peso_acumulado": 5.031206160783768,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_118",
+                        "texto": "ModerateAutism does not recognize the response as socially mismatched",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20476344227790833,
+                        "sim_con_problema": 0.4406195282936096,
+                        "peso_arista": 1.354617029428482,
+                        "peso_acumulado": 6.38582319021225,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_120",
+                        "texto": "ModerateAutism will not generalize this response to future sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19144612550735474,
+                        "sim_con_problema": 0.5068517923355103,
+                        "peso_arista": 1.301702082157135,
+                        "peso_acumulado": 6.332908242940903,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_56",
+                    "texto": "ModerateAutism does not retrieve a sarcasm-detection social rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19331005215644836,
+                    "sim_con_problema": 0.5343613028526306,
+                    "peso_arista": 1.272328644990921,
+                    "peso_acumulado": 5.031559705734253,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_121",
+                        "texto": "ModerateAutism cannot apply a social rule to this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.09519079327583313,
+                        "sim_con_problema": 0.3211609125137329,
+                        "peso_arista": 1.583648294210434,
+                        "peso_acumulado": 6.615207999944687,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_123",
+                        "texto": "ModerateAutism receives no feedback signal to update sarcasm processing",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1715698540210724,
+                        "sim_con_problema": 0.35709837079048157,
+                        "peso_arista": 1.471331775188446,
+                        "peso_acumulado": 6.502891480922699,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_57",
+                    "texto": "ModerateAutism fails to apply the group's implicit conversational norm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19002914428710938,
+                    "sim_con_problema": 0.576715886592865,
+                    "peso_arista": 1.2332549691200256,
+                    "peso_acumulado": 4.9924860298633575,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_103",
+                        "texto": "ModerateAutism accepts the sarcastic statement as the group's actual meaning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16100001335144043,
+                        "sim_con_problema": 0.5073148012161255,
+                        "peso_arista": 1.331685185432434,
+                        "peso_acumulado": 6.324171215295792,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_104",
+                        "texto": "ModerateAutism does not generalize prior norms to this conversation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20319807529449463,
+                        "sim_con_problema": 0.5039600133895874,
+                        "peso_arista": 1.292841911315918,
+                        "peso_acumulado": 6.2853279411792755,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_5",
+            "texto": "ModerateAutism must consciously retrieve a matching pragmatic rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.26922065019607544,
+            "sim_con_problema": 0.39899253845214844,
+            "peso_arista": 1.3317868113517761,
+            "peso_acumulado": 2.5022434890270233,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_20",
+                "texto": "ModerateAutism cannot generalize a prior sarcasm rule here",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1883494257926941,
+                "sim_con_problema": 0.49593213200569153,
+                "peso_arista": 1.3157184422016144,
+                "peso_acumulado": 3.8179619312286377,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_61",
+                    "texto": "ModerateAutism requires explicit new instruction to reinterpret sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2928173542022705,
+                    "sim_con_problema": 0.49902769923210144,
+                    "peso_arista": 1.208154946565628,
+                    "peso_acumulado": 5.026116877794266,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_114",
+                        "texto": "ModerateAutism requires observable specific feedback to learn sarcasm meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3284713923931122,
+                        "sim_con_problema": 0.5123530626296997,
+                        "peso_arista": 1.159175544977188,
+                        "peso_acumulado": 6.185292422771454,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_217",
+                            "texto": "ModerateAutism requires feedback framed without moral judgment to learn",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3112707734107971,
+                            "sim_con_problema": 0.48587435483932495,
+                            "peso_arista": 1.202854871749878,
+                            "peso_acumulado": 7.388147294521332,
+                            "premise_id": "A21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_218",
+                            "texto": "ModerateAutism continues interpreting the utterance literally until feedback arrives",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.29688698053359985,
+                            "sim_con_problema": 0.575753927230835,
+                            "peso_arista": 1.1273590922355652,
+                            "peso_acumulado": 7.312651515007019,
+                            "premise_id": "A17",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_115",
+                        "texto": "ModerateAutism awaits an explicit stated rule about sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.22605492174625397,
+                        "sim_con_problema": 0.49902671575546265,
+                        "peso_arista": 1.2749183624982834,
+                        "peso_acumulado": 6.301035240292549,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_116",
+                        "texto": "ModerateAutism retains the literal interpretation absent new instruction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.260208398103714,
+                        "sim_con_problema": 0.4477198123931885,
+                        "peso_arista": 1.2920717895030975,
+                        "peso_acumulado": 6.318188667297363,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_117",
+                        "texto": "ModerateAutism cannot update its pragmatic rule database autonomously",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1725388914346695,
+                        "sim_con_problema": 0.1884705275297165,
+                        "peso_arista": 1.638990581035614,
+                        "peso_acumulado": 6.66510745882988,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_64",
+                    "texto": "ModerateAutism finds no matching entry in its pragmatic database",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.09401186555624008,
+                    "sim_con_problema": 0.21943095326423645,
+                    "peso_arista": 1.6865571811795235,
+                    "peso_acumulado": 5.504519112408161,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_203",
+                        "texto": "ModerateAutism treats the unspoken irony as undetected",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.18512630462646484,
+                        "sim_con_problema": 0.5723679065704346,
+                        "peso_arista": 1.2425057888031006,
+                        "peso_acumulado": 6.747024901211262,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_22",
+                "texto": "ModerateAutism cannot reliably detect this implicit convention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.196416437625885,
+                "sim_con_problema": 0.41201943159103394,
+                "peso_arista": 1.391564130783081,
+                "peso_acumulado": 3.8938076198101044,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_69",
+                    "texto": "ModerateAutism cannot apply this unspoken social convention",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.14928461611270905,
+                    "sim_con_problema": 0.4724060893058777,
+                    "peso_arista": 1.3783092945814133,
+                    "peso_acumulado": 5.272116914391518,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_179",
+                        "texto": "ModerateAutism lacks a stored rule for this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.08491313457489014,
+                        "sim_con_problema": 0.20395620167255402,
+                        "peso_arista": 1.7111306637525558,
+                        "peso_acumulado": 6.9832475781440735,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_180",
+                        "texto": "ModerateAutism generates a prediction error from the mismatched response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1848292350769043,
+                        "sim_con_problema": 0.24521341919898987,
+                        "peso_arista": 1.5699573457241058,
+                        "peso_acumulado": 6.8420742601156235,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_70",
+                    "texto": "ModerateAutism requires explicit instruction to reinterpret this utterance",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3429582417011261,
+                    "sim_con_problema": 0.5176061391830444,
+                    "peso_arista": 1.1394356191158295,
+                    "peso_acumulado": 5.033243238925934,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_126",
+                        "texto": "ModerateAutism applies the rule once explicitly stated",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.26038599014282227,
+                        "sim_con_problema": 0.3720178008079529,
+                        "peso_arista": 1.3675962090492249,
+                        "peso_acumulado": 6.400839447975159,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_127",
+                        "texto": "ModerateAutism needs immediate specific feedback to update",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2252275049686432,
+                        "sim_con_problema": 0.1846180260181427,
+                        "peso_arista": 1.5901544690132141,
+                        "peso_acumulado": 6.623397707939148,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_2",
+        "texto": "ModerateAutism must retrieve an explicit rule for sarcasm",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.23321068286895752,
+        "sim_con_problema": 0.4799705743789673,
+        "peso_arista": 1.2868187427520752,
+        "peso_acumulado": 1.2868187427520752,
+        "premise_id": "A18",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_11",
+            "texto": "ModerateAutism searches stored social rules for a matching entry",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.19259867072105408,
+            "sim_con_problema": 0.2749122977256775,
+            "peso_arista": 1.5324890315532684,
+            "peso_acumulado": 2.8193077743053436,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_36",
+                "texto": "ModerateAutism finds no explicit entry for sarcasm",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1063157320022583,
+                "sim_con_problema": 0.44963526725769043,
+                "peso_arista": 1.4440490007400513,
+                "peso_acumulado": 4.263356775045395,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_88",
+                    "texto": "ModerateAutism cannot apply automatic contextual inference to the utterance",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3389597535133362,
+                    "sim_con_problema": 0.6716981530189514,
+                    "peso_arista": 0.9893420934677124,
+                    "peso_acumulado": 5.252698868513107,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_172",
+                        "texto": "ModerateAutism interprets the utterance as literally true",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1799333691596985,
+                        "sim_con_problema": 0.5386862754821777,
+                        "peso_arista": 1.2813803553581238,
+                        "peso_acumulado": 6.534079223871231,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_37",
+                "texto": "ModerateAutism defaults to literal interpretation of the utterance",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.24607720971107483,
+                "sim_con_problema": 0.649786651134491,
+                "peso_arista": 1.1041361391544342,
+                "peso_acumulado": 3.923443913459778,
+                "premise_id": "A17",
+                "hijos": []
+              },
+              {
+                "id": "ModerateAutism_3_38",
+                "texto": "ModerateAutism cannot reliably infer the unspoken meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.18422269821166992,
+                "sim_con_problema": 0.512535810470581,
+                "peso_arista": 1.303241491317749,
+                "peso_acumulado": 4.122549265623093,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_85",
+                    "texto": "ModerateAutism cannot apply an unmatched pragmatic rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.20694199204444885,
+                    "sim_con_problema": 0.3614223003387451,
+                    "peso_arista": 1.431635707616806,
+                    "peso_acumulado": 5.554184973239899,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_209",
+                        "texto": "ModerateAutism requires explicit feedback to learn this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.33899199962615967,
+                        "sim_con_problema": 0.40475618839263916,
+                        "peso_arista": 1.2562518119812012,
+                        "peso_acumulado": 6.8104367852211,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_86",
+                    "texto": "ModerateAutism requires explicit feedback to learn the meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.33687829971313477,
+                    "sim_con_problema": 0.453674852848053,
+                    "peso_arista": 1.2094468474388123,
+                    "peso_acumulado": 5.331996113061905,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_187",
+                        "texto": "ModerateAutism needs observable specific feedback tied to the utterance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4089423418045044,
+                        "sim_con_problema": 0.5377897024154663,
+                        "peso_arista": 1.0532679557800293,
+                        "peso_acumulado": 6.385264068841934,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_12",
+            "texto": "ModerateAutism cannot apply the rule if context differs from prior learning",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3537033200263977,
+            "sim_con_problema": 0.4174247980117798,
+            "peso_arista": 1.2288718819618225,
+            "peso_acumulado": 2.5156906247138977,
+            "premise_id": "A22",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_27",
+                "texto": "ModerateAutism requires explicit instruction to re-anchor the rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.31717753410339355,
+                "sim_con_problema": 0.3199242949485779,
+                "peso_arista": 1.3628981709480286,
+                "peso_acumulado": 3.8785887956619263,
+                "premise_id": "A22",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_67",
+                    "texto": "ModerateAutism needs specific feedback to update sarcasm rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.24617716670036316,
+                    "sim_con_problema": 0.41726285219192505,
+                    "peso_arista": 1.3365599811077118,
+                    "peso_acumulado": 5.215148776769638,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_162",
+                        "texto": "ModerateAutism cannot update the rule without observable feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21311050653457642,
+                        "sim_con_problema": 0.23159614205360413,
+                        "peso_arista": 1.5552933514118195,
+                        "peso_acumulado": 6.7704421281814575,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_164",
+                        "texto": "ModerateAutism's stored pragmatic rule for sarcasm stays unchanged",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20053203403949738,
+                        "sim_con_problema": 0.4755200743675232,
+                        "peso_arista": 1.3239478915929794,
+                        "peso_acumulado": 6.5390966683626175,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_13",
+            "texto": "ModerateAutism fails to interpret sarcasm without an explicit stored rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24043750762939453,
+            "sim_con_problema": 0.5440963506698608,
+            "peso_arista": 1.2154661417007446,
+            "peso_acumulado": 2.50228488445282,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_24",
+                "texto": "ModerateAutism cannot infer the speaker's intended social meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1683655083179474,
+                "sim_con_problema": 0.6404202580451965,
+                "peso_arista": 1.191214233636856,
+                "peso_acumulado": 3.693499118089676,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_44",
+                    "texto": "ModerateAutism attempts conscious retrieval of a stored social rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2975996434688568,
+                    "sim_con_problema": 0.5067548751831055,
+                    "peso_arista": 1.1956454813480377,
+                    "peso_acumulado": 4.889144599437714,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_45",
+                    "texto": "ModerateAutism cannot apply the unspoken sarcastic convention",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1591225564479828,
+                    "sim_con_problema": 0.5140938758850098,
+                    "peso_arista": 1.3267835676670074,
+                    "peso_acumulado": 5.020282685756683,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_110",
+                        "texto": "ModerateAutism does not detect the implicit sarcastic expectation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19961968064308167,
+                        "sim_con_problema": 0.5616395473480225,
+                        "peso_arista": 1.2387407720088959,
+                        "peso_acumulado": 6.259023457765579,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_3",
+        "texto": "ModerateAutism fails to detect the unspoken ironic intent",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.1899450272321701,
+        "sim_con_problema": 0.5629132986068726,
+        "peso_arista": 1.2471416741609573,
+        "peso_acumulado": 1.2471416741609573,
+        "premise_id": "A23",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_7",
+            "texto": "ModerateAutism interprets the sarcastic statement as literally true",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.16046175360679626,
+            "sim_con_problema": 0.5407657623291016,
+            "peso_arista": 1.2987724840641022,
+            "peso_acumulado": 2.5459141582250595,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_29",
+                "texto": "ModerateAutism stores the literal statement as factual content",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.24651530385017395,
+                "sim_con_problema": 0.5349666476249695,
+                "peso_arista": 1.2185180485248566,
+                "peso_acumulado": 3.764432206749916,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_58",
+                    "texto": "ModerateAutism retains the literal claim as semantic fact",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19204553961753845,
+                    "sim_con_problema": 0.4489779770374298,
+                    "peso_arista": 1.3589764833450317,
+                    "peso_acumulado": 5.123408690094948,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_143",
+                        "texto": "ModerateAutism loses the episodic context of the sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14884284138679504,
+                        "sim_con_problema": 0.5301030278205872,
+                        "peso_arista": 1.3210541307926178,
+                        "peso_acumulado": 6.444462820887566,
+                        "premise_id": "A8",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_144",
+                        "texto": "ModerateAutism applies the stored fact in unrelated contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.28520047664642334,
+                        "sim_con_problema": 0.4928819239139557,
+                        "peso_arista": 1.221917599439621,
+                        "peso_acumulado": 6.345326289534569,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_145",
+                        "texto": "ModerateAutism treats the literal meaning as reliable knowledge",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2334681749343872,
+                        "sim_con_problema": 0.44915664196014404,
+                        "peso_arista": 1.3173751831054688,
+                        "peso_acumulado": 6.440783873200417,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_59",
+                    "texto": "ModerateAutism cannot correct belief without explicit corrective feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2851901054382324,
+                    "sim_con_problema": 0.3995911478996277,
+                    "peso_arista": 1.31521874666214,
+                    "peso_acumulado": 5.079650953412056,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_130",
+                        "texto": "ModerateAutism will not generalize the correction to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2938486933708191,
+                        "sim_con_problema": 0.39867520332336426,
+                        "peso_arista": 1.3074761033058167,
+                        "peso_acumulado": 6.387127056717873,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_131",
+                        "texto": "ModerateAutism continues acting on the uncorrected belief",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14085130393505096,
+                        "sim_con_problema": 0.3650502562522888,
+                        "peso_arista": 1.4940984398126602,
+                        "peso_acumulado": 6.573749393224716,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_60",
+                    "texto": "ModerateAutism will not revise belief across different contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17387175559997559,
+                    "sim_con_problema": 0.3464752435684204,
+                    "peso_arista": 1.479653000831604,
+                    "peso_acumulado": 5.24408520758152,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_168",
+                        "texto": "ModerateAutism applies the literal belief in new unrelated contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21765094995498657,
+                        "sim_con_problema": 0.5099495649337769,
+                        "peso_arista": 1.2723994851112366,
+                        "peso_acumulado": 6.516484692692757,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_169",
+                        "texto": "ModerateAutism requires explicit instruction to revise the stored belief",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.315893292427063,
+                        "sim_con_problema": 0.4032052159309387,
+                        "peso_arista": 1.2809014916419983,
+                        "peso_acumulado": 6.524986699223518,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_171",
+                        "texto": "ModerateAutism retains the literal fact independent of social context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.18925940990447998,
+                        "sim_con_problema": 0.4318346381187439,
+                        "peso_arista": 1.3789059519767761,
+                        "peso_acumulado": 6.622991159558296,
+                        "premise_id": "A8",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_30",
+                "texto": "ModerateAutism retains the false fact in semantic memory",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.310688853263855,
+                "sim_con_problema": 0.5187361240386963,
+                "peso_arista": 1.1705750226974487,
+                "peso_acumulado": 3.7164891809225082,
+                "premise_id": "A8",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_46",
+                    "texto": "ModerateAutism recalls the false fact as accurate later",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1833966076374054,
+                    "sim_con_problema": 0.40701794624328613,
+                    "peso_arista": 1.4095854461193085,
+                    "peso_acumulado": 5.126074627041817,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_146",
+                        "texto": "ModerateAutism will not revise the false fact without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20306947827339172,
+                        "sim_con_problema": 0.33901870250701904,
+                        "peso_arista": 1.4579118192195892,
+                        "peso_acumulado": 6.583986446261406,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_147",
+                        "texto": "ModerateAutism applies the false fact to unrelated new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.24714533984661102,
+                        "sim_con_problema": 0.5125529766082764,
+                        "peso_arista": 1.2403016835451126,
+                        "peso_acumulado": 6.366376310586929,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_148",
+                        "texto": "ModerateAutism retrieves the false fact during future social matching",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19163545966148376,
+                        "sim_con_problema": 0.44386565685272217,
+                        "peso_arista": 1.364498883485794,
+                        "peso_acumulado": 6.490573510527611,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_47",
+                    "texto": "ModerateAutism cannot revise the fact without explicit new instruction",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2638763189315796,
+                    "sim_con_problema": 0.33305561542510986,
+                    "peso_arista": 1.4030680656433105,
+                    "peso_acumulado": 5.119557246565819,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_139",
+                        "texto": "ModerateAutism continues applying the false fact across contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20615342259407043,
+                        "sim_con_problema": 0.4724951386451721,
+                        "peso_arista": 1.3213514387607574,
+                        "peso_acumulado": 6.440908685326576,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_142",
+                        "texto": "ModerateAutism does not spontaneously question the retained false fact",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.20585063099861145,
+                        "sim_con_problema": 0.39165231585502625,
+                        "peso_arista": 1.4024970531463623,
+                        "peso_acumulado": 6.522054299712181,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_48",
+                    "texto": "ModerateAutism requires specific corrective feedback to update the fact",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2982795834541321,
+                    "sim_con_problema": 0.30824971199035645,
+                    "peso_arista": 1.3934707045555115,
+                    "peso_acumulado": 5.10995988547802,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_132",
+                        "texto": "ModerateAutism retains false fact absent observable causal feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23848746716976166,
+                        "sim_con_problema": 0.3501322269439697,
+                        "peso_arista": 1.4113803058862686,
+                        "peso_acumulado": 6.521340191364288,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_133",
+                        "texto": "ModerateAutism fails to generalize correction to other sarcastic remarks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.18333464860916138,
+                        "sim_con_problema": 0.5158019065856934,
+                        "peso_arista": 1.3008634448051453,
+                        "peso_acumulado": 6.410823330283165,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_134",
+                        "texto": "ModerateAutism blocks correction if framed as personal failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2842715084552765,
+                        "sim_con_problema": 0.34018877148628235,
+                        "peso_arista": 1.3755397200584412,
+                        "peso_acumulado": 6.485499605536461,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_135",
+                        "texto": "ModerateAutism requires explicit database entry for this sarcasm instance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19925589859485626,
+                        "sim_con_problema": 0.4082314968109131,
+                        "peso_arista": 1.3925126045942307,
+                        "peso_acumulado": 6.50247249007225,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_31",
+                "texto": "ModerateAutism cannot retrieve a stored sarcasm-detection rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.19860586524009705,
+                "sim_con_problema": 0.4326472580432892,
+                "peso_arista": 1.3687468767166138,
+                "peso_acumulado": 3.9146610349416733,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_75",
+                    "texto": "ModerateAutism cannot consciously match this exchange to a rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.190317764878273,
+                    "sim_con_problema": 0.35179024934768677,
+                    "peso_arista": 1.4578919857740402,
+                    "peso_acumulado": 5.3725530207157135,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_193",
+                        "texto": "ModerateAutism does not apply any implicit social norm here",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.10504044592380524,
+                        "sim_con_problema": 0.37008482217788696,
+                        "peso_arista": 1.5248747318983078,
+                        "peso_acumulado": 6.897427752614021,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_194",
+                        "texto": "ModerateAutism leaves the exchange without a matched response",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14726191759109497,
+                        "sim_con_problema": 0.3153495192527771,
+                        "peso_arista": 1.537388563156128,
+                        "peso_acumulado": 6.909941583871841,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_76",
+                    "texto": "ModerateAutism will not generalize sarcasm detection to new contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.25689923763275146,
+                    "sim_con_problema": 0.5447559356689453,
+                    "peso_arista": 1.1983448266983032,
+                    "peso_acumulado": 5.1130058616399765,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_136",
+                        "texto": "ModerateAutism requires explicit instruction to re-anchor sarcasm detection",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3417161703109741,
+                        "sim_con_problema": 0.5082149505615234,
+                        "peso_arista": 1.1500688791275024,
+                        "peso_acumulado": 6.263074740767479,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_227",
+                            "texto": "ModerateAutism needs immediate specific feedback on sarcasm misreads",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.24100437760353088,
+                            "sim_con_problema": 0.49594545364379883,
+                            "peso_arista": 1.2630501687526703,
+                            "peso_acumulado": 7.526124909520149,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_229",
+                            "texto": "ModerateAutism will not apply this rule to differently framed sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19086410105228424,
+                            "sim_con_problema": 0.4624142050743103,
+                            "peso_arista": 1.3467216938734055,
+                            "peso_acumulado": 7.609796434640884,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ModerateAutism_5_137",
+                        "texto": "ModerateAutism must consciously retrieve a sarcasm rule each time",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2662917375564575,
+                        "sim_con_problema": 0.45549577474594116,
+                        "peso_arista": 1.2782124876976013,
+                        "peso_acumulado": 6.391218349337578,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_77",
+                    "texto": "ModerateAutism responds only to the explicit stated words",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.26053595542907715,
+                    "sim_con_problema": 0.4695095717906952,
+                    "peso_arista": 1.2699544727802277,
+                    "peso_acumulado": 5.184615507721901,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_157",
+                        "texto": "ModerateAutism cannot match this exchange to a stored social rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15070948004722595,
+                        "sim_con_problema": 0.36174583435058594,
+                        "peso_arista": 1.487544685602188,
+                        "peso_acumulado": 6.672160193324089,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_158",
+                        "texto": "ModerateAutism treats the literal statement as the operative rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.24759255349636078,
+                        "sim_con_problema": 0.5265704393386841,
+                        "peso_arista": 1.2258370071649551,
+                        "peso_acumulado": 6.410452514886856,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_8",
+            "texto": "ModerateAutism cannot retrieve a matching pragmatic rule automatically",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2214961051940918,
+            "sim_con_problema": 0.322076678276062,
+            "peso_arista": 1.4564272165298462,
+            "peso_acumulado": 2.7035688906908035,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_34",
+                "texto": "ModerateAutism cannot generate a contextually appropriate social response",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.25607478618621826,
+                "sim_con_problema": 0.5348469614982605,
+                "peso_arista": 1.2090782523155212,
+                "peso_acumulado": 3.9126471430063248,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_72",
+                    "texto": "The mismatched response generates a disproportionate prediction error",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1800854355096817,
+                    "sim_con_problema": 0.18097995221614838,
+                    "peso_arista": 1.63893461227417,
+                    "peso_acumulado": 5.551581755280495,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_204",
+                        "texto": "ModerateAutism experiences disruption unrelated to the sarcasm's actual significance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16400697827339172,
+                        "sim_con_problema": 0.502088725566864,
+                        "peso_arista": 1.3339042961597443,
+                        "peso_acumulado": 6.885486051440239,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_205",
+                        "texto": "ModerateAutism enters threat response if error framed as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.13573592901229858,
+                        "sim_con_problema": 0.2199360877275467,
+                        "peso_arista": 1.6443279832601547,
+                        "peso_acumulado": 7.195909738540649,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_206",
+                        "texto": "ModerateAutism cannot update its social rules without specific feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21704816818237305,
+                        "sim_con_problema": 0.323592871427536,
+                        "peso_arista": 1.459358960390091,
+                        "peso_acumulado": 7.010940715670586,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_73",
+                    "texto": "Correcting the response requires immediate explicit feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27519679069519043,
+                    "sim_con_problema": 0.19138170778751373,
+                    "peso_arista": 1.5334215015172958,
+                    "peso_acumulado": 5.446068644523621,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_198",
+                        "texto": "ModerateAutism cannot generalize the corrected rule to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.28896334767341614,
+                        "sim_con_problema": 0.3787466883659363,
+                        "peso_arista": 1.3322899639606476,
+                        "peso_acumulado": 6.778358608484268,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_199",
+                        "texto": "ModerateAutism stores the correction as an explicit new rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.29284417629241943,
+                        "sim_con_problema": 0.32514166831970215,
+                        "peso_arista": 1.3820141553878784,
+                        "peso_acumulado": 6.828082799911499,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_74",
+                    "texto": "The social miscue will not generalize to future contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17949038743972778,
+                    "sim_con_problema": 0.44299328327178955,
+                    "peso_arista": 1.3775163292884827,
+                    "peso_acumulado": 5.290163472294807,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_183",
+                        "texto": "ModerateAutism must re-retrieve the pragmatic rule each occurrence",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23258809745311737,
+                        "sim_con_problema": 0.35870417952537537,
+                        "peso_arista": 1.4087077230215073,
+                        "peso_acumulado": 6.698871195316315,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_35",
+                "texto": "ModerateAutism defaults to the explicit literal meaning stated",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.22694626450538635,
+                "sim_con_problema": 0.5320771932601929,
+                "peso_arista": 1.2409765422344208,
+                "peso_acumulado": 3.9445454329252243,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_79",
+                    "texto": "ModerateAutism cannot match the utterance to a stored norm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.26504063606262207,
+                    "sim_con_problema": 0.5461442470550537,
+                    "peso_arista": 1.1888151168823242,
+                    "peso_acumulado": 5.1333605498075485,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_149",
+                        "texto": "ModerateAutism cannot generalize this norm to future sarcastic exchanges",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.17217719554901123,
+                        "sim_con_problema": 0.510826826095581,
+                        "peso_arista": 1.3169959783554077,
+                        "peso_acumulado": 6.450356528162956,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_150",
+                        "texto": "ModerateAutism requires explicit corrective feedback to update the norm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2897357940673828,
+                        "sim_con_problema": 0.314328134059906,
+                        "peso_arista": 1.3959360718727112,
+                        "peso_acumulado": 6.52929662168026,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_9",
+            "texto": "ModerateAutism responds based on the statement's explicit surface meaning",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2795286774635315,
+            "sim_con_problema": 0.47903525829315186,
+            "peso_arista": 1.2414360642433167,
+            "peso_acumulado": 2.488577738404274,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_17",
+                "texto": "ModerateAutism produces a reply mismatched to speaker's intent",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.23336297273635864,
+                "sim_con_problema": 0.6136313676834106,
+                "peso_arista": 1.1530056595802307,
+                "peso_acumulado": 3.6415833979845047,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_39",
+                    "texto": "ModerateAutism does not detect classmate's unspoken expectation mismatch",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2687709927558899,
+                    "sim_con_problema": 0.45020878314971924,
+                    "peso_arista": 1.2810202240943909,
+                    "peso_acumulado": 4.922603622078896,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_97",
+                        "texto": "ModerateAutism does not retrieve a pragmatic rule entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16926705837249756,
+                        "sim_con_problema": 0.3739376664161682,
+                        "peso_arista": 1.4567952752113342,
+                        "peso_acumulado": 6.37939889729023,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_98",
+                        "texto": "ModerateAutism does not re-anchor to this social context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15300694108009338,
+                        "sim_con_problema": 0.4403144121170044,
+                        "peso_arista": 1.4066786468029022,
+                        "peso_acumulado": 6.329282268881798,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_40",
+                    "texto": "ModerateAutism receives no immediate observable feedback about mismatch",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17068082094192505,
+                    "sim_con_problema": 0.20292726159095764,
+                    "peso_arista": 1.6263919174671173,
+                    "peso_acumulado": 5.267975315451622,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_175",
+                        "texto": "ModerateAutism fails to update its sarcasm-response rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12771613895893097,
+                        "sim_con_problema": 0.36963003873825073,
+                        "peso_arista": 1.5026538223028183,
+                        "peso_acumulado": 6.77062913775444,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_176",
+                        "texto": "ModerateAutism does not store this pragmatic exception",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.14800414443016052,
+                        "sim_con_problema": 0.34337693452835083,
+                        "peso_arista": 1.5086189210414886,
+                        "peso_acumulado": 6.776594236493111,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_177",
+                        "texto": "ModerateAutism will repeat the mismatch in similar contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.22687414288520813,
+                        "sim_con_problema": 0.37254709005355835,
+                        "peso_arista": 1.4005787670612335,
+                        "peso_acumulado": 6.6685540825128555,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_41",
+                    "texto": "ModerateAutism lacks stored database entry for this sarcasm instance",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.08151637762784958,
+                    "sim_con_problema": 0.3371415436267853,
+                    "peso_arista": 1.5813420787453651,
+                    "peso_acumulado": 5.22292547672987,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_166",
+                        "texto": "ModerateAutism requires explicit instruction to encode this instance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3146238625049591,
+                        "sim_con_problema": 0.31794220209121704,
+                        "peso_arista": 1.3674339354038239,
+                        "peso_acumulado": 6.590359412133694,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_167",
+                        "texto": "ModerateAutism needs specific feedback to update its rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.24949413537979126,
+                        "sim_con_problema": 0.2340993732213974,
+                        "peso_arista": 1.5164064913988113,
+                        "peso_acumulado": 6.739331968128681,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_42",
+                    "texto": "ModerateAutism cannot generalize this reply error to future sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.15950000286102295,
+                    "sim_con_problema": 0.4593086838722229,
+                    "peso_arista": 1.3811913132667542,
+                    "peso_acumulado": 5.022774711251259,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_111",
+                        "texto": "ModerateAutism repeats the same literal-response error again",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1616385132074356,
+                        "sim_con_problema": 0.2668575048446655,
+                        "peso_arista": 1.5715039819478989,
+                        "peso_acumulado": 6.594278693199158,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "ModerateAutism_5_112",
+                        "texto": "ModerateAutism lacks a stored rule for sarcasm detection",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2251228243112564,
+                        "sim_con_problema": 0.5102196335792542,
+                        "peso_arista": 1.2646575421094894,
+                        "peso_acumulado": 6.287432253360748,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "ModerateAutism_6_233",
+                            "texto": "ModerateAutism cannot retrieve a matching pragmatic rule for irony",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.1671365201473236,
+                            "sim_con_problema": 0.4807962477207184,
+                            "peso_arista": 1.352067232131958,
+                            "peso_acumulado": 7.639499485492706,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_234",
+                            "texto": "ModerateAutism will misinterpret future sarcasm without explicit instruction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.25853419303894043,
+                            "sim_con_problema": 0.6212635040283203,
+                            "peso_arista": 1.1202023029327393,
+                            "peso_acumulado": 7.4076345562934875,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "ModerateAutism_6_235",
+                            "texto": "ModerateAutism relies only on explicit rules, not implicit sarcasm cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2766069173812866,
+                            "sim_con_problema": 0.4766654968261719,
+                            "peso_arista": 1.2467275857925415,
+                            "peso_acumulado": 7.53415983915329,
+                            "premise_id": "A23",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_19",
+                "texto": "ModerateAutism will not update without explicit corrective feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1727398931980133,
+                "sim_con_problema": 0.21482717990875244,
+                "peso_arista": 1.6124329268932343,
+                "peso_acumulado": 4.101010665297508,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_81",
+                    "texto": "ModerateAutism will misread sarcasm again in new contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.17773917317390442,
+                    "sim_con_problema": 0.5521259307861328,
+                    "peso_arista": 1.2701348960399628,
+                    "peso_acumulado": 5.371145561337471,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "ModerateAutism_5_192",
+                        "texto": "ModerateAutism applies literal interpretation unless rule is stated explicitly",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.27794891595840454,
+                        "sim_con_problema": 0.471250057220459,
+                        "peso_arista": 1.2508010268211365,
+                        "peso_acumulado": 6.6219465881586075,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ModerateAutism_4_83",
+                    "texto": "ModerateAutism requires observable specific feedback to revise interpretation",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.37043946981430054,
+                    "sim_con_problema": 0.40627557039260864,
+                    "peso_arista": 1.2232849597930908,
+                    "peso_acumulado": 5.324295625090599,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 82,
+  "profundidad_maxima": 6
+}

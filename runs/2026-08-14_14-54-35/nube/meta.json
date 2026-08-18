@@ -1,0 +1,71 @@
+{
+  "nodos": [
+    "BroadlyAffectedAutism_0_0",
+    "BroadlyAffectedAutism_1_4",
+    "BroadlyAffectedAutism_2_12",
+    "BroadlyAffectedAutism_3_29",
+    "MixedASDwithDelay_0_0",
+    "MixedASDwithDelay_1_4",
+    "MixedASDwithDelay_2_13",
+    "ModerateAutism_0_0",
+    "ModerateAutism_1_5",
+    "ModerateAutism_2_22",
+    "ModerateAutism_3_54",
+    "ModerateAutism_4_103",
+    "ModerateAutism_5_223",
+    "NeurotypicalCognition_0_0",
+    "NeurotypicalCognition_1_3",
+    "NeurotypicalCognition_2_7",
+    "NeurotypicalCognition_3_23",
+    "NeurotypicalCognition_4_53",
+    "NeurotypicalCognition_5_101",
+    "SocialBehavioralAutism_0_0",
+    "SocialBehavioralAutism_1_4"
+  ],
+  "nodo_textos": [
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing.",
+    "BroadlyAffectedAutism cannot generalize prior routine to new schedule",
+    "BroadlyAffectedAutism experiences processing overload from the schedule change",
+    "BroadlyAffectedAutism requires explicit statement of the new schedule",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+    "MixedASDwithDelay cannot apply prior schedule rule to new context",
+    "MixedASDwithDelay requires explicit instruction to re-anchor schedule",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+    "ModerateAutism risks losing access to learning and engagement",
+    "ModerateAutism cannot infer the unstated new expectations",
+    "ModerateAutism cannot retrieve a matching stored social rule",
+    "ModerateAutism cannot determine an appropriate social response",
+    "ModerateAutism defaults to a previously established routine action",
+    "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+    "NeurotypicalCognition rapidly updates its contextual expectations",
+    "NeurotypicalCognition applies known routines to the new schedule",
+    "NeurotypicalCognition treats schedule mismatch as correctable information",
+    "NeurotypicalCognition is motivated to correct the schedule mismatch",
+    "NeurotypicalCognition seeks clarifying cues about the new schedule",
+    "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+    "SocialBehavioralAutism requires explicit retrieval of new schedule rules"
+  ],
+  "hubs_info": [
+    {
+      "clase_id": "SocialBehavioralAutism_3_39",
+      "tipo": "lax",
+      "closure_size": 467,
+      "core_size": 14,
+      "ftt_sum": 17.99283155798912,
+      "ftt_max": 7.495836615562439
+    }
+  ],
+  "actores": [
+    "BroadlyAffectedAutism",
+    "MixedASDwithDelay",
+    "ModerateAutism",
+    "NeurotypicalCognition",
+    "SocialBehavioralAutism"
+  ],
+  "version": "1.0",
+  "k_max": 10,
+  "cap": 10000,
+  "N": 21,
+  "H": 1,
+  "K": 5
+}

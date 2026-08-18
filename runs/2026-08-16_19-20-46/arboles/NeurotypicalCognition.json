@@ -1,0 +1,1882 @@
+{
+  "actor": "NeurotypicalCognition",
+  "raiz": {
+    "id": "NeurotypicalCognition_0_0",
+    "texto": "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.5668817758560181,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "NeurotypicalCognition_1_1",
+        "texto": "NeurotypicalCognition redirects attention toward the group task",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.6422021389007568,
+        "sim_con_problema": 0.7280778884887695,
+        "peso_arista": 0.6297199726104736,
+        "peso_acumulado": 0.6297199726104736,
+        "premise_id": "N11",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_8",
+            "texto": "NeurotypicalCognition integrates the group task's social and contextual cues",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.766759991645813,
+            "sim_con_problema": 0.6212798357009888,
+            "peso_arista": 0.6119601726531982,
+            "peso_acumulado": 1.2416801452636719,
+            "premise_id": "N4",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_18",
+                "texto": "NeurotypicalCognition infers the group's implicit behavioral expectations",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6564298272132874,
+                "sim_con_problema": 0.5492972731590271,
+                "peso_arista": 0.7942728996276855,
+                "peso_acumulado": 2.0359530448913574,
+                "premise_id": "N23",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_36",
+                    "texto": "NeurotypicalCognition aligns its behavior with group norms",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7227250337600708,
+                    "sim_con_problema": 0.5309742093086243,
+                    "peso_arista": 0.7463007569313049,
+                    "peso_acumulado": 2.7822538018226624,
+                    "premise_id": "N18",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_65",
+                        "texto": "NeurotypicalCognition anticipates social approval from the group",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6439020037651062,
+                        "sim_con_problema": 0.3871130347251892,
+                        "peso_arista": 0.9689849615097046,
+                        "peso_acumulado": 3.751238763332367,
+                        "premise_id": "N12",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_182",
+                            "texto": "NeurotypicalCognition sustains behavior aligned with the group task",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6778088808059692,
+                            "sim_con_problema": 0.6827949285507202,
+                            "peso_arista": 0.6393961906433105,
+                            "peso_acumulado": 4.3906349539756775,
+                            "premise_id": "N12",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_267",
+                                "texto": "NeurotypicalCognition remains able to redirect attention if salience shifts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5453184843063354,
+                                "sim_con_problema": 0.7106064558029175,
+                                "peso_arista": 0.7440750598907471,
+                                "peso_acumulado": 5.134710013866425,
+                                "premise_id": "N11",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_269",
+                                "texto": "NeurotypicalCognition monitors for social norm violations during the task",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6465612053871155,
+                                "sim_con_problema": 0.49825769662857056,
+                                "peso_arista": 0.855181097984314,
+                                "peso_acumulado": 5.2458160519599915,
+                                "premise_id": "N18",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_270",
+                                "texto": "NeurotypicalCognition expects continued social approval for this alignment",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6548130512237549,
+                                "sim_con_problema": 0.42029431462287903,
+                                "peso_arista": 0.9248926341533661,
+                                "peso_acumulado": 5.315527588129044,
+                                "premise_id": "N12",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_66",
+                        "texto": "NeurotypicalCognition monitors for further norm violations via feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5781188011169434,
+                        "sim_con_problema": 0.4092451333999634,
+                        "peso_arista": 1.0126360654830933,
+                        "peso_acumulado": 3.7948898673057556,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_189",
+                            "texto": "NeurotypicalCognition corrects behavior upon detecting a norm error",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6134710311889648,
+                            "sim_con_problema": 0.4471953809261322,
+                            "peso_arista": 0.939333587884903,
+                            "peso_acumulado": 4.734223455190659,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_190",
+                            "texto": "NeurotypicalCognition remains flexibly attentive to further social signals",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.737655520439148,
+                            "sim_con_problema": 0.5743268728256226,
+                            "peso_arista": 0.6880176067352295,
+                            "peso_acumulado": 4.482907474040985,
+                            "premise_id": "N11",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_67",
+                        "texto": "NeurotypicalCognition integrates ongoing group feedback to adjust behavior",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6764769554138184,
+                        "sim_con_problema": 0.5857007503509521,
+                        "peso_arista": 0.7378222942352295,
+                        "peso_acumulado": 3.520076096057892,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_146",
+                            "texto": "NeurotypicalCognition treats behavioral errors as correctable information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6148364543914795,
+                            "sim_con_problema": 0.5359192490577698,
+                            "peso_arista": 0.8492442965507507,
+                            "peso_acumulado": 4.369320392608643,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_37",
+                    "texto": "NeurotypicalCognition prioritizes the group task for social approval",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6608312129974365,
+                    "sim_con_problema": 0.47172170877456665,
+                    "peso_arista": 0.8674470782279968,
+                    "peso_acumulado": 2.9034001231193542,
+                    "premise_id": "N12",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_93",
+                        "texto": "NeurotypicalCognition fully redirects attention to task demands",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6169552803039551,
+                        "sim_con_problema": 0.7682234048843384,
+                        "peso_arista": 0.6148213148117065,
+                        "peso_acumulado": 3.518221437931061,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_142",
+                            "texto": "NeurotypicalCognition extracts global meaning from task details",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6891788244247437,
+                            "sim_con_problema": 0.5839248895645142,
+                            "peso_arista": 0.7268962860107422,
+                            "peso_acumulado": 4.245117723941803,
+                            "premise_id": "N6",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_237",
+                                "texto": "NeurotypicalCognition interprets task details within group context",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7180001735687256,
+                                "sim_con_problema": 0.6436706781387329,
+                                "peso_arista": 0.6383291482925415,
+                                "peso_acumulado": 4.8834468722343445,
+                                "premise_id": "N6",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_144",
+                            "texto": "NeurotypicalCognition resolves the shift's prediction error quickly",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4591136574745178,
+                            "sim_con_problema": 0.4323349595069885,
+                            "peso_arista": 1.1085513830184937,
+                            "peso_acumulado": 4.626772820949554,
+                            "premise_id": "N20",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_94",
+                        "texto": "NeurotypicalCognition updates rapidly after the interrupted focus",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5202839374542236,
+                        "sim_con_problema": 0.6478655338287354,
+                        "peso_arista": 0.831850528717041,
+                        "peso_acumulado": 3.7352506518363953,
+                        "premise_id": "N20",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_175",
+                            "texto": "NeurotypicalCognition experiences no lasting discomfort from the shift",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4650576412677765,
+                            "sim_con_problema": 0.45417386293411255,
+                            "peso_arista": 1.080768495798111,
+                            "peso_acumulado": 4.816019147634506,
+                            "premise_id": "N19",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_38",
+                    "texto": "NeurotypicalCognition monitors group feedback for behavioral cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6502439379692078,
+                    "sim_con_problema": 0.5494695901870728,
+                    "peso_arista": 0.8002864718437195,
+                    "peso_acumulado": 2.836239516735077,
+                    "premise_id": "N24",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_76",
+                        "texto": "NeurotypicalCognition supplements vague feedback through self-monitoring",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6318274140357971,
+                        "sim_con_problema": 0.5635392069816589,
+                        "peso_arista": 0.804633378982544,
+                        "peso_acumulado": 3.640872895717621,
+                        "premise_id": "N24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_77",
+                        "texto": "NeurotypicalCognition detects norm violations from group feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6182271242141724,
+                        "sim_con_problema": 0.40252506732940674,
+                        "peso_arista": 0.9792478084564209,
+                        "peso_acumulado": 3.815487325191498,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_191",
+                            "texto": "NeurotypicalCognition is motivated to correct the detected behavior",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6394898295402527,
+                            "sim_con_problema": 0.6295239925384521,
+                            "peso_arista": 0.7309861779212952,
+                            "peso_acumulado": 4.546473503112793,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_78",
+                        "texto": "NeurotypicalCognition corrects behavior in response to detected error",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6050872802734375,
+                        "sim_con_problema": 0.5274189114570618,
+                        "peso_arista": 0.8674938082695007,
+                        "peso_acumulado": 3.7037333250045776,
+                        "premise_id": "N21",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_169",
+                            "texto": "NeurotypicalCognition resumes group task without disruption",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6280297040939331,
+                            "sim_con_problema": 0.6007348895072937,
+                            "peso_arista": 0.7712354063987732,
+                            "peso_acumulado": 4.474968731403351,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_170",
+                            "texto": "NeurotypicalCognition generalizes corrected behavior to similar tasks",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6618607044219971,
+                            "sim_con_problema": 0.6676596403121948,
+                            "peso_arista": 0.6704796552658081,
+                            "peso_acumulado": 4.374212980270386,
+                            "premise_id": "N22",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_262",
+                                "texto": "NeurotypicalCognition applies corrected behavior without explicit re-anchoring",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.672148585319519,
+                                "sim_con_problema": 0.5930894613265991,
+                                "peso_arista": 0.7347619533538818,
+                                "peso_acumulado": 5.108974933624268,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_263",
+                                "texto": "NeurotypicalCognition consolidates the generalized behavior as environment stabilizes",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6939099431037903,
+                                "sim_con_problema": 0.5903242826461792,
+                                "peso_arista": 0.7157657742500305,
+                                "peso_acumulado": 5.089978754520416,
+                                "premise_id": "N7",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_171",
+                            "texto": "NeurotypicalCognition continues monitoring feedback for further adjustment",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6164741516113281,
+                            "sim_con_problema": 0.5229992270469666,
+                            "peso_arista": 0.8605266213417053,
+                            "peso_acumulado": 4.564259946346283,
+                            "premise_id": "N24",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_19",
+                "texto": "NeurotypicalCognition becomes motivated by anticipated peer approval",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6457416415214539,
+                "sim_con_problema": 0.4602230191230774,
+                "peso_arista": 0.8940353393554688,
+                "peso_acumulado": 2.1357154846191406,
+                "premise_id": "N12",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_42",
+                    "texto": "NeurotypicalCognition sustains engagement with the group task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6689043641090393,
+                    "sim_con_problema": 0.6566230654716492,
+                    "peso_arista": 0.6744725704193115,
+                    "peso_acumulado": 2.810188055038452,
+                    "premise_id": "N13",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_73",
+                        "texto": "NeurotypicalCognition detects norm violations through social feedback",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6901569962501526,
+                        "sim_con_problema": 0.4153616428375244,
+                        "peso_arista": 0.894481360912323,
+                        "peso_acumulado": 3.704669415950775,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_172",
+                            "texto": "NeurotypicalCognition experiences mild social discomfort motivating correction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.60837322473526,
+                            "sim_con_problema": 0.5271005630493164,
+                            "peso_arista": 0.8645262122154236,
+                            "peso_acumulado": 4.569195628166199,
+                            "premise_id": "N21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_173",
+                            "texto": "NeurotypicalCognition adjusts behavior without systemic disruption",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7144296169281006,
+                            "sim_con_problema": 0.6590524911880493,
+                            "peso_arista": 0.6265178918838501,
+                            "peso_acumulado": 4.331187307834625,
+                            "premise_id": "N21",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_254",
+                                "texto": "NeurotypicalCognition generalizes this adjustment across future contexts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7252100706100464,
+                                "sim_con_problema": 0.5816740393638611,
+                                "peso_arista": 0.6931158900260925,
+                                "peso_acumulado": 5.024303197860718,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_255",
+                                "texto": "NeurotypicalCognition consolidates the corrected behavior pattern",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.67398601770401,
+                                "sim_con_problema": 0.587299108505249,
+                                "peso_arista": 0.738714873790741,
+                                "peso_acumulado": 5.069902181625366,
+                                "premise_id": "N7",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_256",
+                                "texto": "NeurotypicalCognition resolves remaining prediction error rapidly",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.46563732624053955,
+                                "sim_con_problema": 0.38371261954307556,
+                                "peso_arista": 1.1506500542163849,
+                                "peso_acumulado": 5.48183736205101,
+                                "premise_id": "N20",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_174",
+                            "texto": "NeurotypicalCognition generalizes the corrected rule to similar contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7295819520950317,
+                            "sim_con_problema": 0.5227486491203308,
+                            "peso_arista": 0.7476693987846375,
+                            "peso_acumulado": 4.452338814735413,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_74",
+                        "texto": "NeurotypicalCognition simultaneously processes group members' verbal and social cues",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7227263450622559,
+                        "sim_con_problema": 0.5093448758125305,
+                        "peso_arista": 0.7679287791252136,
+                        "peso_acumulado": 3.5781168341636658,
+                        "premise_id": "N4",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_155",
+                            "texto": "NeurotypicalCognition decodes implied meaning without extra inference",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6399512887001038,
+                            "sim_con_problema": 0.44376835227012634,
+                            "peso_arista": 0.9162803590297699,
+                            "peso_acumulado": 4.494397193193436,
+                            "premise_id": "N17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_157",
+                            "texto": "NeurotypicalCognition extracts overall group task meaning automatically",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6559585332870483,
+                            "sim_con_problema": 0.5378469228744507,
+                            "peso_arista": 0.806194543838501,
+                            "peso_acumulado": 4.384311378002167,
+                            "premise_id": "N6",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_264",
+                                "texto": "NeurotypicalCognition generalizes task rules across group members",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6953077912330627,
+                                "sim_con_problema": 0.6331449747085571,
+                                "peso_arista": 0.6715472340583801,
+                                "peso_acumulado": 5.055858612060547,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_265",
+                                "texto": "NeurotypicalCognition decodes implicit cues within group dialogue",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6843822002410889,
+                                "sim_con_problema": 0.4713013768196106,
+                                "peso_arista": 0.8443164229393005,
+                                "peso_acumulado": 5.228627800941467,
+                                "premise_id": "N17",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_158",
+                            "texto": "NeurotypicalCognition detects any social norm violations automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.679523766040802,
+                            "sim_con_problema": 0.36966049671173096,
+                            "peso_arista": 0.950815737247467,
+                            "peso_acumulado": 4.528932571411133,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_75",
+                        "texto": "NeurotypicalCognition corrects errors flagged during task collaboration",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5577948689460754,
+                        "sim_con_problema": 0.5096794962882996,
+                        "peso_arista": 0.932525634765625,
+                        "peso_acumulado": 3.742713689804077,
+                        "premise_id": "N21",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_180",
+                            "texto": "NeurotypicalCognition continues collaboration without system shutdown",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5836841464042664,
+                            "sim_con_problema": 0.4909244775772095,
+                            "peso_arista": 0.9253913760185242,
+                            "peso_acumulado": 4.668105065822601,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_43",
+                    "texto": "NeurotypicalCognition regulates behavior toward anticipated social consequences",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6934856176376343,
+                    "sim_con_problema": 0.5562012791633606,
+                    "peso_arista": 0.7503131031990051,
+                    "peso_acumulado": 2.8860285878181458,
+                    "premise_id": "N12",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_88",
+                        "texto": "NeurotypicalCognition updates prediction rapidly to the new task context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6607469916343689,
+                        "sim_con_problema": 0.5514376163482666,
+                        "peso_arista": 0.7878153920173645,
+                        "peso_acumulado": 3.6738439798355103,
+                        "premise_id": "N20",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_168",
+                            "texto": "NeurotypicalCognition resolves discomfort from interrupted focus rapidly",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.44633838534355164,
+                            "sim_con_problema": 0.6338358521461487,
+                            "peso_arista": 0.9198257625102997,
+                            "peso_acumulado": 4.59366974234581,
+                            "premise_id": "N19",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_89",
+                        "texto": "NeurotypicalCognition sustains motivation despite low intrinsic interest",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.48263558745384216,
+                        "sim_con_problema": 0.6264932155609131,
+                        "peso_arista": 0.8908711969852448,
+                        "peso_acumulado": 3.7768997848033905,
+                        "premise_id": "N13",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_186",
+                            "texto": "NeurotypicalCognition processes task errors without system shutdown",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5267997980117798,
+                            "sim_con_problema": 0.5679464340209961,
+                            "peso_arista": 0.9052537679672241,
+                            "peso_acumulado": 4.682153552770615,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_44",
+                    "texto": "NeurotypicalCognition's residual discomfort from the shift resolves rapidly",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.44867438077926636,
+                    "sim_con_problema": 0.47435203194618225,
+                    "peso_arista": 1.0769735872745514,
+                    "peso_acumulado": 3.212689071893692,
+                    "premise_id": "N19",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_106",
+                        "texto": "NeurotypicalCognition re-engages fully without lingering resistance",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6041576862335205,
+                        "sim_con_problema": 0.5410898923873901,
+                        "peso_arista": 0.8547524213790894,
+                        "peso_acumulado": 4.067441493272781,
+                        "premise_id": "N19",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_211",
+                            "texto": "NeurotypicalCognition sustains flexible attention on the group task",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.635017991065979,
+                            "sim_con_problema": 0.7504706382751465,
+                            "peso_arista": 0.6145113706588745,
+                            "peso_acumulado": 4.681952863931656,
+                            "premise_id": "N11",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_214",
+                            "texto": "NeurotypicalCognition monitors peers for norm-consistent participation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6431390643119812,
+                            "sim_con_problema": 0.4632152318954468,
+                            "peso_arista": 0.893645703792572,
+                            "peso_acumulado": 4.961087197065353,
+                            "premise_id": "N18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_20",
+                "texto": "NeurotypicalCognition applies prior task rules to this group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6579841375350952,
+                "sim_con_problema": 0.5952857732772827,
+                "peso_arista": 0.7467300891876221,
+                "peso_acumulado": 1.988410234451294,
+                "premise_id": "N22",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_33",
+                    "texto": "NeurotypicalCognition transfers the rules without explicit re-anchoring",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7337511777877808,
+                    "sim_con_problema": 0.5521490573883057,
+                    "peso_arista": 0.7140997648239136,
+                    "peso_acumulado": 2.7025099992752075,
+                    "premise_id": "N22",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_61",
+                        "texto": "NeurotypicalCognition computes the group task's implicit social expectations",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6882404088973999,
+                        "sim_con_problema": 0.5532801151275635,
+                        "peso_arista": 0.7584794759750366,
+                        "peso_acumulado": 3.460989475250244,
+                        "premise_id": "N23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_63",
+                        "texto": "NeurotypicalCognition integrates group members' feedback during the task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6556243896484375,
+                        "sim_con_problema": 0.569608211517334,
+                        "peso_arista": 0.7747673988342285,
+                        "peso_acumulado": 3.477277398109436,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_134",
+                            "texto": "NeurotypicalCognition supplements vague feedback with social inference",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7022692561149597,
+                            "sim_con_problema": 0.4846145212650299,
+                            "peso_arista": 0.8131162226200104,
+                            "peso_acumulado": 4.290393620729446,
+                            "premise_id": "N24",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_251",
+                                "texto": "NeurotypicalCognition infers implicit behavioral expectations from the feedback",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6417905688285828,
+                                "sim_con_problema": 0.5607873201370239,
+                                "peso_arista": 0.7974221110343933,
+                                "peso_acumulado": 5.08781573176384,
+                                "premise_id": "N23",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_253",
+                                "texto": "NeurotypicalCognition adjusts its actions to correct the inferred error",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6208614110946655,
+                                "sim_con_problema": 0.5375758409500122,
+                                "peso_arista": 0.8415627479553223,
+                                "peso_acumulado": 5.131956368684769,
+                                "premise_id": "N21",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_34",
+                    "texto": "NeurotypicalCognition treats rule mismatches as correctable information",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6164644956588745,
+                    "sim_con_problema": 0.4448050856590271,
+                    "peso_arista": 0.9387304186820984,
+                    "peso_acumulado": 2.9271406531333923,
+                    "premise_id": "N21",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_98",
+                        "texto": "NeurotypicalCognition corrects the mismatch without disengaging",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5905709266662598,
+                        "sim_con_problema": 0.48611152172088623,
+                        "peso_arista": 0.923317551612854,
+                        "peso_acumulado": 3.8504582047462463,
+                        "premise_id": "N21",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_194",
+                            "texto": "NeurotypicalCognition applies the corrected rule to future contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7202649712562561,
+                            "sim_con_problema": 0.5427610874176025,
+                            "peso_arista": 0.7369739413261414,
+                            "peso_acumulado": 4.587432146072388,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_196",
+                            "texto": "NeurotypicalCognition remains engaged with the social task",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.731622040271759,
+                            "sim_con_problema": 0.6090739965438843,
+                            "peso_arista": 0.6593039631843567,
+                            "peso_acumulado": 4.509762167930603,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_35",
+                    "texto": "NeurotypicalCognition monitors group feedback to refine rule application",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6467311382293701,
+                    "sim_con_problema": 0.46771764755249023,
+                    "peso_arista": 0.8855512142181396,
+                    "peso_acumulado": 2.8739614486694336,
+                    "premise_id": "N24",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_84",
+                        "texto": "NeurotypicalCognition treats detected errors as correction information",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5456827878952026,
+                        "sim_con_problema": 0.44342076778411865,
+                        "peso_arista": 1.0108964443206787,
+                        "peso_acumulado": 3.8848578929901123,
+                        "premise_id": "N21",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_197",
+                            "texto": "NeurotypicalCognition corrects the error without systemic disruption",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5806315541267395,
+                            "sim_con_problema": 0.4902912974357605,
+                            "peso_arista": 0.9290771484375,
+                            "peso_acumulado": 4.813935041427612,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_85",
+                        "texto": "NeurotypicalCognition adjusts updating rate to feedback volatility",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.4422057569026947,
+                        "sim_con_problema": 0.41372090578079224,
+                        "peso_arista": 1.144073337316513,
+                        "peso_acumulado": 4.018034785985947,
+                        "premise_id": "N7",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_207",
+                            "texto": "NeurotypicalCognition consolidates learning when feedback stabilizes",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6522049307823181,
+                            "sim_con_problema": 0.5651836395263672,
+                            "peso_arista": 0.7826114296913147,
+                            "peso_acumulado": 4.800646215677261,
+                            "premise_id": "N7",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_208",
+                            "texto": "NeurotypicalCognition increases updating during volatile feedback periods",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.46999889612197876,
+                            "sim_con_problema": 0.432095468044281,
+                            "peso_arista": 1.0979056358337402,
+                            "peso_acumulado": 5.115940421819687,
+                            "premise_id": "N7",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_210",
+                            "texto": "NeurotypicalCognition encodes the group task as an episodic narrative",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6789759993553162,
+                            "sim_con_problema": 0.5930600762367249,
+                            "peso_arista": 0.727963924407959,
+                            "peso_acumulado": 4.745998710393906,
+                            "premise_id": "N8",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_86",
+                        "texto": "NeurotypicalCognition generalizes refined rule to new contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7729535102844238,
+                        "sim_con_problema": 0.5168416500091553,
+                        "peso_arista": 0.7102048397064209,
+                        "peso_acumulado": 3.5841662883758545,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_159",
+                            "texto": "NeurotypicalCognition applies the rule without explicit re-anchoring",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.705181360244751,
+                            "sim_con_problema": 0.5432416200637817,
+                            "peso_arista": 0.7515770196914673,
+                            "peso_acumulado": 4.335743308067322,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_160",
+                            "texto": "NeurotypicalCognition consolidates the rule as environment stabilizes",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6729247570037842,
+                            "sim_con_problema": 0.5150982141494751,
+                            "peso_arista": 0.8119770288467407,
+                            "peso_acumulado": 4.396143317222595,
+                            "premise_id": "N7",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_271",
+                                "texto": "NeurotypicalCognition reduces further updating of the rule",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6071503758430481,
+                                "sim_con_problema": 0.46817830204963684,
+                                "peso_arista": 0.9246713221073151,
+                                "peso_acumulado": 5.32081463932991,
+                                "premise_id": "N7",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_2",
+        "texto": "NeurotypicalCognition generates a small prediction error from the shift",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4756172001361847,
+        "sim_con_problema": 0.4461883306503296,
+        "peso_arista": 1.0781944692134857,
+        "peso_acumulado": 1.0781944692134857,
+        "premise_id": "N20",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_12",
+            "texto": "NeurotypicalCognition resolves the error through rapid contextual updating",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6495513916015625,
+            "sim_con_problema": 0.4545419216156006,
+            "peso_arista": 0.8959066867828369,
+            "peso_acumulado": 1.9741011559963226,
+            "premise_id": "N20",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_32",
+                "texto": "NeurotypicalCognition integrates group task context without effort",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.736720085144043,
+                "sim_con_problema": 0.6553836464881897,
+                "peso_arista": 0.6078962683677673,
+                "peso_acumulado": 2.58199742436409,
+                "premise_id": "N4",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_52",
+                    "texto": "NeurotypicalCognition infers its expected role in group",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6831865310668945,
+                    "sim_con_problema": 0.531199038028717,
+                    "peso_arista": 0.7856144309043884,
+                    "peso_acumulado": 3.3676118552684784,
+                    "premise_id": "N23",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_120",
+                        "texto": "NeurotypicalCognition aligns behavior with inferred role expectations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.639979362487793,
+                        "sim_con_problema": 0.5880950689315796,
+                        "peso_arista": 0.7719255685806274,
+                        "peso_acumulado": 4.139537423849106,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_224",
+                            "texto": "NeurotypicalCognition anticipates peer approval for compliance",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6366993188858032,
+                            "sim_con_problema": 0.40033257007598877,
+                            "peso_arista": 0.962968111038208,
+                            "peso_acumulado": 5.102505534887314,
+                            "premise_id": "N12",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_54",
+                    "texto": "NeurotypicalCognition integrates peers' social cues automatically",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.767951488494873,
+                    "sim_con_problema": 0.4952160716056824,
+                    "peso_arista": 0.7368324398994446,
+                    "peso_acumulado": 3.3188298642635345,
+                    "premise_id": "N4",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_112",
+                        "texto": "NeurotypicalCognition redirects attention according to peer signals",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6507600545883179,
+                        "sim_con_problema": 0.6663929224014282,
+                        "peso_arista": 0.6828470230102539,
+                        "peso_acumulado": 4.0016768872737885,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_206",
+                            "texto": "NeurotypicalCognition maintains attention on task per ongoing social salience",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6574633121490479,
+                            "sim_con_problema": 0.7302440404891968,
+                            "peso_arista": 0.6122926473617554,
+                            "peso_acumulado": 4.613969534635544,
+                            "premise_id": "N11",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_113",
+                        "texto": "NeurotypicalCognition automatically mirrors peers' emotional states",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6483409404754639,
+                        "sim_con_problema": 0.4911820888519287,
+                        "peso_arista": 0.8604769706726074,
+                        "peso_acumulado": 4.179306834936142,
+                        "premise_id": "N15",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_225",
+                            "texto": "NeurotypicalCognition generates mirrored emotion with minimal delay",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5777310729026794,
+                            "sim_con_problema": 0.5086760520935059,
+                            "peso_arista": 0.9135928750038147,
+                            "peso_acumulado": 5.092899709939957,
+                            "premise_id": "N16",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_226",
+                            "texto": "NeurotypicalCognition labels the mirrored emotional state",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.57136070728302,
+                            "sim_con_problema": 0.4984728693962097,
+                            "peso_arista": 0.9301664233207703,
+                            "peso_acumulado": 5.109473258256912,
+                            "premise_id": "N14",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_227",
+                            "texto": "NeurotypicalCognition aligns behavior with peer affiliation goals",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6337541937828064,
+                            "sim_con_problema": 0.4955487549304962,
+                            "peso_arista": 0.8706970512866974,
+                            "peso_acumulado": 5.050003886222839,
+                            "premise_id": "N12",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_14",
+            "texto": "NeurotypicalCognition's discomfort resolves rapidly through reappraisal",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5178711414337158,
+            "sim_con_problema": 0.4716348350048065,
+            "peso_arista": 1.0104940235614777,
+            "peso_acumulado": 2.0886884927749634,
+            "premise_id": "N19",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_40",
+                "texto": "NeurotypicalCognition prioritizes social affiliation over the detail",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6649677753448486,
+                "sim_con_problema": 0.5006322264671326,
+                "peso_arista": 0.8343999981880188,
+                "peso_acumulado": 2.923088490962982,
+                "premise_id": "N12",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_97",
+                    "texto": "NeurotypicalCognition integrates social and task context simultaneously",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.8066421747207642,
+                    "sim_con_problema": 0.6432473659515381,
+                    "peso_arista": 0.5501104593276978,
+                    "peso_acumulado": 3.47319895029068,
+                    "premise_id": "N4",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_41",
+                "texto": "NeurotypicalCognition applies prior task rules to the new context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7429420948028564,
+                "sim_con_problema": 0.6654624342918396,
+                "peso_arista": 0.591595470905304,
+                "peso_acumulado": 2.6802839636802673,
+                "premise_id": "N22",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_58",
+                    "texto": "NeurotypicalCognition transfers task rules without explicit re-anchoring",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7120246887207031,
+                    "sim_con_problema": 0.6719415783882141,
+                    "peso_arista": 0.6160337328910828,
+                    "peso_acumulado": 3.29631769657135,
+                    "premise_id": "N22",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_109",
+                        "texto": "NeurotypicalCognition integrates social and contextual cues simultaneously",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.8143143057823181,
+                        "sim_con_problema": 0.5496277809143066,
+                        "peso_arista": 0.6360579133033752,
+                        "peso_acumulado": 3.9323756098747253,
+                        "premise_id": "N4",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_201",
+                            "texto": "NeurotypicalCognition infers expected participation behavior in the group",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6019622683525085,
+                            "sim_con_problema": 0.5063918232917786,
+                            "peso_arista": 0.8916459083557129,
+                            "peso_acumulado": 4.824021518230438,
+                            "premise_id": "N23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_202",
+                            "texto": "NeurotypicalCognition merges verbal and social cues without extra effort",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.737099289894104,
+                            "sim_con_problema": 0.5631661415100098,
+                            "peso_arista": 0.6997345685958862,
+                            "peso_acumulado": 4.632110178470612,
+                            "premise_id": "N4",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_3",
+        "texto": "NeurotypicalCognition prioritizes group task due to social affiliation",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.6642375588417053,
+        "sim_con_problema": 0.5578483939170837,
+        "peso_arista": 0.7779140472412109,
+        "peso_acumulado": 0.7779140472412109,
+        "premise_id": "N12",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_9",
+            "texto": "NeurotypicalCognition redirects attention away from the fascinating detail",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6099477410316467,
+            "sim_con_problema": 0.6786755323410034,
+            "peso_arista": 0.7113767266273499,
+            "peso_acumulado": 1.4892907738685608,
+            "premise_id": "N11",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_22",
+                "texto": "NeurotypicalCognition rapidly updates context to the new task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7444717288017273,
+                "sim_con_problema": 0.6042456030845642,
+                "peso_arista": 0.6512826681137085,
+                "peso_acumulado": 2.1405734419822693,
+                "premise_id": "N20",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_45",
+                    "texto": "NeurotypicalCognition engages attention fully on group task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.635832667350769,
+                    "sim_con_problema": 0.7087627649307251,
+                    "peso_arista": 0.6554045677185059,
+                    "peso_acumulado": 2.795978009700775,
+                    "premise_id": "N11",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_68",
+                        "texto": "NeurotypicalCognition integrates verbal and social cues for task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7598616480827332,
+                        "sim_con_problema": 0.6337002515792847,
+                        "peso_arista": 0.6064381003379822,
+                        "peso_acumulado": 3.4024161100387573,
+                        "premise_id": "N4",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_121",
+                            "texto": "NeurotypicalCognition decodes implicit meaning within group instructions",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7099937200546265,
+                            "sim_con_problema": 0.4741102457046509,
+                            "peso_arista": 0.8158960342407227,
+                            "peso_acumulado": 4.21831214427948,
+                            "premise_id": "N17",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_235",
+                                "texto": "NeurotypicalCognition extracts overall task meaning from instructions",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6625497341156006,
+                                "sim_con_problema": 0.6254140138626099,
+                                "peso_arista": 0.7120362520217896,
+                                "peso_acumulado": 4.9303483963012695,
+                                "premise_id": "N6",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_236",
+                                "texto": "NeurotypicalCognition applies understood instructions across task contexts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7598084211349487,
+                                "sim_con_problema": 0.6462406516075134,
+                                "peso_arista": 0.5939509272575378,
+                                "peso_acumulado": 4.812263071537018,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_69",
+                        "texto": "NeurotypicalCognition extracts overall meaning of group task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6617876291275024,
+                        "sim_con_problema": 0.6053508520126343,
+                        "peso_arista": 0.7328615188598633,
+                        "peso_acumulado": 3.5288395285606384,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_148",
+                            "texto": "NeurotypicalCognition interprets task details through overall context",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7405151128768921,
+                            "sim_con_problema": 0.6892533302307129,
+                            "peso_arista": 0.570231556892395,
+                            "peso_acumulado": 4.0990710854530334,
+                            "premise_id": "N6",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_215",
+                                "texto": "NeurotypicalCognition integrates verbal and social task information simultaneously",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7753459215164185,
+                                "sim_con_problema": 0.591490626335144,
+                                "peso_arista": 0.6331634521484375,
+                                "peso_acumulado": 4.732234537601471,
+                                "premise_id": "N4",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_217",
+                                "texto": "NeurotypicalCognition generalizes task rules to this new context",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7424201965332031,
+                                "sim_con_problema": 0.6689211130142212,
+                                "peso_arista": 0.5886586904525757,
+                                "peso_acumulado": 4.687729775905609,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_218",
+                                "texto": "NeurotypicalCognition detects norm violations during group task participation",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6212535500526428,
+                                "sim_con_problema": 0.5370892286300659,
+                                "peso_arista": 0.8416572213172913,
+                                "peso_acumulado": 4.940728306770325,
+                                "premise_id": "N18",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_150",
+                            "texto": "NeurotypicalCognition infers implicit behavioral expectations for task",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6475964784622192,
+                            "sim_con_problema": 0.6808557510375977,
+                            "peso_arista": 0.6715477705001831,
+                            "peso_acumulado": 4.2003872990608215,
+                            "premise_id": "N23",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_228",
+                                "texto": "NeurotypicalCognition monitors peers for norm violation feedback",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6198967695236206,
+                                "sim_con_problema": 0.40212470293045044,
+                                "peso_arista": 0.977978527545929,
+                                "peso_acumulado": 5.1783658266067505,
+                                "premise_id": "N18",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_229",
+                                "texto": "NeurotypicalCognition generates motivation to comply with task",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5797829031944275,
+                                "sim_con_problema": 0.6868671774864197,
+                                "peso_arista": 0.7333499193191528,
+                                "peso_acumulado": 4.933737218379974,
+                                "premise_id": "N13",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_230",
+                                "texto": "NeurotypicalCognition applies expectations across similar future tasks",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6367182731628418,
+                                "sim_con_problema": 0.6215941309928894,
+                                "peso_arista": 0.7416875958442688,
+                                "peso_acumulado": 4.94207489490509,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_70",
+                        "texto": "NeurotypicalCognition applies prior learned rules to new task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.711887776851654,
+                        "sim_con_problema": 0.6093630194664001,
+                        "peso_arista": 0.6787492036819458,
+                        "peso_acumulado": 3.474727213382721,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_132",
+                            "texto": "NeurotypicalCognition integrates incoming feedback on task performance",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6259386539459229,
+                            "sim_con_problema": 0.6409426331520081,
+                            "peso_arista": 0.7331187129020691,
+                            "peso_acumulado": 4.20784592628479,
+                            "premise_id": "N24",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_231",
+                                "texto": "NeurotypicalCognition supplements feedback with self-monitoring and social inference",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7116676568984985,
+                                "sim_con_problema": 0.5430410504341125,
+                                "peso_arista": 0.7452912926673889,
+                                "peso_acumulado": 4.953137218952179,
+                                "premise_id": "N24",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_232",
+                                "texto": "NeurotypicalCognition treats performance errors as correctable information",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5300707817077637,
+                                "sim_con_problema": 0.471500039100647,
+                                "peso_arista": 0.9984291791915894,
+                                "peso_acumulado": 5.206275105476379,
+                                "premise_id": "N21",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_133",
+                            "texto": "NeurotypicalCognition treats task errors as correctable information",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.5937724113464355,
+                            "sim_con_problema": 0.5919862985610962,
+                            "peso_arista": 0.8142412900924683,
+                            "peso_acumulado": 4.288968503475189,
+                            "premise_id": "N21",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_248",
+                                "texto": "NeurotypicalCognition corrects errors without system shutdown",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5204883217811584,
+                                "sim_con_problema": 0.44602176547050476,
+                                "peso_arista": 1.0334899127483368,
+                                "peso_acumulado": 5.322458416223526,
+                                "premise_id": "N21",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_249",
+                                "texto": "NeurotypicalCognition integrates feedback to adjust performance",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5994264483451843,
+                                "sim_con_problema": 0.5537467002868652,
+                                "peso_arista": 0.8468268513679504,
+                                "peso_acumulado": 5.13579535484314,
+                                "premise_id": "N24",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_71",
+                        "texto": "NeurotypicalCognition remains ready to redirect attention again",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5945383310317993,
+                        "sim_con_problema": 0.6720070838928223,
+                        "peso_arista": 0.7334545850753784,
+                        "peso_acumulado": 3.5294325947761536,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_152",
+                            "texto": "NeurotypicalCognition redirects attention upon new salient signals",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6304356455802917,
+                            "sim_con_problema": 0.6320047378540039,
+                            "peso_arista": 0.7375596165657043,
+                            "peso_acumulado": 4.266992211341858,
+                            "premise_id": "N11",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_241",
+                                "texto": "NeurotypicalCognition sustains flexible attention across multiple task foci",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6090999841690063,
+                                "sim_con_problema": 0.7997945547103882,
+                                "peso_arista": 0.5911054611206055,
+                                "peso_acumulado": 4.858097672462463,
+                                "premise_id": "N11",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_242",
+                                "texto": "NeurotypicalCognition integrates new signal with ongoing task context",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.718255341053009,
+                                "sim_con_problema": 0.6530624628067017,
+                                "peso_arista": 0.6286821961402893,
+                                "peso_acumulado": 4.895674407482147,
+                                "premise_id": "N4",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_243",
+                                "texto": "NeurotypicalCognition updates predictions proportional to signal significance",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6049014925956726,
+                                "sim_con_problema": 0.4198073148727417,
+                                "peso_arista": 0.9752911925315857,
+                                "peso_acumulado": 5.242283403873444,
+                                "premise_id": "N20",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_153",
+                            "texto": "NeurotypicalCognition resolves future changes through rapid updating",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6100068688392639,
+                            "sim_con_problema": 0.5065836906433105,
+                            "peso_arista": 0.8834094405174255,
+                            "peso_acumulado": 4.412842035293579,
+                            "premise_id": "N20",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_274",
+                                "texto": "NeurotypicalCognition expects prediction error proportional to next change",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5080647468566895,
+                                "sim_con_problema": 0.41604599356651306,
+                                "peso_arista": 1.0758892595767975,
+                                "peso_acumulado": 5.488731294870377,
+                                "premise_id": "N20",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_275",
+                                "texto": "NeurotypicalCognition remains flexible to redirect attention again",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5979416966438293,
+                                "sim_con_problema": 0.7252949476242065,
+                                "peso_arista": 0.6767633557319641,
+                                "peso_acumulado": 5.089605391025543,
+                                "premise_id": "N11",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_277",
+                                "texto": "NeurotypicalCognition transfers updating strategy to new contexts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7330759763717651,
+                                "sim_con_problema": 0.5827121734619141,
+                                "peso_arista": 0.6842118501663208,
+                                "peso_acumulado": 5.0970538854599,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_154",
+                            "texto": "NeurotypicalCognition adjusts learning rate to ongoing volatility",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5117884874343872,
+                            "sim_con_problema": 0.48267507553100586,
+                            "peso_arista": 1.005536437034607,
+                            "peso_acumulado": 4.5349690318107605,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_47",
+                    "texto": "NeurotypicalCognition applies prior learned rules to group task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7069898843765259,
+                    "sim_con_problema": 0.5853551626205444,
+                    "peso_arista": 0.7076549530029297,
+                    "peso_acumulado": 2.848228394985199,
+                    "premise_id": "N22",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_82",
+                        "texto": "NeurotypicalCognition maintains attention on group task demands",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6342137455940247,
+                        "sim_con_problema": 0.735948383808136,
+                        "peso_arista": 0.6298378705978394,
+                        "peso_acumulado": 3.4780662655830383,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_140",
+                            "texto": "NeurotypicalCognition monitors group feedback to guide task performance",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.5978865623474121,
+                            "sim_con_problema": 0.6062710285186768,
+                            "peso_arista": 0.7958424091339111,
+                            "peso_acumulado": 4.2739086747169495,
+                            "premise_id": "N24",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_246",
+                                "texto": "NeurotypicalCognition corrects errors identified through group feedback",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.569264829158783,
+                                "sim_con_problema": 0.4212074875831604,
+                                "peso_arista": 1.0095276832580566,
+                                "peso_acumulado": 5.283436357975006,
+                                "premise_id": "N21",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_247",
+                                "texto": "NeurotypicalCognition adjusts behavior to gain peer approval",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6545233726501465,
+                                "sim_con_problema": 0.47442626953125,
+                                "peso_arista": 0.8710503578186035,
+                                "peso_acumulado": 5.144959032535553,
+                                "premise_id": "N12",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_4",
+        "texto": "NeurotypicalCognition experiences mild discomfort that resolves quickly",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.43083980679512024,
+        "sim_con_problema": 0.3993077576160431,
+        "peso_arista": 1.1698524355888367,
+        "peso_acumulado": 1.1698524355888367,
+        "premise_id": "N19",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_16",
+            "texto": "NeurotypicalCognition reappraises the disrupted focus rapidly",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.571326494216919,
+            "sim_con_problema": 0.6998918056488037,
+            "peso_arista": 0.7287817001342773,
+            "peso_acumulado": 1.898634135723114,
+            "premise_id": "N19",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_28",
+                "texto": "NeurotypicalCognition generates motivation for the unrelated task",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.5710843801498413,
+                "sim_con_problema": 0.7289568185806274,
+                "peso_arista": 0.6999588012695312,
+                "peso_acumulado": 2.5985929369926453,
+                "premise_id": "N13",
+                "hijos": []
+              },
+              {
+                "id": "NeurotypicalCognition_3_29",
+                "texto": "NeurotypicalCognition updates its contextual model of priorities",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.7241001129150391,
+                "sim_con_problema": 0.624428391456604,
+                "peso_arista": 0.6514714956283569,
+                "peso_acumulado": 2.550105631351471,
+                "premise_id": "N20",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_49",
+                    "texto": "NeurotypicalCognition generates motivation for the group task",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5861862897872925,
+                    "sim_con_problema": 0.6421900987625122,
+                    "peso_arista": 0.7716236114501953,
+                    "peso_acumulado": 3.3217292428016663,
+                    "premise_id": "N13",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_116",
+                        "texto": "NeurotypicalCognition sustains engagement despite low intrinsic interest",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.559416651725769,
+                        "sim_con_problema": 0.6242438554763794,
+                        "peso_arista": 0.8163394927978516,
+                        "peso_acumulado": 4.138068735599518,
+                        "premise_id": "N13",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_219",
+                            "texto": "NeurotypicalCognition distributes attention across group task demands",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6308653950691223,
+                            "sim_con_problema": 0.7702755331993103,
+                            "peso_arista": 0.5988590717315674,
+                            "peso_acumulado": 4.736927807331085,
+                            "premise_id": "N11",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_221",
+                            "texto": "NeurotypicalCognition monitors social feedback during the group task",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6530018448829651,
+                            "sim_con_problema": 0.5465904474258423,
+                            "peso_arista": 0.8004077076911926,
+                            "peso_acumulado": 4.9384764432907104,
+                            "premise_id": "N24",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_50",
+                    "texto": "NeurotypicalCognition transfers prior focus strategies to new task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.6491682529449463,
+                    "sim_con_problema": 0.7725088000297546,
+                    "peso_arista": 0.5783229470252991,
+                    "peso_acumulado": 3.12842857837677,
+                    "premise_id": "N22",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_17",
+            "texto": "NeurotypicalCognition generates motivation via social embedding of task",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.6832562685012817,
+            "sim_con_problema": 0.6801556348800659,
+            "peso_arista": 0.6365880966186523,
+            "peso_acumulado": 1.806440532207489,
+            "premise_id": "N13",
+            "hijos": []
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 74,
+  "profundidad_maxima": 7
+}

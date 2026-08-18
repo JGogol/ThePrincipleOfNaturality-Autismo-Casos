@@ -1,0 +1,1889 @@
+{
+  "actor": "ModerateAutism",
+  "raiz": {
+    "id": "ModerateAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.5578500032424927,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "ModerateAutism_1_1",
+        "texto": "ModerateAutism generates disproportionate prediction error from the redirect",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.2204856276512146,
+        "sim_con_problema": 0.2818692922592163,
+        "peso_arista": 1.497645080089569,
+        "peso_acumulado": 1.497645080089569,
+        "premise_id": "A20",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_17",
+            "texto": "ModerateAutism reacts as if redirect is catastrophic",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.19103623926639557,
+            "sim_con_problema": 0.3035329282283783,
+            "peso_arista": 1.5054308325052261,
+            "peso_acumulado": 3.0030759125947952,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_65",
+                "texto": "ModerateAutism becomes unavailable for social engagement temporarily",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.11927450448274612,
+                "sim_con_problema": 0.28857487440109253,
+                "peso_arista": 1.5921506211161613,
+                "peso_acumulado": 4.595226533710957,
+                "premise_id": "A1",
+                "hijos": []
+              },
+              {
+                "id": "ModerateAutism_3_66",
+                "texto": "ModerateAutism continues fixating on the local detail",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.301948606967926,
+                "sim_con_problema": 0.34361767768859863,
+                "peso_arista": 1.3544337153434753,
+                "peso_acumulado": 4.357509627938271,
+                "premise_id": "A5",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_203",
+                    "texto": "ModerateAutism cannot apply prior redirect rules to this context",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.25446128845214844,
+                    "sim_con_problema": 0.28470346331596375,
+                    "peso_arista": 1.4608352482318878,
+                    "peso_acumulado": 5.818344876170158,
+                    "premise_id": "A22",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_68",
+                "texto": "ModerateAutism cannot apply prior transition rules here",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.1309528946876526,
+                "sim_con_problema": 0.19470606744289398,
+                "peso_arista": 1.6743410378694534,
+                "peso_acumulado": 4.677416950464249,
+                "premise_id": "A22",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_18",
+            "texto": "ModerateAutism risks going offline from overload",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.09283433854579926,
+            "sim_con_problema": 0.2862541675567627,
+            "peso_arista": 1.620911493897438,
+            "peso_acumulado": 3.118556573987007,
+            "premise_id": "A1",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_69",
+                "texto": "ModerateAutism becomes unavailable for the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.19552689790725708,
+                "sim_con_problema": 0.34044504165649414,
+                "peso_arista": 1.4640280604362488,
+                "peso_acumulado": 4.582584634423256,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_210",
+                    "texto": "ModerateAutism remains unavailable until regulation restored",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.14613460004329681,
+                    "sim_con_problema": 0.17847099900245667,
+                    "peso_arista": 1.6753944009542465,
+                    "peso_acumulado": 6.257979035377502,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_211",
+                    "texto": "ModerateAutism activates threat response if framed as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2258385419845581,
+                    "sim_con_problema": 0.31925517320632935,
+                    "peso_arista": 1.4549062848091125,
+                    "peso_acumulado": 6.0374909192323685,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_212",
+                    "texto": "Delayed feedback about the task fails to update ModerateAutism",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.15372654795646667,
+                    "sim_con_problema": 0.27885425090789795,
+                    "peso_arista": 1.5674192011356354,
+                    "peso_acumulado": 6.150003835558891,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_70",
+                "texto": "ModerateAutism's learning capacity is temporarily suspended",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.29830020666122437,
+                "sim_con_problema": 0.3823660612106323,
+                "peso_arista": 1.3193337321281433,
+                "peso_acumulado": 4.4378903061151505,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_204",
+                    "texto": "ModerateAutism cannot socially engage with the group task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.22845202684402466,
+                    "sim_con_problema": 0.41734597086906433,
+                    "peso_arista": 1.354202002286911,
+                    "peso_acumulado": 5.7920923084020615,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_205",
+                    "texto": "ModerateAutism's cognitive processing stays unavailable until regulated",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.47908490896224976,
+                    "sim_con_problema": 0.5879749655723572,
+                    "peso_arista": 0.9329401254653931,
+                    "peso_acumulado": 5.3708304315805435,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_72",
+                "texto": "ModerateAutism's disruption is disproportionate to the actual change",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.12740755081176758,
+                "sim_con_problema": 0.2928772568702698,
+                "peso_arista": 1.5797151923179626,
+                "peso_acumulado": 4.69827176630497,
+                "premise_id": "A20",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_19",
+            "texto": "ModerateAutism resists shifting from detail to group task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.359068900346756,
+            "sim_con_problema": 0.5449077486991882,
+            "peso_arista": 1.0960233509540558,
+            "peso_acumulado": 2.593668431043625,
+            "premise_id": "A5",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_44",
+                "texto": "ModerateAutism continues processing the detail as a standalone part",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.3225920796394348,
+                "sim_con_problema": 0.35152578353881836,
+                "peso_arista": 1.3258821368217468,
+                "peso_acumulado": 3.9195505678653717,
+                "premise_id": "A5",
+                "hijos": []
+              },
+              {
+                "id": "ModerateAutism_3_45",
+                "texto": "ModerateAutism cannot allocate resources to the new task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.16218918561935425,
+                "sim_con_problema": 0.4436163902282715,
+                "peso_arista": 1.3941944241523743,
+                "peso_acumulado": 3.987862855195999,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_167",
+                    "texto": "ModerateAutism remains destabilized disproportionate to the redirect",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.13407617807388306,
+                    "sim_con_problema": 0.27078765630722046,
+                    "peso_arista": 1.5951361656188965,
+                    "peso_acumulado": 5.582999020814896,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_169",
+                    "texto": "ModerateAutism cannot retrieve the implicit expectation to join the group",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.14880652725696564,
+                    "sim_con_problema": 0.2693868577480316,
+                    "peso_arista": 1.5818066149950027,
+                    "peso_acumulado": 5.569669470191002,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_46",
+                "texto": "ModerateAutism requires immediate specific feedback to shift attention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3699533939361572,
+                "sim_con_problema": 0.5856366157531738,
+                "peso_arista": 1.044409990310669,
+                "peso_acumulado": 3.638078421354294,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_77",
+                    "texto": "ModerateAutism fails to shift attention without observable feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34510019421577454,
+                    "sim_con_problema": 0.5785413384437561,
+                    "peso_arista": 1.0763584673404694,
+                    "peso_acumulado": 4.714436888694763,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_78",
+                    "texto": "ModerateAutism ignores vague or delayed redirection cues",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.35752344131469727,
+                    "sim_con_problema": 0.46660587191581726,
+                    "peso_arista": 1.1758706867694855,
+                    "peso_acumulado": 4.813949108123779,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_47",
+                "texto": "ModerateAutism treats forced redirect as threat if framed negatively",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.23590236902236938,
+                "sim_con_problema": 0.33987200260162354,
+                "peso_arista": 1.424225628376007,
+                "peso_acumulado": 4.017894059419632,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_174",
+                    "texto": "ModerateAutism activates threat response blocking learning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3791220486164093,
+                    "sim_con_problema": 0.4416045546531677,
+                    "peso_arista": 1.179273396730423,
+                    "peso_acumulado": 5.197167456150055,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_175",
+                    "texto": "ModerateAutism fails to update behavior from shame-framed feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2643049359321594,
+                    "sim_con_problema": 0.30594491958618164,
+                    "peso_arista": 1.429750144481659,
+                    "peso_acumulado": 5.447644203901291,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_20",
+            "texto": "ModerateAutism loses its cognitive-resource-saving routine",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2812533378601074,
+            "sim_con_problema": 0.5042694807052612,
+            "peso_arista": 1.2144771814346313,
+            "peso_acumulado": 2.7121222615242004,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_58",
+                "texto": "ModerateAutism must divert resources to manage the transition",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.11112140119075775,
+                "sim_con_problema": 0.3451768755912781,
+                "peso_arista": 1.5437017232179642,
+                "peso_acumulado": 4.255823984742165,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_190",
+                    "texto": "ModerateAutism has less capacity left for sensory regulation",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.409107506275177,
+                    "sim_con_problema": 0.39694929122924805,
+                    "peso_arista": 1.193943202495575,
+                    "peso_acumulado": 5.44976718723774,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_192",
+                    "texto": "ModerateAutism must consciously retrieve the applicable social rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.24161949753761292,
+                    "sim_con_problema": 0.32379990816116333,
+                    "peso_arista": 1.4345805943012238,
+                    "peso_acumulado": 5.690404579043388,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_193",
+                    "texto": "ModerateAutism needs an explicit stated instruction to comply",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3445114195346832,
+                    "sim_con_problema": 0.2920510768890381,
+                    "peso_arista": 1.3634375035762787,
+                    "peso_acumulado": 5.619261488318443,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_59",
+                "texto": "ModerateAutism cannot generalize the lost routine to the group task",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.31045737862586975,
+                "sim_con_problema": 0.4895845055580139,
+                "peso_arista": 1.1999581158161163,
+                "peso_acumulado": 3.9120803773403168,
+                "premise_id": "A22",
+                "hijos": []
+              },
+              {
+                "id": "ModerateAutism_3_60",
+                "texto": "ModerateAutism cannot automatically infer the group task's structure",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35795196890830994,
+                "sim_con_problema": 0.4778091311454773,
+                "peso_arista": 1.1642388999462128,
+                "peso_acumulado": 3.876361161470413,
+                "premise_id": "A5",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_140",
+                    "texto": "ModerateAutism cannot transfer prior task rules without instruction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.32123494148254395,
+                    "sim_con_problema": 0.479553759098053,
+                    "peso_arista": 1.199211299419403,
+                    "peso_acumulado": 5.075572460889816,
+                    "premise_id": "A22",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_61",
+                "texto": "ModerateAutism requires an explicit rule for the new task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3157957196235657,
+                "sim_con_problema": 0.36735862493515015,
+                "peso_arista": 1.3168456554412842,
+                "peso_acumulado": 4.028967916965485,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_177",
+                    "texto": "ModerateAutism cannot infer the task's unspoken expectations",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2757115364074707,
+                    "sim_con_problema": 0.47187340259552,
+                    "peso_arista": 1.2524150609970093,
+                    "peso_acumulado": 5.281382977962494,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_2",
+        "texto": "ModerateAutism cannot automatically integrate the detail into the group task",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.3458065390586853,
+        "sim_con_problema": 0.45236504077911377,
+        "peso_arista": 1.201828420162201,
+        "peso_acumulado": 1.201828420162201,
+        "premise_id": "A5",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_13",
+            "texto": "ModerateAutism continues local processing of the fascinating detail",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3052738904953003,
+            "sim_con_problema": 0.30210745334625244,
+            "peso_arista": 1.3926186561584473,
+            "peso_acumulado": 2.594447076320648,
+            "premise_id": "A5",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_49",
+                "texto": "ModerateAutism does not automatically infer the group task's relevance",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2988031506538391,
+                "sim_con_problema": 0.479734867811203,
+                "peso_arista": 1.2214619815349579,
+                "peso_acumulado": 3.815909057855606,
+                "premise_id": "A5",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_122",
+                    "texto": "ModerateAutism experiences disproportionate prediction error at transition",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.20294450223445892,
+                    "sim_con_problema": 0.2604701817035675,
+                    "peso_arista": 1.5365853160619736,
+                    "peso_acumulado": 5.35249437391758,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_124",
+                    "texto": "ModerateAutism cannot generalize prior task rules to this context",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3339669704437256,
+                    "sim_con_problema": 0.4960622489452362,
+                    "peso_arista": 1.1699707806110382,
+                    "peso_acumulado": 4.985879838466644,
+                    "premise_id": "A22",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_50",
+                "texto": "ModerateAutism requires an explicit stated rule to redirect attention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.37235918641090393,
+                "sim_con_problema": 0.5123763084411621,
+                "peso_arista": 1.115264505147934,
+                "peso_acumulado": 3.709711581468582,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_83",
+                    "texto": "ModerateAutism cannot detect implicit redirection expectations",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3077274560928345,
+                    "sim_con_problema": 0.3984087407588959,
+                    "peso_arista": 1.2938638031482697,
+                    "peso_acumulado": 5.003575384616852,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_84",
+                    "texto": "ModerateAutism experiences the redirection as unanticipated change",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.18270175158977509,
+                    "sim_con_problema": 0.29368799924850464,
+                    "peso_arista": 1.5236102491617203,
+                    "peso_acumulado": 5.233321830630302,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_86",
+                    "texto": "ModerateAutism will follow an explicitly stated redirection rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.33293038606643677,
+                    "sim_con_problema": 0.302767276763916,
+                    "peso_arista": 1.3643023371696472,
+                    "peso_acumulado": 5.074013918638229,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_51",
+                "texto": "ModerateAutism does not filter out the detail's stimulus weight",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.37313687801361084,
+                "sim_con_problema": 0.4460228681564331,
+                "peso_arista": 1.180840253829956,
+                "peso_acumulado": 3.7752873301506042,
+                "premise_id": "A2",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_110",
+                    "texto": "ModerateAutism keeps allocating equal weight to detail",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.31559208035469055,
+                    "sim_con_problema": 0.31931185722351074,
+                    "peso_arista": 1.3650960624217987,
+                    "peso_acumulado": 5.140383392572403,
+                    "premise_id": "A2",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_112",
+                    "texto": "ModerateAutism cannot infer the unstated need to redirect",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.27612343430519104,
+                    "sim_con_problema": 0.4465201199054718,
+                    "peso_arista": 1.2773564457893372,
+                    "peso_acumulado": 5.052643775939941,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_14",
+            "texto": "ModerateAutism requires an explicit stated instruction to redirect",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.338778555393219,
+            "sim_con_problema": 0.34361177682876587,
+            "peso_arista": 1.3176096677780151,
+            "peso_acumulado": 2.519438087940216,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_34",
+                "texto": "ModerateAutism cannot infer the redirect from implicit cues",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.34267520904541016,
+                "sim_con_problema": 0.414375901222229,
+                "peso_arista": 1.2429488897323608,
+                "peso_acumulado": 3.762386977672577,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_103",
+                    "texto": "ModerateAutism continues the detail absent explicit redirection",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2968747019767761,
+                    "sim_con_problema": 0.3177795708179474,
+                    "peso_arista": 1.3853457272052765,
+                    "peso_acumulado": 5.147732704877853,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_105",
+                    "texto": "ModerateAutism must consciously retrieve a stated transition rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.28481531143188477,
+                    "sim_con_problema": 0.3519524335861206,
+                    "peso_arista": 1.3632322549819946,
+                    "peso_acumulado": 5.1256192326545715,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_35",
+                "texto": "ModerateAutism registers the redirect as an unanticipated change",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2130165696144104,
+                "sim_con_problema": 0.31120583415031433,
+                "peso_arista": 1.4757775962352753,
+                "peso_acumulado": 3.9952156841754913,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_172",
+                    "texto": "ModerateAutism loses the resource savings of routine processing",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.1590784192085266,
+                    "sim_con_problema": 0.3716128170490265,
+                    "peso_arista": 1.469308763742447,
+                    "peso_acumulado": 5.464524447917938,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_173",
+                    "texto": "ModerateAutism risks threat response if redirect framed as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.21176621317863464,
+                    "sim_con_problema": 0.3244034945964813,
+                    "peso_arista": 1.463830292224884,
+                    "peso_acumulado": 5.459045976400375,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_36",
+                "texto": "ModerateAutism needs the instruction to be specific and immediate",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.33521589636802673,
+                "sim_con_problema": 0.3835783302783966,
+                "peso_arista": 1.2812057733535767,
+                "peso_acumulado": 3.8006438612937927,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_114",
+                    "texto": "ModerateAutism fails to redirect if feedback is vague",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2513105273246765,
+                    "sim_con_problema": 0.32758069038391113,
+                    "peso_arista": 1.4211087822914124,
+                    "peso_acumulado": 5.221752643585205,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_115",
+                    "texto": "ModerateAutism fails to redirect if feedback is delayed",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2268611490726471,
+                    "sim_con_problema": 0.33640778064727783,
+                    "peso_arista": 1.436731070280075,
+                    "peso_acumulado": 5.237374931573868,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_116",
+                    "texto": "ModerateAutism generates disproportionate error without immediate cue",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.27529242634773254,
+                    "sim_con_problema": 0.37225884199142456,
+                    "peso_arista": 1.352448731660843,
+                    "peso_acumulado": 5.153092592954636,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_117",
+                    "texto": "ModerateAutism cannot infer redirection from unspoken expectations",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2961879074573517,
+                    "sim_con_problema": 0.43310582637786865,
+                    "peso_arista": 1.2707062661647797,
+                    "peso_acumulado": 5.071350127458572,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_15",
+            "texto": "ModerateAutism cannot compute the task-switch without an established routine",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.30335211753845215,
+            "sim_con_problema": 0.49810513854026794,
+            "peso_arista": 1.19854274392128,
+            "peso_acumulado": 2.400371164083481,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_28",
+                "texto": "ModerateAutism cannot free resources for the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1678815335035324,
+                "sim_con_problema": 0.39048445224761963,
+                "peso_arista": 1.441634014248848,
+                "peso_acumulado": 3.842005178332329,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_134",
+                    "texto": "ModerateAutism treats the failed switch as threat if shamed",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.14971235394477844,
+                    "sim_con_problema": 0.2483755350112915,
+                    "peso_arista": 1.60191211104393,
+                    "peso_acumulado": 5.443917289376259,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_16",
+            "texto": "ModerateAutism cannot infer the unstated expectation to rejoin the group",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.13871921598911285,
+            "sim_con_problema": 0.2982408404350281,
+            "peso_arista": 1.563039943575859,
+            "peso_acumulado": 2.76486836373806,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_62",
+                "texto": "ModerateAutism continues the task without an explicit redirect cue",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.36853763461112976,
+                "sim_con_problema": 0.4674514830112457,
+                "peso_arista": 1.1640108823776245,
+                "peso_acumulado": 3.9288792461156845,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_153",
+                    "texto": "ModerateAutism will experience disproportionate disruption if interrupted",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.1769118309020996,
+                    "sim_con_problema": 0.3448115587234497,
+                    "peso_arista": 1.4782766103744507,
+                    "peso_acumulado": 5.407155856490135,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_154",
+                    "texto": "ModerateAutism treats continued task as stable routine",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.25760918855667114,
+                    "sim_con_problema": 0.43037503957748413,
+                    "peso_arista": 1.3120157718658447,
+                    "peso_acumulado": 5.240895017981529,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_155",
+                    "texto": "ModerateAutism cannot update behavior without specific feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2437945306301117,
+                    "sim_con_problema": 0.2722039818763733,
+                    "peso_arista": 1.484001487493515,
+                    "peso_acumulado": 5.4128807336091995,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_156",
+                    "texto": "ModerateAutism lacks a stored rule to rejoin group",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.12613031268119812,
+                    "sim_con_problema": 0.19412973523139954,
+                    "peso_arista": 1.6797399520874023,
+                    "peso_acumulado": 5.608619198203087,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_63",
+                "texto": "ModerateAutism registers the unsignaled transition as high prediction error",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.19680875539779663,
+                "sim_con_problema": 0.2126787006855011,
+                "peso_arista": 1.5905125439167023,
+                "peso_acumulado": 4.355380907654762,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_196",
+                    "texto": "ModerateAutism experiences disrupted cognitive processing capacity temporarily",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.45017290115356445,
+                    "sim_con_problema": 0.6056361794471741,
+                    "peso_arista": 0.9441909193992615,
+                    "peso_acumulado": 5.299571827054024,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_198",
+                    "texto": "ModerateAutism may activate a threat response to the transition",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.1678568571805954,
+                    "sim_con_problema": 0.2923350930213928,
+                    "peso_arista": 1.5398080497980118,
+                    "peso_acumulado": 5.895188957452774,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_64",
+                "texto": "ModerateAutism requires explicit instruction to rejoin the group",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2409285604953766,
+                "sim_con_problema": 0.2886296808719635,
+                "peso_arista": 1.47044175863266,
+                "peso_acumulado": 4.23531012237072,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_186",
+                    "texto": "ModerateAutism will follow explicit instruction reliably if given",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3530523478984833,
+                    "sim_con_problema": 0.2873900532722473,
+                    "peso_arista": 1.3595575988292694,
+                    "peso_acumulado": 5.594867721199989,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_187",
+                    "texto": "ModerateAutism remains fixed on the detail absent explicit instruction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.359291672706604,
+                    "sim_con_problema": 0.35224393010139465,
+                    "peso_arista": 1.2884643971920013,
+                    "peso_acumulado": 5.523774519562721,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_3",
+        "texto": "ModerateAutism fails to detect the implicit expectation to switch tasks",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.3183712661266327,
+        "sim_con_problema": 0.5725806355476379,
+        "peso_arista": 1.1090480983257294,
+        "peso_acumulado": 1.1090480983257294,
+        "premise_id": "A23",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_5",
+            "texto": "ModerateAutism continues the current task without switching",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.21171405911445618,
+            "sim_con_problema": 0.40887442231178284,
+            "peso_arista": 1.379411518573761,
+            "peso_acumulado": 2.4884596168994904,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_29",
+                "texto": "ModerateAutism will experience high prediction error when interrupted",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.21198128163814545,
+                "sim_con_problema": 0.30330464243888855,
+                "peso_arista": 1.484714075922966,
+                "peso_acumulado": 3.9731736928224564,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_161",
+                    "texto": "ModerateAutism generates disruption disproportionate to the interruption's actual significance",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.21832165122032166,
+                    "sim_con_problema": 0.4017031788825989,
+                    "peso_arista": 1.3799751698970795,
+                    "peso_acumulado": 5.353148862719536,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_163",
+                    "texto": "ModerateAutism cannot reallocate resources without an established routine",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.21057984232902527,
+                    "sim_con_problema": 0.38273143768310547,
+                    "peso_arista": 1.4066887199878693,
+                    "peso_acumulado": 5.379862412810326,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_30",
+                "texto": "ModerateAutism lacks explicit rule to justify switching tasks",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2663864195346832,
+                "sim_con_problema": 0.4665523171424866,
+                "peso_arista": 1.2670612633228302,
+                "peso_acumulado": 3.7555208802223206,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_101",
+                    "texto": "ModerateAutism cannot reliably apply the unstated expectation",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.175469309091568,
+                    "sim_con_problema": 0.2880666255950928,
+                    "peso_arista": 1.5364640653133392,
+                    "peso_acumulado": 5.29198494553566,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_102",
+                    "texto": "ModerateAutism requires explicit instruction to re-anchor to the new task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.36582115292549133,
+                    "sim_con_problema": 0.49785494804382324,
+                    "peso_arista": 1.1363238990306854,
+                    "peso_acumulado": 4.891844779253006,
+                    "premise_id": "A22",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_31",
+                "texto": "ModerateAutism allocates resources solely to the current task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.21141405403614044,
+                "sim_con_problema": 0.5057195425033569,
+                "peso_arista": 1.2828664034605026,
+                "peso_acumulado": 3.771326020359993,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_107",
+                    "texto": "ModerateAutism preserves cognitive resources by maintaining the current routine",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.4072709083557129,
+                    "sim_con_problema": 0.5777887105941772,
+                    "peso_arista": 1.0149403810501099,
+                    "peso_acumulado": 4.786266401410103,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_108",
+                    "texto": "ModerateAutism does not automatically reweight attention toward the group task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34060126543045044,
+                    "sim_con_problema": 0.6324644088745117,
+                    "peso_arista": 1.0269343256950378,
+                    "peso_acumulado": 4.798260346055031,
+                    "premise_id": "A2",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_109",
+                    "texto": "ModerateAutism remains focused on the local detail without integrating the broader task context",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.39612525701522827,
+                    "sim_con_problema": 0.5239816308021545,
+                    "peso_arista": 1.0798931121826172,
+                    "peso_acumulado": 4.85121913254261,
+                    "premise_id": "A5",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_32",
+                "texto": "ModerateAutism cannot retrieve a matching social norm for switching",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.16611158847808838,
+                "sim_con_problema": 0.29116225242614746,
+                "peso_arista": 1.5427261590957642,
+                "peso_acumulado": 4.0311857759952545,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_180",
+                    "texto": "ModerateAutism registers the task switch as unanticipated change",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.28488537669181824,
+                    "sim_con_problema": 0.5339310169219971,
+                    "peso_arista": 1.1811836063861847,
+                    "peso_acumulado": 5.212369382381439,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_181",
+                    "texto": "ModerateAutism requires an explicit stated rule to switch",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2796579599380493,
+                    "sim_con_problema": 0.3072565793991089,
+                    "peso_arista": 1.4130854606628418,
+                    "peso_acumulado": 5.444271236658096,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_182",
+                    "texto": "ModerateAutism cannot apply the norm without conscious retrieval",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3099450170993805,
+                    "sim_con_problema": 0.4202216863632202,
+                    "peso_arista": 1.2698332965373993,
+                    "peso_acumulado": 5.301019072532654,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_6",
+            "texto": "ModerateAutism remains focused on the local detail exclusively",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.26458030939102173,
+            "sim_con_problema": 0.2793429493904114,
+            "peso_arista": 1.456076741218567,
+            "peso_acumulado": 2.5651248395442963,
+            "premise_id": "A5",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_41",
+                "texto": "Any forced redirection triggers disproportionate prediction error",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.24937494099140167,
+                "sim_con_problema": 0.35305219888687134,
+                "peso_arista": 1.397572860121727,
+                "peso_acumulado": 3.9626976996660233,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_159",
+                    "texto": "ModerateAutism perceives the redirection as threatening failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.19229599833488464,
+                    "sim_con_problema": 0.32080817222595215,
+                    "peso_arista": 1.4868958294391632,
+                    "peso_acumulado": 5.4495935291051865,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_42",
+                "texto": "ModerateAutism needs an explicit instruction to switch tasks",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3470778465270996,
+                "sim_con_problema": 0.4951808452606201,
+                "peso_arista": 1.1577413082122803,
+                "peso_acumulado": 3.7228661477565765,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_90",
+                    "texto": "ModerateAutism will follow the task switch once stated explicitly",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.34488996863365173,
+                    "sim_con_problema": 0.4996241629123688,
+                    "peso_arista": 1.1554858684539795,
+                    "peso_acumulado": 4.878352016210556,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_91",
+                    "texto": "ModerateAutism's prediction error subsides only after explicit direction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.26896190643310547,
+                    "sim_con_problema": 0.2923077344894409,
+                    "peso_arista": 1.4387303590774536,
+                    "peso_acumulado": 5.16159650683403,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_92",
+                    "texto": "ModerateAutism requires immediate observable feedback tied to the instruction",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.424324095249176,
+                    "sim_con_problema": 0.45647895336151123,
+                    "peso_arista": 1.1191969513893127,
+                    "peso_acumulado": 4.842063099145889,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_43",
+                "texto": "Lack of a routine blocks automatic reallocation of attention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.41591256856918335,
+                "sim_con_problema": 0.7980725169181824,
+                "peso_arista": 0.7860149145126343,
+                "peso_acumulado": 3.3511397540569305,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_75",
+                    "texto": "ModerateAutism cannot transfer attention rules to this new context",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2811319828033447,
+                    "sim_con_problema": 0.4867270290851593,
+                    "peso_arista": 1.232140988111496,
+                    "peso_acumulado": 4.5832807421684265,
+                    "premise_id": "A22",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_76",
+                    "texto": "ModerateAutism lacks freed cognitive resources for the new task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3237963914871216,
+                    "sim_con_problema": 0.5515787601470947,
+                    "peso_arista": 1.1246248483657837,
+                    "peso_acumulado": 4.475764602422714,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_7",
+            "texto": "ModerateAutism will register any forced switch as disproportionate error",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.184212788939476,
+            "sim_con_problema": 0.29607701301574707,
+            "peso_arista": 1.519710198044777,
+            "peso_acumulado": 2.6287582963705063,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_52",
+                "texto": "ModerateAutism risks exceeding regulatory threshold and going offline",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.11525386571884155,
+                "sim_con_problema": 0.21321365237236023,
+                "peso_arista": 1.6715324819087982,
+                "peso_acumulado": 4.3002907782793045,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_194",
+                    "texto": "ModerateAutism becomes unavailable for learning and social engagement",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.17324432730674744,
+                    "sim_con_problema": 0.30383890867233276,
+                    "peso_arista": 1.5229167640209198,
+                    "peso_acumulado": 5.823207542300224,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_195",
+                    "texto": "ModerateAutism cannot process the group task until regulated",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3292500376701355,
+                    "sim_con_problema": 0.44125795364379883,
+                    "peso_arista": 1.2294920086860657,
+                    "peso_acumulado": 5.52978278696537,
+                    "premise_id": "A1",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_53",
+                "texto": "ModerateAutism treats the switch as a threat if framed as failure",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.17264270782470703,
+                "sim_con_problema": 0.3024023771286011,
+                "peso_arista": 1.524954915046692,
+                "peso_acumulado": 4.153713211417198,
+                "premise_id": "A21",
+                "hijos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ModerateAutism_1_4",
+        "texto": "ModerateAutism cannot generalize prior task rules to the group task",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.3295047879219055,
+        "sim_con_problema": 0.4927138090133667,
+        "peso_arista": 1.1777814030647278,
+        "peso_acumulado": 1.1777814030647278,
+        "premise_id": "A22",
+        "hijos": [
+          {
+            "id": "ModerateAutism_2_8",
+            "texto": "ModerateAutism generates disproportionate prediction error from the switch",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2222813069820404,
+            "sim_con_problema": 0.29995137453079224,
+            "peso_arista": 1.4777673184871674,
+            "peso_acumulado": 2.655548721551895,
+            "premise_id": "A20",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_55",
+                "texto": "ModerateAutism resists the switch regardless of task importance",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2847888469696045,
+                "sim_con_problema": 0.5463050603866577,
+                "peso_arista": 1.1689060926437378,
+                "peso_acumulado": 3.824454814195633,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_127",
+                    "texto": "ModerateAutism sustains high prediction-error signaling during the switch",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.30058467388153076,
+                    "sim_con_problema": 0.3498224914073944,
+                    "peso_arista": 1.3495928347110748,
+                    "peso_acumulado": 5.174047648906708,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_128",
+                    "texto": "ModerateAutism blocks learning if redirection is framed as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3953971266746521,
+                    "sim_con_problema": 0.47736191749572754,
+                    "peso_arista": 1.1272409558296204,
+                    "peso_acumulado": 4.951695770025253,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_56",
+                "texto": "ModerateAutism loses the resource savings of the prior routine",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.10842525959014893,
+                "sim_con_problema": 0.3261467516422272,
+                "peso_arista": 1.565427988767624,
+                "peso_acumulado": 4.220976710319519,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_183",
+                    "texto": "ModerateAutism has fewer resources for the group task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.21803653240203857,
+                    "sim_con_problema": 0.40586745738983154,
+                    "peso_arista": 1.3760960102081299,
+                    "peso_acumulado": 5.597072720527649,
+                    "premise_id": "A19",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_185",
+                    "texto": "ModerateAutism requires immediate specific feedback to proceed",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.32081931829452515,
+                    "sim_con_problema": 0.37617290019989014,
+                    "peso_arista": 1.3030077815055847,
+                    "peso_acumulado": 5.523984491825104,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_57",
+                "texto": "ModerateAutism blocks learning if switch is framed as failure",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3210245370864868,
+                "sim_con_problema": 0.40844881534576416,
+                "peso_arista": 1.270526647567749,
+                "peso_acumulado": 3.926075369119644,
+                "premise_id": "A21",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_151",
+                    "texto": "ModerateAutism activates a threat response to the framing",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3192161023616791,
+                    "sim_con_problema": 0.39335036277770996,
+                    "peso_arista": 1.287433534860611,
+                    "peso_acumulado": 5.213508903980255,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_152",
+                    "texto": "ModerateAutism's behavior stays unchanged without corrective learning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3644528388977051,
+                    "sim_con_problema": 0.4038066267967224,
+                    "peso_arista": 1.2317405343055725,
+                    "peso_acumulado": 5.157815903425217,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_9",
+            "texto": "ModerateAutism requires explicit instruction to re-anchor rules",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.31592679023742676,
+            "sim_con_problema": 0.30605238676071167,
+            "peso_arista": 1.3780208230018616,
+            "peso_acumulado": 2.5558022260665894,
+            "premise_id": "A22",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_37",
+                "texto": "ModerateAutism cannot apply the group task rules without explicit statement",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.29505017399787903,
+                "sim_con_problema": 0.3476904332637787,
+                "peso_arista": 1.3572593927383423,
+                "peso_acumulado": 3.9130616188049316,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_145",
+                    "texto": "ModerateAutism generates disproportionate prediction error from the unstated task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.257233202457428,
+                    "sim_con_problema": 0.35863807797431946,
+                    "peso_arista": 1.3841287195682526,
+                    "peso_acumulado": 5.297190338373184,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_147",
+                    "texto": "ModerateAutism cannot retrieve applicable social rules without cues",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2992359399795532,
+                    "sim_con_problema": 0.32444411516189575,
+                    "peso_arista": 1.376319944858551,
+                    "peso_acumulado": 5.289381563663483,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_38",
+                "texto": "ModerateAutism experiences disproportionate prediction error absent explicit instruction",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2916065454483032,
+                "sim_con_problema": 0.2796815037727356,
+                "peso_arista": 1.4287119507789612,
+                "peso_acumulado": 3.9845141768455505,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_164",
+                    "texto": "ModerateAutism's disruption is disproportionate to the task's actual significance",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.20579460263252258,
+                    "sim_con_problema": 0.47026464343070984,
+                    "peso_arista": 1.3239407539367676,
+                    "peso_acumulado": 5.308454930782318,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_165",
+                    "texto": "ModerateAutism's cognitive processing becomes unavailable under excessive prediction error",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3905458152294159,
+                    "sim_con_problema": 0.4824689030647278,
+                    "peso_arista": 1.1269852817058563,
+                    "peso_acumulado": 5.111499458551407,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_166",
+                    "texto": "ModerateAutism's learning is blocked if error is framed as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3165646195411682,
+                    "sim_con_problema": 0.3393668830394745,
+                    "peso_arista": 1.3440684974193573,
+                    "peso_acumulado": 5.328582674264908,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_39",
+                "texto": "ModerateAutism requires immediate specific feedback to learn the new rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3455590009689331,
+                "sim_con_problema": 0.3629209101200104,
+                "peso_arista": 1.2915200889110565,
+                "peso_acumulado": 3.847322314977646,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_135",
+                    "texto": "ModerateAutism fails to update the rule without proximate feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.17024600505828857,
+                    "sim_con_problema": 0.1932557225227356,
+                    "peso_arista": 1.6364982724189758,
+                    "peso_acumulado": 5.483820587396622,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_136",
+                    "texto": "ModerateAutism cannot learn if feedback implies moral failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.22034655511379242,
+                    "sim_con_problema": 0.29980704188346863,
+                    "peso_arista": 1.479846403002739,
+                    "peso_acumulado": 5.327168717980385,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_137",
+                    "texto": "ModerateAutism treats the new rule as a fixed routine once learned",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.29823172092437744,
+                    "sim_con_problema": 0.3080110549926758,
+                    "peso_arista": 1.3937572240829468,
+                    "peso_acumulado": 5.241079539060593,
+                    "premise_id": "A19",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_10",
+            "texto": "ModerateAutism cannot infer unspoken expectations of the group task",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.30370283126831055,
+            "sim_con_problema": 0.49138596653938293,
+            "peso_arista": 1.2049112021923065,
+            "peso_acumulado": 2.3826926052570343,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_24",
+                "texto": "ModerateAutism requires explicit stated instructions for the group task",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3518486022949219,
+                "sim_con_problema": 0.3745933771133423,
+                "peso_arista": 1.2735580205917358,
+                "peso_acumulado": 3.65625062584877,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_81",
+                    "texto": "ModerateAutism requires observable specific feedback to complete task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.41207048296928406,
+                    "sim_con_problema": 0.505555272102356,
+                    "peso_arista": 1.08237424492836,
+                    "peso_acumulado": 4.73862487077713,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_82",
+                    "texto": "ModerateAutism must consciously retrieve matching rule for task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.37556374073028564,
+                    "sim_con_problema": 0.48928359150886536,
+                    "peso_arista": 1.135152667760849,
+                    "peso_acumulado": 4.791403293609619,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_25",
+                "texto": "ModerateAutism must consciously retrieve stored social rules to match",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.30859458446502686,
+                "sim_con_problema": 0.35997843742370605,
+                "peso_arista": 1.331426978111267,
+                "peso_acumulado": 3.7141195833683014,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_87",
+                    "texto": "ModerateAutism delays response while retrieving matching rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.222097709774971,
+                    "sim_con_problema": 0.23320110142230988,
+                    "peso_arista": 1.5447011888027191,
+                    "peso_acumulado": 5.2588207721710205,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_88",
+                    "texto": "ModerateAutism fails if no explicit rule is stored",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.18898281455039978,
+                    "sim_con_problema": 0.16578026115894318,
+                    "peso_arista": 1.645236924290657,
+                    "peso_acumulado": 5.359356507658958,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_89",
+                    "texto": "ModerateAutism experiences added prediction error during retrieval delay",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.19730761647224426,
+                    "sim_con_problema": 0.2433738112449646,
+                    "peso_arista": 1.5593185722827911,
+                    "peso_acumulado": 5.2734381556510925,
+                    "premise_id": "A20",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_26",
+                "texto": "ModerateAutism cannot update behavior from vague group cues",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2709962725639343,
+                "sim_con_problema": 0.3018851578235626,
+                "peso_arista": 1.427118569612503,
+                "peso_acumulado": 3.8098111748695374,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_118",
+                    "texto": "ModerateAutism risks framing the error as failure",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.17600178718566895,
+                    "sim_con_problema": 0.25976642966270447,
+                    "peso_arista": 1.5642317831516266,
+                    "peso_acumulado": 5.374042958021164,
+                    "premise_id": "A21",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_120",
+                    "texto": "ModerateAutism cannot retrieve applicable pragmatic rules automatically",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2135043442249298,
+                    "sim_con_problema": 0.2528391480445862,
+                    "peso_arista": 1.533656507730484,
+                    "peso_acumulado": 5.343467682600021,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_121",
+                    "texto": "ModerateAutism requires an explicit stated rule to proceed",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.28062137961387634,
+                    "sim_con_problema": 0.2406795620918274,
+                    "peso_arista": 1.4786990582942963,
+                    "peso_acumulado": 5.288510233163834,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ModerateAutism_2_11",
+            "texto": "ModerateAutism loses the cognitive efficiency of established routine",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.38836055994033813,
+            "sim_con_problema": 0.5977027416229248,
+            "peso_arista": 1.013936698436737,
+            "peso_acumulado": 2.191718101501465,
+            "premise_id": "A19",
+            "hijos": [
+              {
+                "id": "ModerateAutism_3_21",
+                "texto": "ModerateAutism generates disproportionate prediction error signals now",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1998608112335205,
+                "sim_con_problema": 0.2527300715446472,
+                "peso_arista": 1.5474091172218323,
+                "peso_acumulado": 3.739127218723297,
+                "premise_id": "A20",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_97",
+                    "texto": "ModerateAutism's cognitive processing goes offline now",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3567662239074707,
+                    "sim_con_problema": 0.5544058084487915,
+                    "peso_arista": 1.0888279676437378,
+                    "peso_acumulado": 4.827955186367035,
+                    "premise_id": "A1",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_98",
+                    "texto": "ModerateAutism's disruption exceeds the change's objective significance",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.13105672597885132,
+                    "sim_con_problema": 0.2980550527572632,
+                    "peso_arista": 1.5708882212638855,
+                    "peso_acumulado": 5.310015439987183,
+                    "premise_id": "A20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_99",
+                    "texto": "ModerateAutism treats the redirection as a threat",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.19558724761009216,
+                    "sim_con_problema": 0.29509490728378296,
+                    "peso_arista": 1.5093178451061249,
+                    "peso_acumulado": 5.248445063829422,
+                    "premise_id": "A21",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_22",
+                "texto": "ModerateAutism must allocate extra resources to the transition",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.1323293149471283,
+                "sim_con_problema": 0.32816439867019653,
+                "peso_arista": 1.5395062863826752,
+                "peso_acumulado": 3.73122438788414,
+                "premise_id": "A19",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_94",
+                    "texto": "ModerateAutism must explicitly retrieve applicable task rules",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3191426396369934,
+                    "sim_con_problema": 0.4035359025001526,
+                    "peso_arista": 1.277321457862854,
+                    "peso_acumulado": 5.008545845746994,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "ModerateAutism_4_95",
+                    "texto": "ModerateAutism requires a concrete visual anchor for the task",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3973890542984009,
+                    "sim_con_problema": 0.47569045424461365,
+                    "peso_arista": 1.1269204914569855,
+                    "peso_acumulado": 4.8581448793411255,
+                    "premise_id": "A4",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "ModerateAutism_3_23",
+                "texto": "ModerateAutism risks reduced availability for social engagement",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.09984368085861206,
+                "sim_con_problema": 0.25102776288986206,
+                "peso_arista": 1.6491285562515259,
+                "peso_acumulado": 3.8408466577529907,
+                "premise_id": "A1",
+                "hijos": [
+                  {
+                    "id": "ModerateAutism_4_130",
+                    "texto": "ModerateAutism generates disproportionate prediction error from the shift",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.17406664788722992,
+                    "sim_con_problema": 0.28500500321388245,
+                    "peso_arista": 1.5409283488988876,
+                    "peso_acumulado": 5.381775006651878,
+                    "premise_id": "A20",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 152,
+  "total_hojas": 93,
+  "profundidad_maxima": 4
+}

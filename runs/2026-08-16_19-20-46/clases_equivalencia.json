@@ -1,0 +1,1591 @@
+{
+  "version": "10.2",
+  "classes": {
+    "NeurotypicalCognition_6_159": {
+      "members": [
+        "BroadlyAffectedAutism_0_0",
+        "BroadlyAffectedAutism_1_1",
+        "BroadlyAffectedAutism_1_2",
+        "BroadlyAffectedAutism_1_4",
+        "BroadlyAffectedAutism_2_11",
+        "BroadlyAffectedAutism_2_12",
+        "BroadlyAffectedAutism_2_14",
+        "BroadlyAffectedAutism_2_7",
+        "BroadlyAffectedAutism_3_21",
+        "BroadlyAffectedAutism_3_24",
+        "BroadlyAffectedAutism_3_25",
+        "BroadlyAffectedAutism_3_27",
+        "BroadlyAffectedAutism_3_37",
+        "BroadlyAffectedAutism_3_39",
+        "BroadlyAffectedAutism_3_41",
+        "BroadlyAffectedAutism_3_42",
+        "BroadlyAffectedAutism_3_50",
+        "BroadlyAffectedAutism_3_53",
+        "BroadlyAffectedAutism_4_117",
+        "BroadlyAffectedAutism_4_46",
+        "BroadlyAffectedAutism_4_47",
+        "BroadlyAffectedAutism_4_48",
+        "BroadlyAffectedAutism_4_55",
+        "BroadlyAffectedAutism_4_56",
+        "BroadlyAffectedAutism_4_57",
+        "BroadlyAffectedAutism_4_58",
+        "BroadlyAffectedAutism_4_59",
+        "BroadlyAffectedAutism_4_60",
+        "BroadlyAffectedAutism_4_61",
+        "BroadlyAffectedAutism_4_62",
+        "BroadlyAffectedAutism_4_63",
+        "BroadlyAffectedAutism_4_67",
+        "BroadlyAffectedAutism_4_68",
+        "BroadlyAffectedAutism_4_69",
+        "BroadlyAffectedAutism_4_71",
+        "BroadlyAffectedAutism_4_72",
+        "BroadlyAffectedAutism_4_74",
+        "BroadlyAffectedAutism_4_75",
+        "BroadlyAffectedAutism_4_78",
+        "BroadlyAffectedAutism_4_80",
+        "BroadlyAffectedAutism_4_81",
+        "BroadlyAffectedAutism_4_82",
+        "BroadlyAffectedAutism_4_86",
+        "BroadlyAffectedAutism_4_87",
+        "BroadlyAffectedAutism_4_89",
+        "BroadlyAffectedAutism_4_91",
+        "BroadlyAffectedAutism_4_96",
+        "BroadlyAffectedAutism_5_100",
+        "BroadlyAffectedAutism_5_103",
+        "BroadlyAffectedAutism_5_104",
+        "BroadlyAffectedAutism_5_105",
+        "BroadlyAffectedAutism_5_110",
+        "BroadlyAffectedAutism_5_111",
+        "BroadlyAffectedAutism_5_119",
+        "BroadlyAffectedAutism_5_120",
+        "BroadlyAffectedAutism_5_121",
+        "BroadlyAffectedAutism_5_122",
+        "BroadlyAffectedAutism_5_125",
+        "BroadlyAffectedAutism_5_127",
+        "BroadlyAffectedAutism_5_130",
+        "BroadlyAffectedAutism_5_133",
+        "BroadlyAffectedAutism_5_135",
+        "BroadlyAffectedAutism_5_137",
+        "BroadlyAffectedAutism_5_140",
+        "BroadlyAffectedAutism_5_143",
+        "BroadlyAffectedAutism_5_144",
+        "BroadlyAffectedAutism_5_145",
+        "BroadlyAffectedAutism_5_149",
+        "BroadlyAffectedAutism_5_150",
+        "BroadlyAffectedAutism_5_154",
+        "BroadlyAffectedAutism_5_157",
+        "BroadlyAffectedAutism_5_159",
+        "BroadlyAffectedAutism_5_169",
+        "BroadlyAffectedAutism_5_170",
+        "BroadlyAffectedAutism_5_171",
+        "BroadlyAffectedAutism_5_172",
+        "BroadlyAffectedAutism_5_180",
+        "BroadlyAffectedAutism_5_182",
+        "BroadlyAffectedAutism_5_187",
+        "BroadlyAffectedAutism_5_197",
+        "BroadlyAffectedAutism_5_199",
+        "BroadlyAffectedAutism_5_200",
+        "BroadlyAffectedAutism_5_205",
+        "BroadlyAffectedAutism_5_207",
+        "BroadlyAffectedAutism_5_215",
+        "BroadlyAffectedAutism_5_216",
+        "BroadlyAffectedAutism_5_218",
+        "BroadlyAffectedAutism_5_223",
+        "BroadlyAffectedAutism_5_227",
+        "BroadlyAffectedAutism_5_230",
+        "BroadlyAffectedAutism_5_231",
+        "BroadlyAffectedAutism_5_238",
+        "BroadlyAffectedAutism_5_240",
+        "BroadlyAffectedAutism_5_83",
+        "BroadlyAffectedAutism_5_97",
+        "BroadlyAffectedAutism_5_98",
+        "BroadlyAffectedAutism_6_165",
+        "BroadlyAffectedAutism_6_183",
+        "BroadlyAffectedAutism_6_190",
+        "BroadlyAffectedAutism_6_202",
+        "BroadlyAffectedAutism_6_203",
+        "BroadlyAffectedAutism_6_208",
+        "BroadlyAffectedAutism_6_241",
+        "BroadlyAffectedAutism_6_247",
+        "BroadlyAffectedAutism_6_249",
+        "BroadlyAffectedAutism_6_250",
+        "MixedASDwithDelay_0_0",
+        "MixedASDwithDelay_1_2",
+        "MixedASDwithDelay_1_3",
+        "MixedASDwithDelay_1_4",
+        "MixedASDwithDelay_2_10",
+        "MixedASDwithDelay_2_11",
+        "MixedASDwithDelay_2_12",
+        "MixedASDwithDelay_2_13",
+        "MixedASDwithDelay_2_16",
+        "MixedASDwithDelay_2_17",
+        "MixedASDwithDelay_2_20",
+        "MixedASDwithDelay_2_7",
+        "MixedASDwithDelay_2_8",
+        "MixedASDwithDelay_3_22",
+        "MixedASDwithDelay_3_25",
+        "MixedASDwithDelay_3_27",
+        "MixedASDwithDelay_3_29",
+        "MixedASDwithDelay_3_31",
+        "MixedASDwithDelay_3_32",
+        "MixedASDwithDelay_3_34",
+        "MixedASDwithDelay_3_35",
+        "MixedASDwithDelay_3_38",
+        "MixedASDwithDelay_3_39",
+        "MixedASDwithDelay_3_40",
+        "MixedASDwithDelay_3_41",
+        "MixedASDwithDelay_3_43",
+        "MixedASDwithDelay_3_44",
+        "MixedASDwithDelay_3_45",
+        "MixedASDwithDelay_3_46",
+        "MixedASDwithDelay_3_48",
+        "MixedASDwithDelay_3_49",
+        "MixedASDwithDelay_3_51",
+        "MixedASDwithDelay_3_54",
+        "MixedASDwithDelay_3_56",
+        "MixedASDwithDelay_3_57",
+        "MixedASDwithDelay_3_58",
+        "MixedASDwithDelay_3_60",
+        "MixedASDwithDelay_3_63",
+        "MixedASDwithDelay_4_100",
+        "MixedASDwithDelay_4_103",
+        "MixedASDwithDelay_4_104",
+        "MixedASDwithDelay_4_105",
+        "MixedASDwithDelay_4_108",
+        "MixedASDwithDelay_4_110",
+        "MixedASDwithDelay_4_111",
+        "MixedASDwithDelay_4_116",
+        "MixedASDwithDelay_4_118",
+        "MixedASDwithDelay_4_121",
+        "MixedASDwithDelay_4_122",
+        "MixedASDwithDelay_4_125",
+        "MixedASDwithDelay_4_126",
+        "MixedASDwithDelay_4_127",
+        "MixedASDwithDelay_4_130",
+        "MixedASDwithDelay_4_132",
+        "MixedASDwithDelay_4_136",
+        "MixedASDwithDelay_4_140",
+        "MixedASDwithDelay_4_141",
+        "MixedASDwithDelay_4_144",
+        "MixedASDwithDelay_4_145",
+        "MixedASDwithDelay_4_146",
+        "MixedASDwithDelay_4_148",
+        "MixedASDwithDelay_4_152",
+        "MixedASDwithDelay_4_65",
+        "MixedASDwithDelay_4_69",
+        "MixedASDwithDelay_4_79",
+        "MixedASDwithDelay_4_81",
+        "MixedASDwithDelay_4_82",
+        "MixedASDwithDelay_4_83",
+        "MixedASDwithDelay_4_87",
+        "MixedASDwithDelay_4_88",
+        "MixedASDwithDelay_4_89",
+        "MixedASDwithDelay_4_90",
+        "MixedASDwithDelay_4_92",
+        "MixedASDwithDelay_4_94",
+        "MixedASDwithDelay_4_97",
+        "MixedASDwithDelay_4_98",
+        "MixedASDwithDelay_4_99",
+        "MixedASDwithDelay_5_158",
+        "MixedASDwithDelay_5_165",
+        "MixedASDwithDelay_5_166",
+        "MixedASDwithDelay_5_167",
+        "MixedASDwithDelay_5_169",
+        "MixedASDwithDelay_5_171",
+        "MixedASDwithDelay_5_173",
+        "MixedASDwithDelay_5_176",
+        "MixedASDwithDelay_5_177",
+        "MixedASDwithDelay_5_178",
+        "MixedASDwithDelay_5_180",
+        "MixedASDwithDelay_5_182",
+        "MixedASDwithDelay_5_183",
+        "MixedASDwithDelay_5_187",
+        "MixedASDwithDelay_5_188",
+        "MixedASDwithDelay_5_190",
+        "MixedASDwithDelay_5_193",
+        "MixedASDwithDelay_5_195",
+        "MixedASDwithDelay_5_196",
+        "MixedASDwithDelay_5_197",
+        "MixedASDwithDelay_5_200",
+        "MixedASDwithDelay_5_201",
+        "MixedASDwithDelay_5_202",
+        "MixedASDwithDelay_5_211",
+        "MixedASDwithDelay_5_212",
+        "MixedASDwithDelay_5_217",
+        "MixedASDwithDelay_5_219",
+        "MixedASDwithDelay_5_221",
+        "MixedASDwithDelay_5_225",
+        "MixedASDwithDelay_5_228",
+        "MixedASDwithDelay_5_232",
+        "MixedASDwithDelay_5_234",
+        "MixedASDwithDelay_5_241",
+        "MixedASDwithDelay_5_242",
+        "MixedASDwithDelay_5_244",
+        "ModerateAutism_1_2",
+        "ModerateAutism_1_3",
+        "ModerateAutism_1_4",
+        "ModerateAutism_2_10",
+        "ModerateAutism_2_11",
+        "ModerateAutism_2_14",
+        "ModerateAutism_2_17",
+        "ModerateAutism_2_19",
+        "ModerateAutism_2_20",
+        "ModerateAutism_2_5",
+        "ModerateAutism_2_6",
+        "ModerateAutism_2_9",
+        "ModerateAutism_3_22",
+        "ModerateAutism_3_23",
+        "ModerateAutism_3_25",
+        "ModerateAutism_3_26",
+        "ModerateAutism_3_28",
+        "ModerateAutism_3_30",
+        "ModerateAutism_3_31",
+        "ModerateAutism_3_32",
+        "ModerateAutism_3_34",
+        "ModerateAutism_3_37",
+        "ModerateAutism_3_39",
+        "ModerateAutism_3_42",
+        "ModerateAutism_3_43",
+        "ModerateAutism_3_44",
+        "ModerateAutism_3_45",
+        "ModerateAutism_3_46",
+        "ModerateAutism_3_49",
+        "ModerateAutism_3_50",
+        "ModerateAutism_3_51",
+        "ModerateAutism_3_53",
+        "ModerateAutism_3_55",
+        "ModerateAutism_3_57",
+        "ModerateAutism_3_58",
+        "ModerateAutism_3_60",
+        "ModerateAutism_3_61",
+        "ModerateAutism_3_62",
+        "ModerateAutism_3_65",
+        "ModerateAutism_3_66",
+        "ModerateAutism_3_68",
+        "ModerateAutism_3_69",
+        "ModerateAutism_3_70",
+        "ModerateAutism_3_72",
+        "ModerateAutism_4_101",
+        "ModerateAutism_4_102",
+        "ModerateAutism_4_103",
+        "ModerateAutism_4_105",
+        "ModerateAutism_4_107",
+        "ModerateAutism_4_108",
+        "ModerateAutism_4_109",
+        "ModerateAutism_4_110",
+        "ModerateAutism_4_112",
+        "ModerateAutism_4_114",
+        "ModerateAutism_4_115",
+        "ModerateAutism_4_116",
+        "ModerateAutism_4_117",
+        "ModerateAutism_4_118",
+        "ModerateAutism_4_120",
+        "ModerateAutism_4_121",
+        "ModerateAutism_4_124",
+        "ModerateAutism_4_128",
+        "ModerateAutism_4_135",
+        "ModerateAutism_4_136",
+        "ModerateAutism_4_137",
+        "ModerateAutism_4_140",
+        "ModerateAutism_4_147",
+        "ModerateAutism_4_151",
+        "ModerateAutism_4_152",
+        "ModerateAutism_4_153",
+        "ModerateAutism_4_154",
+        "ModerateAutism_4_155",
+        "ModerateAutism_4_156",
+        "ModerateAutism_4_159",
+        "ModerateAutism_4_161",
+        "ModerateAutism_4_163",
+        "ModerateAutism_4_164",
+        "ModerateAutism_4_166",
+        "ModerateAutism_4_167",
+        "ModerateAutism_4_169",
+        "ModerateAutism_4_173",
+        "ModerateAutism_4_174",
+        "ModerateAutism_4_175",
+        "ModerateAutism_4_177",
+        "ModerateAutism_4_181",
+        "ModerateAutism_4_182",
+        "ModerateAutism_4_183",
+        "ModerateAutism_4_185",
+        "ModerateAutism_4_187",
+        "ModerateAutism_4_190",
+        "ModerateAutism_4_192",
+        "ModerateAutism_4_193",
+        "ModerateAutism_4_194",
+        "ModerateAutism_4_195",
+        "ModerateAutism_4_196",
+        "ModerateAutism_4_203",
+        "ModerateAutism_4_204",
+        "ModerateAutism_4_205",
+        "ModerateAutism_4_210",
+        "ModerateAutism_4_212",
+        "ModerateAutism_4_75",
+        "ModerateAutism_4_76",
+        "ModerateAutism_4_77",
+        "ModerateAutism_4_78",
+        "ModerateAutism_4_81",
+        "ModerateAutism_4_82",
+        "ModerateAutism_4_83",
+        "ModerateAutism_4_86",
+        "ModerateAutism_4_90",
+        "ModerateAutism_4_94",
+        "ModerateAutism_4_97",
+        "ModerateAutism_4_98",
+        "ModerateAutism_4_99",
+        "NeurotypicalCognition_1_1",
+        "NeurotypicalCognition_3_41",
+        "NeurotypicalCognition_4_42",
+        "NeurotypicalCognition_4_43",
+        "NeurotypicalCognition_4_45",
+        "NeurotypicalCognition_4_50",
+        "NeurotypicalCognition_4_58",
+        "NeurotypicalCognition_5_106",
+        "NeurotypicalCognition_5_116",
+        "NeurotypicalCognition_5_70",
+        "NeurotypicalCognition_5_82",
+        "NeurotypicalCognition_5_89",
+        "NeurotypicalCognition_5_93",
+        "NeurotypicalCognition_6_121",
+        "NeurotypicalCognition_6_134",
+        "NeurotypicalCognition_6_159",
+        "NeurotypicalCognition_6_169",
+        "NeurotypicalCognition_6_173",
+        "NeurotypicalCognition_6_180",
+        "NeurotypicalCognition_6_182",
+        "NeurotypicalCognition_6_190",
+        "NeurotypicalCognition_6_196",
+        "NeurotypicalCognition_6_206",
+        "NeurotypicalCognition_6_211",
+        "NeurotypicalCognition_6_219",
+        "NeurotypicalCognition_6_226",
+        "NeurotypicalCognition_7_229",
+        "NeurotypicalCognition_7_230",
+        "NeurotypicalCognition_7_231",
+        "NeurotypicalCognition_7_237",
+        "NeurotypicalCognition_7_241",
+        "NeurotypicalCognition_7_255",
+        "NeurotypicalCognition_7_263",
+        "NeurotypicalCognition_7_267",
+        "SocialBehavioralAutism_0_0",
+        "SocialBehavioralAutism_1_1",
+        "SocialBehavioralAutism_1_3",
+        "SocialBehavioralAutism_1_4",
+        "SocialBehavioralAutism_2_10",
+        "SocialBehavioralAutism_2_11",
+        "SocialBehavioralAutism_2_12",
+        "SocialBehavioralAutism_2_14",
+        "SocialBehavioralAutism_2_18",
+        "SocialBehavioralAutism_2_19",
+        "SocialBehavioralAutism_2_20",
+        "SocialBehavioralAutism_2_5",
+        "SocialBehavioralAutism_2_8",
+        "SocialBehavioralAutism_3_22",
+        "SocialBehavioralAutism_3_24",
+        "SocialBehavioralAutism_3_25",
+        "SocialBehavioralAutism_3_26",
+        "SocialBehavioralAutism_3_27",
+        "SocialBehavioralAutism_3_29",
+        "SocialBehavioralAutism_3_31",
+        "SocialBehavioralAutism_3_34",
+        "SocialBehavioralAutism_3_35",
+        "SocialBehavioralAutism_3_36",
+        "SocialBehavioralAutism_3_37",
+        "SocialBehavioralAutism_3_40",
+        "SocialBehavioralAutism_3_43",
+        "SocialBehavioralAutism_3_44",
+        "SocialBehavioralAutism_3_45",
+        "SocialBehavioralAutism_3_48",
+        "SocialBehavioralAutism_3_50",
+        "SocialBehavioralAutism_3_53",
+        "SocialBehavioralAutism_3_54",
+        "SocialBehavioralAutism_3_55",
+        "SocialBehavioralAutism_3_57",
+        "SocialBehavioralAutism_4_100",
+        "SocialBehavioralAutism_4_103",
+        "SocialBehavioralAutism_4_105",
+        "SocialBehavioralAutism_4_107",
+        "SocialBehavioralAutism_4_108",
+        "SocialBehavioralAutism_4_109",
+        "SocialBehavioralAutism_4_112",
+        "SocialBehavioralAutism_4_114",
+        "SocialBehavioralAutism_4_115",
+        "SocialBehavioralAutism_4_117",
+        "SocialBehavioralAutism_4_121",
+        "SocialBehavioralAutism_4_122",
+        "SocialBehavioralAutism_4_124",
+        "SocialBehavioralAutism_4_126",
+        "SocialBehavioralAutism_4_127",
+        "SocialBehavioralAutism_4_128",
+        "SocialBehavioralAutism_4_129",
+        "SocialBehavioralAutism_4_130",
+        "SocialBehavioralAutism_4_131",
+        "SocialBehavioralAutism_4_135",
+        "SocialBehavioralAutism_4_138",
+        "SocialBehavioralAutism_4_148",
+        "SocialBehavioralAutism_4_153",
+        "SocialBehavioralAutism_4_155",
+        "SocialBehavioralAutism_4_58",
+        "SocialBehavioralAutism_4_61",
+        "SocialBehavioralAutism_4_62",
+        "SocialBehavioralAutism_4_63",
+        "SocialBehavioralAutism_4_66",
+        "SocialBehavioralAutism_4_67",
+        "SocialBehavioralAutism_4_71",
+        "SocialBehavioralAutism_4_77",
+        "SocialBehavioralAutism_4_78",
+        "SocialBehavioralAutism_4_83",
+        "SocialBehavioralAutism_4_84",
+        "SocialBehavioralAutism_4_85",
+        "SocialBehavioralAutism_4_89",
+        "SocialBehavioralAutism_4_90",
+        "SocialBehavioralAutism_4_91",
+        "SocialBehavioralAutism_4_96",
+        "SocialBehavioralAutism_4_97",
+        "SocialBehavioralAutism_5_141",
+        "SocialBehavioralAutism_5_142",
+        "SocialBehavioralAutism_5_158",
+        "SocialBehavioralAutism_5_160",
+        "SocialBehavioralAutism_5_162",
+        "SocialBehavioralAutism_5_164",
+        "SocialBehavioralAutism_5_169",
+        "SocialBehavioralAutism_5_170",
+        "SocialBehavioralAutism_5_171",
+        "SocialBehavioralAutism_5_172",
+        "SocialBehavioralAutism_5_174",
+        "SocialBehavioralAutism_5_175",
+        "SocialBehavioralAutism_5_180",
+        "SocialBehavioralAutism_5_181",
+        "SocialBehavioralAutism_5_185",
+        "SocialBehavioralAutism_5_187",
+        "SocialBehavioralAutism_5_191",
+        "SocialBehavioralAutism_5_194",
+        "SocialBehavioralAutism_5_195",
+        "SocialBehavioralAutism_5_196",
+        "SocialBehavioralAutism_5_206",
+        "SocialBehavioralAutism_5_207",
+        "SocialBehavioralAutism_5_210",
+        "SocialBehavioralAutism_5_211",
+        "SocialBehavioralAutism_5_214",
+        "SocialBehavioralAutism_5_217",
+        "SocialBehavioralAutism_5_219",
+        "SocialBehavioralAutism_5_220",
+        "SocialBehavioralAutism_5_221",
+        "SocialBehavioralAutism_5_222",
+        "SocialBehavioralAutism_5_224",
+        "SocialBehavioralAutism_5_225",
+        "SocialBehavioralAutism_5_226",
+        "SocialBehavioralAutism_5_228",
+        "SocialBehavioralAutism_5_229",
+        "SocialBehavioralAutism_5_232",
+        "SocialBehavioralAutism_5_233",
+        "SocialBehavioralAutism_5_235"
+      ],
+      "size": 478,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay",
+        "ModerateAutism",
+        "NeurotypicalCognition",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 5,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "MixedASDwithDelay_4_121",
+        "MixedASDwithDelay_5_183",
+        "ModerateAutism_2_19",
+        "ModerateAutism_2_5",
+        "ModerateAutism_3_30",
+        "ModerateAutism_3_49",
+        "ModerateAutism_4_108",
+        "NeurotypicalCognition_5_82",
+        "SocialBehavioralAutism_5_232"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.0144,
+        "ipvr_lax_coverage": 0.0188,
+        "n_cross_pairs": 89005,
+        "n_direct_cross_pairs": 1282,
+        "n_lax_core": 9,
+        "n_class": 478
+      }
+    },
+    "NeurotypicalCognition_5_120": {
+      "members": [
+        "NeurotypicalCognition_5_120",
+        "SocialBehavioralAutism_5_145"
+      ],
+      "size": 2,
+      "actors": [
+        "NeurotypicalCognition",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "NeurotypicalCognition_5_120",
+        "SocialBehavioralAutism_5_145"
+      ],
+      "strict_cliques": [
+        [
+          "NeurotypicalCognition_5_120",
+          "SocialBehavioralAutism_5_145"
+        ]
+      ],
+      "validated_core_lax": [
+        "NeurotypicalCognition_5_120",
+        "SocialBehavioralAutism_5_145"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "SocialBehavioralAutism_1_2": {
+      "members": [
+        "BroadlyAffectedAutism_2_9",
+        "BroadlyAffectedAutism_3_32",
+        "BroadlyAffectedAutism_5_142",
+        "MixedASDwithDelay_1_1",
+        "MixedASDwithDelay_2_5",
+        "MixedASDwithDelay_3_37",
+        "MixedASDwithDelay_5_168",
+        "ModerateAutism_1_1",
+        "ModerateAutism_2_8",
+        "ModerateAutism_3_29",
+        "ModerateAutism_4_122",
+        "ModerateAutism_4_127",
+        "ModerateAutism_4_130",
+        "ModerateAutism_4_89",
+        "SocialBehavioralAutism_1_2",
+        "SocialBehavioralAutism_2_6",
+        "SocialBehavioralAutism_3_21",
+        "SocialBehavioralAutism_4_94"
+      ],
+      "size": 18,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay",
+        "ModerateAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 4,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_2_9",
+        "BroadlyAffectedAutism_3_32",
+        "MixedASDwithDelay_1_1",
+        "MixedASDwithDelay_3_37",
+        "MixedASDwithDelay_5_168",
+        "ModerateAutism_1_1",
+        "ModerateAutism_2_8",
+        "ModerateAutism_4_122",
+        "ModerateAutism_4_127",
+        "ModerateAutism_4_130",
+        "ModerateAutism_4_89",
+        "SocialBehavioralAutism_1_2",
+        "SocialBehavioralAutism_2_6",
+        "SocialBehavioralAutism_3_21",
+        "SocialBehavioralAutism_4_94"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_3_37",
+          "ModerateAutism_4_127",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_3_32",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_5_168",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_130",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_122",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_2_8",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_3_21"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_1_2"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_4_94"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_1_1",
+          "SocialBehavioralAutism_2_6"
+        ],
+        [
+          "BroadlyAffectedAutism_2_9",
+          "MixedASDwithDelay_1_1",
+          "ModerateAutism_4_89",
+          "SocialBehavioralAutism_3_21"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_2_9",
+        "BroadlyAffectedAutism_3_32",
+        "MixedASDwithDelay_1_1",
+        "MixedASDwithDelay_3_37",
+        "MixedASDwithDelay_5_168",
+        "ModerateAutism_1_1",
+        "ModerateAutism_2_8",
+        "ModerateAutism_4_122",
+        "ModerateAutism_4_127",
+        "ModerateAutism_4_130",
+        "ModerateAutism_4_89",
+        "SocialBehavioralAutism_1_2",
+        "SocialBehavioralAutism_2_6",
+        "SocialBehavioralAutism_3_21",
+        "SocialBehavioralAutism_4_94"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.641,
+        "ipvr_lax_coverage": 0.8333,
+        "n_cross_pairs": 117,
+        "n_direct_cross_pairs": 75,
+        "n_lax_core": 15,
+        "n_class": 18
+      }
+    },
+    "MixedASDwithDelay_4_129": {
+      "members": [
+        "BroadlyAffectedAutism_2_16",
+        "BroadlyAffectedAutism_4_54",
+        "MixedASDwithDelay_2_14",
+        "MixedASDwithDelay_4_107",
+        "MixedASDwithDelay_4_129",
+        "ModerateAutism_3_21",
+        "SocialBehavioralAutism_2_9",
+        "SocialBehavioralAutism_5_134"
+      ],
+      "size": 8,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay",
+        "ModerateAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 4,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_4_54"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.4348,
+        "ipvr_lax_coverage": 0.125,
+        "n_cross_pairs": 23,
+        "n_direct_cross_pairs": 10,
+        "n_lax_core": 1,
+        "n_class": 8
+      }
+    },
+    "SocialBehavioralAutism_3_47": {
+      "members": [
+        "BroadlyAffectedAutism_3_23",
+        "MixedASDwithDelay_2_18",
+        "ModerateAutism_3_56",
+        "SocialBehavioralAutism_3_47"
+      ],
+      "size": 4,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay",
+        "ModerateAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 4,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_3_23",
+        "MixedASDwithDelay_2_18",
+        "ModerateAutism_3_56",
+        "SocialBehavioralAutism_3_47"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_3_23",
+          "MixedASDwithDelay_2_18",
+          "ModerateAutism_3_56",
+          "SocialBehavioralAutism_3_47"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_3_23",
+        "MixedASDwithDelay_2_18",
+        "ModerateAutism_3_56",
+        "SocialBehavioralAutism_3_47"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 6,
+        "n_direct_cross_pairs": 6,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "SocialBehavioralAutism_5_144": {
+      "members": [
+        "BroadlyAffectedAutism_5_139",
+        "ModerateAutism_4_87",
+        "SocialBehavioralAutism_5_144"
+      ],
+      "size": 3,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "ModerateAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "ModerateAutism_4_87"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "SocialBehavioralAutism_5_163": {
+      "members": [
+        "ModerateAutism_3_38",
+        "ModerateAutism_3_63",
+        "ModerateAutism_4_145",
+        "SocialBehavioralAutism_5_163"
+      ],
+      "size": 4,
+      "actors": [
+        "ModerateAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "ModerateAutism_3_38",
+        "ModerateAutism_3_63",
+        "ModerateAutism_4_145",
+        "SocialBehavioralAutism_5_163"
+      ],
+      "strict_cliques": [
+        [
+          "ModerateAutism_3_63",
+          "SocialBehavioralAutism_5_163"
+        ],
+        [
+          "ModerateAutism_4_145",
+          "SocialBehavioralAutism_5_163"
+        ],
+        [
+          "ModerateAutism_3_38",
+          "SocialBehavioralAutism_5_163"
+        ]
+      ],
+      "validated_core_lax": [
+        "ModerateAutism_3_38",
+        "ModerateAutism_3_63",
+        "ModerateAutism_4_145",
+        "SocialBehavioralAutism_5_163"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 3,
+        "n_lax_core": 4,
+        "n_class": 4
+      }
+    },
+    "SocialBehavioralAutism_4_72": {
+      "members": [
+        "BroadlyAffectedAutism_4_90",
+        "SocialBehavioralAutism_4_72"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_4_90",
+        "SocialBehavioralAutism_4_72"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_4_90",
+          "SocialBehavioralAutism_4_72"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_4_90",
+        "SocialBehavioralAutism_4_72"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "SocialBehavioralAutism_4_79": {
+      "members": [
+        "BroadlyAffectedAutism_4_95",
+        "BroadlyAffectedAutism_5_156",
+        "BroadlyAffectedAutism_5_181",
+        "SocialBehavioralAutism_4_149",
+        "SocialBehavioralAutism_4_79",
+        "SocialBehavioralAutism_5_159",
+        "SocialBehavioralAutism_5_179"
+      ],
+      "size": 7,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_4_95",
+        "BroadlyAffectedAutism_5_156",
+        "BroadlyAffectedAutism_5_181",
+        "SocialBehavioralAutism_4_149",
+        "SocialBehavioralAutism_4_79",
+        "SocialBehavioralAutism_5_159",
+        "SocialBehavioralAutism_5_179"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_181",
+          "SocialBehavioralAutism_4_79"
+        ],
+        [
+          "BroadlyAffectedAutism_5_156",
+          "SocialBehavioralAutism_5_159"
+        ],
+        [
+          "BroadlyAffectedAutism_5_156",
+          "SocialBehavioralAutism_4_149"
+        ],
+        [
+          "BroadlyAffectedAutism_5_156",
+          "SocialBehavioralAutism_5_179"
+        ],
+        [
+          "BroadlyAffectedAutism_4_95",
+          "SocialBehavioralAutism_4_149"
+        ],
+        [
+          "BroadlyAffectedAutism_4_95",
+          "SocialBehavioralAutism_5_179"
+        ],
+        [
+          "BroadlyAffectedAutism_4_95",
+          "SocialBehavioralAutism_4_79"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_4_95",
+        "BroadlyAffectedAutism_5_156",
+        "BroadlyAffectedAutism_5_181",
+        "SocialBehavioralAutism_4_149",
+        "SocialBehavioralAutism_4_79",
+        "SocialBehavioralAutism_5_159",
+        "SocialBehavioralAutism_5_179"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.5833,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 12,
+        "n_direct_cross_pairs": 7,
+        "n_lax_core": 7,
+        "n_class": 7
+      }
+    },
+    "SocialBehavioralAutism_4_80": {
+      "members": [
+        "BroadlyAffectedAutism_5_155",
+        "SocialBehavioralAutism_4_80"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_5_155",
+        "SocialBehavioralAutism_4_80"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_155",
+          "SocialBehavioralAutism_4_80"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_5_155",
+        "SocialBehavioralAutism_4_80"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "SocialBehavioralAutism_4_82": {
+      "members": [
+        "BroadlyAffectedAutism_5_175",
+        "SocialBehavioralAutism_4_82",
+        "SocialBehavioralAutism_5_168"
+      ],
+      "size": 3,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_5_175",
+        "SocialBehavioralAutism_4_82",
+        "SocialBehavioralAutism_5_168"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_175",
+          "SocialBehavioralAutism_5_168"
+        ],
+        [
+          "BroadlyAffectedAutism_5_175",
+          "SocialBehavioralAutism_4_82"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_5_175",
+        "SocialBehavioralAutism_4_82",
+        "SocialBehavioralAutism_5_168"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 2,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 3,
+        "n_class": 3
+      }
+    },
+    "SocialBehavioralAutism_4_110": {
+      "members": [
+        "BroadlyAffectedAutism_5_107",
+        "SocialBehavioralAutism_4_110"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "SocialBehavioralAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_5_107",
+        "SocialBehavioralAutism_4_110"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_107",
+          "SocialBehavioralAutism_4_110"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_5_107",
+        "SocialBehavioralAutism_4_110"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "MixedASDwithDelay_4_142": {
+      "members": [
+        "BroadlyAffectedAutism_5_178",
+        "MixedASDwithDelay_4_142"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_5_178",
+        "MixedASDwithDelay_4_142"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_178",
+          "MixedASDwithDelay_4_142"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_5_178",
+        "MixedASDwithDelay_4_142"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "MixedASDwithDelay_5_156": {
+      "members": [
+        "BroadlyAffectedAutism_6_242",
+        "MixedASDwithDelay_5_156"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_6_242",
+        "MixedASDwithDelay_5_156"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_6_242",
+          "MixedASDwithDelay_5_156"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_6_242",
+        "MixedASDwithDelay_5_156"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    },
+    "MixedASDwithDelay_5_206": {
+      "members": [
+        "BroadlyAffectedAutism_6_192",
+        "MixedASDwithDelay_5_206",
+        "ModerateAutism_2_18"
+      ],
+      "size": 3,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "MixedASDwithDelay",
+        "ModerateAutism"
+      ],
+      "k_actors": 3,
+      "validated_core_strict": [],
+      "strict_cliques": [],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_6_192"
+      ],
+      "ipvr": {
+        "ipvr_strict": 0.6667,
+        "ipvr_lax_coverage": 0.3333,
+        "n_cross_pairs": 3,
+        "n_direct_cross_pairs": 2,
+        "n_lax_core": 1,
+        "n_class": 3
+      }
+    },
+    "ModerateAutism_3_36": {
+      "members": [
+        "BroadlyAffectedAutism_5_128",
+        "ModerateAutism_3_36"
+      ],
+      "size": 2,
+      "actors": [
+        "BroadlyAffectedAutism",
+        "ModerateAutism"
+      ],
+      "k_actors": 2,
+      "validated_core_strict": [
+        "BroadlyAffectedAutism_5_128",
+        "ModerateAutism_3_36"
+      ],
+      "strict_cliques": [
+        [
+          "BroadlyAffectedAutism_5_128",
+          "ModerateAutism_3_36"
+        ]
+      ],
+      "validated_core_lax": [
+        "BroadlyAffectedAutism_5_128",
+        "ModerateAutism_3_36"
+      ],
+      "ipvr": {
+        "ipvr_strict": 1.0,
+        "ipvr_lax_coverage": 1.0,
+        "n_cross_pairs": 1,
+        "n_direct_cross_pairs": 1,
+        "n_lax_core": 2,
+        "n_class": 2
+      }
+    }
+  },
+  "statistics": {
+    "total_classes": 16,
+    "min_size": 2,
+    "max_size": 478,
+    "avg_size": 33.875,
+    "min_actors": 2,
+    "max_actors": 5,
+    "classes_strict_nonempty": 12,
+    "classes_lax_nonempty": 16,
+    "ipvr_strict_avg": 0.8129,
+    "ipvr_lax_coverage_avg": 0.7902
+  },
+  "timestamp": "2026-08-17T01:41:38.337627"
+}

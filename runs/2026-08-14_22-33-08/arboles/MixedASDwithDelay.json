@@ -1,0 +1,1877 @@
+{
+  "actor": "MixedASDwithDelay",
+  "raiz": {
+    "id": "MixedASDwithDelay_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.39795294404029846,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "MixedASDwithDelay_1_1",
+        "texto": "MixedASDwithDelay decodes the sarcasm as literal statement",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.21700027585029602,
+        "sim_con_problema": 0.549543023109436,
+        "peso_arista": 1.233456701040268,
+        "peso_acumulado": 1.233456701040268,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_5",
+            "texto": "MixedASDwithDelay requires extra inference to detect irony",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.29966142773628235,
+            "sim_con_problema": 0.49013495445251465,
+            "peso_arista": 1.210203617811203,
+            "peso_acumulado": 2.443660318851471,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_16",
+                "texto": "MixedASDwithDelay searches explicit rules for sarcasm cues",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2388628125190735,
+                "sim_con_problema": 0.4126565456390381,
+                "peso_arista": 1.3484806418418884,
+                "peso_acumulado": 3.7921409606933594,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_51",
+                    "texto": "MixedASDwithDelay attempts conscious retrieval of matching rule entry",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.28041842579841614,
+                    "sim_con_problema": 0.19267238676548004,
+                    "peso_arista": 1.5269091874361038,
+                    "peso_acumulado": 5.319050148129463,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_52",
+                    "texto": "MixedASDwithDelay fails to locate an explicit sarcasm rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.1539144515991211,
+                    "sim_con_problema": 0.3343687951564789,
+                    "peso_arista": 1.5117167532444,
+                    "peso_acumulado": 5.303857713937759,
+                    "premise_id": "A23",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_53",
+                    "texto": "MixedASDwithDelay processes the social exchange at reduced speed",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.294018030166626,
+                    "sim_con_problema": 0.3587815463542938,
+                    "peso_arista": 1.3472004234790802,
+                    "peso_acumulado": 5.13934138417244,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_95",
+                        "texto": "Continued rapid conversational shifts increase processing overload",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.31046855449676514,
+                        "sim_con_problema": 0.44396793842315674,
+                        "peso_arista": 1.2455635070800781,
+                        "peso_acumulado": 6.384904891252518,
+                        "premise_id": "A6",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_171",
+                            "texto": "MixedASDwithDelay goes offline for social processing",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.19991198182106018,
+                            "sim_con_problema": 0.22280362248420715,
+                            "peso_arista": 1.5772843956947327,
+                            "peso_acumulado": 7.96218928694725,
+                            "premise_id": "A1",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_172",
+                            "texto": "MixedASDwithDelay generates disproportionate prediction error signals",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2538941204547882,
+                            "sim_con_problema": 0.19279834628105164,
+                            "peso_arista": 1.5533075332641602,
+                            "peso_acumulado": 7.938212424516678,
+                            "premise_id": "A20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_173",
+                            "texto": "MixedASDwithDelay fails to adapt learning rate accordingly",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3983810544013977,
+                            "sim_con_problema": 0.2070814073085785,
+                            "peso_arista": 1.3945375382900238,
+                            "peso_acumulado": 7.7794424295425415,
+                            "premise_id": "A6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_17",
+                "texto": "MixedASDwithDelay maintains literal interpretation until inference completes",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.29102063179016113,
+                "sim_con_problema": 0.3904988765716553,
+                "peso_arista": 1.3184804916381836,
+                "peso_acumulado": 3.7621408104896545,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_41",
+                    "texto": "MixedASDwithDelay responds to the literal statement content",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.22899924218654633,
+                    "sim_con_problema": 0.44310158491134644,
+                    "peso_arista": 1.3278991729021072,
+                    "peso_acumulado": 5.090039983391762,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_88",
+                        "texto": "MixedASDwithDelay's literal reply misapplies unstated social expectations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.23669907450675964,
+                        "sim_con_problema": 0.5484894514083862,
+                        "peso_arista": 1.2148114740848541,
+                        "peso_acumulado": 6.304851457476616,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_165",
+                            "texto": "MixedASDwithDelay's response remains unrevised absent immediate specific feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.22648078203201294,
+                            "sim_con_problema": 0.20339833199977875,
+                            "peso_arista": 1.5701208859682083,
+                            "peso_acumulado": 7.874972343444824,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_167",
+                            "texto": "MixedASDwithDelay treats any shaming correction as a threat signal",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2449473887681961,
+                            "sim_con_problema": 0.3728516697883606,
+                            "peso_arista": 1.3822009414434433,
+                            "peso_acumulado": 7.687052398920059,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_89",
+                        "texto": "MixedASDwithDelay cannot anticipate the group's unexpected reaction",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.23501981794834137,
+                        "sim_con_problema": 0.21982276439666748,
+                        "peso_arista": 1.5451574176549911,
+                        "peso_acumulado": 6.635197401046753,
+                        "premise_id": "A20",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_202",
+                            "texto": "MixedASDwithDelay must consciously retrieve a stored social rule to interpret the reaction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.40798845887184143,
+                            "sim_con_problema": 0.45147016644477844,
+                            "peso_arista": 1.1405413746833801,
+                            "peso_acumulado": 7.775738775730133,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_203",
+                            "texto": "MixedASDwithDelay processes the socially complex reaction at reduced speed",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3480498492717743,
+                            "sim_con_problema": 0.256314218044281,
+                            "peso_arista": 1.3956359326839447,
+                            "peso_acumulado": 8.030833333730698,
+                            "premise_id": "A7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_42",
+                    "texto": "MixedASDwithDelay attempts explicit retrieval of a pragmatic rule",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.34325283765792847,
+                    "sim_con_problema": 0.3709386885166168,
+                    "peso_arista": 1.2858084738254547,
+                    "peso_acumulado": 5.047949284315109,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_87",
+                        "texto": "MixedASDwithDelay cannot apply prior rule to this new context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.27018553018569946,
+                        "sim_con_problema": 0.28014039993286133,
+                        "peso_arista": 1.4496740698814392,
+                        "peso_acumulado": 6.4976233541965485,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_180",
+                            "texto": "MixedASDwithDelay requires explicit instruction to re-anchor rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.294525682926178,
+                            "sim_con_problema": 0.18211568892002106,
+                            "peso_arista": 1.523358628153801,
+                            "peso_acumulado": 8.02098198235035,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_181",
+                            "texto": "MixedASDwithDelay fails to match any stored pragmatic entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.15502673387527466,
+                            "sim_con_problema": 0.1736617386341095,
+                            "peso_arista": 1.6713115274906158,
+                            "peso_acumulado": 8.168934881687164,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_6",
+            "texto": "MixedASDwithDelay cannot retrieve an implicit social rule here",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.23986196517944336,
+            "sim_con_problema": 0.4053739607334137,
+            "peso_arista": 1.354764074087143,
+            "peso_acumulado": 2.588220775127411,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_24",
+                "texto": "MixedASDwithDelay applies no social rule to this exchange",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.10935463756322861,
+                "sim_con_problema": 0.26792633533477783,
+                "peso_arista": 1.6227190271019936,
+                "peso_acumulado": 4.2109398022294044,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_75",
+                    "texto": "MixedASDwithDelay responds to the remark as literal fact",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.16675135493278503,
+                    "sim_con_problema": 0.39636433124542236,
+                    "peso_arista": 1.4368843138217926,
+                    "peso_acumulado": 5.647824116051197,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_155",
+                        "texto": "MixedASDwithDelay cannot generalize this literal reading to future sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2179984450340271,
+                        "sim_con_problema": 0.5563194751739502,
+                        "peso_arista": 1.2256820797920227,
+                        "peso_acumulado": 6.87350619584322,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_76",
+                    "texto": "MixedASDwithDelay produces a response mismatched to group expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2921771705150604,
+                    "sim_con_problema": 0.2529396116733551,
+                    "peso_arista": 1.4548832178115845,
+                    "peso_acumulado": 5.665823020040989,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_161",
+                        "texto": "MixedASDwithDelay treats the mismatch as moral failure, blocking learning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.31478530168533325,
+                        "sim_con_problema": 0.3949283957481384,
+                        "peso_arista": 1.2902863025665283,
+                        "peso_acumulado": 6.956109322607517,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_25",
+                "texto": "MixedASDwithDelay responds based only on the literal statement",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.21786990761756897,
+                "sim_con_problema": 0.3373594880104065,
+                "peso_arista": 1.4447706043720245,
+                "peso_acumulado": 4.032991379499435,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_63",
+                    "texto": "MixedASDwithDelay produces a reply mismatched to the sarcastic intent",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.18464244902133942,
+                    "sim_con_problema": 0.4522165060043335,
+                    "peso_arista": 1.363141044974327,
+                    "peso_acumulado": 5.3961324244737625,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_135",
+                        "texto": "MixedASDwithDelay cannot learn from vague social feedback here",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.24460391700267792,
+                        "sim_con_problema": 0.4600459635257721,
+                        "peso_arista": 1.29535011947155,
+                        "peso_acumulado": 6.6914825439453125,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_220",
+                            "texto": "MixedASDwithDelay's sarcasm-decoding rule remains unupdated",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.1997143030166626,
+                            "sim_con_problema": 0.4247690737247467,
+                            "peso_arista": 1.3755166232585907,
+                            "peso_acumulado": 8.066999167203903,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_222",
+                            "texto": "MixedASDwithDelay treats unclear correction as threat, not learning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.34235498309135437,
+                            "sim_con_problema": 0.4071185886859894,
+                            "peso_arista": 1.2505264282226562,
+                            "peso_acumulado": 7.942008972167969,
+                            "premise_id": "A21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_223",
+                            "texto": "MixedASDwithDelay requires explicit corrective feedback to update behavior",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2896268367767334,
+                            "sim_con_problema": 0.19047889113426208,
+                            "peso_arista": 1.5198942720890045,
+                            "peso_acumulado": 8.211376816034317,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_136",
+                        "texto": "MixedASDwithDelay fails to detect the implicit norm violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21743521094322205,
+                        "sim_con_problema": 0.26945924758911133,
+                        "peso_arista": 1.5131055414676666,
+                        "peso_acumulado": 6.909237965941429,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_137",
+                        "texto": "MixedASDwelayDelay requires explicit correction to apply a new rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2755282521247864,
+                        "sim_con_problema": 0.2132389396429062,
+                        "peso_arista": 1.5112328082323074,
+                        "peso_acumulado": 6.90736523270607,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_64",
+                    "texto": "MixedASDwithDelay fails to register the violated social expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.16124407947063446,
+                    "sim_con_problema": 0.2784964442253113,
+                    "peso_arista": 1.5602594763040543,
+                    "peso_acumulado": 5.59325085580349,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_150",
+                        "texto": "MixedASDwithDelay does not update its pragmatic rule database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16450810432434082,
+                        "sim_con_problema": 0.1679474413394928,
+                        "peso_arista": 1.6675444543361664,
+                        "peso_acumulado": 7.260795310139656,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_151",
+                        "texto": "MixedASDwithDelay receives no learning signal from this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23739652335643768,
+                        "sim_con_problema": 0.20235300064086914,
+                        "peso_arista": 1.5602504760026932,
+                        "peso_acumulado": 7.153501331806183,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_153",
+                        "texto": "MixedASDwithDelay cannot re-anchor sarcasm cues to future contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2649858593940735,
+                        "sim_con_problema": 0.5055261850357056,
+                        "peso_arista": 1.229487955570221,
+                        "peso_acumulado": 6.822738811373711,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_65",
+                    "texto": "MixedASDwithDelay treats the literal statement as the explicit rule to follow",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28540658950805664,
+                    "sim_con_problema": 0.44545668363571167,
+                    "peso_arista": 1.2691367268562317,
+                    "peso_acumulado": 5.302128106355667,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_115",
+                        "texto": "MixedASDwithDelay executes behavior matching the literal meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2907072901725769,
+                        "sim_con_problema": 0.3356204628944397,
+                        "peso_arista": 1.3736722469329834,
+                        "peso_acumulado": 6.6758003532886505,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_217",
+                            "texto": "MixedASDwithDelay produces a response mismatched to speaker intent",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2763843536376953,
+                            "sim_con_problema": 0.47258830070495605,
+                            "peso_arista": 1.2510273456573486,
+                            "peso_acumulado": 7.926827698945999,
+                            "premise_id": "A17",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_116",
+                        "texto": "MixedASDwithDelay will not apply this rule to new sarcastic contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.20605336129665375,
+                        "sim_con_problema": 0.4011213183403015,
+                        "peso_arista": 1.3928253203630447,
+                        "peso_acumulado": 6.694953426718712,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_226",
+                            "texto": "MixedASDwithDelay's sarcasm database entry remains unupdated across contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.11363986134529114,
+                            "sim_con_problema": 0.3136441111564636,
+                            "peso_arista": 1.5727160274982452,
+                            "peso_acumulado": 8.267669454216957,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_117",
+                        "texto": "MixedASDwithDelay needs explicit corrective feedback to revise this rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2816975712776184,
+                        "sim_con_problema": 0.23234719038009644,
+                        "peso_arista": 1.4859552383422852,
+                        "peso_acumulado": 6.788083344697952,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_26",
+                "texto": "MixedASDwithDelay will not revise interpretation without explicit feedback",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.264084130525589,
+                "sim_con_problema": 0.29938578605651855,
+                "peso_arista": 1.4365300834178925,
+                "peso_acumulado": 4.024750858545303,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_60",
+                    "texto": "MixedASDwithDelay stores the literal interpretation as semantic fact",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2932419180870056,
+                    "sim_con_problema": 0.5063759684562683,
+                    "peso_arista": 1.200382113456726,
+                    "peso_acumulado": 5.225132972002029,
+                    "premise_id": "A8",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_101",
+                        "texto": "MixedASDwithDelay retains this literal fact with high fidelity",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.24503827095031738,
+                        "sim_con_problema": 0.28111132979393005,
+                        "peso_arista": 1.4738503992557526,
+                        "peso_acumulado": 6.698983371257782,
+                        "premise_id": "A8",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_229",
+                            "texto": "MixedASDwithDelay will not generalize this literal fact across contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.278854101896286,
+                            "sim_con_problema": 0.4372017979621887,
+                            "peso_arista": 1.2839441001415253,
+                            "peso_acumulado": 7.982927471399307,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_230",
+                            "texto": "MixedASDwithDelay requires explicit visual cues to retrieve this fact later",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.39948979020118713,
+                            "sim_con_problema": 0.3374934792518616,
+                            "peso_arista": 1.2630167305469513,
+                            "peso_acumulado": 7.962000101804733,
+                            "premise_id": "A10",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_231",
+                            "texto": "MixedASDwithDelay treats the literal fact as a fixed database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21921703219413757,
+                            "sim_con_problema": 0.3176330029964447,
+                            "peso_arista": 1.4631499648094177,
+                            "peso_acumulado": 8.1621333360672,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_102",
+                        "texto": "MixedASDwithDelay will not apply this interpretation to new contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.26536113023757935,
+                        "sim_con_problema": 0.37453627586364746,
+                        "peso_arista": 1.3601025938987732,
+                        "peso_acumulado": 6.585235565900803,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_198",
+                            "texto": "MixedASDwithDelay requires explicit instruction to re-anchor sarcasm cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.32085907459259033,
+                            "sim_con_problema": 0.42155689001083374,
+                            "peso_arista": 1.257584035396576,
+                            "peso_acumulado": 7.8428196012973785,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_199",
+                            "texto": "MixedASDwithDelay will decode future sarcasm literally again",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.24105849862098694,
+                            "sim_con_problema": 0.5111783742904663,
+                            "peso_arista": 1.2477631270885468,
+                            "peso_acumulado": 7.832998692989349,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_200",
+                            "texto": "MixedASDwithDelay treats each sarcastic instance as unrelated database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.12739421427249908,
+                            "sim_con_problema": 0.27545878291130066,
+                            "peso_arista": 1.5971470028162003,
+                            "peso_acumulado": 8.182382568717003,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_103",
+                        "texto": "MixedASDwithDelay defaults to literal decoding in future sarcasm instances",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.23835954070091248,
+                        "sim_con_problema": 0.46906769275665283,
+                        "peso_arista": 1.2925727665424347,
+                        "peso_acumulado": 6.517705738544464,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_190",
+                            "texto": "MixedASDwithDelay fails to generalize this rule to novel sarcasm contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.22409895062446594,
+                            "sim_con_problema": 0.4719191789627075,
+                            "peso_arista": 1.3039818704128265,
+                            "peso_acumulado": 7.821687608957291,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_191",
+                            "texto": "MixedASDwithDelay stores literal decoding as explicit database entry",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.23506483435630798,
+                            "sim_con_problema": 0.27620992064476013,
+                            "peso_arista": 1.4887252449989319,
+                            "peso_acumulado": 8.006430983543396,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_192",
+                            "texto": "MixedASDwithDelay applies this literal rule whenever explicitly retrieved",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21575921773910522,
+                            "sim_con_problema": 0.2624785006046295,
+                            "peso_arista": 1.5217622816562653,
+                            "peso_acumulado": 8.03946802020073,
+                            "premise_id": "A23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_193",
+                            "texto": "MixedASDwithDelay retains this literal fact independent of social context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21385988593101501,
+                            "sim_con_problema": 0.4132869243621826,
+                            "peso_arista": 1.3728531897068024,
+                            "peso_acumulado": 7.8905589282512665,
+                            "premise_id": "A8",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_61",
+                    "texto": "MixedASDwithDelay requires observable specific feedback to update",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.29344385862350464,
+                    "sim_con_problema": 0.17463144659996033,
+                    "peso_arista": 1.531924694776535,
+                    "peso_acumulado": 5.556675553321838,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_147",
+                        "texto": "MixedASDwithDelay retains literal interpretation absent explicit correction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.28657078742980957,
+                        "sim_con_problema": 0.4023253917694092,
+                        "peso_arista": 1.3111038208007812,
+                        "peso_acumulado": 6.86777937412262,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_148",
+                        "texto": "MixedASDwithDelay blocks learning if correction implies moral failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37373703718185425,
+                        "sim_con_problema": 0.3559630513191223,
+                        "peso_arista": 1.2702999114990234,
+                        "peso_acumulado": 6.826975464820862,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_149",
+                        "texto": "MixedASDwithDelay cannot update pragmatic rule without conscious retrieval",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.30329763889312744,
+                        "sim_con_problema": 0.26965922117233276,
+                        "peso_arista": 1.4270431399345398,
+                        "peso_acumulado": 6.983718693256378,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_62",
+                    "texto": "MixedASDwithDelay will not generalize correction to other sarcastic remarks",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.23188409209251404,
+                    "sim_con_problema": 0.44966191053390503,
+                    "peso_arista": 1.318453997373581,
+                    "peso_acumulado": 5.343204855918884,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_124",
+                        "texto": "MixedASDwithDelay treats each new sarcastic remark as unrelated context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.19849398732185364,
+                        "sim_con_problema": 0.5007845163345337,
+                        "peso_arista": 1.3007214963436127,
+                        "peso_acumulado": 6.643926352262497,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_204",
+                            "texto": "MixedASDwithDelay requires explicit re-instruction for each sarcastic instance",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.29638758301734924,
+                            "sim_con_problema": 0.28697869181632996,
+                            "peso_arista": 1.4166337251663208,
+                            "peso_acumulado": 8.060560077428818,
+                            "premise_id": "A22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_205",
+                            "texto": "MixedASDwithDelay must consciously retrieve the sarcasm rule again",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.23893526196479797,
+                            "sim_con_problema": 0.4472591280937195,
+                            "peso_arista": 1.3138056099414825,
+                            "peso_acumulado": 7.9577319622039795,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_206",
+                            "texto": "MixedASDwithDelay decodes each new sarcastic remark literally",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2495684027671814,
+                            "sim_con_problema": 0.49615782499313354,
+                            "peso_arista": 1.254273772239685,
+                            "peso_acumulado": 7.898200124502182,
+                            "premise_id": "A17",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_7",
+            "texto": "MixedASDwithDelay responds based on the stated words only",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24448050558567047,
+            "sim_con_problema": 0.31110450625419617,
+            "peso_arista": 1.4444149881601334,
+            "peso_acumulado": 2.6778716892004013,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_27",
+                "texto": "MixedASDwithDelay produces a response mismatched to intended meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2655579447746277,
+                "sim_con_problema": 0.40214118361473083,
+                "peso_arista": 1.3323008716106415,
+                "peso_acumulado": 4.010172560811043,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_58",
+                    "texto": "MixedASDwithDelay fails to update interpretation without immediate specific feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.23847037553787231,
+                    "sim_con_problema": 0.22393731772899628,
+                    "peso_arista": 1.5375923067331314,
+                    "peso_acumulado": 5.547764867544174,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_144",
+                        "texto": "MixedASDwithDelay will not generalize this correction to new contexts",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.30840998888015747,
+                        "sim_con_problema": 0.27708977460861206,
+                        "peso_arista": 1.4145002365112305,
+                        "peso_acumulado": 6.962265104055405,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_145",
+                        "texto": "MixedASDwithDelay continues applying literal decoding as default rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.27928388118743896,
+                        "sim_con_problema": 0.3327677845954895,
+                        "peso_arista": 1.3879483342170715,
+                        "peso_acumulado": 6.935713201761246,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_59",
+                    "texto": "MixedASDwithDelay will not generalize sarcasm recognition to new contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28080013394355774,
+                    "sim_con_problema": 0.5022844076156616,
+                    "peso_arista": 1.2169154584407806,
+                    "peso_acumulado": 5.227088019251823,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_105",
+                        "texto": "MixedASDwithDelay requires explicit instruction for each new sarcastic context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3254070281982422,
+                        "sim_con_problema": 0.3939427137374878,
+                        "peso_arista": 1.28065025806427,
+                        "peso_acumulado": 6.5077382773160934,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_187",
+                            "texto": "MixedASDwithDelay stores sarcasm rules as explicit database entries",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.16071245074272156,
+                            "sim_con_problema": 0.3302784860134125,
+                            "peso_arista": 1.509009063243866,
+                            "peso_acumulado": 8.01674734055996,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_189",
+                            "texto": "MixedASDwithDelay updates sarcasm recognition only with specific proximate feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3110951781272888,
+                            "sim_con_problema": 0.38101768493652344,
+                            "peso_arista": 1.3078871369361877,
+                            "peso_acumulado": 7.815625414252281,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_106",
+                        "texto": "MixedASDwithDelay misinterprets sarcasm again in future unrelated conversations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.1589929759502411,
+                        "sim_con_problema": 0.5475109815597534,
+                        "peso_arista": 1.2934960424900055,
+                        "peso_acumulado": 6.520584061741829,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_195",
+                            "texto": "MixedASDwithDelay requires specific feedback to update sarcasm interpretation",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.28126275539398193,
+                            "sim_con_problema": 0.4016464948654175,
+                            "peso_arista": 1.3170907497406006,
+                            "peso_acumulado": 7.8376748114824295,
+                            "premise_id": "A24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_196",
+                            "texto": "MixedASDwithDelay treats repeated correction as social failure",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3039771318435669,
+                            "sim_con_problema": 0.36616045236587524,
+                            "peso_arista": 1.3298624157905579,
+                            "peso_acumulado": 7.850446477532387,
+                            "premise_id": "A21",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_197",
+                            "texto": "MixedASDwithDelay needs explicit re-anchoring for each new context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3123491704463959,
+                            "sim_con_problema": 0.24129006266593933,
+                            "peso_arista": 1.4463607668876648,
+                            "peso_acumulado": 7.966944828629494,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_107",
+                        "texto": "MixedASDwithDelay treats sarcasm detection as an unstored database entry",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.18147796392440796,
+                        "sim_con_problema": 0.3967365026473999,
+                        "peso_arista": 1.4217855334281921,
+                        "peso_acumulado": 6.648873552680016,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_209",
+                            "texto": "MixedASDwithDelay needs specific proximate feedback to store rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3334789276123047,
+                            "sim_con_problema": 0.15687699615955353,
+                            "peso_arista": 1.5096440762281418,
+                            "peso_acumulado": 8.158517628908157,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_108",
+                        "texto": "MixedASDwithDelay follows only explicitly stated rules about sarcasm",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2028001993894577,
+                        "sim_con_problema": 0.3577309250831604,
+                        "peso_arista": 1.439468875527382,
+                        "peso_acumulado": 6.666556894779205,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_215",
+                            "texto": "MixedASDwithDelay needs explicit re-instruction for each new context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3770864009857178,
+                            "sim_con_problema": 0.2519069314002991,
+                            "peso_arista": 1.3710066676139832,
+                            "peso_acumulado": 8.037563562393188,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_2",
+        "texto": "MixedASDwithDelay must consciously retrieve a matching social rule",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.351708322763443,
+        "sim_con_problema": 0.37684619426727295,
+        "peso_arista": 1.271445482969284,
+        "peso_acumulado": 1.271445482969284,
+        "premise_id": "A18",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_9",
+            "texto": "MixedASDwithDelay searches stored entries for a sarcasm-handling rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.16057103872299194,
+            "sim_con_problema": 0.2852572798728943,
+            "peso_arista": 1.5541716814041138,
+            "peso_acumulado": 2.825617164373398,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_31",
+                "texto": "MixedASDwithDelay defaults to literal interpretation of statement",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2731837332248688,
+                "sim_con_problema": 0.4642442464828491,
+                "peso_arista": 1.262572020292282,
+                "peso_acumulado": 4.08818918466568,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_66",
+                    "texto": "MixedASDwithDelay interprets the sarcastic statement as factually true",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1833992600440979,
+                    "sim_con_problema": 0.509080708026886,
+                    "peso_arista": 1.3075200319290161,
+                    "peso_acumulado": 5.395709216594696,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_132",
+                        "texto": "MixedASDwithDelay forms a factually incorrect belief from the statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.1896783709526062,
+                        "sim_con_problema": 0.4159278869628906,
+                        "peso_arista": 1.3943937420845032,
+                        "peso_acumulado": 6.790102958679199,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_133",
+                        "texto": "MixedASDwithDelay lacks feedback signaling the interpretation error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.27350369095802307,
+                        "sim_con_problema": 0.31507861614227295,
+                        "peso_arista": 1.411417692899704,
+                        "peso_acumulado": 6.8071269094944,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_134",
+                        "texto": "MixedASDwithDelay stores the false statement as semantic fact",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.21409735083580017,
+                        "sim_con_problema": 0.4106912314891815,
+                        "peso_arista": 1.3752114176750183,
+                        "peso_acumulado": 6.770920634269714,
+                        "premise_id": "A8",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_68",
+                    "texto": "MixedASDwithDelay cannot correct the misinterpretation without explicit feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2595771253108978,
+                    "sim_con_problema": 0.3003218173980713,
+                    "peso_arista": 1.4401010572910309,
+                    "peso_acumulado": 5.528290241956711,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_141",
+                        "texto": "MixedASDwithDelay's rule database gains no sarcasm entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.09051788598299026,
+                        "sim_con_problema": 0.2216244339942932,
+                        "peso_arista": 1.6878576800227165,
+                        "peso_acumulado": 7.216147921979427,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_143",
+                        "texto": "MixedASDwithDelay continues responding to sarcasm as literal statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.16564548015594482,
+                        "sim_con_problema": 0.4431862235069275,
+                        "peso_arista": 1.3911682963371277,
+                        "peso_acumulado": 6.9194585382938385,
+                        "premise_id": "A17",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_32",
+                "texto": "MixedASDwithDelay cannot reliably apply unspoken sarcasm convention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2009175568819046,
+                "sim_con_problema": 0.4910125732421875,
+                "peso_arista": 1.308069869875908,
+                "peso_acumulado": 4.133687034249306,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_71",
+                    "texto": "MixedASDwithDelay cannot update meaning without explicit corrective feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.21548303961753845,
+                    "sim_con_problema": 0.25851932168006897,
+                    "peso_arista": 1.5259976387023926,
+                    "peso_acumulado": 5.659684672951698,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_157",
+                        "texto": "MixedASDwithDelay retains the literal interpretation of the statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2277538776397705,
+                        "sim_con_problema": 0.4253740608692169,
+                        "peso_arista": 1.3468720614910126,
+                        "peso_acumulado": 7.006556734442711,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_158",
+                        "texto": "MixedASDwithDelay treats vague feedback as non-informative for meaning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3029981553554535,
+                        "sim_con_problema": 0.5098936557769775,
+                        "peso_arista": 1.187108188867569,
+                        "peso_acumulado": 6.846792861819267,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_11",
+            "texto": "MixedASDwithDelay processes the sarcastic remark more slowly",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3158200979232788,
+            "sim_con_problema": 0.49910932779312134,
+            "peso_arista": 1.1850705742835999,
+            "peso_acumulado": 2.456516057252884,
+            "premise_id": "A7",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_18",
+                "texto": "MixedASDwithDelay initially interprets the remark literally",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.23539461195468903,
+                "sim_con_problema": 0.5404720306396484,
+                "peso_arista": 1.2241333574056625,
+                "peso_acumulado": 3.6806494146585464,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_39",
+                    "texto": "MixedASDwithDelay does not automatically detect sarcastic intent",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.21516954898834229,
+                    "sim_con_problema": 0.4197312295436859,
+                    "peso_arista": 1.3650992214679718,
+                    "peso_acumulado": 5.045748636126518,
+                    "premise_id": "A17",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_40",
+                    "texto": "MixedASDwithDelay must consciously retrieve a pragmatic rule to reinterpret",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.37175920605659485,
+                    "sim_con_problema": 0.3870046138763428,
+                    "peso_arista": 1.2412361800670624,
+                    "peso_acumulado": 4.921885594725609,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_82",
+                        "texto": "MixedASDwithDelay's reinterpretation is delayed due to slowed processing",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.3310030698776245,
+                        "sim_con_problema": 0.17167441546916962,
+                        "peso_arista": 1.4973225146532059,
+                        "peso_acumulado": 6.419208109378815,
+                        "premise_id": "A7",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_174",
+                            "texto": "MixedASDwithDelay continues acting on the literal meaning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21167808771133423,
+                            "sim_con_problema": 0.4038928151130676,
+                            "peso_arista": 1.3844290971755981,
+                            "peso_acumulado": 7.803637206554413,
+                            "premise_id": "A17",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_176",
+                            "texto": "MixedASDwithDelay receives no temporally proximate corrective feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.33149418234825134,
+                            "sim_con_problema": 0.18904995918273926,
+                            "peso_arista": 1.4794558584690094,
+                            "peso_acumulado": 7.898663967847824,
+                            "premise_id": "A24",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_83",
+                        "texto": "MixedASDwithDelay may fail to apply the rule to this context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2702171802520752,
+                        "sim_con_problema": 0.30013972520828247,
+                        "peso_arista": 1.4296430945396423,
+                        "peso_acumulado": 6.351528689265251,
+                        "premise_id": "A22",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_169",
+                            "texto": "MixedASDwithDelay cannot generalize the pragmatic rule without new instruction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3613729476928711,
+                            "sim_con_problema": 0.36038222908973694,
+                            "peso_arista": 1.278244823217392,
+                            "peso_acumulado": 7.629773512482643,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_19",
+                "texto": "MixedASDwithDelay misses the temporally proximate social context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.32249101996421814,
+                "sim_con_problema": 0.49628692865371704,
+                "peso_arista": 1.1812220513820648,
+                "peso_acumulado": 3.6377381086349487,
+                "premise_id": "A24",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_37",
+                    "texto": "MixedASDwithDelay fails to receive learnable feedback signal",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.29006606340408325,
+                    "sim_con_problema": 0.18681178987026215,
+                    "peso_arista": 1.5231221467256546,
+                    "peso_acumulado": 5.160860255360603,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_96",
+                        "texto": "MixedASDwithDelay's sarcasm interpretation does not update",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.11516441404819489,
+                        "sim_con_problema": 0.3853278160095215,
+                        "peso_arista": 1.4995077699422836,
+                        "peso_acumulado": 6.660368025302887,
+                        "premise_id": "A24",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_212",
+                            "texto": "MixedASDwithDelay must re-retrieve explicit rule for future sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2521740198135376,
+                            "sim_con_problema": 0.40028077363967896,
+                            "peso_arista": 1.3475452065467834,
+                            "peso_acumulado": 8.00791323184967,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_97",
+                        "texto": "MixedASDwithDelay's pragmatic rule database remains unrevised",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.19714587926864624,
+                        "sim_con_problema": 0.21031641960144043,
+                        "peso_arista": 1.5925377011299133,
+                        "peso_acumulado": 6.753397956490517,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_98",
+                        "texto": "MixedASDwithDelay continues defaulting to literal interpretation",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.25416332483291626,
+                        "sim_con_problema": 0.40386074781417847,
+                        "peso_arista": 1.3419759273529053,
+                        "peso_acumulado": 6.502836182713509,
+                        "premise_id": "A17",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_185",
+                            "texto": "MixedASDwithDelay fails to retrieve the sarcasm-detection social rule",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.22837218642234802,
+                            "sim_con_problema": 0.48238176107406616,
+                            "peso_arista": 1.2892460525035858,
+                            "peso_acumulado": 7.792082235217094,
+                            "premise_id": "A18",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_20",
+                "texto": "MixedASDwithDelay lags behind the ongoing group conversation",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.24071845412254333,
+                "sim_con_problema": 0.4243669807910919,
+                "peso_arista": 1.3349145650863647,
+                "peso_acumulado": 3.7914306223392487,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_47",
+                    "texto": "MixedASDwithDelay cannot use the now-delayed social feedback",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.24619100987911224,
+                    "sim_con_problema": 0.2865282893180847,
+                    "peso_arista": 1.467280700802803,
+                    "peso_acumulado": 5.258711323142052,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_113",
+                        "texto": "MixedASDwithDelay poorly encodes this socially embedded episode",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.28092315793037415,
+                        "sim_con_problema": 0.49635130167007446,
+                        "peso_arista": 1.2227255403995514,
+                        "peso_acumulado": 6.481436863541603,
+                        "premise_id": "A8",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_177",
+                            "texto": "MixedASDwithDelay cannot reliably retrieve this episode later without visual cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.2657177150249481,
+                            "sim_con_problema": 0.20150434970855713,
+                            "peso_arista": 1.5327779352664948,
+                            "peso_acumulado": 8.014214798808098,
+                            "premise_id": "A10",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_178",
+                            "texto": "MixedASDwithDelay retains only fragmented facts from this interaction",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.21566343307495117,
+                            "sim_con_problema": 0.20111523568630219,
+                            "peso_arista": 1.5832213312387466,
+                            "peso_acumulado": 8.06465819478035,
+                            "premise_id": "A8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_179",
+                            "texto": "MixedASDwithDelay cannot generalize this sarcasm instance to new contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.22167448699474335,
+                            "sim_con_problema": 0.44228100776672363,
+                            "peso_arista": 1.336044505238533,
+                            "peso_acumulado": 7.817481368780136,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_114",
+                        "texto": "MixedASDwithDelay cannot add this sarcasm rule to memory",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.21124082803726196,
+                        "sim_con_problema": 0.31299149990081787,
+                        "peso_arista": 1.4757676720619202,
+                        "peso_acumulado": 6.734478995203972,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_232",
+                            "texto": "MixedASDwithDelay lacks a stored rule entry for sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.1553490161895752,
+                            "sim_con_problema": 0.3708007335662842,
+                            "peso_arista": 1.4738502502441406,
+                            "peso_acumulado": 8.208329245448112,
+                            "premise_id": "A18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "MixedASDwithDelay_6_234",
+                            "texto": "MixedASDwithDelay will generate high prediction error at future sarcasm",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.23923438787460327,
+                            "sim_con_problema": 0.3710934519767761,
+                            "peso_arista": 1.3896721601486206,
+                            "peso_acumulado": 8.124151155352592,
+                            "premise_id": "A20",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_48",
+                    "texto": "MixedASDwithDelay registers the conversation shift as prediction error",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.21701204776763916,
+                    "sim_con_problema": 0.39969390630722046,
+                    "peso_arista": 1.3832940459251404,
+                    "peso_acumulado": 5.174724668264389,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_99",
+                        "texto": "MixedASDwithDelay generates a disproportionate disruption signal",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.24601532518863678,
+                        "sim_con_problema": 0.18582552671432495,
+                        "peso_arista": 1.5681591480970383,
+                        "peso_acumulado": 6.742883816361427,
+                        "premise_id": "A20",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MixedASDwithDelay_1_3",
+        "texto": "MixedASDwithDelay fails to detect the unspoken sarcastic intent",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.20252002775669098,
+        "sim_con_problema": 0.48251885175704956,
+        "peso_arista": 1.3149611204862595,
+        "peso_acumulado": 1.3149611204862595,
+        "premise_id": "A23",
+        "hijos": [
+          {
+            "id": "MixedASDwithDelay_2_13",
+            "texto": "MixedASDwithDelay cannot retrieve a matching pragmatic rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.24589009582996368,
+            "sim_con_problema": 0.2269100397825241,
+            "peso_arista": 1.5271998643875122,
+            "peso_acumulado": 2.8421609848737717,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_34",
+                "texto": "MixedASDwithDelay cannot infer the classmate's intended meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.25416791439056396,
+                "sim_con_problema": 0.41077083349227905,
+                "peso_arista": 1.335061252117157,
+                "peso_acumulado": 4.177222236990929,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_72",
+                    "texto": "MixedASDwithDelay defaults to the sarcastic statement's literal meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.1794188767671585,
+                    "sim_con_problema": 0.4989711046218872,
+                    "peso_arista": 1.3216100186109543,
+                    "peso_acumulado": 5.498832255601883,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_139",
+                        "texto": "MixedASDwithDelay responds without matching the intended social meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2504582405090332,
+                        "sim_con_problema": 0.5115391612052917,
+                        "peso_arista": 1.238002598285675,
+                        "peso_acumulado": 6.736834853887558,
+                        "premise_id": "A18",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_237",
+                            "texto": "MixedASDwithDelay may treat the mismatch as failure, blocking learning",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.3637959957122803,
+                            "sim_con_problema": 0.24357548356056213,
+                            "peso_arista": 1.3926285207271576,
+                            "peso_acumulado": 8.129463374614716,
+                            "premise_id": "A21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_73",
+                    "texto": "MixedASDwithDelay cannot apply the unspoken social expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.27638450264930725,
+                    "sim_con_problema": 0.5351165533065796,
+                    "peso_arista": 1.1884989440441132,
+                    "peso_acumulado": 5.365721181035042,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_128",
+                        "texto": "MixedASDwithDelay defaults to explicit stated rules instead",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2469228208065033,
+                        "sim_con_problema": 0.25177618861198425,
+                        "peso_arista": 1.5013009905815125,
+                        "peso_acumulado": 6.867022171616554,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "MixedASDwithDelay_3_35",
+                "texto": "MixedASDwithDelay applies only explicit stated rules here",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.26250818371772766,
+                "sim_con_problema": 0.25007981061935425,
+                "peso_arista": 1.487412005662918,
+                "peso_acumulado": 4.32957299053669,
+                "premise_id": "A23",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "id": "MixedASDwithDelay_2_14",
+            "texto": "MixedASDwithDelay treats the literal statement as the actual message",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.2506357431411743,
+            "sim_con_problema": 0.5623189210891724,
+            "peso_arista": 1.1870453357696533,
+            "peso_acumulado": 2.502006456255913,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "MixedASDwithDelay_3_21",
+                "texto": "MixedASDwithDelay does not perform additional inferential decoding",
+                "nivel": 3,
+                "es_hoja": true,
+                "sim_con_raiz": 0.2564232051372528,
+                "sim_con_problema": 0.24624009430408478,
+                "peso_arista": 1.4973367005586624,
+                "peso_acumulado": 3.999343156814575,
+                "premise_id": "A17",
+                "hijos": []
+              },
+              {
+                "id": "MixedASDwithDelay_3_23",
+                "texto": "MixedASDwithDelay formulates a response based on literal content",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2827197313308716,
+                "sim_con_problema": 0.4279509484767914,
+                "peso_arista": 1.289329320192337,
+                "peso_acumulado": 3.79133577644825,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "MixedASDwithDelay_4_44",
+                    "texto": "MixedASDwithDelay's response mismatches the classmate's intended meaning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.25194835662841797,
+                    "sim_con_problema": 0.4129980206489563,
+                    "peso_arista": 1.3350536227226257,
+                    "peso_acumulado": 5.1263893991708755,
+                    "premise_id": "A17",
+                    "hijos": []
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_45",
+                    "texto": "MixedASDwithDelay cannot retrieve a social rule flagging the mismatch",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.19478479027748108,
+                    "sim_con_problema": 0.2219373881816864,
+                    "peso_arista": 1.5832778215408325,
+                    "peso_acumulado": 5.374613597989082,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_129",
+                        "texto": "MixedASDwithDelay proceeds without conscious matching to social norms",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2334851622581482,
+                        "sim_con_problema": 0.35601285099983215,
+                        "peso_arista": 1.4105019867420197,
+                        "peso_acumulado": 6.785115584731102,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_130",
+                        "texto": "MixedASDwithDelay's response will violate unspoken social expectations",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.2251819372177124,
+                        "sim_con_problema": 0.4510953724384308,
+                        "peso_arista": 1.3237226903438568,
+                        "peso_acumulado": 6.698336288332939,
+                        "premise_id": "A23",
+                        "hijos": [
+                          {
+                            "id": "MixedASDwithDelay_6_228",
+                            "texto": "MixedASDwithDelay will repeat literal responses in future sarcasm contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.25317782163619995,
+                            "sim_con_problema": 0.520423173904419,
+                            "peso_arista": 1.226399004459381,
+                            "peso_acumulado": 7.92473529279232,
+                            "premise_id": "A22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_131",
+                        "texto": "MixedASDwithDelay requires explicit corrective feedback to detect the mismatch",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2696101665496826,
+                        "sim_con_problema": 0.1563587784767151,
+                        "peso_arista": 1.5740310549736023,
+                        "peso_acumulado": 6.948644652962685,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "MixedASDwithDelay_4_46",
+                    "texto": "MixedASDwithDelay lacks immediate feedback to correct the misunderstanding",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.2403656542301178,
+                    "sim_con_problema": 0.29285910725593567,
+                    "peso_arista": 1.4667752385139465,
+                    "peso_acumulado": 5.258111014962196,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "MixedASDwithDelay_5_109",
+                        "texto": "MixedASDwithDelay's misunderstanding remains uncorrected without updating",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.12308558076620102,
+                        "sim_con_problema": 0.22768965363502502,
+                        "peso_arista": 1.649224765598774,
+                        "peso_acumulado": 6.90733578056097,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "MixedASDwithDelay_5_110",
+                        "texto": "MixedASDwithDelay fails to add sarcasm rule to database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.10434755682945251,
+                        "sim_con_problema": 0.23180553317070007,
+                        "peso_arista": 1.6638469099998474,
+                        "peso_acumulado": 6.921957924962044,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 79,
+  "profundidad_maxima": 6
+}

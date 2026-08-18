@@ -1,0 +1,203 @@
+{
+  "total": 18,
+  "items": [
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "MixedASDwithDelay",
+      "node_a_id": "NeurotypicalCognition_5_194",
+      "node_b_id": "MixedASDwithDelay_5_154",
+      "node_a_texto": "NeurotypicalCognition resumes normal engagement with the new schedule",
+      "node_b_texto": "MixedASDwithDelay's behavior remains unchanged after the schedule shift",
+      "nli_score": 0.7619189321994781,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "MixedASDwithDelay",
+      "node_a_id": "NeurotypicalCognition_6_225",
+      "node_b_id": "MixedASDwithDelay_2_11",
+      "node_a_texto": "NeurotypicalCognition consolidates new schedule as stable expectation",
+      "node_b_texto": "MixedASDwithDelay fails to flexibly update to the new schedule",
+      "nli_score": 0.8364179730415344,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "MixedASDwithDelay",
+      "node_a_id": "NeurotypicalCognition_6_296",
+      "node_b_id": "MixedASDwithDelay_4_71",
+      "node_a_texto": "NeurotypicalCognition applies prior coping patterns to this new schedule",
+      "node_b_texto": "MixedASDwithDelay defaults to the previously established routine",
+      "nli_score": 0.6331960111856461,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "MixedASDwithDelay",
+      "node_a_id": "NeurotypicalCognition_6_296",
+      "node_b_id": "MixedASDwithDelay_6_225",
+      "node_a_texto": "NeurotypicalCognition applies prior coping patterns to this new schedule",
+      "node_b_texto": "MixedASDwithDelay attempts to perform the old routine action",
+      "nli_score": 0.9231707751750946,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_3_25",
+      "node_b_id": "ModerateAutism_5_135",
+      "node_a_texto": "NeurotypicalCognition resolves the error via contextual updating",
+      "node_b_texto": "ModerateAutism requires observable specific feedback to resolve disruption",
+      "nli_score": 0.9762495458126068,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_4_60",
+      "node_b_id": "ModerateAutism_4_60",
+      "node_a_texto": "NeurotypicalCognition seeks social cues to clarify the change",
+      "node_b_texto": "ModerateAutism requires observable specific feedback about the change",
+      "nli_score": 0.9754997193813324,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_4_60",
+      "node_b_id": "ModerateAutism_5_135",
+      "node_a_texto": "NeurotypicalCognition seeks social cues to clarify the change",
+      "node_b_texto": "ModerateAutism requires observable specific feedback to resolve disruption",
+      "nli_score": 0.5857716798782349,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_4_81",
+      "node_b_id": "ModerateAutism_4_60",
+      "node_a_texto": "NeurotypicalCognition integrates contextual cues for the new task",
+      "node_b_texto": "ModerateAutism requires observable specific feedback about the change",
+      "nli_score": 0.7724231481552124,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_4_99",
+      "node_b_id": "ModerateAutism_5_133",
+      "node_a_texto": "NeurotypicalCognition infers the new routine through self-monitoring",
+      "node_b_texto": "ModerateAutism must consciously retrieve new schedule rule",
+      "nli_score": 0.9230960309505463,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_4_100",
+      "node_b_id": "ModerateAutism_4_62",
+      "node_a_texto": "NeurotypicalCognition applies prior schedule rules to new context",
+      "node_b_texto": "ModerateAutism continues expecting the previous routine's structure",
+      "nli_score": 0.5548094660043716,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_5_101",
+      "node_b_id": "ModerateAutism_2_8",
+      "node_a_texto": "NeurotypicalCognition seeks clarifying cues about the new schedule",
+      "node_b_texto": "ModerateAutism requires explicit statement of new schedule",
+      "nli_score": 0.9540008008480072,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "NeurotypicalCognition_5_101",
+      "node_b_id": "ModerateAutism_4_79",
+      "node_a_texto": "NeurotypicalCognition seeks clarifying cues about the new schedule",
+      "node_b_texto": "ModerateAutism requires explicit instruction to learn new schedule",
+      "nli_score": 0.9876846373081207,
+      "rejection_reason": "En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores).",
+      "llm_response": "RECHAZAR: 0, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 | RAZÓN: En estos pares las proposiciones describen contrastes funcionales opuestos (adaptación fluida vs. dificultad/necesidad de apoyo explícito), no la misma perspectiva de un evento equivalente; representan roles inversos (actualización exitosa vs. fallo/necesidad de soporte) más que fusiones semánticamente equivalentes. Los pares [1], [6] y [7] sí son fusiones válidas por MISMA PERSPECTIVA (describen el mismo proceso cognitivo con matices equivalentes entre actores)."
+    },
+    {
+      "actor_a": "NeurotypicalCognition",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "NeurotypicalCognition_5_148",
+      "node_b_id": "BroadlyAffectedAutism_5_221",
+      "node_a_texto": "NeurotypicalCognition treats resulting errors as corrective information",
+      "node_b_texto": "BroadlyAffectedAutism may interpret the disruption as failure",
+      "nli_score": 0.6971347332000732,
+      "rejection_reason": "En [6], NeurotypicalCognition interpreta los errores como información correctiva (perspectiva positiva/adaptativa), mientras que BroadlyAffectedAutism interpreta la misma disrupción como fallo/fracaso (perspectiva negativa). Son interpretaciones opuestas del mismo evento (el error), representando roles invertidos en cuanto a la valoración emocional/funcional del mismo estímulo, no una equivalencia semántica fusionable.",
+      "llm_response": "RECHAZAR: 6 | RAZÓN: En [6], NeurotypicalCognition interpreta los errores como información correctiva (perspectiva positiva/adaptativa), mientras que BroadlyAffectedAutism interpreta la misma disrupción como fallo/fracaso (perspectiva negativa). Son interpretaciones opuestas del mismo evento (el error), representando roles invertidos en cuanto a la valoración emocional/funcional del mismo estímulo, no una equivalencia semántica fusionable."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_4_137",
+      "node_b_id": "ModerateAutism_1_5",
+      "node_a_texto": "SocialBehavioralAutism has reduced capacity for learning tasks",
+      "node_b_texto": "ModerateAutism risks losing access to learning and engagement",
+      "nli_score": 0.5542145594954491,
+      "rejection_reason": "En [0] SocialBehavioralAutism describe un estado actual (capacidad reducida) mientras ModerateAutism describe un riesgo futuro (pérdida de acceso), son temporalidades/naturalezas distintas no equivalentes; en [4] SocialBehavioralAutism afirma un estado activo confirmado mientras ModerateAutism lo condiciona a la ausencia de una declaración explícita, lo cual introduce una condicionalidad que cambia la perspectiva del enunciado.",
+      "llm_response": "RECHAZAR: 0, 4 | RAZÓN: En [0] SocialBehavioralAutism describe un estado actual (capacidad reducida) mientras ModerateAutism describe un riesgo futuro (pérdida de acceso), son temporalidades/naturalezas distintas no equivalentes; en [4] SocialBehavioralAutism afirma un estado activo confirmado mientras ModerateAutism lo condiciona a la ausencia de una declaración explícita, lo cual introduce una condicionalidad que cambia la perspectiva del enunciado."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "ModerateAutism",
+      "node_a_id": "SocialBehavioralAutism_4_140",
+      "node_b_id": "ModerateAutism_3_28",
+      "node_a_texto": "SocialBehavioralAutism remains locked in heightened prediction-error state",
+      "node_b_texto": "Without explicit statement, prediction error signal persists",
+      "nli_score": 0.7974240779876709,
+      "rejection_reason": "En [0] SocialBehavioralAutism describe un estado actual (capacidad reducida) mientras ModerateAutism describe un riesgo futuro (pérdida de acceso), son temporalidades/naturalezas distintas no equivalentes; en [4] SocialBehavioralAutism afirma un estado activo confirmado mientras ModerateAutism lo condiciona a la ausencia de una declaración explícita, lo cual introduce una condicionalidad que cambia la perspectiva del enunciado.",
+      "llm_response": "RECHAZAR: 0, 4 | RAZÓN: En [0] SocialBehavioralAutism describe un estado actual (capacidad reducida) mientras ModerateAutism describe un riesgo futuro (pérdida de acceso), son temporalidades/naturalezas distintas no equivalentes; en [4] SocialBehavioralAutism afirma un estado activo confirmado mientras ModerateAutism lo condiciona a la ausencia de una declaración explícita, lo cual introduce una condicionalidad que cambia la perspectiva del enunciado."
+    },
+    {
+      "actor_a": "SocialBehavioralAutism",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "SocialBehavioralAutism_4_87",
+      "node_b_id": "BroadlyAffectedAutism_5_197",
+      "node_a_texto": "SocialBehavioralAutism loses routine-based cognitive resource allocation",
+      "node_b_texto": "BroadlyAffectedAutism experiences arousal without naming the emotion",
+      "nli_score": 0.7056207954883575,
+      "rejection_reason": "En [13] los contenidos no corresponden al mismo evento: \"pérdida de recursos cognitivos por rutina\" no es equivalente a \"experimentar arousal sin nombrar la emoción\"; son fenómenos distintos, no la misma perspectiva ni una inversión válida de roles.",
+      "llm_response": "RECHAZAR: 13 | RAZÓN: En [13] los contenidos no corresponden al mismo evento: \"pérdida de recursos cognitivos por rutina\" no es equivalente a \"experimentar arousal sin nombrar la emoción\"; son fenómenos distintos, no la misma perspectiva ni una inversión válida de roles."
+    },
+    {
+      "actor_a": "MixedASDwithDelay",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "MixedASDwithDelay_4_70",
+      "node_b_id": "BroadlyAffectedAutism_4_94",
+      "node_a_texto": "MixedASDwithDelay cannot reliably retrieve the schedule without cues",
+      "node_b_texto": "BroadlyAffectedAutism cannot reallocate cognitive resources without routine",
+      "nli_score": 0.6242308467626572,
+      "rejection_reason": "En [14] no hay roles invertidos, pero tampoco es la misma perspectiva: \"no poder recuperar el horario sin señales\" (memoria/recuperación de información específica) es semánticamente distinto de \"no poder reasignar recursos cognitivos sin rutina\" (gestión de recursos ejecutivos), son fenómenos cognitivos diferentes, no la misma proposición fusionable.",
+      "llm_response": "RECHAZAR: 14 | RAZÓN: En [14] no hay roles invertidos, pero tampoco es la misma perspectiva: \"no poder recuperar el horario sin señales\" (memoria/recuperación de información específica) es semánticamente distinto de \"no poder reasignar recursos cognitivos sin rutina\" (gestión de recursos ejecutivos), son fenómenos cognitivos diferentes, no la misma proposición fusionable."
+    },
+    {
+      "actor_a": "MixedASDwithDelay",
+      "actor_b": "BroadlyAffectedAutism",
+      "node_a_id": "MixedASDwithDelay_6_223",
+      "node_b_id": "BroadlyAffectedAutism_5_214",
+      "node_a_texto": "MixedASDwithDelay may treat resulting correction as failure",
+      "node_b_texto": "BroadlyAffectedAutism's delayed reaction risks being framed as misbehavior",
+      "nli_score": 0.6828522980213165,
+      "rejection_reason": "En [11], MixedASDwithDelay tiene una perspectiva activa/interna (\"puede tratar\" - es el propio actor quien interpreta su situación), mientras que BroadlyAffectedAutism describe una perspectiva pasiva/externa (\"riesgo de ser enmarcado\" - es un tercero/observador quien juzga la conducta como mal comportamiento). Esto no es la",
+      "llm_response": "RECHAZAR: 11 | RAZÓN: En [11], MixedASDwithDelay tiene una perspectiva activa/interna (\"puede tratar\" - es el propio actor quien interpreta su situación), mientras que BroadlyAffectedAutism describe una perspectiva pasiva/externa (\"riesgo de ser enmarcado\" - es un tercero/observador quien juzga la conducta como mal comportamiento). Esto no es la"
+    }
+  ]
+}

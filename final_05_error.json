@@ -1,0 +1,482 @@
+{
+  "problema": {
+    "titulo": "FINAL 05_error — 5 actors",
+    "descripcion": "A real-world situational input is processed by a cognitive architecture operating under a fixed set of axiomatic rules. The architecture generates inferential states strictly according to its rules in response to the situational input.",
+    "contexto_adicional": "No external knowledge, clinical observation, or outcome information is permitted beyond what the axiom set licenses.",
+    "decision_central": "The child makes a mistake on the blackboard in front of everyone",
+    "decision_central_embedding": "How a cognitive architecture processes committing a visible error under public observation"
+  },
+  "actores": [
+    {
+      "nombre": "NeurotypicalCognition",
+      "alias": "NeurotypicalCognition",
+      "postura": "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+      "premisas": [
+        {
+          "id": "N1",
+          "texto": "The sensory system automatically filters input by relevance, suppressing background stimuli and amplifying task-relevant signals. This filtering is not effortful."
+        },
+        {
+          "id": "N2",
+          "texto": "Sensory thresholds adapt dynamically to environmental conditions. Habituation to sustained stimuli occurs automatically over time."
+        },
+        {
+          "id": "N3",
+          "texto": "Simultaneous cross-modal inputs are automatically bound into unified percepts. Multisensory coherence is the default output, not an effortful achievement."
+        },
+        {
+          "id": "N4",
+          "texto": "The system integrates verbal, visual, social, and contextual information simultaneously without explicit channel management."
+        },
+        {
+          "id": "N5",
+          "texto": "Processing scales from concrete to abstract across developmental stages (Piaget). Abstract reasoning is available as a natural endpoint of development."
+        },
+        {
+          "id": "N6",
+          "texto": "Global meaning is automatically extracted from local details. Context shapes the interpretation of parts automatically."
+        },
+        {
+          "id": "N7",
+          "texto": "The rate of learning automatically adjusts to environmental volatility. High-volatility environments trigger increased updating; stable environments allow consolidation."
+        },
+        {
+          "id": "N8",
+          "texto": "Episodic and semantic memory are encoded simultaneously. Social events are retained as narratives with contextual detail."
+        },
+        {
+          "id": "N9",
+          "texto": "Visual, verbal, and procedural memory systems operate with comparable efficiency. No systematic advantage for any single modality."
+        },
+        {
+          "id": "N10",
+          "texto": "Episodic memories are retrievable across a range of retrieval cues without requiring specific visual anchors."
+        },
+        {
+          "id": "N11",
+          "texto": "Attention can be distributed across multiple foci and flexibly redirected by environmental salience, social signals, or task demands."
+        },
+        {
+          "id": "N12",
+          "texto": "Social approval, peer affiliation, and relational outcomes are primary motivational drivers. Behavior is strongly regulated by anticipated social consequences."
+        },
+        {
+          "id": "N13",
+          "texto": "Motivation can be generated for a wide range of task types, including those without intrinsic interest value, through social embedding or external reward structures."
+        },
+        {
+          "id": "N14",
+          "texto": "Internal emotional states are automatically accessible as labeled, communicable information. The system identifies and names emotional states in real time."
+        },
+        {
+          "id": "N15",
+          "texto": "Observed emotion in others generates automatic empathic mirroring. Social-emotional attunement does not require inferential effort."
+        },
+        {
+          "id": "N16",
+          "texto": "Emotional responses are generated approximately synchronously with triggering events. Processing latency is minimal."
+        },
+        {
+          "id": "N17",
+          "texto": "Language processing automatically includes the pragmatic layer: metaphor, irony, sarcasm, implicature, and indirect speech are decoded without additional inferential steps."
+        },
+        {
+          "id": "N18",
+          "texto": "Social and pragmatic norms are acquired through immersive participation without explicit instruction. Norm violations are detected automatically through social feedback."
+        },
+        {
+          "id": "N19",
+          "texto": "Routines are preferences, not requirements. Disruption of routine generates mild discomfort that resolves rapidly through reappraisal."
+        },
+        {
+          "id": "N20",
+          "texto": "Unanticipated change generates a prediction error that is proportional to the objective significance of the change and resolves through rapid contextual updating."
+        },
+        {
+          "id": "N21",
+          "texto": "Error is processed as information within a social learning context. Mild social discomfort associated with error motivates correction without triggering system shutdown."
+        },
+        {
+          "id": "N22",
+          "texto": "Learned rules generalize automatically across contexts with different surface features. Transfer does not require explicit re-anchoring."
+        },
+        {
+          "id": "N23",
+          "texto": "Social norms and implicit behavioral expectations are computed through social inference without requiring explicit statement."
+        },
+        {
+          "id": "N24",
+          "texto": "The system integrates feedback across a range of specificity, timing, and modality. Vague or delayed feedback is supplemented by self-monitoring and social inference."
+        },
+        {
+          "id": "N25",
+          "texto": "Cognitive, social, emotional, and linguistic development proceed approximately synchronously across developmental stages."
+        }
+      ]
+    },
+    {
+      "nombre": "SocialBehavioralAutism",
+      "alias": "SocialBehavioralAutism",
+      "postura": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing.",
+      "premisas": [
+        {
+          "id": "A1",
+          "texto": "Sensory regulation is an absolute prerequisite for learning and social engagement. When sensory input exceeds regulatory threshold, the system goes offline — cognitive processing, social interaction, and learning are unavailable until regulation is restored."
+        },
+        {
+          "id": "A2",
+          "texto": "Sensory input is not automatically hierarchized by relevance. All stimuli carry equal initial weight. Top-down filtering is effortful and not automatic."
+        },
+        {
+          "id": "A3",
+          "texto": "Multisensory integration requires a wider temporal window than neurotypical processing. Simultaneous cross-modal inputs create interference rather than automatic coherence."
+        },
+        {
+          "id": "A4",
+          "texto": "The primary processing format is visual-concrete, not verbal-abstract. Language is a second-order system. Abstract concepts require anchoring to concrete referents or visual representations to be processed."
+        },
+        {
+          "id": "A5",
+          "texto": "The system defaults to local, detail-oriented processing without automatic global integration (Weak Central Coherence). Parts are processed before wholes, and the whole is not automatically inferred from parts."
+        },
+        {
+          "id": "A8",
+          "texto": "Semantic memory is intact or enhanced. Episodic memory is reduced, particularly for socially embedded events. Facts are retained better than narratives."
+        },
+        {
+          "id": "A9",
+          "texto": "Visual memory is superior to verbal memory. Spatial layouts, visual patterns, and visual sequences are retained with high fidelity."
+        },
+        {
+          "id": "A10",
+          "texto": "Episodic memory retrieval is improved by explicit visual cues. Without cues, episodic retrieval is unreliable."
+        },
+        {
+          "id": "A11",
+          "texto": "Attention is hyperfocused within domains of special interest. Sustained attention outside these domains requires significant effortful control and is not maintained automatically."
+        },
+        {
+          "id": "A12",
+          "texto": "Intrinsic motivation dominates. Social praise, grades, and external rewards are weak motivators unless linked to the special interest domain."
+        },
+        {
+          "id": "A13",
+          "texto": "The special interest domain serves as the primary gateway for learning generalizable concepts. Knowledge acquired through this channel transfers more reliably than knowledge acquired through neutral domains."
+        },
+        {
+          "id": "A14",
+          "texto": "Internal emotional states are not directly accessible as labeled information (alexithymia present in ~50% of ASD). The system experiences physiological arousal but cannot automatically identify or name the emotional state."
+        },
+        {
+          "id": "A15",
+          "texto": "Observed emotion in others is processed as behavioral data requiring inferential analysis, not as automatic affective resonance. Empathic mirroring is not automatic."
+        },
+        {
+          "id": "A16",
+          "texto": "Emotional processing has increased latency. Responses to emotional events may occur significantly after the triggering event rather than in real time."
+        },
+        {
+          "id": "A17",
+          "texto": "Language is processed literally by default. Metaphor, irony, sarcasm, and indirect speech require additional inferential processing steps and are not decoded automatically."
+        },
+        {
+          "id": "A18",
+          "texto": "Pragmatic social rules are stored as explicit database entries, not as intuitive social intelligence. Application requires conscious retrieval and matching, not automatic contextual inference."
+        },
+        {
+          "id": "A19",
+          "texto": "Routines are computational optimizations that reduce prediction error load. Established routines allow cognitive resources to be allocated to other tasks."
+        },
+        {
+          "id": "A20",
+          "texto": "Unanticipated change generates disproportionate prediction error signals (HIPPEA: high inflexible precision on prediction errors). The magnitude of disruption is not proportional to the objective significance of the change."
+        },
+        {
+          "id": "A21",
+          "texto": "Error can only be processed as learning information when decoupled from moral judgment or social shame. Error framed as failure activates threat response and blocks learning."
+        },
+        {
+          "id": "A22",
+          "texto": "Learned rules do not generalize automatically across surface-different contexts. Re-anchoring to new contexts requires explicit instruction."
+        },
+        {
+          "id": "A23",
+          "texto": "Explicit, stated rules are processed and followed reliably. Implicit social norms, unspoken expectations, and inferred behavioral conventions are not reliably detected or applied."
+        },
+        {
+          "id": "A24",
+          "texto": "Learning requires feedback that is: (a) observable, (b) specific, (c) temporally proximate to the action, and (d) causally linked to the behavior. Vague, delayed, or indirect feedback does not update the system."
+        },
+        {
+          "id": "A25",
+          "texto": "The autistic spectrum encompasses substantial internal variation. Not all axioms apply at equal intensity across all individuals. This meta-axiom prevents overgeneralization of the model."
+        }
+      ]
+    },
+    {
+      "nombre": "MixedASDwithDelay",
+      "alias": "MixedASDwithDelay",
+      "postura": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with delayed developmental timing and slowed complex processing.",
+      "premisas": [
+        {
+          "id": "A1",
+          "texto": "Sensory regulation is an absolute prerequisite for learning and social engagement. When sensory input exceeds regulatory threshold, the system goes offline — cognitive processing, social interaction, and learning are unavailable until regulation is restored."
+        },
+        {
+          "id": "A2",
+          "texto": "Sensory input is not automatically hierarchized by relevance. All stimuli carry equal initial weight. Top-down filtering is effortful and not automatic."
+        },
+        {
+          "id": "A3",
+          "texto": "Multisensory integration requires a wider temporal window than neurotypical processing. Simultaneous cross-modal inputs create interference rather than automatic coherence."
+        },
+        {
+          "id": "A4",
+          "texto": "The primary processing format is visual-concrete, not verbal-abstract. Language is a second-order system. Abstract concepts require anchoring to concrete referents or visual representations to be processed."
+        },
+        {
+          "id": "A5",
+          "texto": "The system defaults to local, detail-oriented processing without automatic global integration (Weak Central Coherence). Parts are processed before wholes, and the whole is not automatically inferred from parts."
+        },
+        {
+          "id": "A6",
+          "texto": "The rate of learning does not automatically adapt to environmental volatility. Stable environments support deep learning; rapidly changing environments produce processing overload rather than flexible updating."
+        },
+        {
+          "id": "A7",
+          "texto": "Processing speed for socially and contextually complex information is reduced. Single-domain technical information may be processed at high speed."
+        },
+        {
+          "id": "A8",
+          "texto": "Semantic memory is intact or enhanced. Episodic memory is reduced, particularly for socially embedded events. Facts are retained better than narratives."
+        },
+        {
+          "id": "A9",
+          "texto": "Visual memory is superior to verbal memory. Spatial layouts, visual patterns, and visual sequences are retained with high fidelity."
+        },
+        {
+          "id": "A10",
+          "texto": "Episodic memory retrieval is improved by explicit visual cues. Without cues, episodic retrieval is unreliable."
+        },
+        {
+          "id": "A17",
+          "texto": "Language is processed literally by default. Metaphor, irony, sarcasm, and indirect speech require additional inferential processing steps and are not decoded automatically."
+        },
+        {
+          "id": "A18",
+          "texto": "Pragmatic social rules are stored as explicit database entries, not as intuitive social intelligence. Application requires conscious retrieval and matching, not automatic contextual inference."
+        },
+        {
+          "id": "A19",
+          "texto": "Routines are computational optimizations that reduce prediction error load. Established routines allow cognitive resources to be allocated to other tasks."
+        },
+        {
+          "id": "A20",
+          "texto": "Unanticipated change generates disproportionate prediction error signals (HIPPEA: high inflexible precision on prediction errors). The magnitude of disruption is not proportional to the objective significance of the change."
+        },
+        {
+          "id": "A21",
+          "texto": "Error can only be processed as learning information when decoupled from moral judgment or social shame. Error framed as failure activates threat response and blocks learning."
+        },
+        {
+          "id": "A22",
+          "texto": "Learned rules do not generalize automatically across surface-different contexts. Re-anchoring to new contexts requires explicit instruction."
+        },
+        {
+          "id": "A23",
+          "texto": "Explicit, stated rules are processed and followed reliably. Implicit social norms, unspoken expectations, and inferred behavioral conventions are not reliably detected or applied."
+        },
+        {
+          "id": "A24",
+          "texto": "Learning requires feedback that is: (a) observable, (b) specific, (c) temporally proximate to the action, and (d) causally linked to the behavior. Vague, delayed, or indirect feedback does not update the system."
+        },
+        {
+          "id": "A25",
+          "texto": "The autistic spectrum encompasses substantial internal variation. Not all axioms apply at equal intensity across all individuals. This meta-axiom prevents overgeneralization of the model."
+        }
+      ]
+    },
+    {
+      "nombre": "ModerateAutism",
+      "alias": "ModerateAutism",
+      "postura": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, expressed at attenuated intensity across all domains.",
+      "premisas": [
+        {
+          "id": "A1",
+          "texto": "Sensory regulation is an absolute prerequisite for learning and social engagement. When sensory input exceeds regulatory threshold, the system goes offline — cognitive processing, social interaction, and learning are unavailable until regulation is restored."
+        },
+        {
+          "id": "A2",
+          "texto": "Sensory input is not automatically hierarchized by relevance. All stimuli carry equal initial weight. Top-down filtering is effortful and not automatic."
+        },
+        {
+          "id": "A3",
+          "texto": "Multisensory integration requires a wider temporal window than neurotypical processing. Simultaneous cross-modal inputs create interference rather than automatic coherence."
+        },
+        {
+          "id": "A4",
+          "texto": "The primary processing format is visual-concrete, not verbal-abstract. Language is a second-order system. Abstract concepts require anchoring to concrete referents or visual representations to be processed."
+        },
+        {
+          "id": "A5",
+          "texto": "The system defaults to local, detail-oriented processing without automatic global integration (Weak Central Coherence). Parts are processed before wholes, and the whole is not automatically inferred from parts."
+        },
+        {
+          "id": "A8",
+          "texto": "Semantic memory is intact or enhanced. Episodic memory is reduced, particularly for socially embedded events. Facts are retained better than narratives."
+        },
+        {
+          "id": "A9",
+          "texto": "Visual memory is superior to verbal memory. Spatial layouts, visual patterns, and visual sequences are retained with high fidelity."
+        },
+        {
+          "id": "A10",
+          "texto": "Episodic memory retrieval is improved by explicit visual cues. Without cues, episodic retrieval is unreliable."
+        },
+        {
+          "id": "A17",
+          "texto": "Language is processed literally by default. Metaphor, irony, sarcasm, and indirect speech require additional inferential processing steps and are not decoded automatically."
+        },
+        {
+          "id": "A18",
+          "texto": "Pragmatic social rules are stored as explicit database entries, not as intuitive social intelligence. Application requires conscious retrieval and matching, not automatic contextual inference."
+        },
+        {
+          "id": "A19",
+          "texto": "Routines are computational optimizations that reduce prediction error load. Established routines allow cognitive resources to be allocated to other tasks."
+        },
+        {
+          "id": "A20",
+          "texto": "Unanticipated change generates disproportionate prediction error signals (HIPPEA: high inflexible precision on prediction errors). The magnitude of disruption is not proportional to the objective significance of the change."
+        },
+        {
+          "id": "A21",
+          "texto": "Error can only be processed as learning information when decoupled from moral judgment or social shame. Error framed as failure activates threat response and blocks learning."
+        },
+        {
+          "id": "A22",
+          "texto": "Learned rules do not generalize automatically across surface-different contexts. Re-anchoring to new contexts requires explicit instruction."
+        },
+        {
+          "id": "A23",
+          "texto": "Explicit, stated rules are processed and followed reliably. Implicit social norms, unspoken expectations, and inferred behavioral conventions are not reliably detected or applied."
+        },
+        {
+          "id": "A24",
+          "texto": "Learning requires feedback that is: (a) observable, (b) specific, (c) temporally proximate to the action, and (d) causally linked to the behavior. Vague, delayed, or indirect feedback does not update the system."
+        },
+        {
+          "id": "A25",
+          "texto": "The autistic spectrum encompasses substantial internal variation. Not all axioms apply at equal intensity across all individuals. This meta-axiom prevents overgeneralization of the model."
+        }
+      ]
+    },
+    {
+      "nombre": "BroadlyAffectedAutism",
+      "alias": "BroadlyAffectedAutism",
+      "postura": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing.",
+      "premisas": [
+        {
+          "id": "A1",
+          "texto": "Sensory regulation is an absolute prerequisite for learning and social engagement. When sensory input exceeds regulatory threshold, the system goes offline — cognitive processing, social interaction, and learning are unavailable until regulation is restored."
+        },
+        {
+          "id": "A2",
+          "texto": "Sensory input is not automatically hierarchized by relevance. All stimuli carry equal initial weight. Top-down filtering is effortful and not automatic."
+        },
+        {
+          "id": "A3",
+          "texto": "Multisensory integration requires a wider temporal window than neurotypical processing. Simultaneous cross-modal inputs create interference rather than automatic coherence."
+        },
+        {
+          "id": "A4",
+          "texto": "The primary processing format is visual-concrete, not verbal-abstract. Language is a second-order system. Abstract concepts require anchoring to concrete referents or visual representations to be processed."
+        },
+        {
+          "id": "A5",
+          "texto": "The system defaults to local, detail-oriented processing without automatic global integration (Weak Central Coherence). Parts are processed before wholes, and the whole is not automatically inferred from parts."
+        },
+        {
+          "id": "A6",
+          "texto": "The rate of learning does not automatically adapt to environmental volatility. Stable environments support deep learning; rapidly changing environments produce processing overload rather than flexible updating."
+        },
+        {
+          "id": "A7",
+          "texto": "Processing speed for socially and contextually complex information is reduced. Single-domain technical information may be processed at high speed."
+        },
+        {
+          "id": "A8",
+          "texto": "Semantic memory is intact or enhanced. Episodic memory is reduced, particularly for socially embedded events. Facts are retained better than narratives."
+        },
+        {
+          "id": "A9",
+          "texto": "Visual memory is superior to verbal memory. Spatial layouts, visual patterns, and visual sequences are retained with high fidelity."
+        },
+        {
+          "id": "A10",
+          "texto": "Episodic memory retrieval is improved by explicit visual cues. Without cues, episodic retrieval is unreliable."
+        },
+        {
+          "id": "A11",
+          "texto": "Attention is hyperfocused within domains of special interest. Sustained attention outside these domains requires significant effortful control and is not maintained automatically."
+        },
+        {
+          "id": "A12",
+          "texto": "Intrinsic motivation dominates. Social praise, grades, and external rewards are weak motivators unless linked to the special interest domain."
+        },
+        {
+          "id": "A13",
+          "texto": "The special interest domain serves as the primary gateway for learning generalizable concepts. Knowledge acquired through this channel transfers more reliably than knowledge acquired through neutral domains."
+        },
+        {
+          "id": "A14",
+          "texto": "Internal emotional states are not directly accessible as labeled information (alexithymia present in ~50% of ASD). The system experiences physiological arousal but cannot automatically identify or name the emotional state."
+        },
+        {
+          "id": "A15",
+          "texto": "Observed emotion in others is processed as behavioral data requiring inferential analysis, not as automatic affective resonance. Empathic mirroring is not automatic."
+        },
+        {
+          "id": "A16",
+          "texto": "Emotional processing has increased latency. Responses to emotional events may occur significantly after the triggering event rather than in real time."
+        },
+        {
+          "id": "A17",
+          "texto": "Language is processed literally by default. Metaphor, irony, sarcasm, and indirect speech require additional inferential processing steps and are not decoded automatically."
+        },
+        {
+          "id": "A18",
+          "texto": "Pragmatic social rules are stored as explicit database entries, not as intuitive social intelligence. Application requires conscious retrieval and matching, not automatic contextual inference."
+        },
+        {
+          "id": "A19",
+          "texto": "Routines are computational optimizations that reduce prediction error load. Established routines allow cognitive resources to be allocated to other tasks."
+        },
+        {
+          "id": "A20",
+          "texto": "Unanticipated change generates disproportionate prediction error signals (HIPPEA: high inflexible precision on prediction errors). The magnitude of disruption is not proportional to the objective significance of the change."
+        },
+        {
+          "id": "A21",
+          "texto": "Error can only be processed as learning information when decoupled from moral judgment or social shame. Error framed as failure activates threat response and blocks learning."
+        },
+        {
+          "id": "A22",
+          "texto": "Learned rules do not generalize automatically across surface-different contexts. Re-anchoring to new contexts requires explicit instruction."
+        },
+        {
+          "id": "A23",
+          "texto": "Explicit, stated rules are processed and followed reliably. Implicit social norms, unspoken expectations, and inferred behavioral conventions are not reliably detected or applied."
+        },
+        {
+          "id": "A24",
+          "texto": "Learning requires feedback that is: (a) observable, (b) specific, (c) temporally proximate to the action, and (d) causally linked to the behavior. Vague, delayed, or indirect feedback does not update the system."
+        },
+        {
+          "id": "A25",
+          "texto": "The autistic spectrum encompasses substantial internal variation. Not all axioms apply at equal intensity across all individuals. This meta-axiom prevents overgeneralization of the model."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1869 @@
+{
+  "actor": "BroadlyAffectedAutism",
+  "raiz": {
+    "id": "BroadlyAffectedAutism_0_0",
+    "texto": "An autistic cognitive architecture that prioritizes local sensory detail over global coherence, operates through concrete-visual representations, requires explicit rule structures, and regulates learning through predictable, closed-loop feedback, with hyperfocused, effortful attention regulation, and emotionally dysregulated, alexithymic affective processing, with delayed developmental timing and slowed complex processing.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.38726454973220825,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "BroadlyAffectedAutism_1_1",
+        "texto": "BroadlyAffectedAutism processes the sarcastic statement as literal meaning",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.3581535518169403,
+        "sim_con_problema": 0.6205654144287109,
+        "peso_arista": 1.0212810337543488,
+        "peso_acumulado": 1.0212810337543488,
+        "premise_id": "A17",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_9",
+            "texto": "BroadlyAffectedAutism requires additional steps to detect sarcasm intended",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.4011056125164032,
+            "sim_con_problema": 0.5364081263542175,
+            "peso_arista": 1.0624862611293793,
+            "peso_acumulado": 2.083767294883728,
+            "premise_id": "A17",
+            "hijos": []
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_10",
+            "texto": "BroadlyAffectedAutism fails to retrieve applicable pragmatic rule entry",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.35123807191848755,
+            "sim_con_problema": 0.3889364004135132,
+            "peso_arista": 1.2598255276679993,
+            "peso_acumulado": 2.281106561422348,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_51",
+                "texto": "BroadlyAffectedAutism cannot match statement to social context",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.40934860706329346,
+                "sim_con_problema": 0.5997754335403442,
+                "peso_arista": 0.9908759593963623,
+                "peso_acumulado": 3.2719825208187103,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_93",
+                    "texto": "BroadlyAffectedAutism responds to the statement as literally true",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.33917269110679626,
+                    "sim_con_problema": 0.4878411889076233,
+                    "peso_arista": 1.1729861199855804,
+                    "peso_acumulado": 4.444968640804291,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_219",
+                        "texto": "BroadlyAffectedAutism generates unanticipated prediction error from peer reaction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.43560540676116943,
+                        "sim_con_problema": 0.3151600956916809,
+                        "peso_arista": 1.2492344975471497,
+                        "peso_acumulado": 5.69420313835144,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_221",
+                        "texto": "BroadlyAffectedAutism does not revise its pragmatic rule database automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3093017637729645,
+                        "sim_con_problema": 0.28498101234436035,
+                        "peso_arista": 1.4057172238826752,
+                        "peso_acumulado": 5.850685864686966,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_222",
+                        "texto": "BroadlyAffectedAutism will misapply literal interpretation to future sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.31276312470436096,
+                        "sim_con_problema": 0.6307311654090881,
+                        "peso_arista": 1.056505709886551,
+                        "peso_acumulado": 5.501474350690842,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_94",
+                    "texto": "BroadlyAffectedAutism cannot apply implicit social norm here",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.33402711153030396,
+                    "sim_con_problema": 0.5031321048736572,
+                    "peso_arista": 1.1628407835960388,
+                    "peso_acumulado": 4.434823304414749,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_216",
+                        "texto": "BroadlyAffectedAutism may react to the remark after delay",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48355868458747864,
+                        "sim_con_problema": 0.4790864884853363,
+                        "peso_arista": 1.037354826927185,
+                        "peso_acumulado": 5.472178131341934,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_95",
+                    "texto": "BroadlyAffectedAutism registers disproportionate prediction error signal",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3543942868709564,
+                    "sim_con_problema": 0.2647255063056946,
+                    "peso_arista": 1.380880206823349,
+                    "peso_acumulado": 4.652862727642059,
+                    "premise_id": "A20",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_52",
+                "texto": "BroadlyAffectedAutism responds based only on literal content",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3972990810871124,
+                "sim_con_problema": 0.5044214129447937,
+                "peso_arista": 1.0982795059680939,
+                "peso_acumulado": 3.379386067390442,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_99",
+                    "texto": "BroadlyAffectedAutism produces a reply mismatched to sarcastic intent",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3450334668159485,
+                    "sim_con_problema": 0.6110977530479431,
+                    "peso_arista": 1.0438687801361084,
+                    "peso_acumulado": 4.42325484752655,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_212",
+                        "texto": "BroadlyAffectedAutism receives no causally proximate corrective feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.46358752250671387,
+                        "sim_con_problema": 0.2768229842185974,
+                        "peso_arista": 1.2595894932746887,
+                        "peso_acumulado": 5.682844340801239,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_213",
+                        "texto": "BroadlyAffectedAutism risks encoding the mismatch as failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4271077811717987,
+                        "sim_con_problema": 0.2693603038787842,
+                        "peso_arista": 1.3035319149494171,
+                        "peso_acumulado": 5.726786762475967,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_214",
+                        "texto": "BroadlyAffectedAutism registers the social mismatch only after delay",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4514968991279602,
+                        "sim_con_problema": 0.31598761677742004,
+                        "peso_arista": 1.2325154840946198,
+                        "peso_acumulado": 5.65577033162117,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_100",
+                    "texto": "BroadlyAffectedAutism cannot apply the unspoken pragmatic norm",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.3970903754234314,
+                    "sim_con_problema": 0.5118017196655273,
+                    "peso_arista": 1.0911079049110413,
+                    "peso_acumulado": 4.470493972301483,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_101",
+                    "texto": "BroadlyAffectedAutism's literal response pattern remains unchanged without corrective feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5058468580245972,
+                    "sim_con_problema": 0.3538535237312317,
+                    "peso_arista": 1.1402996182441711,
+                    "peso_acumulado": 4.519685685634613,
+                    "premise_id": "A24",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_11",
+            "texto": "BroadlyAffectedAutism does not detect the unspoken sarcastic intent",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.4227774739265442,
+            "sim_con_problema": 0.5626243352890015,
+            "peso_arista": 1.0145981907844543,
+            "peso_acumulado": 2.035879224538803,
+            "premise_id": "A23",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_33",
+                "texto": "BroadlyAffectedAutism responds based on the literal statement content",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4111688435077667,
+                "sim_con_problema": 0.6325167417526245,
+                "peso_arista": 0.9563144147396088,
+                "peso_acumulado": 2.992193639278412,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_60",
+                    "texto": "BroadlyAffectedAutism's reply mismatches the speaker's intended meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28445881605148315,
+                    "sim_con_problema": 0.6523888111114502,
+                    "peso_arista": 1.0631523728370667,
+                    "peso_acumulado": 4.0553460121154785,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_132",
+                        "texto": "BroadlyAffectedAutism registers unanticipated social prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37274622917175293,
+                        "sim_con_problema": 0.38697659969329834,
+                        "peso_arista": 1.2402771711349487,
+                        "peso_acumulado": 5.295623183250427,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_133",
+                        "texto": "BroadlyAffectedAutism cannot infer the mismatch without explicit correction",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36354297399520874,
+                        "sim_con_problema": 0.31863582134246826,
+                        "peso_arista": 1.317821204662323,
+                        "peso_acumulado": 5.3731672167778015,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_134",
+                        "texto": "BroadlyAffectedAutism fails to update without observable specific feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3155674338340759,
+                        "sim_con_problema": 0.2319847196340561,
+                        "peso_arista": 1.452447846531868,
+                        "peso_acumulado": 5.5077938586473465,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_135",
+                        "texto": "BroadlyAffectedAutism's recognition of the mismatch is delayed",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4722445011138916,
+                        "sim_con_problema": 0.3407224416732788,
+                        "peso_arista": 1.1870330572128296,
+                        "peso_acumulado": 5.242379069328308,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_61",
+                    "texto": "BroadlyAffectedAutism cannot apply the implicit sarcasm convention",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.25644823908805847,
+                    "sim_con_problema": 0.5754127502441406,
+                    "peso_arista": 1.168139010667801,
+                    "peso_acumulado": 4.160332649946213,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_164",
+                        "texto": "BroadlyAffectedAutism requires explicit retrieval of a sarcasm rule entry",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3908154368400574,
+                        "sim_con_problema": 0.5169683694839478,
+                        "peso_arista": 1.0922161936759949,
+                        "peso_acumulado": 5.252548843622208,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_62",
+                    "texto": "BroadlyAffectedAutism shows no immediate reaction to the hidden intent",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.47333672642707825,
+                    "sim_con_problema": 0.4251016080379486,
+                    "peso_arista": 1.1015616655349731,
+                    "peso_acumulado": 4.093755304813385,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_143",
+                        "texto": "BroadlyAffectedAutism may generate a delayed emotional response later",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5639832019805908,
+                        "sim_con_problema": 0.3188338279724121,
+                        "peso_arista": 1.117182970046997,
+                        "peso_acumulado": 5.210938274860382,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_144",
+                        "texto": "BroadlyAffectedAutism requires explicit retrieval to later detect the sarcasm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4755747616291046,
+                        "sim_con_problema": 0.5352131128311157,
+                        "peso_arista": 0.9892121255397797,
+                        "peso_acumulado": 5.082967430353165,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_35",
+                "texto": "BroadlyAffectedAutism fails to apply the unspoken social convention",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3413865864276886,
+                "sim_con_problema": 0.4781656563282013,
+                "peso_arista": 1.18044775724411,
+                "peso_acumulado": 3.216326981782913,
+                "premise_id": "A23",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_90",
+                    "texto": "BroadlyAffectedAutism treats the sarcastic statement as factually true",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3073246479034424,
+                    "sim_con_problema": 0.5787926912307739,
+                    "peso_arista": 1.1138826608657837,
+                    "peso_acumulado": 4.330209642648697,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_192",
+                        "texto": "BroadlyAffectedAutism encodes the sarcastic statement as semantic fact",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3711329400539398,
+                        "sim_con_problema": 0.6996572613716125,
+                        "peso_arista": 0.9292097985744476,
+                        "peso_acumulado": 5.2594194412231445,
+                        "premise_id": "A8",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_193",
+                        "texto": "BroadlyAffectedAutism will not revise this belief without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3661118745803833,
+                        "sim_con_problema": 0.3942364752292633,
+                        "peso_arista": 1.2396516501903534,
+                        "peso_acumulado": 5.56986129283905,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_195",
+                        "texto": "BroadlyAffectedAutism lacks a stored rule flagging this exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2412751168012619,
+                        "sim_con_problema": 0.2722148597240448,
+                        "peso_arista": 1.4865100234746933,
+                        "peso_acumulado": 5.81671966612339,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_91",
+                    "texto": "BroadlyAffectedAutism finds no matching explicit rule entry",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.265381395816803,
+                    "sim_con_problema": 0.33473852276802063,
+                    "peso_arista": 1.3998800814151764,
+                    "peso_acumulado": 4.61620706319809,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_36",
+                "texto": "BroadlyAffectedAutism treats the remark as literal behavioral data only",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4583021402359009,
+                "sim_con_problema": 0.5282187461853027,
+                "peso_arista": 1.0134791135787964,
+                "peso_acumulado": 3.0493583381175995,
+                "premise_id": "A15",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_73",
+                    "texto": "BroadlyAffectedAutism misinterprets the classmate's intended meaning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3699212968349457,
+                    "sim_con_problema": 0.5513726472854614,
+                    "peso_arista": 1.078706055879593,
+                    "peso_acumulado": 4.128064393997192,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_153",
+                        "texto": "BroadlyAffectedAutism requires extra inferential steps to reinterpret statement",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.49389177560806274,
+                        "sim_con_problema": 0.44698768854141235,
+                        "peso_arista": 1.059120535850525,
+                        "peso_acumulado": 5.187184929847717,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_154",
+                        "texto": "BroadlyAffectedAutism cannot apply pragmatic rule without explicit retrieval",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.40039175748825073,
+                        "sim_con_problema": 0.44905364513397217,
+                        "peso_arista": 1.150554597377777,
+                        "peso_acumulado": 5.2786189913749695,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_74",
+                    "texto": "BroadlyAffectedAutism requires explicit rule retrieval to detect intent",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.49658170342445374,
+                    "sim_con_problema": 0.41423848271369934,
+                    "peso_arista": 1.089179813861847,
+                    "peso_acumulado": 4.138538151979446,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_160",
+                        "texto": "BroadlyAffectedAutism searches stored database for matching social rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2889469563961029,
+                        "sim_con_problema": 0.2726078927516937,
+                        "peso_arista": 1.4384451508522034,
+                        "peso_acumulado": 5.57698330283165,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_161",
+                        "texto": "BroadlyAffectedAutism applies additional inferential steps before responding",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5126007795333862,
+                        "sim_con_problema": 0.3738110661506653,
+                        "peso_arista": 1.1135881543159485,
+                        "peso_acumulado": 5.252126306295395,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_162",
+                        "texto": "BroadlyAffectedAutism fails to detect intent without explicit matching rule",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3840208053588867,
+                        "sim_con_problema": 0.4028649926185608,
+                        "peso_arista": 1.2131142020225525,
+                        "peso_acumulado": 5.351652354001999,
+                        "premise_id": "A23",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_75",
+                    "texto": "BroadlyAffectedAutism fails to detect the implied social expectation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4333614408969879,
+                    "sim_con_problema": 0.5437795519828796,
+                    "peso_arista": 1.0228590071201324,
+                    "peso_acumulado": 4.072217345237732,
+                    "premise_id": "A23",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_137",
+                        "texto": "BroadlyAffectedAutism does not adjust behavior to the unspoken expectation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5607560873031616,
+                        "sim_con_problema": 0.4574710428714752,
+                        "peso_arista": 0.9817728698253632,
+                        "peso_acumulado": 5.053990215063095,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_138",
+                        "texto": "BroadlyAffectedAutism requires further inferential analysis of the remark",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48343580961227417,
+                        "sim_con_problema": 0.5220239162445068,
+                        "peso_arista": 0.994540274143219,
+                        "peso_acumulado": 5.066757619380951,
+                        "premise_id": "A15",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_76",
+                    "texto": "BroadlyAffectedAutism requires additional inference to interpret the behavior",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5867928266525269,
+                    "sim_con_problema": 0.48080527782440186,
+                    "peso_arista": 0.9324018955230713,
+                    "peso_acumulado": 3.9817602336406708,
+                    "premise_id": "A15",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_118",
+                        "texto": "BroadlyAffectedAutism searches explicit stored rules for sarcasm cases",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2865983843803406,
+                        "sim_con_problema": 0.44079869985580444,
+                        "peso_arista": 1.272602915763855,
+                        "peso_acumulado": 5.254363149404526,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_119",
+                        "texto": "BroadlyAffectedAutism cannot reliably apply the unspoken sarcastic norm",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.40210264921188354,
+                        "sim_con_problema": 0.5125012993812561,
+                        "peso_arista": 1.0853960514068604,
+                        "peso_acumulado": 5.067156285047531,
+                        "premise_id": "A23",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_120",
+                        "texto": "BroadlyAffectedAutism processes the socially complex remark more slowly",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5356724262237549,
+                        "sim_con_problema": 0.5973241329193115,
+                        "peso_arista": 0.8670034408569336,
+                        "peso_acumulado": 4.848763674497604,
+                        "premise_id": "A7",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_2",
+        "texto": "BroadlyAffectedAutism searches explicit rules to interpret the remark",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4072638750076294,
+        "sim_con_problema": 0.5436997413635254,
+        "peso_arista": 1.0490363836288452,
+        "peso_acumulado": 1.0490363836288452,
+        "premise_id": "A18",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_12",
+            "texto": "BroadlyAffectedAutism initially decodes the remark literally",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.45211416482925415,
+            "sim_con_problema": 0.6631243228912354,
+            "peso_arista": 0.8847615122795105,
+            "peso_acumulado": 1.9337978959083557,
+            "premise_id": "A17",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_23",
+                "texto": "BroadlyAffectedAutism misinterprets the sarcastic remark as sincere",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.28531813621520996,
+                "sim_con_problema": 0.6192859411239624,
+                "peso_arista": 1.0953959226608276,
+                "peso_acumulado": 3.0291938185691833,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_69",
+                    "texto": "BroadlyAffectedAutism does not generalize this correction to future sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3482799530029297,
+                    "sim_con_problema": 0.5686274170875549,
+                    "peso_arista": 1.0830926299095154,
+                    "peso_acumulado": 4.112286448478699,
+                    "premise_id": "A22",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_150",
+                        "texto": "BroadlyAffectedAutism will again decode future sarcasm literally",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2955341041088104,
+                        "sim_con_problema": 0.612896203994751,
+                        "peso_arista": 1.0915696918964386,
+                        "peso_acumulado": 5.203856140375137,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_151",
+                        "texto": "BroadlyAffectedAutism requires explicit re-instruction for each new sarcastic instance",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4446028470993042,
+                        "sim_con_problema": 0.42014408111572266,
+                        "peso_arista": 1.1352530717849731,
+                        "peso_acumulado": 5.247539520263672,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_70",
+                    "texto": "BroadlyAffectedAutism requires explicit corrective feedback to revise the interpretation",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5147227048873901,
+                    "sim_con_problema": 0.4114459156990051,
+                    "peso_arista": 1.0738313794136047,
+                    "peso_acumulado": 4.103025197982788,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_146",
+                        "texto": "BroadlyAffectedAutism retains sincere interpretation absent specific feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.45339274406433105,
+                        "sim_con_problema": 0.5203736424446106,
+                        "peso_arista": 1.0262336134910583,
+                        "peso_acumulado": 5.129258811473846,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_149",
+                        "texto": "BroadlyAffectedAutism learns the correction only if shame-free",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41774988174438477,
+                        "sim_con_problema": 0.38198232650756836,
+                        "peso_arista": 1.2002677917480469,
+                        "peso_acumulado": 5.303292989730835,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_71",
+                    "texto": "BroadlyAffectedAutism responds using the literal-statement rule entry",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4475264549255371,
+                    "sim_con_problema": 0.538445234298706,
+                    "peso_arista": 1.0140283107757568,
+                    "peso_acumulado": 4.04322212934494,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_125",
+                        "texto": "Classmates' unexpected reaction generates disproportionate prediction error",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25057464838027954,
+                        "sim_con_problema": 0.23532220721244812,
+                        "peso_arista": 1.5141031444072723,
+                        "peso_acumulado": 5.5573252737522125,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_126",
+                        "texto": "BroadlyAffectedAutism fails to detect the pragmatic rule violation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.36888766288757324,
+                        "sim_con_problema": 0.4431408941745758,
+                        "peso_arista": 1.187971442937851,
+                        "peso_acumulado": 5.231193572282791,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_72",
+                    "texto": "BroadlyAffectedAutism cannot infer the speaker's true intent automatically",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.39837515354156494,
+                    "sim_con_problema": 0.6646474003791809,
+                    "peso_arista": 0.9369774460792542,
+                    "peso_acumulado": 3.9661712646484375,
+                    "premise_id": "A15",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_111",
+                        "texto": "BroadlyAffectedAutism searches stored pragmatic rules to reinterpret remark",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4072192907333374,
+                        "sim_con_problema": 0.5177117586135864,
+                        "peso_arista": 1.0750689506530762,
+                        "peso_acumulado": 5.041240215301514,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_113",
+                        "texto": "BroadlyAffectedAutism may recognize sarcasm only after significant delay",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.40691137313842773,
+                        "sim_con_problema": 0.4645484983921051,
+                        "peso_arista": 1.1285401284694672,
+                        "peso_acumulado": 5.094711393117905,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_13",
+            "texto": "BroadlyAffectedAutism attempts conscious retrieval of matching pragmatic entry",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.488369882106781,
+            "sim_con_problema": 0.533026933670044,
+            "peso_arista": 0.978603184223175,
+            "peso_acumulado": 2.0276395678520203,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_31",
+                "texto": "BroadlyAffectedAutism requires conscious matching before applying meaning",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.49316105246543884,
+                "sim_con_problema": 0.5282080173492432,
+                "peso_arista": 0.978630930185318,
+                "peso_acumulado": 3.0062704980373383,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_67",
+                    "texto": "BroadlyAffectedAutism fails to find a matching stored pragmatic entry",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.34030812978744507,
+                    "sim_con_problema": 0.382893443107605,
+                    "peso_arista": 1.27679842710495,
+                    "peso_acumulado": 4.283068925142288,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_191",
+                        "texto": "BroadlyAffectedAutism treats the remark as pragmatically unresolved",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.35103487968444824,
+                        "sim_con_problema": 0.5639327764511108,
+                        "peso_arista": 1.085032343864441,
+                        "peso_acumulado": 5.368101269006729,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_3",
+        "texto": "BroadlyAffectedAutism processes the social exchange with reduced speed",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4847412109375,
+        "sim_con_problema": 0.4417581856250763,
+        "peso_arista": 1.0735006034374237,
+        "peso_acumulado": 1.0735006034374237,
+        "premise_id": "A7",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_16",
+            "texto": "BroadlyAffectedAutism requires extra inferential steps to detect irony",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.4839041233062744,
+            "sim_con_problema": 0.5298612117767334,
+            "peso_arista": 0.9862346649169922,
+            "peso_acumulado": 2.059735268354416,
+            "premise_id": "A17",
+            "hijos": []
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_18",
+            "texto": "BroadlyAffectedAutism falls behind the real-time conversational pace",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.39936375617980957,
+            "sim_con_problema": 0.5415071845054626,
+            "peso_arista": 1.0591290593147278,
+            "peso_acumulado": 2.1326296627521515,
+            "premise_id": "A7",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_46",
+                "texto": "BroadlyAffectedAutism processes the sarcastic remark literally at first",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4455464482307434,
+                "sim_con_problema": 0.5751966834068298,
+                "peso_arista": 0.9792568683624268,
+                "peso_acumulado": 3.1118865311145782,
+                "premise_id": "A17",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_86",
+                    "texto": "BroadlyAffectedAutism must consciously retrieve pragmatic rules for sarcasm",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.38509494066238403,
+                    "sim_con_problema": 0.5925976037979126,
+                    "peso_arista": 1.0223074555397034,
+                    "peso_acumulado": 4.134193986654282,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_157",
+                        "texto": "BroadlyAffectedAutism searches stored rule entries for a match",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.15044435858726501,
+                        "sim_con_problema": 0.160194993019104,
+                        "peso_arista": 1.689360648393631,
+                        "peso_acumulado": 5.823554635047913,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_158",
+                        "texto": "BroadlyAffectedAutism experiences further delay in responding",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5019667148590088,
+                        "sim_con_problema": 0.21510550379753113,
+                        "peso_arista": 1.28292778134346,
+                        "peso_acumulado": 5.417121767997742,
+                        "premise_id": "A7",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_159",
+                        "texto": "BroadlyAffectedAutism cannot update sarcasm rule without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.25511592626571655,
+                        "sim_con_problema": 0.439197301864624,
+                        "peso_arista": 1.3056867718696594,
+                        "peso_acumulado": 5.439880758523941,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_47",
+                "texto": "BroadlyAffectedAutism must retrieve an explicit pragmatic rule to interpret it",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4910537600517273,
+                "sim_con_problema": 0.49594375491142273,
+                "peso_arista": 1.01300248503685,
+                "peso_acumulado": 3.1456321477890015,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_87",
+                    "texto": "BroadlyAffectedAutism defaults to literal meaning without retrieval",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.38595283031463623,
+                    "sim_con_problema": 0.5601450204849243,
+                    "peso_arista": 1.0539021492004395,
+                    "peso_acumulado": 4.199534296989441,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_173",
+                        "texto": "BroadlyAffectedAutism cannot correct the misunderstanding without explicit feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.41375547647476196,
+                        "sim_con_problema": 0.4568004012107849,
+                        "peso_arista": 1.1294441223144531,
+                        "peso_acumulado": 5.328978419303894,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_88",
+                    "texto": "BroadlyAffectedAutism consciously searches stored pragmatic rule entries",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4153900742530823,
+                    "sim_con_problema": 0.48327648639678955,
+                    "peso_arista": 1.1013334393501282,
+                    "peso_acumulado": 4.24696558713913,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_180",
+                        "texto": "BroadlyAffectedAutism attempts to match retrieved rule to context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4220099449157715,
+                        "sim_con_problema": 0.42413920164108276,
+                        "peso_arista": 1.1538508534431458,
+                        "peso_acumulado": 5.400816440582275,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_182",
+                        "texto": "BroadlyAffectedAutism's response lags behind the ongoing conversation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4048214554786682,
+                        "sim_con_problema": 0.47237956523895264,
+                        "peso_arista": 1.1227989792823792,
+                        "peso_acumulado": 5.369764566421509,
+                        "premise_id": "A16",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_89",
+                    "texto": "BroadlyAffectedAutism produces its interpretation after the exchange ends",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3644382357597351,
+                    "sim_con_problema": 0.40744102001190186,
+                    "peso_arista": 1.228120744228363,
+                    "peso_acumulado": 4.3737528920173645,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_203",
+                        "texto": "BroadlyAffectedAutism cannot use the belated feedback to update behavior",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3618122339248657,
+                        "sim_con_problema": 0.24261891841888428,
+                        "peso_arista": 1.39556884765625,
+                        "peso_acumulado": 5.7693217396736145,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_204",
+                        "texto": "BroadlyAffectedAutism will not automatically apply this rule to new sarcasm instances",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2559036612510681,
+                        "sim_con_problema": 0.4687860608100891,
+                        "peso_arista": 1.2753102779388428,
+                        "peso_acumulado": 5.649063169956207,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_48",
+                "texto": "BroadlyAffectedAutism misses subsequent conversational turns while processing",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5233141183853149,
+                "sim_con_problema": 0.5556563138961792,
+                "peso_arista": 0.9210295677185059,
+                "peso_acumulado": 3.0536592304706573,
+                "premise_id": "A7",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_78",
+                    "texto": "BroadlyAffectedAutism cannot retrieve a matching pragmatic rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.38946667313575745,
+                    "sim_con_problema": 0.39761632680892944,
+                    "peso_arista": 1.212917000055313,
+                    "peso_acumulado": 4.2665762305259705,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_79",
+                    "texto": "BroadlyAffectedAutism continues lagging behind the ongoing exchange",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2947727143764496,
+                    "sim_con_problema": 0.2689477205276489,
+                    "peso_arista": 1.4362795650959015,
+                    "peso_acumulado": 4.489938795566559,
+                    "premise_id": "A7",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_80",
+                    "texto": "BroadlyAffectedAutism registers the conversational shift as disproportionate error",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4382195472717285,
+                    "sim_con_problema": 0.5618324279785156,
+                    "peso_arista": 0.9999480247497559,
+                    "peso_acumulado": 4.053607255220413,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_128",
+                        "texto": "BroadlyAffectedAutism cannot decode the sarcasm automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3231819272041321,
+                        "sim_con_problema": 0.5781121253967285,
+                        "peso_arista": 1.0987059473991394,
+                        "peso_acumulado": 5.152313202619553,
+                        "premise_id": "A17",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_130",
+                        "texto": "BroadlyAffectedAutism blocks learning if error implies shame",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4508470892906189,
+                        "sim_con_problema": 0.3840653896331787,
+                        "peso_arista": 1.1650875210762024,
+                        "peso_acumulado": 5.218694776296616,
+                        "premise_id": "A21",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_49",
+                "texto": "BroadlyAffectedAutism generates its social response after the exchange ends",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.35506126284599304,
+                "sim_con_problema": 0.3621690273284912,
+                "peso_arista": 1.2827697098255157,
+                "peso_acumulado": 3.4153993725776672,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_102",
+                    "texto": "BroadlyAffectedAutism cannot receive temporally proximate corrective feedback",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5194761753082275,
+                    "sim_con_problema": 0.2809440493583679,
+                    "peso_arista": 1.1995797753334045,
+                    "peso_acumulado": 4.614979147911072,
+                    "premise_id": "A24",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_103",
+                    "texto": "BroadlyAffectedAutism cannot update its pragmatic rule entry",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.27950727939605713,
+                    "sim_con_problema": 0.35493654012680054,
+                    "peso_arista": 1.3655561804771423,
+                    "peso_acumulado": 4.78095555305481,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_104",
+                    "texto": "BroadlyAffectedAutism's emotional response arrives after the trigger",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.5316537022590637,
+                    "sim_con_problema": 0.3016641139984131,
+                    "peso_arista": 1.1666821837425232,
+                    "peso_acumulado": 4.58208155632019,
+                    "premise_id": "A16",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BroadlyAffectedAutism_1_4",
+        "texto": "BroadlyAffectedAutism treats the classmate's tone as behavioral data",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5067848563194275,
+        "sim_con_problema": 0.5147049427032471,
+        "peso_arista": 0.9785102009773254,
+        "peso_acumulado": 0.9785102009773254,
+        "premise_id": "A15",
+        "hijos": [
+          {
+            "id": "BroadlyAffectedAutism_2_6",
+            "texto": "BroadlyAffectedAutism requires inferential analysis to interpret the tone",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5217757225036621,
+            "sim_con_problema": 0.5441766977310181,
+            "peso_arista": 0.9340475797653198,
+            "peso_acumulado": 1.9125577807426453,
+            "premise_id": "A15",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_20",
+                "texto": "BroadlyAffectedAutism searches stored pragmatic rules for matching pattern",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.3257560133934021,
+                "sim_con_problema": 0.2666853070259094,
+                "peso_arista": 1.4075586795806885,
+                "peso_acumulado": 3.3201164603233337,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_96",
+                    "texto": "BroadlyAffectedAutism defaults to the literal meaning of the statement",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3711698651313782,
+                    "sim_con_problema": 0.6096631288528442,
+                    "peso_arista": 1.0191670060157776,
+                    "peso_acumulado": 4.339283466339111,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_198",
+                        "texto": "BroadlyAffectedAutism cannot map sarcasm to stored pragmatic rules",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.333783894777298,
+                        "sim_con_problema": 0.6167374849319458,
+                        "peso_arista": 1.0494786202907562,
+                        "peso_acumulado": 5.3887620866298676,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_97",
+                    "texto": "BroadlyAffectedAutism cannot resolve sarcasm without an explicit matching rule",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.2777728736400604,
+                    "sim_con_problema": 0.49320629239082336,
+                    "peso_arista": 1.2290208339691162,
+                    "peso_acumulado": 4.54913729429245,
+                    "premise_id": "A18",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_21",
+                "texto": "BroadlyAffectedAutism processes the sarcastic exchange at reduced speed",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.46041879057884216,
+                "sim_con_problema": 0.5201325416564941,
+                "peso_arista": 1.0194486677646637,
+                "peso_acumulado": 2.932006448507309,
+                "premise_id": "A7",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_53",
+                    "texto": "BroadlyAffectedAutism fails to decode sarcasm before conversation advances",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3410283327102661,
+                    "sim_con_problema": 0.6494425535202026,
+                    "peso_arista": 1.0095291137695312,
+                    "peso_acumulado": 3.94153556227684,
+                    "premise_id": "A17",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_109",
+                        "texto": "BroadlyAffectedAutism cannot retrieve pragmatic rule in time",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3625440001487732,
+                        "sim_con_problema": 0.34211236238479614,
+                        "peso_arista": 1.2953436374664307,
+                        "peso_acumulado": 5.236879199743271,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_54",
+                    "texto": "BroadlyAffectedAutism falls behind the group conversation pace",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3750506043434143,
+                    "sim_con_problema": 0.47962886095046997,
+                    "peso_arista": 1.1453205347061157,
+                    "peso_acumulado": 4.077326983213425,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_139",
+                        "texto": "BroadlyAffectedAutism responds to the sarcasm after conversation has moved on",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.31243711709976196,
+                        "sim_con_problema": 0.5757126808166504,
+                        "peso_arista": 1.1118502020835876,
+                        "peso_acumulado": 5.189177185297012,
+                        "premise_id": "A16",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_140",
+                        "texto": "BroadlyAffectedAutism fails to integrate missed segments into overall conversation meaning",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.38749000430107117,
+                        "sim_con_problema": 0.5743744373321533,
+                        "peso_arista": 1.0381355583667755,
+                        "peso_acumulado": 5.1154625415802,
+                        "premise_id": "A5",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_142",
+                        "texto": "BroadlyAffectedAutism cannot learn the sarcasm cue from delayed feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4320724606513977,
+                        "sim_con_problema": 0.5065221190452576,
+                        "peso_arista": 1.0614054203033447,
+                        "peso_acumulado": 5.138732403516769,
+                        "premise_id": "A24",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_56",
+                    "texto": "BroadlyAffectedAutism gains no updated rule from delayed cues",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.420687198638916,
+                    "sim_con_problema": 0.2523261308670044,
+                    "peso_arista": 1.3269866704940796,
+                    "peso_acumulado": 4.2589931190013885,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_185",
+                        "texto": "BroadlyAffectedAutism cannot add sarcasm to explicit rule database",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.23987343907356262,
+                        "sim_con_problema": 0.41716253757476807,
+                        "peso_arista": 1.3429640233516693,
+                        "peso_acumulado": 5.601957142353058,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_7",
+            "texto": "BroadlyAffectedAutism must consciously retrieve a stored pragmatic rule",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5216572284698486,
+            "sim_con_problema": 0.4713311493396759,
+            "peso_arista": 1.0070116221904755,
+            "peso_acumulado": 1.985521823167801,
+            "premise_id": "A18",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_27",
+                "texto": "BroadlyAffectedAutism responds slower to the sarcastic remark",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.41971564292907715,
+                "sim_con_problema": 0.5647686123847961,
+                "peso_arista": 1.0155157446861267,
+                "peso_acumulado": 3.0010375678539276,
+                "premise_id": "A7",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_63",
+                    "texto": "BroadlyAffectedAutism responds after the conversation topic changes",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.43812620639801025,
+                    "sim_con_problema": 0.5221593976020813,
+                    "peso_arista": 1.0397143959999084,
+                    "peso_acumulado": 4.040751963853836,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_121",
+                        "texto": "BroadlyAffectedAutism experiences prediction error from the topic shift",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3981986939907074,
+                        "sim_con_problema": 0.3974596858024597,
+                        "peso_arista": 1.2043416202068329,
+                        "peso_acumulado": 5.245093584060669,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_122",
+                        "texto": "BroadlyAffectedAutism's delayed response mismatches the new conversational context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.47857528924942017,
+                        "sim_con_problema": 0.6189098358154297,
+                        "peso_arista": 0.9025148749351501,
+                        "peso_acumulado": 4.943266838788986,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_123",
+                        "texto": "BroadlyAffectedAutism cannot re-anchor its reply to the new topic",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.2897490859031677,
+                        "sim_con_problema": 0.36582285165786743,
+                        "peso_arista": 1.3444280624389648,
+                        "peso_acumulado": 5.385180026292801,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_64",
+                    "texto": "BroadlyAffectedAutism falls behind the ongoing group exchange",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.28865474462509155,
+                    "sim_con_problema": 0.28914469480514526,
+                    "peso_arista": 1.4222005605697632,
+                    "peso_acumulado": 4.423238128423691,
+                    "premise_id": "A7",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_209",
+                        "texto": "BroadlyAffectedAutism experiences processing overload from the rapid exchange",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4447363615036011,
+                        "sim_con_problema": 0.2723561227321625,
+                        "peso_arista": 1.2829075157642365,
+                        "peso_acumulado": 5.706145644187927,
+                        "premise_id": "A6",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_210",
+                        "texto": "BroadlyAffectedAutism registers the missed shift as unanticipated change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.34820762276649475,
+                        "sim_con_problema": 0.2731740474700928,
+                        "peso_arista": 1.3786183297634125,
+                        "peso_acumulado": 5.801856458187103,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_211",
+                        "texto": "BroadlyAffectedAutism must retrieve new pragmatic rules for subsequent remarks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3921278119087219,
+                        "sim_con_problema": 0.5690663456916809,
+                        "peso_arista": 1.0388058423995972,
+                        "peso_acumulado": 5.462043970823288,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_65",
+                    "texto": "BroadlyAffectedAutism's retrieved rule no longer matches the context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.3809833228588104,
+                    "sim_con_problema": 0.4341872036457062,
+                    "peso_arista": 1.1848294734954834,
+                    "peso_acumulado": 4.185867041349411,
+                    "premise_id": "A18",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_168",
+                        "texto": "BroadlyAffectedAutism cannot generalize the rule to this context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4226436913013458,
+                        "sim_con_problema": 0.4012782573699951,
+                        "peso_arista": 1.176078051328659,
+                        "peso_acumulado": 5.36194509267807,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_170",
+                        "texto": "BroadlyAffectedAutism requires new explicit rule for this context",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.48514237999916077,
+                        "sim_con_problema": 0.4079919457435608,
+                        "peso_arista": 1.1068656742572784,
+                        "peso_acumulado": 5.2927327156066895,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_28",
+                "texto": "BroadlyAffectedAutism searches its database for a matching rule",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.2469150424003601,
+                "sim_con_problema": 0.16983065009117126,
+                "peso_arista": 1.5832543075084686,
+                "peso_acumulado": 3.5687761306762695,
+                "premise_id": "A18",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_105",
+                    "texto": "BroadlyAffectedAutism finds no stored rule for sarcasm",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.24536801874637604,
+                    "sim_con_problema": 0.4828978478908539,
+                    "peso_arista": 1.27173413336277,
+                    "peso_acumulado": 4.84051026403904,
+                    "premise_id": "A18",
+                    "hijos": []
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_107",
+                    "texto": "BroadlyAffectedAutism fails to detect the implicit meaning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.42988574504852295,
+                    "sim_con_problema": 0.5882430076599121,
+                    "peso_arista": 0.9818712472915649,
+                    "peso_acumulado": 4.5506473779678345,
+                    "premise_id": "A23",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "BroadlyAffectedAutism_3_29",
+                "texto": "BroadlyAffectedAutism delays its emotional reaction to the remark",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5484369993209839,
+                "sim_con_problema": 0.4978897273540497,
+                "peso_arista": 0.9536732733249664,
+                "peso_acumulado": 2.9391950964927673,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_57",
+                    "texto": "BroadlyAffectedAutism's emotional response emerges after the conversation moves on",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4854252338409424,
+                    "sim_con_problema": 0.47437161207199097,
+                    "peso_arista": 1.0402031540870667,
+                    "peso_acumulado": 3.979398250579834,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_115",
+                        "texto": "BroadlyAffectedAutism cannot use this delayed response as learning feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5600537657737732,
+                        "sim_con_problema": 0.33003413677215576,
+                        "peso_arista": 1.109912097454071,
+                        "peso_acumulado": 5.089310348033905,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_116",
+                        "texto": "BroadlyAffectedAutism experiences disproportionate disruption from the topic shift",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.39837324619293213,
+                        "sim_con_problema": 0.3739553689956665,
+                        "peso_arista": 1.2276713848114014,
+                        "peso_acumulado": 5.207069635391235,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_117",
+                        "texto": "BroadlyAffectedAutism misapplies the retrieved rule to the new topic",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.37196826934814453,
+                        "sim_con_problema": 0.4316669702529907,
+                        "peso_arista": 1.1963647603988647,
+                        "peso_acumulado": 5.175763010978699,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_58",
+                    "texto": "BroadlyAffectedAutism's reaction becomes decoupled from the triggering exchange",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4782705008983612,
+                    "sim_con_problema": 0.25096336007118225,
+                    "peso_arista": 1.2707661390304565,
+                    "peso_acumulado": 4.209961235523224,
+                    "premise_id": "A16",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_174",
+                        "texto": "BroadlyAffectedAutism cannot use the reaction as learning feedback",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.583220362663269,
+                        "sim_con_problema": 0.33529090881347656,
+                        "peso_arista": 1.0814887285232544,
+                        "peso_acumulado": 5.291449964046478,
+                        "premise_id": "A24",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_175",
+                        "texto": "BroadlyAffectedAutism fails to generalize the sarcasm rule later",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3363586366176605,
+                        "sim_con_problema": 0.5296077728271484,
+                        "peso_arista": 1.134033590555191,
+                        "peso_acumulado": 5.343994826078415,
+                        "premise_id": "A22",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_176",
+                        "texto": "BroadlyAffectedAutism retains the exchange poorly as episodic memory",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4960666000843048,
+                        "sim_con_problema": 0.28740885853767395,
+                        "peso_arista": 1.2165245413780212,
+                        "peso_acumulado": 5.426485776901245,
+                        "premise_id": "A8",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_59",
+                    "texto": "BroadlyAffectedAutism cannot align its response with ongoing group dynamics",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4362773895263672,
+                    "sim_con_problema": 0.280296266078949,
+                    "peso_arista": 1.2834263443946838,
+                    "peso_acumulado": 4.222621440887451,
+                    "premise_id": "A15",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_177",
+                        "texto": "BroadlyAffectedAutism generates disproportionate prediction error from the mismatch",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3516697585582733,
+                        "sim_con_problema": 0.24931460618972778,
+                        "peso_arista": 1.399015635251999,
+                        "peso_acumulado": 5.62163707613945,
+                        "premise_id": "A20",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_179",
+                        "texto": "BroadlyAffectedAutism requires explicit rule retrieval to rejoin conversation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5119683742523193,
+                        "sim_con_problema": 0.47766244411468506,
+                        "peso_arista": 1.0103691816329956,
+                        "peso_acumulado": 5.232990622520447,
+                        "premise_id": "A18",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "BroadlyAffectedAutism_2_8",
+            "texto": "BroadlyAffectedAutism's recognition of the sarcasm is delayed",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.3791261911392212,
+            "sim_con_problema": 0.535075306892395,
+            "peso_arista": 1.0857985019683838,
+            "peso_acumulado": 2.0643087029457092,
+            "premise_id": "A16",
+            "hijos": [
+              {
+                "id": "BroadlyAffectedAutism_3_41",
+                "texto": "BroadlyAffectedAutism responds after the conversational moment has passed",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4241035580635071,
+                "sim_con_problema": 0.5442038774490356,
+                "peso_arista": 1.0316925644874573,
+                "peso_acumulado": 3.0960012674331665,
+                "premise_id": "A16",
+                "hijos": [
+                  {
+                    "id": "BroadlyAffectedAutism_4_81",
+                    "texto": "BroadlyAffectedAutism cannot use this feedback to update learning",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.4356914162635803,
+                    "sim_con_problema": 0.2946881651878357,
+                    "peso_arista": 1.269620418548584,
+                    "peso_acumulado": 4.3656216859817505,
+                    "premise_id": "A24",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_201",
+                        "texto": "BroadlyAffectedAutism cannot generalize this sarcasm instance elsewhere",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.26162272691726685,
+                        "sim_con_problema": 0.5297938585281372,
+                        "peso_arista": 1.208583414554596,
+                        "peso_acumulado": 5.574205100536346,
+                        "premise_id": "A22",
+                        "hijos": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "BroadlyAffectedAutism_4_82",
+                    "texto": "BroadlyAffectedAutism experiences disproportionate prediction error from the shift",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.419864296913147,
+                    "sim_con_problema": 0.2556680738925934,
+                    "peso_arista": 1.3244676291942596,
+                    "peso_acumulado": 4.420468896627426,
+                    "premise_id": "A20",
+                    "hijos": [
+                      {
+                        "id": "BroadlyAffectedAutism_5_205",
+                        "texto": "BroadlyAffectedAutism risks cognitive processing going offline",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5427059531211853,
+                        "sim_con_problema": 0.3873556852340698,
+                        "peso_arista": 1.0699383616447449,
+                        "peso_acumulado": 5.490407258272171,
+                        "premise_id": "A1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_206",
+                        "texto": "BroadlyAffectedAutism searches explicit rules for this situation",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3884797990322113,
+                        "sim_con_problema": 0.30560779571533203,
+                        "peso_arista": 1.3059124052524567,
+                        "peso_acumulado": 5.726381301879883,
+                        "premise_id": "A18",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_207",
+                        "texto": "BroadlyAffectedAutism treats the mismatch as a social failure",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.3404948115348816,
+                        "sim_con_problema": 0.38427191972732544,
+                        "peso_arista": 1.275233268737793,
+                        "peso_acumulado": 5.695702165365219,
+                        "premise_id": "A21",
+                        "hijos": []
+                      },
+                      {
+                        "id": "BroadlyAffectedAutism_5_208",
+                        "texto": "BroadlyAffectedAutism cannot allocate resources to other tasks",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.4179673194885254,
+                        "sim_con_problema": 0.2921278476715088,
+                        "peso_arista": 1.2899048328399658,
+                        "peso_acumulado": 5.710373729467392,
+                        "premise_id": "A19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 87,
+  "profundidad_maxima": 5
+}

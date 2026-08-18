@@ -1,0 +1,1887 @@
+{
+  "actor": "NeurotypicalCognition",
+  "raiz": {
+    "id": "NeurotypicalCognition_0_0",
+    "texto": "A neurotypical cognitive architecture that integrates multiple sensory and social channels through automatic relevance filtering, processes from concrete to abstract across developmental stages, infers implicit social norms through immersive participation, and generalizes learned rules automatically across contexts.",
+    "nivel": 0,
+    "es_hoja": false,
+    "sim_con_raiz": 1.0,
+    "sim_con_problema": 0.591072678565979,
+    "peso_arista": null,
+    "peso_acumulado": 0.0,
+    "premise_id": null,
+    "hijos": [
+      {
+        "id": "NeurotypicalCognition_1_1",
+        "texto": "NeurotypicalCognition automatically suppresses the buzzing sound as background",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5002009868621826,
+        "sim_con_problema": 0.5767196416854858,
+        "peso_arista": 0.9230793714523315,
+        "peso_acumulado": 0.9230793714523315,
+        "premise_id": "N1",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_13",
+            "texto": "NeurotypicalCognition maintains focus on task-relevant classroom content",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6173840165138245,
+            "sim_con_problema": 0.4295571446418762,
+            "peso_arista": 0.9530588388442993,
+            "peso_acumulado": 1.8761382102966309,
+            "premise_id": "N1",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_31",
+                "texto": "NeurotypicalCognition integrates verbal and visual classroom information simultaneously",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6797565221786499,
+                "sim_con_problema": 0.5399817228317261,
+                "peso_arista": 0.780261754989624,
+                "peso_acumulado": 2.656399965286255,
+                "premise_id": "N4",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_50",
+                    "texto": "NeurotypicalCognition automatically extracts overall lesson meaning",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.6920803189277649,
+                    "sim_con_problema": 0.4093095064163208,
+                    "peso_arista": 0.8986101746559143,
+                    "peso_acumulado": 3.555010139942169,
+                    "premise_id": "N6",
+                    "hijos": []
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_51",
+                    "texto": "NeurotypicalCognition forms a unified percept of the classroom",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6274286508560181,
+                    "sim_con_problema": 0.47501498460769653,
+                    "peso_arista": 0.8975563645362854,
+                    "peso_acumulado": 3.5539563298225403,
+                    "premise_id": "N3",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_104",
+                        "texto": "NeurotypicalCognition extracts global meaning from the classroom scene",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6612256169319153,
+                        "sim_con_problema": 0.45469218492507935,
+                        "peso_arista": 0.8840821981430054,
+                        "peso_acumulado": 4.438038527965546,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_222",
+                            "texto": "NeurotypicalCognition increases learning rate for the altered environment",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6815098524093628,
+                            "sim_con_problema": 0.6085766553878784,
+                            "peso_arista": 0.7099134922027588,
+                            "peso_acumulado": 5.147952020168304,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_106",
+                        "texto": "NeurotypicalCognition updates its contextual model of the room",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6755163669586182,
+                        "sim_con_problema": 0.5915387868881226,
+                        "peso_arista": 0.7329448461532593,
+                        "peso_acumulado": 4.2869011759758,
+                        "premise_id": "N20",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_195",
+                            "texto": "NeurotypicalCognition resolves the prediction error from the change",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5060424208641052,
+                            "sim_con_problema": 0.3863700032234192,
+                            "peso_arista": 1.1075875759124756,
+                            "peso_acumulado": 5.394488751888275,
+                            "premise_id": "N20",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_197",
+                            "texto": "NeurotypicalCognition consolidates learning as the room restabilizes",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6897690892219543,
+                            "sim_con_problema": 0.5457327961921692,
+                            "peso_arista": 0.7644981145858765,
+                            "peso_acumulado": 5.051399290561676,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_33",
+                "texto": "NeurotypicalCognition extracts global meaning from classroom instruction automatically",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6694967150688171,
+                "sim_con_problema": 0.4017617404460907,
+                "peso_arista": 0.9287415444850922,
+                "peso_acumulado": 2.804879754781723,
+                "premise_id": "N6",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_66",
+                    "texto": "NeurotypicalCognition integrates instruction with classroom social context automatically",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7887900471687317,
+                    "sim_con_problema": 0.46574312448501587,
+                    "peso_arista": 0.7454668283462524,
+                    "peso_acumulado": 3.5503465831279755,
+                    "premise_id": "N4",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_100",
+                        "texto": "NeurotypicalCognition infers implicit classroom behavioral expectations automatically",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6444095373153687,
+                        "sim_con_problema": 0.44227397441864014,
+                        "peso_arista": 0.9133164882659912,
+                        "peso_acumulado": 4.463663071393967,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_225",
+                            "texto": "NeurotypicalCognition treats expectation violations as correctable social information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6465948820114136,
+                            "sim_con_problema": 0.3721218705177307,
+                            "peso_arista": 0.9812832474708557,
+                            "peso_acumulado": 5.444946318864822,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_101",
+                        "texto": "NeurotypicalCognition decodes teacher's indirect speech without added effort",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5834154486656189,
+                        "sim_con_problema": 0.42033088207244873,
+                        "peso_arista": 0.9962536692619324,
+                        "peso_acumulado": 4.546600252389908,
+                        "premise_id": "N17",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_234",
+                            "texto": "NeurotypicalCognition infers implicit classroom behavioral expectations from speech",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6121424436569214,
+                            "sim_con_problema": 0.45085233449935913,
+                            "peso_arista": 0.9370052218437195,
+                            "peso_acumulado": 5.483605474233627,
+                            "premise_id": "N23",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_236",
+                            "texto": "NeurotypicalCognition adjusts behavior to gain teacher's social approval",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6314238905906677,
+                            "sim_con_problema": 0.4120640158653259,
+                            "peso_arista": 0.9565120935440063,
+                            "peso_acumulado": 5.503112345933914,
+                            "premise_id": "N12",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_102",
+                        "texto": "NeurotypicalCognition acquires classroom norms through ongoing social participation",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7150341868400574,
+                        "sim_con_problema": 0.4142709970474243,
+                        "peso_arista": 0.8706948161125183,
+                        "peso_acumulado": 4.421041399240494,
+                        "premise_id": "N18",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_214",
+                            "texto": "NeurotypicalCognition automatically detects classroom norm violations via feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6131901741027832,
+                            "sim_con_problema": 0.36037009954452515,
+                            "peso_arista": 1.0264397263526917,
+                            "peso_acumulado": 5.447481125593185,
+                            "premise_id": "N18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_215",
+                            "texto": "NeurotypicalCognition generalizes classroom norms to new contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7240848541259766,
+                            "sim_con_problema": 0.4446074068546295,
+                            "peso_arista": 0.8313077390193939,
+                            "peso_acumulado": 5.252349138259888,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_103",
+                        "texto": "NeurotypicalCognition habituates further to the fluorescent buzzing",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.516620934009552,
+                        "sim_con_problema": 0.6303985118865967,
+                        "peso_arista": 0.8529805541038513,
+                        "peso_acumulado": 4.403327137231827,
+                        "premise_id": "N2",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_212",
+                            "texto": "NeurotypicalCognition treats the classroom environment as stable now",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.591326117515564,
+                            "sim_con_problema": 0.43396201729774475,
+                            "peso_arista": 0.9747118651866913,
+                            "peso_acumulado": 5.378039002418518,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_67",
+                    "texto": "NeurotypicalCognition generalizes the lesson content across future contexts",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7288944125175476,
+                    "sim_con_problema": 0.4525831341743469,
+                    "peso_arista": 0.8185224533081055,
+                    "peso_acumulado": 3.6234022080898285,
+                    "premise_id": "N22",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_117",
+                        "texto": "NeurotypicalCognition interprets new classroom details using prior global meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.667794942855835,
+                        "sim_con_problema": 0.44106245040893555,
+                        "peso_arista": 0.8911426067352295,
+                        "peso_acumulado": 4.514544814825058,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_231",
+                            "texto": "NeurotypicalCognition transfers this interpretation to future classroom settings",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6794558167457581,
+                            "sim_con_problema": 0.48673564195632935,
+                            "peso_arista": 0.8338085412979126,
+                            "peso_acumulado": 5.348353356122971,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_233",
+                            "texto": "NeurotypicalCognition assimilates new lighting details into existing lesson context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6598978042602539,
+                            "sim_con_problema": 0.5193002820014954,
+                            "peso_arista": 0.8208019137382507,
+                            "peso_acumulado": 5.335346728563309,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_34",
+                "texto": "NeurotypicalCognition remains ready to redirect attention to new salience",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6178280115127563,
+                "sim_con_problema": 0.52519291639328,
+                "peso_arista": 0.8569790720939636,
+                "peso_acumulado": 2.7331172823905945,
+                "premise_id": "N11",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_58",
+                    "texto": "NeurotypicalCognition resolves any prediction error via updating",
+                    "nivel": 4,
+                    "es_hoja": true,
+                    "sim_con_raiz": 0.47165149450302124,
+                    "sim_con_problema": 0.3006892800331116,
+                    "peso_arista": 1.2276592254638672,
+                    "peso_acumulado": 3.9607765078544617,
+                    "premise_id": "N20",
+                    "hijos": []
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_59",
+                    "texto": "NeurotypicalCognition redirects attention if new salience emerges",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.587492823600769,
+                    "sim_con_problema": 0.5897300839424133,
+                    "peso_arista": 0.8227770924568176,
+                    "peso_acumulado": 3.555894374847412,
+                    "premise_id": "N11",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_112",
+                        "texto": "NeurotypicalCognition increases updating due to the environmental change",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5597329139709473,
+                        "sim_con_problema": 0.5642852783203125,
+                        "peso_arista": 0.8759818077087402,
+                        "peso_acumulado": 4.431876182556152,
+                        "premise_id": "N7",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_219",
+                            "texto": "NeurotypicalCognition consolidates once environment stabilizes",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6425843238830566,
+                            "sim_con_problema": 0.5202940106391907,
+                            "peso_arista": 0.8371216654777527,
+                            "peso_acumulado": 5.268997848033905,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_14",
+            "texto": "NeurotypicalCognition interprets the buzzing as irrelevant background context",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5418910384178162,
+            "sim_con_problema": 0.5485907793045044,
+            "peso_arista": 0.9095181822776794,
+            "peso_acumulado": 1.832597553730011,
+            "premise_id": "N6",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_26",
+                "texto": "NeurotypicalCognition continues amplifying task-relevant visual signals",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6290351152420044,
+                "sim_con_problema": 0.6512893438339233,
+                "peso_arista": 0.7196755409240723,
+                "peso_acumulado": 2.5522730946540833,
+                "premise_id": "N1",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_49",
+                    "texto": "NeurotypicalCognition extracts lesson meaning from visual details",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6658419370651245,
+                    "sim_con_problema": 0.5402120351791382,
+                    "peso_arista": 0.7939460277557373,
+                    "peso_acumulado": 3.3462191224098206,
+                    "premise_id": "N6",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_91",
+                        "texto": "NeurotypicalCognition integrates visual details into coherent lesson understanding",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6712085008621216,
+                        "sim_con_problema": 0.5152431726455688,
+                        "peso_arista": 0.8135483264923096,
+                        "peso_acumulado": 4.15976744890213,
+                        "premise_id": "N6",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_93",
+                        "texto": "NeurotypicalCognition transfers extracted lesson meaning to related classroom contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6773382425308228,
+                        "sim_con_problema": 0.4335765540599823,
+                        "peso_arista": 0.889085203409195,
+                        "peso_acumulado": 4.2353043258190155,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_186",
+                            "texto": "NeurotypicalCognition applies contextual meaning to new classroom details",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7069065570831299,
+                            "sim_con_problema": 0.49027320742607117,
+                            "peso_arista": 0.802820235490799,
+                            "peso_acumulado": 5.0381245613098145,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_27",
+                "texto": "NeurotypicalCognition maintains attention on classroom task demands",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.590129554271698,
+                "sim_con_problema": 0.48300111293792725,
+                "peso_arista": 0.9268693327903748,
+                "peso_acumulado": 2.7594668865203857,
+                "premise_id": "N11",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_62",
+                    "texto": "NeurotypicalCognition extracts overall classroom meaning from task context",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6677664518356323,
+                    "sim_con_problema": 0.46270227432250977,
+                    "peso_arista": 0.8695312738418579,
+                    "peso_acumulado": 3.6289981603622437,
+                    "premise_id": "N6",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_119",
+                        "texto": "NeurotypicalCognition integrates lesson content across verbal and visual channels",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7216790318489075,
+                        "sim_con_problema": 0.5169905424118042,
+                        "peso_arista": 0.7613304257392883,
+                        "peso_acumulado": 4.390328586101532,
+                        "premise_id": "N4",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_207",
+                            "texto": "NeurotypicalCognition simultaneously incorporates social and contextual cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.8187955617904663,
+                            "sim_con_problema": 0.5806158781051636,
+                            "peso_arista": 0.6005885601043701,
+                            "peso_acumulado": 4.990917146205902,
+                            "premise_id": "N4",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_208",
+                            "texto": "NeurotypicalCognition derives overall lesson meaning from integrated details",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7269220948219299,
+                            "sim_con_problema": 0.46084821224212646,
+                            "peso_arista": 0.8122296929359436,
+                            "peso_acumulado": 5.202558279037476,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_120",
+                        "texto": "NeurotypicalCognition consolidates learning under stable classroom conditions",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6299922466278076,
+                        "sim_con_problema": 0.418131947517395,
+                        "peso_arista": 0.9518758058547974,
+                        "peso_acumulado": 4.580873966217041,
+                        "premise_id": "N7",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_242",
+                            "texto": "NeurotypicalCognition transfers consolidated classroom learning to new contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6995323896408081,
+                            "sim_con_problema": 0.4596996307373047,
+                            "peso_arista": 0.8407679796218872,
+                            "peso_acumulado": 5.421641945838928,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_243",
+                            "texto": "NeurotypicalCognition reduces learning rate under stable conditions",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5848393440246582,
+                            "sim_con_problema": 0.4452965259552002,
+                            "peso_arista": 0.9698641300201416,
+                            "peso_acumulado": 5.550738096237183,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_2",
+        "texto": "NeurotypicalCognition habituates to the buzzing lights over time",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.5414738655090332,
+        "sim_con_problema": 0.6143662929534912,
+        "peso_arista": 0.8441598415374756,
+        "peso_acumulado": 0.8441598415374756,
+        "premise_id": "N2",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_9",
+            "texto": "NeurotypicalCognition's sensory threshold for the buzzing adjusts upward",
+            "nivel": 2,
+            "es_hoja": true,
+            "sim_con_raiz": 0.4993160665035248,
+            "sim_con_problema": 0.723312497138977,
+            "peso_arista": 0.7773714363574982,
+            "peso_acumulado": 1.6215312778949738,
+            "premise_id": "N2",
+            "hijos": []
+          },
+          {
+            "id": "NeurotypicalCognition_2_11",
+            "texto": "NeurotypicalCognition no longer redirects attention toward the buzzing",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.509989857673645,
+            "sim_con_problema": 0.5832152366638184,
+            "peso_arista": 0.9067949056625366,
+            "peso_acumulado": 1.7509547472000122,
+            "premise_id": "N11",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_22",
+                "texto": "NeurotypicalCognition amplifies task-relevant signals over the buzzing",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5725775361061096,
+                "sim_con_problema": 0.6533317565917969,
+                "peso_arista": 0.7740907073020935,
+                "peso_acumulado": 2.5250454545021057,
+                "premise_id": "N1",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_41",
+                    "texto": "NeurotypicalCognition sustains normal task performance despite the buzzing",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5275824069976807,
+                    "sim_con_problema": 0.5688576698303223,
+                    "peso_arista": 0.9035599231719971,
+                    "peso_acumulado": 3.428605377674103,
+                    "premise_id": "N1",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_94",
+                        "texto": "NeurotypicalCognition continues integrating verbal, visual, and social information normally",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.750656008720398,
+                        "sim_con_problema": 0.53755122423172,
+                        "peso_arista": 0.7117927670478821,
+                        "peso_acumulado": 4.140398144721985,
+                        "premise_id": "N4",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_160",
+                            "texto": "NeurotypicalCognition generalizes classroom rules despite the lighting change",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5983062386512756,
+                            "sim_con_problema": 0.4834214746952057,
+                            "peso_arista": 0.9182722866535187,
+                            "peso_acumulado": 5.0586704313755035,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_95",
+                        "texto": "NeurotypicalCognition generalizes learned task rules despite the lighting change",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6427417993545532,
+                        "sim_con_problema": 0.545282781124115,
+                        "peso_arista": 0.8119754195213318,
+                        "peso_acumulado": 4.240580797195435,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_188",
+                            "texto": "NeurotypicalCognition applies task rules without explicit re-anchoring",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7103095054626465,
+                            "sim_con_problema": 0.5001729130744934,
+                            "peso_arista": 0.7895175814628601,
+                            "peso_acumulado": 5.030098378658295,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_189",
+                            "texto": "NeurotypicalCognition treats the lighting change as resolved",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.4456745982170105,
+                            "sim_con_problema": 0.4931894838809967,
+                            "peso_arista": 1.0611359179019928,
+                            "peso_acumulado": 5.301716715097427,
+                            "premise_id": "N20",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_96",
+                        "texto": "NeurotypicalCognition consolidates learning as the environment stabilizes",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.713437557220459,
+                        "sim_con_problema": 0.5222195982933044,
+                        "peso_arista": 0.7643428444862366,
+                        "peso_acumulado": 4.192948222160339,
+                        "premise_id": "N7",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_179",
+                            "texto": "NeurotypicalCognition generalizes the new lighting condition across future contexts",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5401698350906372,
+                            "sim_con_problema": 0.5177485346794128,
+                            "peso_arista": 0.94208163022995,
+                            "peso_acumulado": 5.135029852390289,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_180",
+                            "texto": "NeurotypicalCognition encodes the lighting change as episodic memory",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5021108388900757,
+                            "sim_con_problema": 0.5743532180786133,
+                            "peso_arista": 0.923535943031311,
+                            "peso_acumulado": 5.11648416519165,
+                            "premise_id": "N8",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_181",
+                            "texto": "NeurotypicalCognition reduces its learning rate as volatility decreases",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.48371073603630066,
+                            "sim_con_problema": 0.41127365827560425,
+                            "peso_arista": 1.105015605688095,
+                            "peso_acumulado": 5.2979638278484344,
+                            "premise_id": "N7",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_42",
+                    "texto": "NeurotypicalCognition maintains attention on task-relevant demands",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6424763202667236,
+                    "sim_con_problema": 0.5500059127807617,
+                    "peso_arista": 0.8075177669525146,
+                    "peso_acumulado": 3.3325632214546204,
+                    "premise_id": "N11",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_83",
+                        "texto": "NeurotypicalCognition extracts global meaning from task details",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6891788244247437,
+                        "sim_con_problema": 0.48455074429512024,
+                        "peso_arista": 0.8262704312801361,
+                        "peso_acumulado": 4.1588336527347565,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_161",
+                            "texto": "NeurotypicalCognition interprets task details through overall context",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7405151128768921,
+                            "sim_con_problema": 0.5752902030944824,
+                            "peso_arista": 0.6841946840286255,
+                            "peso_acumulado": 4.843028336763382,
+                            "premise_id": "N6",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_259",
+                                "texto": "NeurotypicalCognition integrates verbal and social cues into task comprehension",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7593622803688049,
+                                "sim_con_problema": 0.5875378847122192,
+                                "peso_arista": 0.6530998349189758,
+                                "peso_acumulado": 5.496128171682358,
+                                "premise_id": "N4",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_162",
+                            "texto": "NeurotypicalCognition integrates verbal and contextual information without effort",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7583497762680054,
+                            "sim_con_problema": 0.5485552549362183,
+                            "peso_arista": 0.6930949687957764,
+                            "peso_acumulado": 4.851928621530533,
+                            "premise_id": "N4",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_263",
+                                "texto": "NeurotypicalCognition decodes teacher's implied meaning without effort",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.637582004070282,
+                                "sim_con_problema": 0.4073832035064697,
+                                "peso_arista": 0.9550347924232483,
+                                "peso_acumulado": 5.806963413953781,
+                                "premise_id": "N17",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_264",
+                                "texto": "NeurotypicalCognition simultaneously integrates social cues from classroom",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7429492473602295,
+                                "sim_con_problema": 0.5173225998878479,
+                                "peso_arista": 0.7397281527519226,
+                                "peso_acumulado": 5.5916567742824554,
+                                "premise_id": "N4",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_163",
+                            "texto": "NeurotypicalCognition transfers task understanding to new contexts",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7636923789978027,
+                            "sim_con_problema": 0.5808597803115845,
+                            "peso_arista": 0.6554478406906128,
+                            "peso_acumulado": 4.814281493425369,
+                            "premise_id": "N22",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_256",
+                                "texto": "NeurotypicalCognition applies the learned rule without re-anchoring",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7184271812438965,
+                                "sim_con_problema": 0.4766061007976532,
+                                "peso_arista": 0.8049667179584503,
+                                "peso_acumulado": 5.61924821138382,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_258",
+                                "texto": "NeurotypicalCognition reinterprets new context using extracted meaning",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7051562070846558,
+                                "sim_con_problema": 0.4671083688735962,
+                                "peso_arista": 0.827735424041748,
+                                "peso_acumulado": 5.642016917467117,
+                                "premise_id": "N6",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_84",
+                        "texto": "NeurotypicalCognition applies prior learned rules to the task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7236341238021851,
+                        "sim_con_problema": 0.5077956318855286,
+                        "peso_arista": 0.7685702443122864,
+                        "peso_acumulado": 4.101133465766907,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_150",
+                            "texto": "NeurotypicalCognition transfers the rule despite the new lighting context",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6225342750549316,
+                            "sim_con_problema": 0.559139609336853,
+                            "peso_arista": 0.8183261156082153,
+                            "peso_acumulado": 4.919459581375122,
+                            "premise_id": "N22",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_267",
+                                "texto": "NeurotypicalCognition generalizes the rule to further task variations",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6735109686851501,
+                                "sim_con_problema": 0.5578932762145996,
+                                "peso_arista": 0.7685957551002502,
+                                "peso_acumulado": 5.688055336475372,
+                                "premise_id": "N22",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_268",
+                                "texto": "NeurotypicalCognition interprets the classroom context as unchanged overall",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6023508310317993,
+                                "sim_con_problema": 0.39780473709106445,
+                                "peso_arista": 0.9998444318771362,
+                                "peso_acumulado": 5.919304013252258,
+                                "premise_id": "N6",
+                                "hijos": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_152",
+                            "texto": "NeurotypicalCognition monitors feedback to confirm correct rule application",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6293540596961975,
+                            "sim_con_problema": 0.4393383860588074,
+                            "peso_arista": 0.9313075542449951,
+                            "peso_acumulado": 5.032441020011902,
+                            "premise_id": "N24",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_43",
+                    "texto": "NeurotypicalCognition extracts lesson meaning undisturbed by the noise",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6060611009597778,
+                    "sim_con_problema": 0.5800409913063049,
+                    "peso_arista": 0.8138979077339172,
+                    "peso_acumulado": 3.338943362236023,
+                    "premise_id": "N6",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_85",
+                        "texto": "NeurotypicalCognition integrates lesson content into coherent global meaning",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7131763696670532,
+                        "sim_con_problema": 0.40824389457702637,
+                        "peso_arista": 0.8785797357559204,
+                        "peso_acumulado": 4.217523097991943,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_184",
+                            "texto": "NeurotypicalCognition applies abstract reasoning to lesson content",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6418502926826477,
+                            "sim_con_problema": 0.42526036500930786,
+                            "peso_arista": 0.9328893423080444,
+                            "peso_acumulado": 5.150412440299988,
+                            "premise_id": "N5",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_86",
+                        "texto": "NeurotypicalCognition encodes the lesson as episodic and semantic memory",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6760178804397583,
+                        "sim_con_problema": 0.496142715215683,
+                        "peso_arista": 0.8278394043445587,
+                        "peso_acumulado": 4.166782766580582,
+                        "premise_id": "N8",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_167",
+                            "texto": "NeurotypicalCognition can retrieve the lesson without visual anchors",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6699303388595581,
+                            "sim_con_problema": 0.5317059755325317,
+                            "peso_arista": 0.7983636856079102,
+                            "peso_acumulado": 4.965146452188492,
+                            "premise_id": "N10",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_169",
+                            "texto": "NeurotypicalCognition retains the lesson with contextual narrative detail",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6834906339645386,
+                            "sim_con_problema": 0.44920310378074646,
+                            "peso_arista": 0.867306262254715,
+                            "peso_acumulado": 5.034089028835297,
+                            "premise_id": "N8",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_87",
+                        "texto": "NeurotypicalCognition transfers lesson content across future contexts",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.742882251739502,
+                        "sim_con_problema": 0.4614013433456421,
+                        "peso_arista": 0.795716404914856,
+                        "peso_acumulado": 4.134659767150879,
+                        "premise_id": "N22",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_153",
+                            "texto": "NeurotypicalCognition applies lesson rules without re-anchoring in new settings",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7305953502655029,
+                            "sim_con_problema": 0.4438098669052124,
+                            "peso_arista": 0.8255947828292847,
+                            "peso_acumulado": 4.960254549980164,
+                            "premise_id": "N22",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_154",
+                            "texto": "NeurotypicalCognition builds abstract reasoning from the concrete lesson",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6745196580886841,
+                            "sim_con_problema": 0.5043721199035645,
+                            "peso_arista": 0.8211082220077515,
+                            "peso_acumulado": 4.95576798915863,
+                            "premise_id": "N5",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_23",
+                "texto": "NeurotypicalCognition redirects attention toward classroom task demands",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5898479223251343,
+                "sim_con_problema": 0.5021535158157349,
+                "peso_arista": 0.9079985618591309,
+                "peso_acumulado": 2.658953309059143,
+                "premise_id": "N11",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_54",
+                    "texto": "NeurotypicalCognition integrates verbal and visual task information simultaneously",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.7089325189590454,
+                    "sim_con_problema": 0.6046838760375977,
+                    "peso_arista": 0.6863836050033569,
+                    "peso_acumulado": 3.3453369140625,
+                    "premise_id": "N4",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_89",
+                        "texto": "NeurotypicalCognition incorporates social and contextual cues automatically",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.8288688063621521,
+                        "sim_con_problema": 0.5752261877059937,
+                        "peso_arista": 0.5959050059318542,
+                        "peso_acumulado": 3.9412419199943542,
+                        "premise_id": "N4",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_90",
+                        "texto": "NeurotypicalCognition sustains distributed attention across task foci",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6289359331130981,
+                        "sim_con_problema": 0.5462114810943604,
+                        "peso_arista": 0.8248525857925415,
+                        "peso_acumulado": 4.1701894998550415,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_172",
+                            "texto": "NeurotypicalCognition supplements task feedback through self-monitoring and social inference",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7177468538284302,
+                            "sim_con_problema": 0.528862476348877,
+                            "peso_arista": 0.7533906698226929,
+                            "peso_acumulado": 4.923580169677734,
+                            "premise_id": "N24",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_270",
+                                "texto": "NeurotypicalCognition corrects behavior based on inferred errors",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6304246187210083,
+                                "sim_con_problema": 0.4511118233203888,
+                                "peso_arista": 0.9184635579586029,
+                                "peso_acumulado": 5.842043727636337,
+                                "premise_id": "N21",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_272",
+                                "texto": "NeurotypicalCognition generalizes corrected behavior across new contexts",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7275742292404175,
+                                "sim_con_problema": 0.5220640301704407,
+                                "peso_arista": 0.7503617405891418,
+                                "peso_acumulado": 5.673941910266876,
+                                "premise_id": "N22",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_55",
+                    "texto": "NeurotypicalCognition extracts overall meaning of the classroom activity",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6008128523826599,
+                    "sim_con_problema": 0.5159540772438049,
+                    "peso_arista": 0.8832330703735352,
+                    "peso_acumulado": 3.5421863794326782,
+                    "premise_id": "N6",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_97",
+                        "texto": "NeurotypicalCognition computes implicit behavioral expectations for the activity",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6417036056518555,
+                        "sim_con_problema": 0.5819123983383179,
+                        "peso_arista": 0.7763839960098267,
+                        "peso_acumulado": 4.318570375442505,
+                        "premise_id": "N23",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_198",
+                            "texto": "NeurotypicalCognition regulates behavior via anticipated social consequences",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7093603610992432,
+                            "sim_con_problema": 0.5248708724975586,
+                            "peso_arista": 0.7657687664031982,
+                            "peso_acumulado": 5.084339141845703,
+                            "premise_id": "N12",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_200",
+                            "texto": "NeurotypicalCognition infers expected behavior without explicit statement",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6463039517402649,
+                            "sim_con_problema": 0.4772031903266907,
+                            "peso_arista": 0.8764928579330444,
+                            "peso_acumulado": 5.195063233375549,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_98",
+                        "texto": "NeurotypicalCognition generates motivation to engage with the task",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5841312408447266,
+                        "sim_con_problema": 0.5864813327789307,
+                        "peso_arista": 0.8293874263763428,
+                        "peso_acumulado": 4.371573805809021,
+                        "premise_id": "N13",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_204",
+                            "texto": "NeurotypicalCognition sustains engagement despite lack of intrinsic interest",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5661845803260803,
+                            "sim_con_problema": 0.47405046224594116,
+                            "peso_arista": 0.9597649574279785,
+                            "peso_acumulado": 5.3313387632369995,
+                            "premise_id": "N13",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_205",
+                            "texto": "NeurotypicalCognition integrates classroom feedback while performing the task",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6254476308822632,
+                            "sim_con_problema": 0.5029937624931335,
+                            "peso_arista": 0.8715586066246033,
+                            "peso_acumulado": 5.243132412433624,
+                            "premise_id": "N24",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_206",
+                            "texto": "NeurotypicalCognition treats task errors as correctable information",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5937724113464355,
+                            "sim_con_problema": 0.4093283414840698,
+                            "peso_arista": 0.9968992471694946,
+                            "peso_acumulado": 5.368473052978516,
+                            "premise_id": "N21",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "NeurotypicalCognition_3_24",
+                "texto": "NeurotypicalCognition's sensory threshold stabilizes to the new lighting",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.55239337682724,
+                "sim_con_problema": 0.6682065725326538,
+                "peso_arista": 0.7794000506401062,
+                "peso_acumulado": 2.5303547978401184,
+                "premise_id": "N2",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_46",
+                    "texto": "NeurotypicalCognition consolidates the new sensory baseline",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6717068552970886,
+                    "sim_con_problema": 0.6931357383728027,
+                    "peso_arista": 0.6351574063301086,
+                    "peso_acumulado": 3.165512204170227,
+                    "premise_id": "N2",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_73",
+                        "texto": "NeurotypicalCognition amplifies only task-relevant classroom signals now",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6159068942070007,
+                        "sim_con_problema": 0.5535846948623657,
+                        "peso_arista": 0.8305084109306335,
+                        "peso_acumulado": 3.9960206151008606,
+                        "premise_id": "N1",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_146",
+                            "texto": "NeurotypicalCognition extracts lesson meaning from classroom details automatically",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6549562215805054,
+                            "sim_con_problema": 0.4008939564228058,
+                            "peso_arista": 0.9441498219966888,
+                            "peso_acumulado": 4.940170437097549,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_74",
+                        "texto": "NeurotypicalCognition redirects attention freely to new salient events",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6259251832962036,
+                        "sim_con_problema": 0.6367137432098389,
+                        "peso_arista": 0.7373610734939575,
+                        "peso_acumulado": 3.9028732776641846,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_128",
+                            "texto": "NeurotypicalCognition prioritizes new social or task signals",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.7390405535697937,
+                            "sim_con_problema": 0.5811617374420166,
+                            "peso_arista": 0.6797977089881897,
+                            "peso_acumulado": 4.582670986652374,
+                            "premise_id": "N11",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_245",
+                                "texto": "NeurotypicalCognition integrates new signals with ongoing task context",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.7245733141899109,
+                                "sim_con_problema": 0.6184805631637573,
+                                "peso_arista": 0.6569461226463318,
+                                "peso_acumulado": 5.239617109298706,
+                                "premise_id": "N4",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_246",
+                                "texto": "NeurotypicalCognition extracts overall classroom meaning from new signals",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.6565474271774292,
+                                "sim_con_problema": 0.5138706564903259,
+                                "peso_arista": 0.8295819163322449,
+                                "peso_acumulado": 5.412252902984619,
+                                "premise_id": "N6",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_75",
+                        "texto": "NeurotypicalCognition's learning rate settles under stable conditions",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.5521770715713501,
+                        "sim_con_problema": 0.3608555793762207,
+                        "peso_arista": 1.0869673490524292,
+                        "peso_acumulado": 4.252479553222656,
+                        "premise_id": "N7",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_194",
+                            "texto": "NeurotypicalCognition extracts classroom meaning without buzzing interference",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6268528699874878,
+                            "sim_con_problema": 0.5065962672233582,
+                            "peso_arista": 0.866550862789154,
+                            "peso_acumulado": 5.11903041601181,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_3",
+        "texto": "NeurotypicalCognition generates a small prediction error from the light change",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.4377943277359009,
+        "sim_con_problema": 0.4528833329677582,
+        "peso_arista": 1.109322339296341,
+        "peso_acumulado": 1.109322339296341,
+        "premise_id": "N20",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_15",
+            "texto": "NeurotypicalCognition resolves the prediction error through contextual updating",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.6487964391708374,
+            "sim_con_problema": 0.4176138639450073,
+            "peso_arista": 0.9335896968841553,
+            "peso_acumulado": 2.042912036180496,
+            "premise_id": "N20",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_37",
+                "texto": "NeurotypicalCognition treats the disruption as mild and transient",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.4843938946723938,
+                "sim_con_problema": 0.5659977197647095,
+                "peso_arista": 0.9496083855628967,
+                "peso_acumulado": 2.992520421743393,
+                "premise_id": "N19",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_72",
+                    "texto": "NeurotypicalCognition's discomfort resolves rapidly through reappraisal",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5178711414337158,
+                    "sim_con_problema": 0.5292134881019592,
+                    "peso_arista": 0.952915370464325,
+                    "peso_acumulado": 3.945435792207718,
+                    "premise_id": "N19",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_134",
+                        "texto": "NeurotypicalCognition resumes filtering the lights as background stimulus",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.554058313369751,
+                        "sim_con_problema": 0.5873218178749084,
+                        "peso_arista": 0.8586198687553406,
+                        "peso_acumulado": 4.8040556609630585,
+                        "premise_id": "N1",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_255",
+                            "texto": "NeurotypicalCognition redirects attention toward classroom instructional content",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6220752000808716,
+                            "sim_con_problema": 0.48960375785827637,
+                            "peso_arista": 0.888321042060852,
+                            "peso_acumulado": 5.6923767030239105,
+                            "premise_id": "N11",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_135",
+                        "texto": "NeurotypicalCognition treats the new lighting as an acceptable preference change",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5022367238998413,
+                        "sim_con_problema": 0.5009122490882874,
+                        "peso_arista": 0.9968510270118713,
+                        "peso_acumulado": 4.942286819219589,
+                        "premise_id": "N19",
+                        "hijos": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NeurotypicalCognition_1_4",
+        "texto": "NeurotypicalCognition rapidly updates its context to include new lighting",
+        "nivel": 1,
+        "es_hoja": false,
+        "sim_con_raiz": 0.6338218450546265,
+        "sim_con_problema": 0.5589450597763062,
+        "peso_arista": 0.8072330951690674,
+        "peso_acumulado": 0.8072330951690674,
+        "premise_id": "N20",
+        "hijos": [
+          {
+            "id": "NeurotypicalCognition_2_6",
+            "texto": "NeurotypicalCognition habituates to the buzzing sound over time",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.5512741208076477,
+            "sim_con_problema": 0.6426589488983154,
+            "peso_arista": 0.8060669302940369,
+            "peso_acumulado": 1.6133000254631042,
+            "premise_id": "N2",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_19",
+                "texto": "NeurotypicalCognition redirects attention back to task-relevant signals",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.6507347822189331,
+                "sim_con_problema": 0.6048493385314941,
+                "peso_arista": 0.7444158792495728,
+                "peso_acumulado": 2.357715904712677,
+                "premise_id": "N11",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_39",
+                    "texto": "NeurotypicalCognition integrates classroom information without explicit channel management",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.6806690692901611,
+                    "sim_con_problema": 0.40984952449798584,
+                    "peso_arista": 0.909481406211853,
+                    "peso_acumulado": 3.26719731092453,
+                    "premise_id": "N4",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_79",
+                        "texto": "NeurotypicalCognition extracts overall classroom meaning from combined details",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.651612401008606,
+                        "sim_con_problema": 0.4386783242225647,
+                        "peso_arista": 0.9097092747688293,
+                        "peso_acumulado": 4.176906585693359,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_173",
+                            "texto": "NeurotypicalCognition reinterprets buzzing lights within overall classroom context",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.575231671333313,
+                            "sim_con_problema": 0.5497769713401794,
+                            "peso_arista": 0.8749913573265076,
+                            "peso_acumulado": 5.051897943019867,
+                            "premise_id": "N6",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_174",
+                            "texto": "NeurotypicalCognition infers implicit behavioral expectations for the changed classroom",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6144341826438904,
+                            "sim_con_problema": 0.4584430456161499,
+                            "peso_arista": 0.9271227717399597,
+                            "peso_acumulado": 5.104029357433319,
+                            "premise_id": "N23",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_80",
+                        "texto": "NeurotypicalCognition distributes attention flexibly across classroom stimuli",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.6299076676368713,
+                        "sim_con_problema": 0.5930185317993164,
+                        "peso_arista": 0.7770738005638123,
+                        "peso_acumulado": 4.044271111488342,
+                        "premise_id": "N11",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_81",
+                        "texto": "NeurotypicalCognition supplements ambiguous classroom cues through social inference",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6801828145980835,
+                        "sim_con_problema": 0.4500967264175415,
+                        "peso_arista": 0.869720458984375,
+                        "peso_acumulado": 4.136917769908905,
+                        "premise_id": "N24",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_156",
+                            "texto": "NeurotypicalCognition detects norm violations through automatic social feedback",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.7145791053771973,
+                            "sim_con_problema": 0.4267725944519043,
+                            "peso_arista": 0.8586483001708984,
+                            "peso_acumulado": 4.9955660700798035,
+                            "premise_id": "N18",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_157",
+                            "texto": "NeurotypicalCognition extracts overall classroom meaning from local cues",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6733379364013672,
+                            "sim_con_problema": 0.4983885586261749,
+                            "peso_arista": 0.8282735049724579,
+                            "peso_acumulado": 4.965191274881363,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_40",
+                    "texto": "NeurotypicalCognition remains available for further salience-driven redirection",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5870558619499207,
+                    "sim_con_problema": 0.514611005783081,
+                    "peso_arista": 0.8983331322669983,
+                    "peso_acumulado": 3.2560490369796753,
+                    "premise_id": "N11",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_76",
+                        "texto": "NeurotypicalCognition shifts focus toward new social signals",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.7331498861312866,
+                        "sim_con_problema": 0.5443615317344666,
+                        "peso_arista": 0.7224885821342468,
+                        "peso_acumulado": 3.978537619113922,
+                        "premise_id": "N11",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_142",
+                            "texto": "NeurotypicalCognition automatically mirrors emotions observed in peers",
+                            "nivel": 6,
+                            "es_hoja": false,
+                            "sim_con_raiz": 0.6073553562164307,
+                            "sim_con_problema": 0.48036572337150574,
+                            "peso_arista": 0.9122789204120636,
+                            "peso_acumulado": 4.890816539525986,
+                            "premise_id": "N15",
+                            "hijos": [
+                              {
+                                "id": "NeurotypicalCognition_7_265",
+                                "texto": "NeurotypicalCognition generates matching emotional response near-instantly",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5694262981414795,
+                                "sim_con_problema": 0.5580625534057617,
+                                "peso_arista": 0.8725111484527588,
+                                "peso_acumulado": 5.7633276879787445,
+                                "premise_id": "N16",
+                                "hijos": []
+                              },
+                              {
+                                "id": "NeurotypicalCognition_7_266",
+                                "texto": "NeurotypicalCognition labels the mirrored emotional state internally",
+                                "nivel": 7,
+                                "es_hoja": true,
+                                "sim_con_raiz": 0.5773046016693115,
+                                "sim_con_problema": 0.4970206618309021,
+                                "peso_arista": 0.9256747364997864,
+                                "peso_acumulado": 5.816491276025772,
+                                "premise_id": "N14",
+                                "hijos": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_78",
+                        "texto": "NeurotypicalCognition interprets classroom details within overall lesson context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6353719830513,
+                        "sim_con_problema": 0.4359758198261261,
+                        "peso_arista": 0.9286521971225739,
+                        "peso_acumulado": 4.184701234102249,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_178",
+                            "texto": "NeurotypicalCognition redirects attention toward new task demands",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6398416757583618,
+                            "sim_con_problema": 0.5851415395736694,
+                            "peso_arista": 0.7750167846679688,
+                            "peso_acumulado": 4.959718018770218,
+                            "premise_id": "N11",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NeurotypicalCognition_2_8",
+            "texto": "NeurotypicalCognition experiences mild discomfort resolving rapidly",
+            "nivel": 2,
+            "es_hoja": false,
+            "sim_con_raiz": 0.43740659952163696,
+            "sim_con_problema": 0.5193586349487305,
+            "peso_arista": 1.0432347655296326,
+            "peso_acumulado": 1.8504678606987,
+            "premise_id": "N19",
+            "hijos": [
+              {
+                "id": "NeurotypicalCognition_3_30",
+                "texto": "NeurotypicalCognition consolidates once the lighting stabilizes",
+                "nivel": 3,
+                "es_hoja": false,
+                "sim_con_raiz": 0.5234005451202393,
+                "sim_con_problema": 0.5268943309783936,
+                "peso_arista": 0.9497051239013672,
+                "peso_acumulado": 2.800172984600067,
+                "premise_id": "N7",
+                "hijos": [
+                  {
+                    "id": "NeurotypicalCognition_4_63",
+                    "texto": "NeurotypicalCognition habituates fully to the buzzing sound",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5507535934448242,
+                    "sim_con_problema": 0.6263645887374878,
+                    "peso_arista": 0.822881817817688,
+                    "peso_acumulado": 3.623054802417755,
+                    "premise_id": "N2",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_113",
+                        "texto": "NeurotypicalCognition no longer amplifies the buzzing as task-relevant",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5585518479347229,
+                        "sim_con_problema": 0.5949816703796387,
+                        "peso_arista": 0.8464664816856384,
+                        "peso_acumulado": 4.4695212841033936,
+                        "premise_id": "N1",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_114",
+                        "texto": "NeurotypicalCognition's sensory threshold stabilizes at the new baseline",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6063847541809082,
+                        "sim_con_problema": 0.6702473163604736,
+                        "peso_arista": 0.7233679294586182,
+                        "peso_acumulado": 4.346422731876373,
+                        "premise_id": "N2",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_202",
+                            "texto": "NeurotypicalCognition no longer redirects attention to the lights",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.5100928544998169,
+                            "sim_con_problema": 0.5565505027770996,
+                            "peso_arista": 0.9333566427230835,
+                            "peso_acumulado": 5.279779374599457,
+                            "premise_id": "N11",
+                            "hijos": []
+                          },
+                          {
+                            "id": "NeurotypicalCognition_6_203",
+                            "texto": "NeurotypicalCognition resumes normal contextual interpretation of the classroom",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6622434258460999,
+                            "sim_con_problema": 0.4798455834388733,
+                            "peso_arista": 0.8579109907150269,
+                            "peso_acumulado": 5.2043337225914,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_115",
+                        "texto": "NeurotypicalCognition attends primarily to lesson content again",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6487115025520325,
+                        "sim_con_problema": 0.4674551486968994,
+                        "peso_arista": 0.8838333487510681,
+                        "peso_acumulado": 4.506888151168823,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_229",
+                            "texto": "NeurotypicalCognition extracts global lesson meaning from content details",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6869235634803772,
+                            "sim_con_problema": 0.4018266797065735,
+                            "peso_arista": 0.9112497568130493,
+                            "peso_acumulado": 5.418137907981873,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_64",
+                    "texto": "NeurotypicalCognition suppresses the fluorescent buzzing as background",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.43781375885009766,
+                    "sim_con_problema": 0.5776985883712769,
+                    "peso_arista": 0.9844876527786255,
+                    "peso_acumulado": 3.7846606373786926,
+                    "premise_id": "N1",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_122",
+                        "texto": "NeurotypicalCognition habituates further as buzzing persists",
+                        "nivel": 5,
+                        "es_hoja": true,
+                        "sim_con_raiz": 0.5538382530212402,
+                        "sim_con_problema": 0.5585489273071289,
+                        "peso_arista": 0.8876128196716309,
+                        "peso_acumulado": 4.6722734570503235,
+                        "premise_id": "N2",
+                        "hijos": []
+                      },
+                      {
+                        "id": "NeurotypicalCognition_5_124",
+                        "texto": "NeurotypicalCognition maintains lesson-focused interpretation despite ambient buzzing",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6538199186325073,
+                        "sim_con_problema": 0.5633265972137451,
+                        "peso_arista": 0.7828534841537476,
+                        "peso_acumulado": 4.56751412153244,
+                        "premise_id": "N6",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_237",
+                            "texto": "NeurotypicalCognition extracts lesson meaning despite buzzing detail",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.6524516344070435,
+                            "sim_con_problema": 0.5101252198219299,
+                            "peso_arista": 0.8374231457710266,
+                            "peso_acumulado": 5.404937267303467,
+                            "premise_id": "N6",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "NeurotypicalCognition_4_65",
+                    "texto": "NeurotypicalCognition's learning rate returns to baseline stability",
+                    "nivel": 4,
+                    "es_hoja": false,
+                    "sim_con_raiz": 0.5620900988578796,
+                    "sim_con_problema": 0.4120497703552246,
+                    "peso_arista": 1.0258601307868958,
+                    "peso_acumulado": 3.826033115386963,
+                    "premise_id": "N7",
+                    "hijos": [
+                      {
+                        "id": "NeurotypicalCognition_5_127",
+                        "texto": "NeurotypicalCognition encodes the new lighting as routine context",
+                        "nivel": 5,
+                        "es_hoja": false,
+                        "sim_con_raiz": 0.6258779168128967,
+                        "sim_con_problema": 0.5607559680938721,
+                        "peso_arista": 0.8133661150932312,
+                        "peso_acumulado": 4.639399230480194,
+                        "premise_id": "N8",
+                        "hijos": [
+                          {
+                            "id": "NeurotypicalCognition_6_249",
+                            "texto": "NeurotypicalCognition transfers classroom rules under new lighting",
+                            "nivel": 6,
+                            "es_hoja": true,
+                            "sim_con_raiz": 0.63379967212677,
+                            "sim_con_problema": 0.48529163002967834,
+                            "peso_arista": 0.8809086978435516,
+                            "peso_acumulado": 5.520307928323746,
+                            "premise_id": "N22",
+                            "hijos": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "total_nodos": 150,
+  "total_hojas": 69,
+  "profundidad_maxima": 7
+}

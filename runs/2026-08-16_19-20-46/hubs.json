@@ -1,0 +1,17 @@
+{
+  "version": "10.2",
+  "total": 0,
+  "by_type": {
+    "strict": 0,
+    "lax": 0,
+    "strict_unique": 0,
+    "lax_unique": 0
+  },
+  "deduplication": {
+    "method": "jaccard_on_clase_nodos",
+    "threshold": 0.5,
+    "n_strict_duplicates": 0
+  },
+  "strict_unique_indices": [],
+  "hubs": []
+}
