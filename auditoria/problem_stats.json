@@ -168,42 +168,144 @@
     "ax": "A1",
     "degree": 25,
     "n_actors": 3,
-    "text": "MixedASDwithDelay's learning becomes unavailable during this exposure"
+    "text": "MixedASDwithDelay's learning becomes unavailable during this exposure",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A1",
+      "text": "SocialBehavioralAutism loses access to cognitive processing capacity"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     },
+     {
+      "actor": "BR",
+      "ax": "A1",
+      "text": "BroadlyAffectedAutism cannot acquire new information in this state"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A1",
     "degree": 24,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism loses access to learning capacity"
+    "text": "SocialBehavioralAutism loses access to learning capacity",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A1",
+      "text": "MixedASDwithDelay cannot engage in learning tasks"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     },
+     {
+      "actor": "BR",
+      "ax": "A1",
+      "text": "BroadlyAffectedAutism cannot acquire new information in this state"
+     }
+    ]
    },
    {
     "actor": "MX",
     "ax": "A1",
     "degree": 23,
     "n_actors": 3,
-    "text": "MixedASDwithDelay's learning capacity becomes unavailable"
+    "text": "MixedASDwithDelay's learning capacity becomes unavailable",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A11",
+      "text": "SocialBehavioralAutism cannot sustain attention on instruction automatically"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     },
+     {
+      "actor": "BR",
+      "ax": "A1",
+      "text": "BroadlyAffectedAutism cannot acquire new information in this state"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A1",
     "degree": 22,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot access learning processes now"
+    "text": "SocialBehavioralAutism cannot access learning processes now",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A1",
+      "text": "MixedASDwithDelay's cognitive processing goes offline"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     },
+     {
+      "actor": "BR",
+      "ax": "A1",
+      "text": "BroadlyAffectedAutism cannot acquire new information in this state"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A11",
     "degree": 22,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot sustain attention on generic classroom content"
+    "text": "SocialBehavioralAutism cannot sustain attention on generic classroom content",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A1",
+      "text": "MixedASDwithDelay cannot engage in learning tasks"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     },
+     {
+      "actor": "BR",
+      "ax": "A1",
+      "text": "BroadlyAffectedAutism cannot engage in classroom learning tasks"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A11",
     "degree": 22,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism cannot sustain attention on the lesson"
+    "text": "BroadlyAffectedAutism cannot sustain attention on the lesson",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A1",
+      "text": "SocialBehavioralAutism cannot process new learning content now"
+     },
+     {
+      "actor": "MX",
+      "ax": "A1",
+      "text": "MixedASDwithDelay cannot engage in learning tasks"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning tasks"
+     }
+    ]
    }
   ]
  },
@@ -382,42 +484,144 @@
     "ax": "A24",
     "degree": 25,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot update its schedule without specific feedback"
+    "text": "SocialBehavioralAutism cannot update its schedule without specific feedback",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A22",
+      "text": "MixedASDwithDelay requires explicit instruction to re-anchor schedule"
+     },
+     {
+      "actor": "MO",
+      "ax": "A23",
+      "text": "ModerateAutism requires explicit statement of new schedule"
+     },
+     {
+      "actor": "BR",
+      "ax": "A23",
+      "text": "BroadlyAffectedAutism requires explicit statement of the new schedule"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A1",
     "degree": 25,
     "n_actors": 3,
-    "text": "ModerateAutism cannot engage in learning currently"
+    "text": "ModerateAutism cannot engage in learning currently",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A1",
+      "text": "SocialBehavioralAutism cannot sustain cognitive processing during disruption"
+     },
+     {
+      "actor": "MX",
+      "ax": "A1",
+      "text": "MixedASDwithDelay's cognitive processing becomes unavailable"
+     },
+     {
+      "actor": "BR",
+      "ax": "A11",
+      "text": "BroadlyAffectedAutism cannot sustain effortful attention on new tasks"
+     }
+    ]
    },
    {
     "actor": "MX",
     "ax": "A18",
     "degree": 24,
     "n_actors": 3,
-    "text": "MixedASDwithDelay cannot consciously retrieve pragmatic rules now"
+    "text": "MixedASDwithDelay cannot consciously retrieve pragmatic rules now",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A19",
+      "text": "SocialBehavioralAutism loses cognitive resources previously freed by routine"
+     },
+     {
+      "actor": "MO",
+      "ax": "A19",
+      "text": "ModerateAutism loses freed cognitive resources from routine"
+     },
+     {
+      "actor": "BR",
+      "ax": "A19",
+      "text": "BroadlyAffectedAutism loses cognitive resources previously freed by routine"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A24",
     "degree": 24,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism remains unable to incorporate the schedule change"
+    "text": "BroadlyAffectedAutism remains unable to incorporate the schedule change",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A23",
+      "text": "SocialBehavioralAutism cannot reliably apply unstated schedule expectations"
+     },
+     {
+      "actor": "MX",
+      "ax": "A22",
+      "text": "MixedASDwithDelay cannot apply prior schedule rule to new context"
+     },
+     {
+      "actor": "MO",
+      "ax": "A22",
+      "text": "ModerateAutism cannot generalize prior routine to new context"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A24",
     "degree": 22,
     "n_actors": 3,
-    "text": "ModerateAutism cannot update its schedule expectation without explicit feedback"
+    "text": "ModerateAutism cannot update its schedule expectation without explicit feedback",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A18",
+      "text": "SocialBehavioralAutism requires explicit retrieval of new schedule rules"
+     },
+     {
+      "actor": "MX",
+      "ax": "A22",
+      "text": "MixedASDwithDelay requires explicit instruction to re-anchor schedule"
+     },
+     {
+      "actor": "BR",
+      "ax": "A23",
+      "text": "BroadlyAffectedAutism requires explicit statement of the new schedule"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A1",
     "degree": 22,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism cannot engage in learning temporarily"
+    "text": "BroadlyAffectedAutism cannot engage in learning temporarily",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A19",
+      "text": "SocialBehavioralAutism cannot reallocate cognitive resources without a fixed routine"
+     },
+     {
+      "actor": "MX",
+      "ax": "A24",
+      "text": "MixedASDwithDelay cannot update behavior without proximate causal feedback"
+     },
+     {
+      "actor": "MO",
+      "ax": "A1",
+      "text": "ModerateAutism cannot engage in learning currently"
+     }
+    ]
    }
   ]
  },
@@ -596,42 +800,159 @@
     "ax": "A18",
     "degree": 45,
     "n_actors": 4,
-    "text": "ModerateAutism does not retrieve a pragmatic rule entry"
+    "text": "ModerateAutism does not retrieve a pragmatic rule entry",
+    "partners": [
+     {
+      "actor": "NT",
+      "ax": "N18",
+      "text": "NeurotypicalCognition continues participating without flagging a norm violation"
+     },
+     {
+      "actor": "SB",
+      "ax": "A18",
+      "text": "SocialBehavioralAutism cannot retrieve a matching pragmatic rule"
+     },
+     {
+      "actor": "MX",
+      "ax": "A18",
+      "text": "MixedASDwithDelay cannot retrieve an implicit social rule here"
+     },
+     {
+      "actor": "BR",
+      "ax": "A18",
+      "text": "BroadlyAffectedAutism fails to retrieve applicable pragmatic rule entry"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A22",
     "degree": 43,
     "n_actors": 4,
-    "text": "SocialBehavioralAutism fails to generalize prior sarcasm exposure here"
+    "text": "SocialBehavioralAutism fails to generalize prior sarcasm exposure here",
+    "partners": [
+     {
+      "actor": "NT",
+      "ax": "N18",
+      "text": "NeurotypicalCognition flags atypical sarcasm use as a norm violation"
+     },
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay requires extra inference to detect irony"
+     },
+     {
+      "actor": "MO",
+      "ax": "A23",
+      "text": "ModerateAutism fails to detect the unspoken ironic intent"
+     },
+     {
+      "actor": "BR",
+      "ax": "A18",
+      "text": "BroadlyAffectedAutism fails to retrieve applicable pragmatic rule entry"
+     }
+    ]
    },
    {
     "actor": "MX",
     "ax": "A22",
     "degree": 41,
     "n_actors": 3,
-    "text": "MixedASDwithDelay cannot generalize this literal reading to future sarcasm"
+    "text": "MixedASDwithDelay cannot generalize this literal reading to future sarcasm",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A16",
+      "text": "SocialBehavioralAutism's recognition of the sarcasm may occur later"
+     },
+     {
+      "actor": "MO",
+      "ax": "A18",
+      "text": "ModerateAutism cannot retrieve a matching pragmatic rule automatically"
+     },
+     {
+      "actor": "BR",
+      "ax": "A17",
+      "text": "BroadlyAffectedAutism requires additional steps to detect sarcasm intended"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A18",
     "degree": 40,
     "n_actors": 3,
-    "text": "ModerateAutism does not retrieve a sarcasm-detection social rule"
+    "text": "ModerateAutism does not retrieve a sarcasm-detection social rule",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A23",
+      "text": "SocialBehavioralAutism fails to detect the unspoken sarcastic intent"
+     },
+     {
+      "actor": "MX",
+      "ax": "A23",
+      "text": "MixedASDwithDelay fails to detect the unspoken sarcastic intent"
+     },
+     {
+      "actor": "BR",
+      "ax": "A18",
+      "text": "BroadlyAffectedAutism fails to retrieve applicable pragmatic rule entry"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A22",
     "degree": 37,
     "n_actors": 4,
-    "text": "BroadlyAffectedAutism does not generalize this correction to future sarcasm"
+    "text": "BroadlyAffectedAutism does not generalize this correction to future sarcasm",
+    "partners": [
+     {
+      "actor": "NT",
+      "ax": "N4",
+      "text": "NeurotypicalCognition integrates the sarcasm with ongoing social context"
+     },
+     {
+      "actor": "SB",
+      "ax": "A16",
+      "text": "SocialBehavioralAutism's recognition of the sarcasm may occur later"
+     },
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay does not automatically detect sarcastic intent"
+     },
+     {
+      "actor": "MO",
+      "ax": "A17",
+      "text": "ModerateAutism does not flag the statement as ironic"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A23",
     "degree": 36,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism cannot reliably apply the unspoken sarcastic norm"
+    "text": "BroadlyAffectedAutism cannot reliably apply the unspoken sarcastic norm",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A23",
+      "text": "SocialBehavioralAutism fails to detect the unspoken sarcastic intent"
+     },
+     {
+      "actor": "MX",
+      "ax": "A23",
+      "text": "MixedASDwithDelay fails to detect the unspoken sarcastic intent"
+     },
+     {
+      "actor": "MO",
+      "ax": "A23",
+      "text": "ModerateAutism fails to detect the unspoken ironic intent"
+     }
+    ]
    }
   ]
  },
@@ -804,42 +1125,144 @@
     "ax": "A17",
     "degree": 43,
     "n_actors": 3,
-    "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+    "text": "MixedASDwithDelay does not automatically decode mockery as ridicule",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A15",
+      "text": "SocialBehavioralAutism requires inferential analysis to interpret the mockery"
+     },
+     {
+      "actor": "MO",
+      "ax": "A23",
+      "text": "ModerateAutism cannot detect the unspoken insult convention"
+     },
+     {
+      "actor": "BR",
+      "ax": "A14",
+      "text": "BroadlyAffectedAutism cannot label the emotion when it surfaces"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A18",
     "degree": 42,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot automatically detect the implicit social insult"
+    "text": "SocialBehavioralAutism cannot automatically detect the implicit social insult",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+     },
+     {
+      "actor": "MO",
+      "ax": "A17",
+      "text": "ModerateAutism does not automatically decode the mockery's intent"
+     },
+     {
+      "actor": "BR",
+      "ax": "A17",
+      "text": "BroadlyAffectedAutism does not automatically decode the mocking's ironic intent"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A21",
     "degree": 40,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism fails to extract learning from the mocking incident"
+    "text": "SocialBehavioralAutism fails to extract learning from the mocking incident",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A21",
+      "text": "MixedASDwithDelay cannot process the mockery as learning information"
+     },
+     {
+      "actor": "MO",
+      "ax": "A17",
+      "text": "ModerateAutism does not automatically decode the mockery's intent"
+     },
+     {
+      "actor": "BR",
+      "ax": "A24",
+      "text": "BroadlyAffectedAutism fails to link mockery to its cause"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A18",
     "degree": 40,
     "n_actors": 3,
-    "text": "ModerateAutism cannot automatically infer social intent behind mockery"
+    "text": "ModerateAutism cannot automatically infer social intent behind mockery",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A18",
+      "text": "SocialBehavioralAutism cannot automatically detect the implicit social insult"
+     },
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+     },
+     {
+      "actor": "BR",
+      "ax": "A24",
+      "text": "BroadlyAffectedAutism fails to link mockery to its cause"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A23",
     "degree": 40,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism cannot apply the implicit social insult meaning"
+    "text": "BroadlyAffectedAutism cannot apply the implicit social insult meaning",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A17",
+      "text": "SocialBehavioralAutism does not automatically detect the mocking intent"
+     },
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+     },
+     {
+      "actor": "MO",
+      "ax": "A17",
+      "text": "ModerateAutism does not automatically decode the mockery's intent"
+     }
+    ]
    },
    {
     "actor": "BR",
     "ax": "A23",
     "degree": 39,
     "n_actors": 3,
-    "text": "BroadlyAffectedAutism cannot apply an implicit social convention here"
+    "text": "BroadlyAffectedAutism cannot apply an implicit social convention here",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A18",
+      "text": "SocialBehavioralAutism requires explicit rule retrieval to respond socially"
+     },
+     {
+      "actor": "MX",
+      "ax": "A17",
+      "text": "MixedASDwithDelay does not automatically decode mockery as ridicule"
+     },
+     {
+      "actor": "MO",
+      "ax": "A18",
+      "text": "ModerateAutism cannot infer the implicit social rule violated"
+     }
+    ]
    }
   ]
  },
@@ -1012,42 +1435,144 @@
     "ax": "A19",
     "degree": 21,
     "n_actors": 3,
-    "text": "MixedASDwithDelay cannot offload cognitive resources without established routine"
+    "text": "MixedASDwithDelay cannot offload cognitive resources without established routine",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A23",
+      "text": "SocialBehavioralAutism fails to redirect without explicit stated instruction"
+     },
+     {
+      "actor": "MO",
+      "ax": "A19",
+      "text": "Lack of a routine blocks automatic reallocation of attention"
+     },
+     {
+      "actor": "BR",
+      "ax": "A19",
+      "text": "BroadlyAffectedAutism lacks routine to reallocate cognitive resources"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A24",
     "degree": 21,
     "n_actors": 3,
-    "text": "ModerateAutism fails to shift attention without observable feedback"
+    "text": "ModerateAutism fails to shift attention without observable feedback",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A24",
+      "text": "SocialBehavioralAutism needs explicit proximate cues to complete redirect"
+     },
+     {
+      "actor": "MX",
+      "ax": "A22",
+      "text": "MixedASDwithDelay needs explicit instruction to re-anchor focus rules"
+     },
+     {
+      "actor": "BR",
+      "ax": "A24",
+      "text": "BroadlyAffectedAutism fails to update without immediate specific feedback"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A11",
     "degree": 19,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot maintain attention automatically on the task"
+    "text": "SocialBehavioralAutism cannot maintain attention automatically on the task",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A19",
+      "text": "MixedASDwithDelay loses routine-based cognitive resource savings"
+     },
+     {
+      "actor": "MO",
+      "ax": "A19",
+      "text": "ModerateAutism loses the cognitive efficiency of established routine"
+     },
+     {
+      "actor": "BR",
+      "ax": "A19",
+      "text": "BroadlyAffectedAutism loses cognitive resources allocated by prior routine"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A18",
     "degree": 19,
     "n_actors": 3,
-    "text": "ModerateAutism cannot infer redirection from unspoken expectations"
+    "text": "ModerateAutism cannot infer redirection from unspoken expectations",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A18",
+      "text": "SocialBehavioralAutism fails to retrieve applicable social rules"
+     },
+     {
+      "actor": "MX",
+      "ax": "A19",
+      "text": "MixedASDwithDelay cannot offload cognitive resources without established routine"
+     },
+     {
+      "actor": "BR",
+      "ax": "A23",
+      "text": "BroadlyAffectedAutism ignores implicit or unstated redirection cues"
+     }
+    ]
    },
    {
     "actor": "SB",
     "ax": "A11",
     "degree": 18,
     "n_actors": 3,
-    "text": "SocialBehavioralAutism cannot sustain attention on group task automatically"
+    "text": "SocialBehavioralAutism cannot sustain attention on group task automatically",
+    "partners": [
+     {
+      "actor": "MX",
+      "ax": "A19",
+      "text": "MixedASDwithDelay cannot free cognitive resources for the group task"
+     },
+     {
+      "actor": "MO",
+      "ax": "A5",
+      "text": "ModerateAutism cannot automatically integrate the detail into the group task"
+     },
+     {
+      "actor": "BR",
+      "ax": "A11",
+      "text": "BroadlyAffectedAutism cannot sustain attention on the group task automatically"
+     }
+    ]
    },
    {
     "actor": "MO",
     "ax": "A22",
     "degree": 18,
     "n_actors": 3,
-    "text": "ModerateAutism cannot transfer attention rules to this new context"
+    "text": "ModerateAutism cannot transfer attention rules to this new context",
+    "partners": [
+     {
+      "actor": "SB",
+      "ax": "A19",
+      "text": "SocialBehavioralAutism loses cognitive resources allocated by prior routine"
+     },
+     {
+      "actor": "MX",
+      "ax": "A22",
+      "text": "MixedASDwithDelay cannot transfer focus rules to the new task"
+     },
+     {
+      "actor": "BR",
+      "ax": "A19",
+      "text": "BroadlyAffectedAutism loses cognitive resources allocated by prior routine"
+     }
+    ]
    }
   ]
  }
