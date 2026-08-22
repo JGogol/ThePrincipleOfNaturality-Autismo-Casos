@@ -84,13 +84,21 @@ docs/index.html               Visualización interactiva (GitHub Pages).
 - **HUB estricto (transitividad completa): 0/5** — la convergencia nunca cierra del todo con el neurotípico.
 - **Grounding 100% limpio**: cada actor infirió solo con sus axiomas (25 árboles, 0 violaciones). Ver `auditoria/CONTROL_CRUZADO.md`.
 
-## 7. Marco teórico y reconocimiento
+## 7. Límites de cómputo (honestidad)
+
+Cada actor se exploró hasta **150 nodos** (inferencias): con 5 actores × 5 problemas, ≈3.750 nodos y ≈9.100 convergencias certificadas. **Ese límite de 150 es una restricción de cómputo, no de diseño.** El ideal habría sido **≥500 nodos/actor**: mayor profundidad de exploración aumenta la probabilidad de detectar convergencias adicionales, **HUBs estrictos (transitividad global)** y más riqueza de datos.
+
+Las 5 corridas sumaron **≈39 horas** (≈8 h por problema; Burla, 11,8 h) en un **i7 de 12ª generación con 16 GB de RAM, sin GPU**.
+
+**Implicación honesta:** el **HUB estricto = 0/5** significa que no se alcanzó transitividad completa **dentro de este presupuesto** — no que sea imposible; con más cómputo podría aparecer. Lo reportado es un **piso, no un techo**. En cambio, el aislamiento del neurotípico (20–42×, **p<0.001**) es robusto: una tendencia fuerte que sobrevive al test de azar.
+
+## 8. Marco teórico y reconocimiento
 
 - Principio de la Naturalidad, Parte I — «Constructing Certified Convergence»: https://zenodo.org/records/20670259
 - Principio de la Naturalidad, Parte II — «Certified Convergence Spaces»: https://zenodo.org/records/21904325
 - 2º Premio, **GCSP Prize for Transformative Futures in Peace and Security 2026** (Geneva Centre for Security Policy).
 
-## 8. Licencia
+## 9. Licencia
 
 Datos publicados bajo **Creative Commons Attribution 4.0 (CC BY 4.0)** — uso y verificación libres con atribución.
 Autor: **Ing. E. Javier Gogol Merletti** · ORCID 0009-0004-4294-4816.
